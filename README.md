@@ -15,8 +15,18 @@ In recent years, Large Vision-Language Models have made significant advancements
 ## 💥 News
 - **[2024.7.28]** Our project homepage can be accessed at https://face-human-bench.github.io.
 
+## Scores
+The scores of the partial model on 10 capabilities：
 
+<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/ability.jpg" alt="Image" width="500">
 
+The scores of the partial model on sub-capabilities for face understanding：
+
+<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/face.jpg" alt="Image" width="500">
+
+The scores of the partial model on sub-capabilities for human understanding：
+
+<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/human.jpg" alt="Image" width="500">
 
 ## Citation
 

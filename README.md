@@ -28,6 +28,8 @@ The scores of the partial model on sub-capabilities for human understanding：
 
 <img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/human.jpg" alt="Image" width="500">
 
+More results will be provided in our paper, which will be made public soon.
+
 ## Citation
 
 If you find **Face-Human-Bench** useful for your research and applications, please kindly cite using this BibTeX:

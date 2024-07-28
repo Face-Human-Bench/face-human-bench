@@ -1,16 +1,33 @@
-## Hi there 👋
+# Face-Human-Bench: A Comprehensive Face and Human Understanding Benchmark for Large Visual Language Models
 
-<!--
-**Face-Human-Bench/face-human-bench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+If you find **Face-Human-Bench** useful for your research and applications, please kindly cite using this BibTeX:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```latex
+@misc{2024face-human-bench,
+    title={Face-Human-Bench: A Comprehensive Face and Human Understanding Benchmark for Large Visual Language Models},
+    author={*Qin, Lixiong and *Ou, Shilong and Liu, Yuchen and Song, Xiaoshuai and Ma, Changlian and Xu, Weiran},
+    publisher = {GitHub},
+    howpublished= "https://github.com/Face-Human-Bench/face-human-bench/",
+    year={2024}
+}
+```
+
+## 📖 Introduction
+
+In recent years, Large Vision-Language Models have made significant advancements, demonstrating robust perception and reasoning capabilities concerning visual information. We would like to know whether LVLMs have a sufficient understanding of faces and human bodies. To this end, we have developed the Face-Human-Bench, which encompasses evaluations across ten distinct capabilities: Facial Attribute Recognition, Age Estimation, Facial Expression Recognition, Face Attack Detection, Face Recognition, Human Attribute Recognition, Action Recognition, Spatial Relation Understanding, Social Relation Understanding, and Person Re-Identification. Some of these capabilities can be further subdivided into multiple sub-capabilities, as illustrated in the figure below.
+
+
+## 💥 News
+- **[2024.7.28]** Our project homepage can be accessed at https://face-human-bench.github.io.
+
+
+
+## 🤝 Contributors
+
+Here are the key contributors to this project:
+
+Lixiong Qin*, Shilong Ou*, Yuchen Liu, Xiaoshuai Song, Changlian Ma, Weiran Xu
+\* Equal contribution
+
+[PRIS-NLP Research Group](https://pris-nlp.github.io/) , Beijing University of Posts and Telecommunications.

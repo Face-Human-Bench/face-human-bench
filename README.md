@@ -14,7 +14,13 @@ Moreover, inspired by multi-modal agents, we also explore which abilities of MLL
 
 
 ## 💥 News
+
+
+- **[2025.1.7]** Our dataset is [accessible](https://github.com/Face-Human-Bench/face-human-bench/tree/main/data/Face-Human-Bench).
+- **[2024.1.2]** Our paper is accessible at https://arxiv.org/abs/2501.01243.
 - **[2024.7.28]** Our project homepage can be accessed at https://face-human-bench.github.io.
+
+
 
 ## Scores
 Leaderboard of MLLMs on Face-Human-Bench(EN)：

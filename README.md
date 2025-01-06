@@ -17,19 +17,15 @@ Moreover, inspired by multi-modal agents, we also explore which abilities of MLL
 - **[2024.7.28]** Our project homepage can be accessed at https://face-human-bench.github.io.
 
 ## Scores
-The scores of the partial model on 10 capabilities：
+Leaderboard of MLLMs on Face-Human-Bench(EN)：
 
-<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/ability.jpg" alt="Image" width="500">
+<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/leaderboard.png" alt="Image" width="800">
 
-The scores of the partial model on sub-capabilities for face understanding：
+Comparison of different MLLMs on English and Chinese versions of the Face-Human-Bench：
 
-<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/face.jpg" alt="Image" width="500">
+<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/EN-CN.png" alt="Image" width="800">
 
-The scores of the partial model on sub-capabilities for human understanding：
-
-<img src="https://github.com/Face-Human-Bench/face-human-bench/blob/main/pictures/human.jpg" alt="Image" width="500">
-
-More results will be provided in our paper, which will be made public soon.
+For more results, please refer to our website or paper.
 
 ## Citation
 

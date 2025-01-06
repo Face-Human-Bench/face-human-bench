@@ -1,0 +1,4804 @@
+{
+    "data": [
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "他短发,没有穿着牛仔裤,穿着没有标志的衣服。",
+                    "他戴着帽子,穿着有标志的衣服,但没有戴太阳镜。",
+                    "他穿着裙子和太阳镜,但没有戴口罩。",
+                    "他穿着有标志的衣服,留着短发,但也穿着裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0186.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_771.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            814.65,
+                            82.5,
+                            147.9,
+                            574.6
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确描述了图像中被红色框围起来的人?",
+                "options": [
+                    "她穿着没有标志的衣服,不是T恤,而是长袖。",
+                    "她留着短发,穿着长袖衬衫和裙子。",
+                    "她留着长发,穿着条纹和标志的衣服。",
+                    "她穿着一件短袖T恤,没穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0187.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_iceskiing_39_515.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            83.89076723016905,
+                            268.9830949284785,
+                            202.40312093628089,
+                            402.14304291287385
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框中显示的人?",
+                "options": [
+                    "她穿着休闲的长袖衬衫,没有戴太阳镜。",
+                    "她穿着牛仔裤,穿着口罩,打扮得很随意。",
+                    "她穿着有标志和条纹的衣服,两者都是短袖。",
+                    "她穿着一件有条纹的T恤,打扮得随意。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0188.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_298.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            901.3430127041742,
+                            105.00181488203266,
+                            119.86932849364791,
+                            388.41379310344826
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中被红框标记的人?",
+                "options": [
+                    "她穿着牛仔裤和长袖上衣,但没有戴口罩。",
+                    "她穿着正式,没有戴口罩,也没有穿长裤。",
+                    "她戴着口罩和太阳镜,但没有穿T恤衫。",
+                    "她留着短发,没有戴太阳镜或长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0189.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_123.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            185.24150596877868,
+                            299.95959595959596,
+                            376.1248852157943,
+                            286.7952249770432
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在图像中,哪个描述最符合红色框中的人?",
+                "options": [
+                    "她穿着长袖无条纹的衣服,没有戴太阳镜。",
+                    "她穿着条纹衣服和口罩,但没有穿短裤。",
+                    "她留着长发,穿着正式服装,戴着帽子。",
+                    "她穿着正式的短裤,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0191.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_489.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            553.2254758418741,
+                            293.4231332357247,
+                            199.5900439238653,
+                            269.7584187408492
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个最能描述红框中显示的人?",
+                "options": [
+                    "他没有戴口罩,穿着没有条纹的短袖衣服。",
+                    "他戴着口罩,穿着没有标志的衣服,但没有穿牛仔裤。",
+                    "他穿着T恤,但没有穿短裤或口罩。",
+                    "他留着短发,穿着牛仔裤和没有标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0192.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_885.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            656.9582577132486,
+                            221.15426497277676,
+                            113.36479128856624,
+                            246.24319419237747
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最准确地代表了照片中红色框中的人?",
+                "options": [
+                    "他留着短发,没有戴帽子,穿着有标志的衣服。",
+                    "他戴着帽子和牛仔裤,但没有戴太阳镜。",
+                    "他没有戴口罩,但穿着T恤,不穿短裤。",
+                    "他穿着长裤和长袖衬衫,而不是T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0193.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_507.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            634.3647798742139,
+                            272.1006289308176,
+                            82.11320754716982,
+                            320.4025157232705
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在图片中,红色框框出的人最符合哪个选项?",
+                "options": [
+                    "他没有戴帽子、口罩或裙子。",
+                    "他留着长发,穿着有标志的衣服,但没有穿条纹衣服。",
+                    "他没有戴帽子,穿着有条纹和牛仔裤的衣服。",
+                    "他留着长发,没有戴口罩,但穿着有标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0194.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_816.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            307.4572864321608,
+                            266.29145728643215,
+                            191.678391959799,
+                            414.2311557788945
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪一项最接近描述图片中红色框中的人?",
+                "options": [
+                    "他穿着正式,没有戴帽子也没有穿裙子。",
+                    "他戴着口罩和短袖衬衫,但没有穿T恤。",
+                    "他没有戴帽子,但穿着带有标志的衣服和裙子。",
+                    "他戴着帽子和长袖衬衫,但没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0195.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_56.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            339.095168374817,
+                            207.9311859443631,
+                            174.4407027818448,
+                            379.08491947291367
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中被红色框突出的人?",
+                "options": [
+                    "她留着短发,没有穿长裤。她的衣服上没有任何标志。",
+                    "她留着短发,穿着T恤正式打扮。",
+                    "她穿着长裤和太阳镜,衣服上没有标志。",
+                    "她留着长发,穿着条纹衣服,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0196.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/19--Couple/19_Couple_Couple_19_262.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            462.8261933904529,
+                            172.83965728274174,
+                            401.37209302325584,
+                            1211.7980416156672
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述最符合图片中红色框中的人?",
+                "options": [
+                    "她没有戴帽子,口罩,或穿条纹衣服。",
+                    "她穿着休闲装,长袖衬衫,衣服上没有标志。",
+                    "她穿着短袖衬衫、口罩和裙子。",
+                    "她留着短发,没有戴帽子,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0197.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_581.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            879.9337931034482,
+                            93.21931034482758,
+                            118.64275862068965,
+                            511.29379310344825
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框中的人?",
+                "options": [
+                    "他没有穿条纹衣服或帽子,也没有穿牛仔裤。",
+                    "他穿着随意,没有戴太阳镜,穿着牛仔裤。",
+                    "他留着短发,戴着口罩,穿着牛仔裤。",
+                    "他穿着T恤和帽子,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0198.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_148.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            809.6088154269972,
+                            215.33149678604224,
+                            126.00183654729109,
+                            322.5270890725436
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能代表图片中红色框中的人?",
+                "options": [
+                    "他没有戴帽子,穿着长袖衬衫,也没有戴口罩。",
+                    "他戴着口罩,穿着有条纹的衣服,还穿着长裤。",
+                    "他穿着条纹衣服和太阳镜,但没有戴口罩。",
+                    "他没有穿T恤,但戴着帽子,穿着短袖。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0199.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_645.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            826.923276983095,
+                            182.42912873862159,
+                            82.5591677503251,
+                            386.16384915474646
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在图片中,哪个描述最适合红框中的这个人?",
+                "options": [
+                    "他穿着休闲服,戴着帽子,没有戴口罩。",
+                    "他穿着条纹衣服,着装休闲,穿长袖衬衫。",
+                    "他穿着条纹T恤,没有穿长裤。",
+                    "他穿着牛仔裤、条纹衣服和太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0201.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_830.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            371.590027700831,
+                            28.365650969529085,
+                            540.365650969529,
+                            680.775623268698
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色框中的人?",
+                "options": [
+                    "他没有戴太阳镜或口罩,但穿着短裤。",
+                    "他穿着正式,不戴太阳镜,头发很长。",
+                    "他穿着短裤,留着长发,戴着口罩。",
+                    "他穿着有标志的正装衣服,没有戴帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0202.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_630.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            715.4871794871794,
+                            326.89230769230767,
+                            82.70769230769231,
+                            224.4923076923077
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪种描述最符合图片中红色框中的人?",
+                "options": [
+                    "他穿着短袖衬衫,打扮休闲,没有戴口罩。",
+                    "他留着长发,穿着正式服装,衣服没有标志。",
+                    "他穿着裙子,戴着口罩,穿着没有标志的衣服。",
+                    "他留着长发,戴着太阳镜,没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0203.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/3--Riot/3_Riot_Riot_3_911.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            169.10526315789474,
+                            414.4736842105263,
+                            195.94736842105263,
+                            605.7368421052631
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最能描述图中红色框内的人?",
+                "options": [
+                    "他没有戴帽子或太阳镜,穿着没有标志的衣服。",
+                    "他留着长发,穿着T恤随意打扮。",
+                    "他正式穿着条纹衣服,没有戴帽子。",
+                    "他穿着短袖和有标志的衣服,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0204.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_45.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            474.6666666666667,
+                            45.86666666666667,
+                            375.46666666666664,
+                            580.2666666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中红色框中突出的个人?",
+                "options": [
+                    "她没有戴太阳镜或帽子,穿着没有标志的衣服。",
+                    "她穿着有标志的衣服,没有条纹,戴着口罩。",
+                    "她没有戴口罩,穿着长袖衬衫,没有穿T恤衫。",
+                    "她没有穿T恤,但穿着短裤,没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0205.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_537.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            139.2995658465991,
+                            13.337192474674383,
+                            518.6685962373372,
+                            945.4587554269175
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个最符合图片中红色框中显示的人?",
+                "options": [
+                    "他没有戴帽子,穿着长袖衣服,没有条纹。",
+                    "他戴着帽子和长袖衬衫,但没有穿T恤。",
+                    "他没有戴口罩或T恤,但穿着裙子。",
+                    "他穿着条纹衣服,戴着太阳镜,穿着休闲装。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0206.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_106.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            263.7169811320755,
+                            67.24258760107817,
+                            61.671159029649594,
+                            160.4043126684636
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中被红色框标记的人?",
+                "options": [
+                    "她穿着休闲装,衣服上没有条纹,并没有戴太阳镜。",
+                    "她穿着正式服装,戴着口罩,没有穿长裤。",
+                    "她没有穿T恤,但戴着帽子和长裤。",
+                    "她留着长发,穿着短裤,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0207.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_445.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            850.8695652173913,
+                            27.043478260869566,
+                            67.91304347826087,
+                            231.95652173913044
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最能描述图片中红色框中的人?",
+                "options": [
+                    "他没有戴口罩,穿着T恤和牛仔裤。",
+                    "他穿着正式,穿着裙子,但衣服没有条纹。",
+                    "他穿着长袖衬衫,没有戴帽子或短裤。",
+                    "他留着长发,没有穿T恤,穿着牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0208.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_724.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            3.754385964912281,
+                            377.87719298245617,
+                            56.20175438596491,
+                            138.4298245614035
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最接近图片中红色框中的人?",
+                "options": [
+                    "他穿着休闲的T恤和没有条纹的衣服。",
+                    "他穿着宽松的长裤和条纹衬衫。",
+                    "他正式打扮,穿着短袖衬衫,穿着没有标志的衣服。",
+                    "很抱歉,您提供的属性存在冲突。让我们尝试不同的属性组合,以获得更连贯的句子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0209.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_789.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            166.062424969988,
+                            446.5234093637455,
+                            225.10684273709484,
+                            861.6794717887155
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框中突出显示的人?",
+                "options": [
+                    "他没有戴太阳镜,穿着没有条纹或标志的衣服。",
+                    "他穿着正式,戴着帽子,穿着没有标志的衣服。",
+                    "他留着短发,穿着长袖衬衫,但不是穿短裤。",
+                    "他着正装,穿着没有标志的衣服和口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0210.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_220.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            721.5283018867924,
+                            118.67385444743935,
+                            139.3733153638814,
+                            368.8530997304582
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能刻画图片中红色框中的人?",
+                "options": [
+                    "他穿着没有条纹的长袖衣服,没有戴口罩。",
+                    "他穿着条纹衣服和口罩,但没有穿裙子。",
+                    "他穿着短裤,戴着口罩和太阳镜。",
+                    "他戴着口罩和太阳镜,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0211.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_282.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            866.8070175438596,
+                            78.59649122807016,
+                            154.94736842105263,
+                            517.6140350877192
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些中哪一个最能代表图片中红色框内的人?",
+                "options": [
+                    "她穿着短袖,没有戴口罩或帽子。",
+                    "她留着短发,穿着条纹衣服,但没有戴口罩。",
+                    "她留着短发,没有戴口罩,但穿着T恤。",
+                    "她留着短发,没有戴帽子,但穿着长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0212.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_611.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            880.0,
+                            229.33333333333334,
+                            105.6,
+                            190.93333333333334
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的个人?",
+                "options": [
+                    "他穿着没有标志或条纹的衣服,没有戴太阳镜。",
+                    "他穿着条纹衣服和牛仔裤,戴着口罩。",
+                    "他穿着正式服装和裙子,但没有戴口罩。",
+                    "他留着长发,穿着没有条纹的短袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0213.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_38.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            753.0146341463415,
+                            139.86341463414635,
+                            265.99024390243903,
+                            529.4829268292683
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确地描述了图片中被红色框框住的人?",
+                "options": [
+                    "她穿着休闲装,没有戴太阳镜,穿着没有标志的衣服。",
+                    "她穿着正式服装,没有戴帽子或长裤。",
+                    "她穿着正式服装,没有戴帽子,也没有穿牛仔裤。",
+                    "她穿着条纹T恤,没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0214.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_157.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            815.116564417178,
+                            471.16564417177915,
+                            75.38650306748467,
+                            138.2085889570552
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框中的人?",
+                "options": [
+                    "她穿着长袖衣服,没有标志的衣服,也没有穿裙子。",
+                    "她穿着长袖T恤和条纹衣服。",
+                    "她头发很长,穿着正式装扮的牛仔裤。",
+                    "她留着短发,戴着帽子和短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0215.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_60.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            600.18,
+                            306.8709090909091,
+                            70.66909090909091,
+                            184.86
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中被红色框标记的人?",
+                "options": [
+                    "她留着短发,穿着休闲服装,没有戴帽子。",
+                    "她穿着没有标志的短袖上衣和口罩。",
+                    "她有长发,穿着条纹衣服,但没有戴帽子。",
+                    "她穿着正式,戴着口罩,没有穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0216.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_29.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            121.6,
+                            232.53333333333333,
+                            55.46666666666667,
+                            320.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "他没有穿裙子,但穿着没有条纹并带有标志的衣服。",
+                    "他留着短发,穿着带有标志的衣服,长袖的。",
+                    "他穿着短裤、戴着帽子,穿着没有条纹的衣服。",
+                    "他穿着短袖T恤,戴着口罩以保护自己。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0217.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/18--Concerts/18_Concerts_Concerts_18_186.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            209.87148594377507,
+                            141.9718875502008,
+                            685.1686746987951,
+                            1320.9558232931727
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪种描述最符合图片中红框中的人?",
+                "options": [
+                    "她穿着没有标志的衣服和太阳镜,但没有穿短裤。",
+                    "她戴着口罩,穿着短袖衬衫,但没有穿牛仔裤。",
+                    "她留着长发,穿着短袖衬衫,没有戴太阳镜。",
+                    "她穿着有标志的衣服,没有条纹,还穿着裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0218.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_116.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            724.0053191489361,
+                            204.52127659574467,
+                            114.53191489361701,
+                            212.70212765957444
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个最能描述红色框中显示的人?",
+                "options": [
+                    "她没有戴口罩或帽子,但穿着裙子。",
+                    "她留着短发,没有戴帽子,戴着太阳镜。",
+                    "她有长发,穿着条纹长袖衬衫。",
+                    "她穿着有标志和条纹的衣服,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0219.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_579.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            234.48545454545456,
+                            123.59818181818181,
+                            635.8418181818182,
+                            531.6054545454546
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最准确地代表了照片中红色框中的人?",
+                "options": [
+                    "她没有戴帽子,穿着没有条纹的衣服,搭配裙子。",
+                    "她穿着一件有条纹的T恤和裙子。",
+                    "她穿着有标志的衣服,短袖,没有穿短裤。",
+                    "她戴着口罩,身穿条纹衣服和裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0220.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_839.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            317.6103896103896,
+                            197.50649350649348,
+                            232.38961038961037,
+                            322.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框标记的人?",
+                "options": [
+                    "他留着短发,穿着没有条纹或标志的衣服。",
+                    "他穿着休闲,戴着帽子,没有穿裙子。",
+                    "他戴着口罩,穿着长裤,长发自由飘逸。",
+                    "他留着长发,没有戴帽子或穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0221.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_1012.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            340.91554467564254,
+                            274.4871481028151,
+                            126.58996328029374,
+                            462.4920440636474
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个最接近描述图片中红色框中的人?",
+                "options": [
+                    "他留着短发,穿着休闲装,没有穿短裤。",
+                    "他没有戴帽子,但戴着口罩和短裤。",
+                    "他穿着休闲装,戴着太阳镜和帽子。",
+                    "他长发飘飘,穿着一套正式的长袖服装。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0222.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/19--Couple/19_Couple_Couple_19_656.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            478.93333333333334,
+                            21.333333333333332,
+                            275.2,
+                            771.2
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪种描述最符合照片中红色框中突出显示的人?",
+                "options": [
+                    "她留着长发,穿着没有标志的衣服,不选择穿短裤。",
+                    "她穿着长袖T恤和没有条纹的衣服。",
+                    "她穿着正式款式的T恤,没有任何标志。",
+                    "她穿着短袖T恤和短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0223.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_91.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            354.8514851485149,
+                            278.0876944837341,
+                            62.280056577086285,
+                            191.1852899575672
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪一个最能描述图片中红色方框中的人?",
+                "options": [
+                    "他没有戴口罩,穿着没有条纹的衣服,也没有穿裙子。",
+                    "他穿着条纹长袖衣服和太阳镜。",
+                    "他穿着休闲服,戴着太阳镜,戴着口罩。",
+                    "他穿着T恤和帽子,但没有穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0224.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_718.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            133.62273901808786,
+                            214.32558139534885,
+                            195.80361757105945,
+                            449.81912144702846
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框中的人?",
+                "options": [
+                    "他没有戴口罩、太阳镜或牛仔裤。",
+                    "他穿着T恤和帽子,但没有戴太阳镜。",
+                    "他戴着口罩,穿着短袖衬衫,没有戴太阳镜。",
+                    "他穿着休闲服装,戴着帽子和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0225.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_407.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            671.8257713248638,
+                            308.5009074410163,
+                            71.54990925589837,
+                            144.95825771324863
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能代表图片中红色框中的人?",
+                "options": [
+                    "她穿着有标志的衣服和短袖衬衫,但没有戴口罩。",
+                    "她没有穿T恤,但穿着裙子和口罩。",
+                    "她穿着一件没有条纹的长袖T恤。",
+                    "她留着短发,穿着短袖衬衫,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0226.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_452.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            494.0636942675159,
+                            389.7070063694268,
+                            357.0955414012739,
+                            290.2420382165605
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中红色框中的人?",
+                "options": [
+                    "他穿着休闲的长袖衫,穿着没有条纹的衣服。",
+                    "他穿着T恤衫正式打扮,但没有戴口罩。",
+                    "他戴着太阳镜,穿着没有标志的衣服,但没有戴帽子。",
+                    "他穿着长裤和有标志的衣服,但没有穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0227.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/57--Angler/57_Angler_peoplefishing_57_932.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            378.30127462340675,
+                            278.5816917728853,
+                            139.29084588644264,
+                            262.7531865585168
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述中哪一个最适合图片中红色框中的人?",
+                "options": [
+                    "她穿着长袖衬衫和裙子,但没有戴口罩。",
+                    "她留着长发,穿着牛仔裤,但没有戴口罩。",
+                    "她戴着帽子和太阳镜,穿着长袖上衣。",
+                    "她穿着短裤正式打扮,穿着没有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0228.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_369.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            149.6043557168784,
+                            329.8729582577132,
+                            80.84210526315789,
+                            212.7912885662432
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确地描述了图片中红色框中的人?",
+                "options": [
+                    "他留着短发,没有戴太阳镜或帽子。",
+                    "他留着长发,没有穿T恤,穿着长裤。",
+                    "他留着短发,穿着正式装,穿着有标志的衣服。",
+                    "他穿着牛仔裤和太阳镜,但没有穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0229.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_807.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            425.02112029384756,
+                            9.403122130394857,
+                            128.82277318640953,
+                            169.25619834710744
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述与图片中红色框中的人最符合?",
+                "options": [
+                    "他穿着有标志的衣服,但没有戴口罩或牛仔裤。",
+                    "他戴着太阳镜,戴着帽子,穿着长袖衬衫。",
+                    "他戴着口罩和有标志的衣服,但没有穿裙子。",
+                    "他穿着短裤,搭配一件没有标志的长袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0230.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_671.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            332.07235142118867,
+                            220.9405684754522,
+                            202.4186046511628,
+                            452.4651162790698
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中红色框中的人?",
+                "options": [
+                    "他留着短发,穿着短裤,还穿着有标志的衣服。",
+                    "他没有戴帽子,穿T恤或短裤。",
+                    "他没有戴口罩或T恤,但穿着牛仔裤。",
+                    "他穿着长袖衬衫,戴着太阳镜和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0232.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_100.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            320.9485791610284,
+                            74.21244925575101,
+                            342.31393775372123,
+                            580.2638700947226
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些中哪一项最适合图片中红色框中显示的人?",
+                "options": [
+                    "他没有戴口罩、帽子或裙子。",
+                    "他留着短发,穿着有条纹但没有任何标志的衣服。",
+                    "他穿着短袖裙子,衣服没有标志。",
+                    "他穿着一条长袖裙子和太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0233.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/7--Cheering/7_Cheering_Cheering_7_811.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            21.30374479889043,
+                            113.61997226074897,
+                            61.07073509015257,
+                            144.86546463245492
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪种描述最能代表照片中被红色框标记的人?",
+                "options": [
+                    "她穿着没有标志的衣服,短袖,不穿短裤。",
+                    "她留着短发,戴着帽子和短裤。",
+                    "她穿着一件没有条纹的T恤和一顶帽子。",
+                    "她穿着条纹长袖衣服,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0234.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_435.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            437.16353111432704,
+                            11.855282199710564,
+                            460.87409551374816,
+                            998.807525325615
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最能描述图片中红色框内的那个人?",
+                "options": [
+                    "他穿着休闲装,没有戴太阳镜,也没有穿裙子。",
+                    "他留着短发,穿着短袖衬衫和帽子。",
+                    "他穿着有标志的衣服,留着短发,没有穿长裤。",
+                    "他穿着没有标志的短袖衬衫和口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0235.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_937.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            279.5360678925035,
+                            110.07637906647808,
+                            108.62800565770863,
+                            244.77510608203679
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最接近照片中红色框中的人?",
+                "options": [
+                    "她留着长发,没有戴太阳镜或穿牛仔裤。",
+                    "她穿着T恤和短裤正式打扮。",
+                    "她穿着正式服装,戴着太阳镜,没有穿短裤。",
+                    "她穿着短袖衬衫和牛仔裤,打扮得很随意。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0236.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_708.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            384.02027027027026,
+                            264.5472972972973,
+                            329.40405405405403,
+                            708.3040540540541
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框标注的人?",
+                "options": [
+                    "他留着短发,没有穿T恤,穿着长袖衬衫。",
+                    "他戴着帽子,穿着T恤和短裤。",
+                    "他穿着短袖T恤和戴着帽子。",
+                    "他留着长发,穿着没有条纹的衣服,还戴着太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0237.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_910.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            299.3460144927536,
+                            78.97826086956522,
+                            74.67391304347827,
+                            224.02173913043478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "图片中红色框中的个人最符合哪种描述?",
+                "options": [
+                    "他没有穿T恤或口罩,并且他的衣服没有条纹。",
+                    "他留着长发,穿着没有条纹的衣服,还戴着太阳镜。",
+                    "他戴着口罩,并穿着短袖衬衫,没有戴太阳镜。",
+                    "他穿着裙子和没有条纹或标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0238.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_245.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            96.11413043478261,
+                            57.748188405797094,
+                            79.44021739130434,
+                            215.78442028985506
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些中哪个最能代表图片中红色框中的人?",
+                "options": [
+                    "她留着长发,没有戴太阳镜或穿长裤。",
+                    "她留着短发,穿着有标志的衣服,没有穿短裤。",
+                    "她穿着没有标志的衣服,戴着帽子和口罩。",
+                    "她戴着帽子,穿着有标志的衣服,搭配短袖。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0239.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_771.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            183.4021739130435,
+                            242.72282608695653,
+                            154.07608695652175,
+                            458.42391304347825
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "她打扮得很随意,没有戴口罩或穿长裤。",
+                    "她穿着有标志和条纹的衣服,同时戴着口罩。",
+                    "她穿着长袖T恤,没有戴口罩。",
+                    "她穿着条纹衣服,但没有任何标志,打扮得很随意。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0240.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_230.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            1.3403141361256545,
+                            112.58638743455498,
+                            170.21989528795814,
+                            512.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确地描述了图片中红色框中的人?",
+                "options": [
+                    "他没有戴口罩,帽子或T恤衫。",
+                    "他戴着口罩,穿着条纹衣服,但没有戴太阳镜。",
+                    "他穿着长裤,条纹衣服和太阳镜。",
+                    "他留着短发,戴着帽子和短袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0241.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_830.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            740.4002998500749,
+                            408.72113943028484,
+                            75.71814092953524,
+                            171.64917541229386
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "与图片中红色框中的人最匹配的选择是哪一个?",
+                "options": [
+                    "她没有穿T恤或牛仔裤,穿着没有条纹的衣服。",
+                    "她穿着休闲的T恤,没有穿裙子。",
+                    "她留着长发,穿着正式的牛仔裤。",
+                    "她穿着短裤,穿着条纹衣服,打扮得很随意。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0242.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/27--Spa/27_Spa_Spa_27_300.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            697.6824034334763,
+                            240.61802575107296,
+                            94.4892703862661,
+                            337.3047210300429
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "她穿着休闲装,没有戴帽子,穿着没有条纹的衣服。",
+                    "她穿着T恤和有标志的衣服,但没有穿裙子。",
+                    "她穿着T恤,戴着太阳镜,打扮随意。",
+                    "她穿着一件长袖T恤,穿着正式。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0244.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_112.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            74.59602649006622,
+                            232.83002207505518,
+                            99.46136865342163,
+                            351.5055187637969
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪一句最适合图片中红色框中的人?",
+                "options": [
+                    "他穿着有标志的衣服,但没有戴口罩或穿牛仔裤。",
+                    "他穿着条纹衣服,着装正式,没有戴帽子。",
+                    "他穿着长袖衬衫和口罩,但没有戴太阳镜。",
+                    "他戴着口罩,穿着条纹衣服,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0245.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_623.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            409.81600000000003,
+                            265.088,
+                            136.22400000000002,
+                            345.312
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个最能描述红框中的这个人?",
+                "options": [
+                    "他留着短发,穿着没有条纹但有标志的衣服。",
+                    "他穿着条纹长裤和太阳镜。",
+                    "他戴着太阳镜,但没有戴口罩或长裤。",
+                    "他穿着长裤和没有标志的衣服,但不是T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0246.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/7--Cheering/7_Cheering_Cheering_7_726.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            920.9268292682927,
+                            157.78048780487808,
+                            98.34146341463415,
+                            371.5121951219512
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框标记的这个人?",
+                "options": [
+                    "他打扮得很随意,没有戴太阳镜,也没有穿T恤。 ",
+                    "他留着长发,戴着帽子,但没有穿短裤。",
+                    "他留着长发,穿着印有标志的衣服和长裤。",
+                    "他戴着帽子和牛仔裤,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0248.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/51--Dresses/51_Dresses_wearingdress_51_1013.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            5.326397919375813,
+                            5.326397919375813,
+                            187.7555266579974,
+                            567.2613784135241
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "与照片中红色框突出显示的人的哪个描述最相符?",
+                "options": [
+                    "她穿着休闲,头发很长,没有戴口罩。",
+                    "她穿着牛仔裤,戴着口罩,打扮随意。",
+                    "她穿着条纹衣服,短袖,但没有穿短裤。",
+                    "她穿着随意,戴着口罩,没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0250.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_86.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            25.735449735449734,
+                            101.58730158730158,
+                            344.042328042328,
+                            488.97354497354496
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述最符合图片中红色框里的人?",
+                "options": [
+                    "她留着长发,穿着休闲服装,没有穿T恤。",
+                    "她穿着一件休闲的长袖T恤衫。",
+                    "她穿着条纹衣服和太阳镜,但没有戴帽子。",
+                    "她戴着帽子和牛仔裤,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0251.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_145.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            534.4980026631159,
+                            309.5179760319574,
+                            193.6191744340879,
+                            265.8854860186418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框内的个人?",
+                "options": [
+                    "他没有戴帽子,口罩,也没有穿牛仔裤。",
+                    "他穿着裙子和太阳镜,但没有戴帽子。",
+                    "他留着长发,穿着有标志的衣服,包括一件长袖衬衫。",
+                    "他戴着太阳镜,穿着条纹衣服,但没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0252.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/15--Stock_Market/15_Stock_Market_Stock_Market_15_68.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            916.1404421326398,
+                            344.8842652795839,
+                            106.52795838751626,
+                            230.3667100130039
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个陈述最能代表图片中红色框内的人?",
+                "options": [
+                    "他穿着休闲服装,没有条纹,也没有穿裙子。",
+                    "他戴着帽子、太阳镜和长袖衬衫。",
+                    "他没有戴帽子、口罩或T恤。",
+                    "他穿着正式,穿着带条纹的衣服和帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0253.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_285.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            543.3149847094801,
+                            294.3608562691131,
+                            104.90519877675841,
+                            195.71865443425077
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在照片中,哪个描述最符合红色框中的人?",
+                "options": [
+                    "他穿着休闲服装,没有穿T恤或口罩。",
+                    "他戴着帽子和T恤,但没有穿牛仔裤。",
+                    "他没有戴帽子,但戴着口罩和长袖衬衫。",
+                    "他穿着条纹和标志的衣服,并戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0254.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_542.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            183.7948717948718,
+                            463.425641025641,
+                            334.7692307692308,
+                            475.24102564102566
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述中哪一条最符合图片中红色框内的人?",
+                "options": [
+                    "她没有穿T恤,太阳镜或短裤。",
+                    "她穿着T恤和牛仔裤,但没有戴口罩。",
+                    "她没有戴帽子,但戴着口罩和短袖衬衫。",
+                    "她没有戴太阳镜,但是穿着T恤和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0255.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_18.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            870.1170212765958,
+                            65.32978723404256,
+                            150.54255319148936,
+                            586.0744680851063
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色框中的人?",
+                "options": [
+                    "她没有戴帽子,头发很长,穿着条纹衣服。",
+                    "她没有戴帽子或长裤,但戴着太阳镜。",
+                    "她穿着T恤,留着长发,穿着裙子。",
+                    "她留着短发,穿着休闲服装,没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0256.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_789.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            320.3333333333333,
+                            79.33333333333334,
+                            236.83333333333334,
+                            581.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最能描述图片中红色框中的人?",
+                "options": [
+                    "他穿着短袖T恤,没有穿牛仔裤。",
+                    "他戴着太阳镜,穿着没有标志的衣服,但没有穿裙子。",
+                    "他穿着有标志的正式服装,同时也戴着口罩。",
+                    "他留着短发,穿着没有标志的正式服装。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0258.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_464.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            756.1846153846154,
+                            169.35384615384615,
+                            152.2871794871795,
+                            401.7230769230769
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个最适合图片中红色框中显示的人?",
+                "options": [
+                    "他留着短发,没有戴太阳镜或穿裙子。",
+                    "他有长发,穿着条纹衣服,但没有戴口罩。",
+                    "他穿着T恤衫,打扮休闲,没有戴太阳镜。",
+                    "他穿着T恤和没有条纹的衣服,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0260.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_129.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            573.6111111111112,
+                            130.36616161616163,
+                            207.5429292929293,
+                            548.5808080808081
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中被红框标记的人?",
+                "options": [
+                    "她没有戴太阳镜,穿着有标志的衣服,也没有戴口罩。",
+                    "她穿着正式服装,没有戴帽子,戴着口罩。",
+                    "她穿着正式的短裤,衣服没有条纹。",
+                    "她穿着正式的牛仔裤,没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0261.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_523.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            247.99612903225807,
+                            514.1187096774194,
+                            105.35225806451612,
+                            163.6374193548387
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪种描述最符合图片中红色框内的人?",
+                "options": [
+                    "她留着短发,穿着短袖衬衫,但没有穿短裤。",
+                    "她留着长发,穿着T恤,但没有穿牛仔裤。",
+                    "她没有戴口罩,但戴着帽子和有标志的衣服。",
+                    "她穿着牛仔裤和没有任何标志的长袖上衣。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0262.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_508.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            839.0284857571214,
+                            270.62668665667167,
+                            65.84707646176912,
+                            162.9985007496252
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中红色框中的人?",
+                "options": [
+                    "她没有穿T恤,穿着没有标志的衣服,也没有戴口罩。",
+                    "她戴着太阳镜和短裤,但没有戴帽子。",
+                    "她穿着裙子和长袖上衣,而不是T恤。",
+                    "她留着短发,没有穿T恤,但戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0263.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/22--Picnic/22_Picnic_Picnic_22_203.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            680.4677419354839,
+                            214.35483870967744,
+                            127.68817204301075,
+                            278.36021505376345
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项与图片中红色框突出显示的人最符合?",
+                "options": [
+                    "他穿着休闲,戴着帽子,穿着没有条纹的衣服。",
+                    "他戴着口罩,留着长发,穿着没有标志的衣服。",
+                    "他头发很长,穿着正式服装,戴着帽子。",
+                    "他穿着正式的长袖衬衫和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0264.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_113.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            180.26086956521738,
+                            296.92391304347825,
+                            71.21739130434783,
+                            217.6086956521739
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪种描述最能描述图片中红色框中的人?",
+                "options": [
+                    "他留着短发,穿得休闲,没有穿T恤。",
+                    "帽子下露出他短发,他穿着短袖衬衫。",
+                    "他穿着T恤衫正式打扮,但没有穿牛仔裤。",
+                    "他穿着短袖衬衫,打扮得很休闲,也戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0265.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/3--Riot/3_Riot_Riot_3_286.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            708.4109232769831,
+                            267.6514954486346,
+                            75.90117035110534,
+                            206.39791937581276
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些中哪个最能代表图片中红色框的那个人?",
+                "options": [
+                    "她留着长发,穿着一件没有标志的短袖衬衫。",
+                    "她穿着没有条纹的衣服,戴着口罩和帽子。",
+                    "她戴着口罩,穿着没有条纹的衣服和长裤。",
+                    "她穿着条纹T恤,没有穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0266.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_642.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            314.76737967914437,
+                            66.76737967914438,
+                            184.73262032085563,
+                            226.78877005347596
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "他穿着T恤,没有戴太阳镜或短裤。",
+                    "他留着短发,穿着短裤和没有标志的衣服。",
+                    "他有长发,穿着正式服装,没有穿裙子。",
+                    "他戴着口罩和太阳镜,穿着长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0267.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_130.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            72.69522643818848,
+                            338.40881272949815,
+                            83.97552019583843,
+                            214.32558139534882
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确地描述了图片中被红框围起来的人?",
+                "options": [
+                    "她没有戴帽子,穿着短袖,也没有穿T恤衫。",
+                    "她穿着便装,戴着帽子和裙子。",
+                    "她留着短发,戴着太阳镜,但没有戴口罩。",
+                    "她穿着条纹衣服,打扮随意,但没有穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0268.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_458.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            500.84936479128856,
+                            52.03629764065336,
+                            354.96188747731395,
+                            543.5934664246823
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框中显示的人?",
+                "options": [
+                    "他穿着T恤,没有戴帽子,头发很短。",
+                    "他穿着正式,留着短发,戴着太阳镜。",
+                    "他没有穿T恤,穿着长袖衣服,没有戴太阳镜。",
+                    "他留着长发,没有戴帽子,选择穿长袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0269.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_44.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            534.5893333333333,
+                            393.376,
+                            235.39333333333335,
+                            458.13866666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "“哪个描述最符合图片中红框标记的这个人?”",
+                "options": [
+                    "她没有戴太阳镜,穿着没有条纹的衣服,也没有穿裙子。",
+                    "她穿着长裤和没有条纹的衣服,但没有穿T恤。",
+                    "她戴着帽子,穿着有标志的衣服,但没有穿T恤。",
+                    "她没有戴帽子,但戴着太阳镜和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0270.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_485.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            432.4112607099143,
+                            26.32068543451652,
+                            208.05875152998775,
+                            620.4161566707465
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪项最能描述红框中显示的人?",
+                "options": [
+                    "她没有戴帽子,T恤或牛仔裤。",
+                    "她穿着T恤衫和短裤,穿着得体。",
+                    "她穿着一件没有任何标志的长袖T恤。",
+                    "她穿着正式服装,没有标志,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0273.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_102.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            335.682119205298,
+                            127.71743929359823,
+                            71.20529801324503,
+                            150.32229580573951
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个陈述最准确地描述照片中红色框内的人?",
+                "options": [
+                    "她穿着有标志的衣服,没有条纹,但没有穿长裤。",
+                    "她留着短发,穿着裙子搭配长袖上衣。",
+                    "她戴着帽子,穿着没有标志的衣服,也没有穿牛仔裤。",
+                    "她穿着长裤和带条纹的衣服,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0274.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_679.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            589.6189151599443,
+                            299.08205841446454,
+                            168.05563282336578,
+                            464.28929068150205
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框标记的人?",
+                "options": [
+                    "他没有戴口罩、帽子或太阳镜。",
+                    "他没有戴口罩,穿着没有标志的衣服,但没有穿长裤。",
+                    "他戴着帽子,穿着短袖裙子。",
+                    "他穿着T恤和牛仔裤,衣服上没有任何条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0275.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_268.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            697.1572327044025,
+                            260.8301886792453,
+                            148.125786163522,
+                            355.8238993710692
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中红色框突出显示的人?",
+                "options": [
+                    "她穿着没有条纹的衣服,没有戴太阳镜或口罩。",
+                    "她穿着T恤,没有戴太阳镜或牛仔裤。",
+                    "她戴着帽子,穿着有标志的衣服,但没有穿T恤。",
+                    "她穿着正式的短裤,穿着没有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0277.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_100.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            308.32802937576497,
+                            10.026927784577722,
+                            307.07466340269275,
+                            656.7637698898408
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述最能表达图片中红色方框内的人?",
+                "options": [
+                    "他没有戴帽子或长裤,衣服上没有标志。",
+                    "他穿着正式的长袖衬衫,没有戴太阳镜。",
+                    "他没有戴口罩,但戴着帽子和短裙。",
+                    "他穿着裙子,戴着口罩,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0278.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_332.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            759.9496855345913,
+                            336.5031446540881,
+                            83.72327044025158,
+                            185.15723270440253
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最适合图片中红色框内的个人?",
+                "options": [
+                    "他穿着长裤和长袖衬衫,没有戴太阳镜。",
+                    "他穿着正式,留着长发,穿着带条纹的衣服。",
+                    "他留短发,穿着短袖衬衫,戴着口罩。",
+                    "他穿着短袖T恤,没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0279.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/1--Handshaking/1_Handshaking_Handshaking_1_221.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            933.3333333333334,
+                            197.33333333333334,
+                            82.13333333333333,
+                            376.5333333333333
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中红色框中的个人?",
+                "options": [
+                    "他没有穿T恤或口罩,但穿着带有标志的衣服。",
+                    "他穿着正式的长裤,没有戴帽子。",
+                    "他穿着T恤和没有标志的衣服,但没有穿短裤。",
+                    "他穿着正式,穿着有标志的衣服,穿着长袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0281.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_631.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            410.4812834224599,
+                            744.4491978609626,
+                            119.88770053475936,
+                            374.7433155080214
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "这些描述中哪一个最符合图片中红色框中的人?",
+                "options": [
+                    "他没有戴口罩,穿着长袖衬衫和牛仔裤。",
+                    "他没有戴口罩,留着长发,但没有穿长裤。",
+                    "他穿着带条纹和标志的衣服,还戴着太阳镜。",
+                    "他留着短发,穿着T恤正式打扮。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0282.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/7--Cheering/7_Cheering_Cheering_7_859.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            553.8973647711512,
+                            100.8377253814147,
+                            82.374479889043,
+                            407.6116504854369
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确描述了图片中红色框中的人?",
+                "options": [
+                    "他穿着带有标志的休闲服装,穿着长裤。",
+                    "他穿着正式的长裤,也戴着口罩。",
+                    "他戴着太阳镜,留着短发,穿着没有标志的衣服。",
+                    "他没有戴口罩,穿着条纹衣服和短袖。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0283.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_181.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            232.5806451612903,
+                            304.4301075268817,
+                            61.827956989247305,
+                            246.23655913978493
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一条最符合图片中红色框内的人?",
+                "options": [
+                    "他戴着帽子,穿着没有标志的衣服,但没有穿牛仔裤。",
+                    "他留着长发,穿着正式服装,没有穿牛仔裤。",
+                    "他穿着短裤,戴着口罩,穿着没有标志的衣服。",
+                    "他穿着长裤,有标志的衣服和太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0284.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_141.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            114.65030674846626,
+                            334.5276073619632,
+                            64.39263803680981,
+                            175.90184049079755
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最能描述图片中红色框中的人?",
+                "options": [
+                    "她留着长发,穿着休闲装,没有穿T恤。",
+                    "她穿着条纹衣服,戴着牛仔裤,长发优雅地飘动着。",
+                    "她穿着正式,头发很长,戴着口罩。",
+                    "她没有戴口罩,穿着T恤和短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0285.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/27--Spa/27_Spa_Spa_27_34.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            313.13304721030045,
+                            1.0987124463519313,
+                            638.3519313304721,
+                            444.9785407725322
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪项陈述最能描述图片中红框内的个人?",
+                "options": [
+                    "他没有戴口罩或太阳镜,穿着没有条纹的衣服。",
+                    "他穿着休闲装,留着长发,戴着帽子。",
+                    "他戴着帽子,穿着带有标志的衣服,但没有穿短裤。",
+                    "他留着长发,穿着无条纹的衣服,选择了长袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0286.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_69.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            452.0057937427578,
+                            229.0104287369641,
+                            64.73928157589803,
+                            169.35110081112398
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在图片中的红色框中,哪一项最适合这个人?",
+                "options": [
+                    "他没有穿T恤,口罩或帽子。",
+                    "他穿着T恤和长裤,头发很长。",
+                    "他穿着短裤,打扮得很随意,没有穿T恤。",
+                    "他留着长发,穿着短袖长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0287.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_20.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            904.5861713106294,
+                            256.7925696594427,
+                            115.18679050567594,
+                            328.6522187822497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪种描述最恰当地描绘了照片中被红色框标记的人?",
+                "options": [
+                    "他留着短发,穿着长袖衬衫,没有穿牛仔裤。",
+                    "他戴着帽子,头发很长,但没有穿牛仔裤。",
+                    "他穿着有标志的衣服,戴着口罩,穿着条纹衣服。",
+                    "他头发很长,穿着裙子,但衣服上没有任何标志。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0288.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/18--Concerts/18_Concerts_Concerts_18_942.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            307.7834757834758,
+                            223.17948717948718,
+                            243.6011396011396,
+                            599.5213675213676
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确描述了图片中红色框中的人?",
+                "options": [
+                    "他穿着正装,没有戴帽子,穿着没有标志的衣服。",
+                    "他穿着条纹衣服,穿着休闲打扮,没有戴口罩。",
+                    "他穿着短袖衬衫和口罩,但没有穿裙子。",
+                    "他没有戴口罩或穿长裤,但穿着带条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0289.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_771.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            313.19202898550725,
+                            255.76086956521738,
+                            100.44927536231883,
+                            394.8695652173913
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述最接近照片中红色框里的人?",
+                "options": [
+                    "她留着长发,穿着朴素,没有戴帽子。",
+                    "她穿着T恤和牛仔裤,但没有戴口罩。",
+                    "她穿着正式,留着长发,没有穿短裤。",
+                    "她穿着正式服装,长发披肩,穿着裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0290.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_230.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            370.66409266409266,
+                            106.8957528957529,
+                            164.3976833976834,
+                            433.7722007722008
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最符合图片中红色框标记的这个人?",
+                "options": [
+                    "她穿着休闲服装,没有条纹花纹,也没有戴口罩。",
+                    "她穿着T恤和条纹衣服,但没有穿牛仔裤。",
+                    "她留着短发,戴着口罩,穿着带有标志的衣服。",
+                    "她穿着带有标志的衣服和口罩,但她的服装没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0291.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_91.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            108.62800565770863,
+                            270.8458274398869,
+                            68.07355021216408,
+                            198.42715700141443
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "图片中红色框里的个人最符合哪一描述?",
+                "options": [
+                    "他没有穿T恤或口罩,但穿着长裤。",
+                    "他穿着短裤和一件有标志的长袖衬衫。",
+                    "他穿长袖衣服,衣服上有标志,还戴着太阳镜。",
+                    "他留着短发,穿着T恤,并戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0292.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_16.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            735.0184049079754,
+                            136.63803680981596,
+                            108.3680981595092,
+                            325.1042944785276
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪一项最能代表图片中红色框中的人?",
+                "options": [
+                    "他穿着休闲装,没有戴太阳镜,也没穿裙子。",
+                    "他穿着正式服装,没有条纹,也没有穿长裤。",
+                    "他没有穿T恤,衣服是短袖的,也没有戴帽子。",
+                    "他穿着裙子和没有条纹的短袖衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0293.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_246.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            215.15942028985506,
+                            215.66123188405797,
+                            86.22101449275362,
+                            281.43840579710144
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下描述中哪一项最符合图片中红色框中的人?",
+                "options": [
+                    "他穿着正式的长袖衬衫,没有戴太阳镜。",
+                    "他穿着休闲服装,戴着太阳镜,没有穿裙子。",
+                    "他留着长发,穿着T恤,没有戴帽子。",
+                    "他穿着正式,穿着T恤,没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0294.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_578.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            732.055330634278,
+                            160.34008097165992,
+                            169.36032388663966,
+                            537.0917678812416
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "哪个选项最准确地描述了图片中被红色框围起来的人?",
+                "options": [
+                    "他没有戴口罩,但戴着帽子和没有标志的衣服。",
+                    "他穿着短袖衬衫,看起来穿着休闲,戴着太阳镜。",
+                    "他戴着帽子和太阳镜,头发很长。",
+                    "他没有戴帽子,穿着没有标志的衣服并戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0295.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_288.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            396.3508771929824,
+                            153.82456140350877,
+                            60.63157894736842,
+                            171.78947368421052
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "在图像中,哪个描述最符合被红框标记的人?",
+                "options": [
+                    "她留着长发,穿着短袖休闲装。",
+                    "她穿着正式的牛仔裤,没有戴口罩。",
+                    "她戴着帽子,没有穿T恤或口罩。",
+                    "她没有穿T恤,但戴着太阳镜,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0297.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/44--Aerobics/44_Aerobics_Aerobics_44_228.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            378.9193341869398,
+                            291.0729833546735,
+                            141.60307298335468,
+                            352.69654289372596
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "以下哪种描述最符合红框中显示的人?",
+                "options": [
+                    "他穿着长袖衬衫,打扮得比较休闲,没有戴口罩。",
+                    "他没有穿长裤,但他戴着口罩,穿着有标志的衣服。",
+                    "他留着短发,戴着口罩,穿着短袖衬衫。",
+                    "他戴着帽子和T恤,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0300.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_677.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            517.5181818181818,
+                            276.65584415584414,
+                            72.61428571428571,
+                            208.91168831168832
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的个体是否恰好相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Richard_Hamilton_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Richard_Hamilton_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Prince_Willem-Alexander_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Prince_Willem-Alexander_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中展示的人是否碰巧是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Aaron_Guiel_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Aaron_Guiel_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中捕捉到的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jackie_Dennis_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Jackie_Dennis_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中所描绘的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Alessandro_Nesta_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Alessandro_Nesta_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中出现的个体是否恰好是相同的?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Zinedine_Zidane_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Zinedine_Zidane_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Sven_Goran_Eriksson_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sven_Goran_Eriksson_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Saburo_Kawabuchi_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Saburo_Kawabuchi_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是否碰巧是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Todd_Haynes_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Todd_Haynes_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人物是否描绘的是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bill_Pryor_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bill_Pryor_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的人是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Johnny_Carson_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Johnny_Carson_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中展示的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Sadie_Frost_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sadie_Frost_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/John_Henry_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/John_Henry_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/John_McEnroe_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/John_McEnroe_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的主体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bill_Byrne_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bill_Byrne_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的人物代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Larry_Lindsey_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Larry_Lindsey_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中拍摄的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Sachin_Tendulkar_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sachin_Tendulkar_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Tom_Hanks_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Tom_Hanks_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片左右两边的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bill_Bradley_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bill_Bradley_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左边和右边两张图片中的人物代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Angie_Martinez_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Angie_Martinez_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两边照片中的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Oliver_Phelps_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Oliver_Phelps_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两幅图中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Enrica_Fico_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Enrica_Fico_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bill_Cartwright_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bill_Cartwright_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中左右两侧的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Cherie_Blair_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Cherie_Blair_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两张照片中所描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/John_Baldacci_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/John_Baldacci_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Augustin_Calleri_0004_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Tommy_Robredo_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的个体是否恰好是相同的?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Dalai_Lama_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Fujio_Cho_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Shaul_Mofaz_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Vladimiro_Montesinos_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中展示的人是否碰巧是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jamie_King_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Renee_Zellweger_0004_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中拍摄的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Alberto_Sordi_0002_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Silvio_Berlusconi_0002_0006.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中所描绘的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Matt_Damon_0002_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Valentino_Rossi_0003_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中出现的个体是否恰好是相同的?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Alec_Baldwin_0003_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Ben_Affleck_0004_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中描绘的主题是否是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Gustavo_Cisneros_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Jose_Maria_Aznar_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Paula_Abdul_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sadie_Frost_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Mark_Wahlberg_0003_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/William_Macy_0003_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是否碰巧是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Grant_Hackett_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Thomas_Rupprath_0002_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人物是否描绘的是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Heidi_Klum_0002_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Svetlana_Koroleva_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中所描绘的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Britney_Spears_0002_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Reese_Witherspoon_0002_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中展示的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jan_Ullrich_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Steven_Curtis_Chapman_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人物是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Linus_Roache_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Thomas_Watjen_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jan_Ullrich_0003_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Paul_Johnson_0002_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的主题是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Angela_Merkel_0001_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Teri_Garr_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的人物代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/John_Allen_Muhammad_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Oscar_Elias_Biscet_0003_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中捕捉到的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Antonio_Banderas_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Steven_Seagal_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Radovan_Karadzic_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Rodrigo_Rato_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张图片中展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Arif_Mardin_0003_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Wes_Craven_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "这两张照片中左右两边的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Kristanna_Loken_0004_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Natasha_McElhone_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左边和右边的两张图片中的人物代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Diana_Krall_0001_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Penelope_Ann_Miller_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两边照片中的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Joseph_Deiss_0002_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Rudolph_Giuliani_0003_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "左右两幅图中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Arif_Mardin_0003_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Wes_Craven_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

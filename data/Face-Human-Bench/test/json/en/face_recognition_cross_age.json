@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Hamilton_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Hamilton_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Prince_Willem-Alexander_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Prince_Willem-Alexander_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Aaron_Guiel_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Aaron_Guiel_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jackie_Dennis_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jackie_Dennis_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alessandro_Nesta_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alessandro_Nesta_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Zinedine_Zidane_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Zinedine_Zidane_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people featured in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sven_Goran_Eriksson_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sven_Goran_Eriksson_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons shown in the two photos one and the selfsame individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Saburo_Kawabuchi_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Saburo_Kawabuchi_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Todd_Haynes_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Todd_Haynes_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Pryor_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Pryor_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Johnny_Carson_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Johnny_Carson_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sadie_Frost_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sadie_Frost_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_Henry_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_Henry_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_McEnroe_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_McEnroe_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Byrne_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Byrne_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Larry_Lindsey_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Larry_Lindsey_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people captured in both pictures the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sachin_Tendulkar_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sachin_Tendulkar_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Tom_Hanks_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Tom_Hanks_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Bradley_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Bradley_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both pictures, one on the left and one on the right, represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Angie_Martinez_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Angie_Martinez_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Oliver_Phelps_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Oliver_Phelps_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Enrica_Fico_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Enrica_Fico_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Cartwright_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bill_Cartwright_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals featured in the two pictures, positioned on the left and right, identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Cherie_Blair_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Cherie_Blair_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_Baldacci_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_Baldacci_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people in the two photos the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Augustin_Calleri_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Tommy_Robredo_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Dalai_Lama_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Fujio_Cho_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Shaul_Mofaz_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Vladimiro_Montesinos_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jamie_King_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Renee_Zellweger_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alberto_Sordi_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Silvio_Berlusconi_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Matt_Damon_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Valentino_Rossi_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alec_Baldwin_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Ben_Affleck_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the subjects depicted in both photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Gustavo_Cisneros_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jose_Maria_Aznar_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people featured in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Paula_Abdul_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sadie_Frost_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons shown in the two photos one and the selfsame individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Mark_Wahlberg_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/William_Macy_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Grant_Hackett_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Thomas_Rupprath_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Heidi_Klum_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Svetlana_Koroleva_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Britney_Spears_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Reese_Witherspoon_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jan_Ullrich_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Steven_Curtis_Chapman_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Linus_Roache_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Thomas_Watjen_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jan_Ullrich_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Paul_Johnson_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Angela_Merkel_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Teri_Garr_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/John_Allen_Muhammad_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Oscar_Elias_Biscet_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people captured in both pictures the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Antonio_Banderas_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Steven_Seagal_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Radovan_Karadzic_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rodrigo_Rato_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Arif_Mardin_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Wes_Craven_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Kristanna_Loken_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Natasha_McElhone_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the individuals in both pictures, one on the left and one on the right, represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Diana_Krall_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Penelope_Ann_Miller_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Joseph_Deiss_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rudolph_Giuliani_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Arif_Mardin_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Wes_Craven_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

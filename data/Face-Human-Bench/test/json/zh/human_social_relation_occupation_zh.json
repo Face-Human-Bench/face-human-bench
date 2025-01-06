@@ -1,0 +1,1704 @@
+{
+    "data": [
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么工作?",
+                "options": [
+                    "劳动者/工人",
+                    "水管工",
+                    "电工",
+                    "焊工"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03644.jpg"
+                    },
+                    "labels": {
+                        "human_id": 4,
+                        "occupation": "laborer/worker",
+                        "human_bbox": [
+                            283,
+                            214,
+                            332,
+                            302
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中被红色标记的人最有可能的职业是什么?",
+                "options": [
+                    "牧师",
+                    "政治家",
+                    "教师",
+                    "记者"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08558.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "priest",
+                        "human_bbox": [
+                            281,
+                            127,
+                            443,
+                            473
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "照片中红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "滑雪者",
+                    "滑雪度假村经理",
+                    "冬季运动记者",
+                    "体育器材设计师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22932.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "skier",
+                        "human_bbox": [
+                            262,
+                            197,
+                            300,
+                            304
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能的工作是什么?",
+                "options": [
+                    "游客",
+                    "导游",
+                    "学生",
+                    "旅行代理人"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13948.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "tourist",
+                        "human_bbox": [
+                            126,
+                            95,
+                            175,
+                            216
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个工作?",
+                "options": [
+                    "游客",
+                    "导游",
+                    "酒店经理",
+                    "学生"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/11269.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "tourist",
+                        "human_bbox": [
+                            0,
+                            336,
+                            53,
+                            466
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "劳动者/工人",
+                    "木工",
+                    "焊工",
+                    "水管工"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01584.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "laborer/worker",
+                        "human_bbox": [
+                            18,
+                            104,
+                            109,
+                            320
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "记者",
+                    "编辑部编辑",
+                    "新闻主播",
+                    "公共关系专家"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13977.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "reporter",
+                        "human_bbox": [
+                            195,
+                            120,
+                            316,
+                            477
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的个人最有可能从事哪个职业?",
+                "options": [
+                    "摄影师/摄像师",
+                    "活动策划师",
+                    "工作室经理",
+                    "平面设计师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19943.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "photographer/cameraman",
+                        "human_bbox": [
+                            397,
+                            85,
+                            515,
+                            523
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "警察",
+                    "侦探",
+                    "政治家",
+                    "法证分析师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13111.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "police officer",
+                        "human_bbox": [
+                            18,
+                            56,
+                            212,
+                            398
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的个人最有可能从事哪个职业?",
+                "options": [
+                    "游客",
+                    "旅行社代理",
+                    "导游",
+                    "酒店经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23682.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "tourist",
+                        "human_bbox": [
+                            0,
+                            99,
+                            41,
+                            229
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图片中红框内的人最有可能从事以下哪种职业?",
+                "options": [
+                    "滑板运动员",
+                    "滑板设计师",
+                    "滑板公园经理",
+                    "体育摄影师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22718.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "skateboarder",
+                        "human_bbox": [
+                            331,
+                            116,
+                            377,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能选择哪条职业道路?",
+                "options": [
+                    "骑自行车的人",
+                    "运动理疗师",
+                    "自行车机械师",
+                    "运动营养师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18956.jpg"
+                    },
+                    "labels": {
+                        "human_id": 4,
+                        "occupation": "cyclist",
+                        "human_bbox": [
+                            272,
+                            235,
+                            341,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "在图片中,被标注为红色的人最可能从事的职业是什么?",
+                "options": [
+                    "商人/商业女性",
+                    "学生",
+                    "老师",
+                    "医生"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08990.jpg"
+                    },
+                    "labels": {
+                        "human_id": 3,
+                        "occupation": "businessman/businesswoman",
+                        "human_bbox": [
+                            102,
+                            141,
+                            209,
+                            296
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么工作?",
+                "options": [
+                    "曲棍球运动员",
+                    "曲棍球球探",
+                    "体育评论员",
+                    "曲棍球装备经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01921.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "hockey player",
+                        "human_bbox": [
+                            148,
+                            92,
+                            210,
+                            246
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事什么职业?",
+                "options": [
+                    "厨师",
+                    "餐饮服务商",
+                    "服务员/女服务员",
+                    "美食评论家"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08771.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "cook/chef",
+                        "human_bbox": [
+                            0,
+                            195,
+                            212,
+                            630
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "照片中红框中的人可能的职业是什么?",
+                "options": [
+                    "滑雪者",
+                    "冬季运动记者",
+                    "体育器材设计师",
+                    "滑雪巡逻员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18381.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "skier",
+                        "human_bbox": [
+                            103,
+                            177,
+                            183,
+                            423
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的个人最有可能从事哪个职业?",
+                "options": [
+                    "排球运动员",
+                    "运动心理学家",
+                    "排球教练",
+                    "足球运动员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04582.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "volleyball player",
+                        "human_bbox": [
+                            262,
+                            295,
+                            453,
+                            534
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事哪个职业?",
+                "options": [
+                    "商人/女商人",
+                    "上班族",
+                    "医生",
+                    "教师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04568.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "businessman/businesswoman",
+                        "human_bbox": [
+                            400,
+                            148,
+                            634,
+                            351
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "小贩/销售员",
+                    "客服代表",
+                    "产品推广员",
+                    "上班族"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15777.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "vendor/salesperson",
+                        "human_bbox": [
+                            445,
+                            110,
+                            688,
+                            525
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "红箱中的那个人可能从事什么工作?",
+                "options": [
+                    "冲浪者",
+                    "冲浪板制造师",
+                    "冲浪店老板",
+                    "体育摄影师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19339.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "surfer",
+                        "human_bbox": [
+                            145,
+                            83,
+                            259,
+                            403
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么行业?",
+                "options": [
+                    "渔民",
+                    "钓具零售商",
+                    "海鲜厨师",
+                    "冲浪者"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02412.jpg"
+                    },
+                    "labels": {
+                        "human_id": 3,
+                        "occupation": "fisherman",
+                        "human_bbox": [
+                            155,
+                            9,
+                            273,
+                            247
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "骑自行车的人",
+                    "自行车修理工",
+                    "摩托车手",
+                    "运动营养师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23640.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "cyclist",
+                        "human_bbox": [
+                            0,
+                            0,
+                            163,
+                            421
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "红框中的人可能是什么职业?",
+                "options": [
+                    "服务员/女服务员",
+                    "厨师",
+                    "调酒师",
+                    "餐厅经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13537.jpg"
+                    },
+                    "labels": {
+                        "human_id": 5,
+                        "occupation": "waiter/waitress",
+                        "human_bbox": [
+                            514,
+                            10,
+                            625,
+                            143
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最可能从事什么工作?",
+                "options": [
+                    "公众演讲者",
+                    "学生",
+                    "辩论教练",
+                    "老师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14327.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "public speaker",
+                        "human_bbox": [
+                            141,
+                            146,
+                            317,
+                            421
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么行业?",
+                "options": [
+                    "学生",
+                    "研究助理",
+                    "老师",
+                    "游客"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/17325.jpg"
+                    },
+                    "labels": {
+                        "human_id": 3,
+                        "occupation": "student",
+                        "human_bbox": [
+                            65,
+                            109,
+                            168,
+                            219
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "这个在图片中红框中的人最有可能选择哪条职业道路?",
+                "options": [
+                    "棒球运动员",
+                    "排球运动员",
+                    "体育评论员",
+                    "团队经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10878.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "baseball player",
+                        "human_bbox": [
+                            117,
+                            92,
+                            342,
+                            493
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "骑自行车的人",
+                    "运动营养师",
+                    "运动理疗师",
+                    "自行车修理工"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14031.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "cyclist",
+                        "human_bbox": [
+                            662,
+                            369,
+                            743,
+                            543
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "在图像中,红框中的人最可能是哪个职业?",
+                "options": [
+                    "销售员/售货员",
+                    "客服代表",
+                    "产品推销员",
+                    "零售店经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01067.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "vendor/salesperson",
+                        "human_bbox": [
+                            362,
+                            101,
+                            457,
+                            238
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事什么工作?",
+                "options": [
+                    "学生",
+                    "游客",
+                    "教师",
+                    "上班族"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18344.jpg"
+                    },
+                    "labels": {
+                        "human_id": 6,
+                        "occupation": "student",
+                        "human_bbox": [
+                            350,
+                            120,
+                            487,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "农民",
+                    "渔民",
+                    "老师",
+                    "劳动者/工人"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05654.jpg"
+                    },
+                    "labels": {
+                        "human_id": 3,
+                        "occupation": "farmer",
+                        "human_bbox": [
+                            454,
+                            427,
+                            534,
+                            703
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个工作?",
+                "options": [
+                    "军人/士兵",
+                    "情报分析员",
+                    "国防承包商",
+                    "上班族"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00577.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "military/soldier",
+                        "human_bbox": [
+                            19,
+                            52,
+                            97,
+                            272
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事以下哪种职业?",
+                "options": [
+                    "曲棍球运动员",
+                    "体育评论员",
+                    "冰球球探",
+                    "曲棍球装备经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00493.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "hockey player",
+                        "human_bbox": [
+                            165,
+                            174,
+                            288,
+                            287
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "冲浪者",
+                    "冲浪板制造师",
+                    "体育摄影师",
+                    "冲浪店老板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/24031.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "surfer",
+                        "human_bbox": [
+                            22,
+                            85,
+                            117,
+                            259
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人很可能是什么职业?",
+                "options": [
+                    "政治家",
+                    "编辑部编辑",
+                    "记者",
+                    "老师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19835.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "politician",
+                        "human_bbox": [
+                            12,
+                            13,
+                            234,
+                            332
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个行业?",
+                "options": [
+                    "演员",
+                    "导演",
+                    "编剧",
+                    "舞台经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04779.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "actor/actress",
+                        "human_bbox": [
+                            342,
+                            94,
+                            488,
+                            373
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红色标记的人最有可能从事什么职业?",
+                "options": [
+                    "厨师",
+                    "咖啡师",
+                    "美食评论家",
+                    "餐饮服务商"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23468.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "cook/chef",
+                        "human_bbox": [
+                            305,
+                            25,
+                            503,
+                            176
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪种工作?",
+                "options": [
+                    "摄影师/摄像师",
+                    "活动策划师",
+                    "平面设计师",
+                    "演播室经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/11284.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "photographer/cameraman",
+                        "human_bbox": [
+                            77,
+                            126,
+                            138,
+                            202
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事什么工作?",
+                "options": [
+                    "网球运动员",
+                    "排球运动员",
+                    "体育评论员",
+                    "足球运动员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/16586.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "tennis player",
+                        "human_bbox": [
+                            25,
+                            70,
+                            211,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红色标记的人最可能从事什么职业?",
+                "options": [
+                    "政治家",
+                    "上班族",
+                    "老师",
+                    "编辑部编辑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06601.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "politician",
+                        "human_bbox": [
+                            9,
+                            14,
+                            148,
+                            358
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "体育裁判",
+                    "健身教练",
+                    "体育教练",
+                    "体育评论员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/11844.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "sports referee",
+                        "human_bbox": [
+                            23,
+                            201,
+                            111,
+                            351
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事什么职业?",
+                "options": [
+                    "跑步者",
+                    "运动营养师",
+                    "足球运动员",
+                    "运动服设计师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03848.jpg"
+                    },
+                    "labels": {
+                        "human_id": 2,
+                        "occupation": "runner",
+                        "human_bbox": [
+                            276,
+                            146,
+                            339,
+                            337
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么工作?",
+                "options": [
+                    "医生",
+                    "病人",
+                    "药剂师",
+                    "医学研究员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05934.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "doctor",
+                        "human_bbox": [
+                            527,
+                            210,
+                            799,
+                            599
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "在照片中,红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "舞者",
+                    "歌手",
+                    "音乐家/乐器演奏者",
+                    "导演"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01618.jpg"
+                    },
+                    "labels": {
+                        "human_id": 3,
+                        "occupation": "dancer",
+                        "human_bbox": [
+                            391,
+                            39,
+                            500,
+                            198
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪种工作?",
+                "options": [
+                    "公众演讲者",
+                    "老师",
+                    "演说家",
+                    "辩论教练"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14327.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "public speaker",
+                        "human_bbox": [
+                            426,
+                            110,
+                            592,
+                            429
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能选择哪条职业道路?",
+                "options": [
+                    "农民",
+                    "渔民",
+                    "劳动者/工人",
+                    "老师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10002.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "farmer",
+                        "human_bbox": [
+                            226,
+                            68,
+                            326,
+                            362
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事哪个职业?",
+                "options": [
+                    "棒球运动员",
+                    "棒球教练",
+                    "体育评论员",
+                    "团队经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/11608.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "baseball player",
+                        "human_bbox": [
+                            455,
+                            143,
+                            636,
+                            379
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红色标记的人最可能从事什么职业?",
+                "options": [
+                    "篮球运动员",
+                    "篮球队经理",
+                    "篮球教练",
+                    "体育评论员"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01610.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "basketball player",
+                        "human_bbox": [
+                            33,
+                            102,
+                            153,
+                            320
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人可能从事什么职业?",
+                "options": [
+                    "滑雪者",
+                    "滑雪巡警",
+                    "体育器材设计师",
+                    "滑雪度假村经理"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/09630.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "skier",
+                        "human_bbox": [
+                            125,
+                            72,
+                            401,
+                            474
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最有可能从事什么职业?",
+                "options": [
+                    "划船者",
+                    "运动营养师",
+                    "运动心理学家",
+                    "冲浪者"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01183.jpg"
+                    },
+                    "labels": {
+                        "human_id": 0,
+                        "occupation": "rower",
+                        "human_bbox": [
+                            175,
+                            54,
+                            271,
+                            156
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_occupation",
+            "QA": {
+                "question": "图中红框中的人最可能从事什么工作?",
+                "options": [
+                    "摄影师/摄像师",
+                    "活动策划者",
+                    "制片人/演播室经理",
+                    "平面设计师"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/occupation/boxed/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18992.jpg"
+                    },
+                    "labels": {
+                        "human_id": 1,
+                        "occupation": "photographer/cameraman",
+                        "human_bbox": [
+                            8,
+                            200,
+                            79,
+                            466
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

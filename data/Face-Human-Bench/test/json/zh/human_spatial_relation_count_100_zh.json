@@ -1,0 +1,1354 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "照片中的人数最接近以下哪个数字?",
+                "options": [
+                    10,
+                    40,
+                    110,
+                    190
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_284.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,哪个数字最接近图像中人数的计数?",
+                "options": [
+                    20,
+                    60,
+                    190,
+                    310
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_267.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数最接近照片中的人数?",
+                "options": [
+                    20,
+                    60,
+                    180,
+                    300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_266.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中所描绘的人数?",
+                "options": [
+                    30,
+                    100,
+                    280,
+                    480
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_69.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的数字中,哪一个数字最接近图片中人数的总数?",
+                "options": [
+                    20,
+                    50,
+                    160,
+                    270
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_87.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪一个数字最接近照片中的人数?",
+                "options": [
+                    20,
+                    70,
+                    200,
+                    340
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_286.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中人数的近似值?",
+                "options": [
+                    10,
+                    30,
+                    100,
+                    160
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_128.jpg"
+                    },
+                    "labels": [
+                        30
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中显示的人数?",
+                "options": [
+                    20,
+                    70,
+                    220,
+                    360
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_47.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近图片中人数的总数?",
+                "options": [
+                    30,
+                    90,
+                    270,
+                    440
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_206.jpg"
+                    },
+                    "labels": [
+                        90
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中显示的人数?",
+                "options": [
+                    20,
+                    60,
+                    170,
+                    280
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_188.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中的人数?",
+                "options": [
+                    20,
+                    50,
+                    160,
+                    260
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_2.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近快照中的人数估计?",
+                "options": [
+                    30,
+                    80,
+                    240,
+                    400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_57.jpg"
+                    },
+                    "labels": [
+                        80
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,哪个数字最接近照片中人数的数量?",
+                "options": [
+                    20,
+                    50,
+                    160,
+                    260
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_94.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在选项中,最接近图像中人数的数字是多少?",
+                "options": [
+                    7,
+                    20,
+                    60,
+                    100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_177.jpg"
+                    },
+                    "labels": [
+                        20
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的选项中,哪个数字最接近估计这张照片中的人数?",
+                "options": [
+                    20,
+                    50,
+                    150,
+                    260
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_122.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的选项中,哪个数字最接近照片中人数的计数?",
+                "options": [
+                    30,
+                    100,
+                    290,
+                    490
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_299.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,与图片中人数最接近的数值是多少?",
+                "options": [
+                    20,
+                    60,
+                    190,
+                    320
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_92.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "这张照片中的人数最接近以下哪个数字?",
+                "options": [
+                    6,
+                    20,
+                    60,
+                    100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_111.jpg"
+                    },
+                    "labels": [
+                        20
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "照片中的人数最接近以下哪个数字?",
+                "options": [
+                    8,
+                    20,
+                    70,
+                    120
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_282.jpg"
+                    },
+                    "labels": [
+                        20
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,哪个数字最接近图像中人数的计数?",
+                "options": [
+                    20,
+                    50,
+                    150,
+                    260
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_64.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中的人数?",
+                "options": [
+                    10,
+                    40,
+                    130,
+                    220
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_32.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中所示的人数?",
+                "options": [
+                    30,
+                    100,
+                    280,
+                    480
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_263.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的数字中,哪一个数字最接近图片中人数的总数?",
+                "options": [
+                    30,
+                    90,
+                    270,
+                    460
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_254.jpg"
+                    },
+                    "labels": [
+                        90
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中的人数?",
+                "options": [
+                    20,
+                    60,
+                    180,
+                    300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_28.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中人数的近似值?",
+                "options": [
+                    20,
+                    50,
+                    140,
+                    240
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_113.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中显示的人数?",
+                "options": [
+                    20,
+                    60,
+                    180,
+                    300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_144.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中人数的总数?",
+                "options": [
+                    20,
+                    80,
+                    220,
+                    380
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_221.jpg"
+                    },
+                    "labels": [
+                        80
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中描绘的人数?",
+                "options": [
+                    20,
+                    70,
+                    220,
+                    360
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_140.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字与照片中的人数最接近?",
+                "options": [
+                    7,
+                    20,
+                    70,
+                    120
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_1.jpg"
+                    },
+                    "labels": [
+                        20
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字是最接近快照中人数的估计值?",
+                "options": [
+                    10,
+                    40,
+                    110,
+                    180
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_101.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,哪个数字最接近照片中人数的数量?",
+                "options": [
+                    30,
+                    90,
+                    280,
+                    470
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_16.jpg"
+                    },
+                    "labels": [
+                        90
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在选项中,最接近图片中人数的数字是多少?",
+                "options": [
+                    10,
+                    40,
+                    100,
+                    180
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_49.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的选项中,哪个数值最接近估计图像中的人数?",
+                "options": [
+                    20,
+                    60,
+                    160,
+                    280
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_123.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的选项中,哪个数字最接近照片中的人数?",
+                "options": [
+                    30,
+                    90,
+                    280,
+                    460
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_29.jpg"
+                    },
+                    "labels": [
+                        90
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下数字中,与图片中人数最接近的数值是多少?",
+                "options": [
+                    20,
+                    70,
+                    200,
+                    340
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_124.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "这张照片中的人数最接近以下哪个数字?",
+                "options": [
+                    20,
+                    70,
+                    210,
+                    350
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_102.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "照片中的人数最接近以下哪个数字?",
+                "options": [
+                    20,
+                    60,
+                    180,
+                    300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_54.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在以下的数字中,哪个数字最接近照片中人数的计数?",
+                "options": [
+                    5,
+                    20,
+                    40,
+                    80
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_20.jpg"
+                    },
+                    "labels": [
+                        20
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中的人数?",
+                "options": [
+                    20,
+                    60,
+                    180,
+                    300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_68.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中所描绘的人数?",
+                "options": [
+                    30,
+                    90,
+                    260,
+                    440
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_199.jpg"
+                    },
+                    "labels": [
+                        90
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的数字中,哪一个数字最接近图片中人数的总数?",
+                "options": [
+                    20,
+                    50,
+                    140,
+                    240
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_59.jpg"
+                    },
+                    "labels": [
+                        50
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中的人数?",
+                "options": [
+                    20,
+                    40,
+                    140,
+                    220
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_289.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近这张照片中的人数?",
+                "options": [
+                    20,
+                    60,
+                    170,
+                    290
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_126.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在选项中,哪个数字最接近这张照片中显示的人数?",
+                "options": [
+                    9,
+                    30,
+                    90,
+                    140
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_14.jpg"
+                    },
+                    "labels": [
+                        30
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近图片中人数的总数?",
+                "options": [
+                    9,
+                    30,
+                    90,
+                    140
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_313.jpg"
+                    },
+                    "labels": [
+                        30
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字最接近照片中所描绘的人数?",
+                "options": [
+                    20,
+                    60,
+                    200,
+                    320
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_229.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在选项中,哪个数字与图像中的人数最接近?",
+                "options": [
+                    20,
+                    70,
+                    220,
+                    360
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_208.jpg"
+                    },
+                    "labels": [
+                        70
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在这些选项中,哪个数字是最接近快照中人数的估计值?",
+                "options": [
+                    30,
+                    100,
+                    280,
+                    480
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_4.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在给定的数字中,哪个数字与照片中的人数最接近?",
+                "options": [
+                    10,
+                    40,
+                    110,
+                    190
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_276.jpg"
+                    },
+                    "labels": [
+                        40
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100",
+            "QA": {
+                "question": "在选项中,最接近图像中人数的数字是多少?",
+                "options": [
+                    20,
+                    60,
+                    170,
+                    290
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_B_final/test_data/images/IMG_192.jpg"
+                    },
+                    "labels": [
+                        60
+                    ]
+                }
+            }
+        }
+    ]
+}

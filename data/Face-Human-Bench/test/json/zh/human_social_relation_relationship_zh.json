@@ -1,0 +1,2054 @@
+{
+    "data": [
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能分享什么样的关系?",
+                "options": [
+                    "职业关系",
+                    "无关系",
+                    "家庭",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05261.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            556,
+                            91,
+                            742,
+                            599
+                        ],
+                        "second_human_bbox": [
+                            387,
+                            138,
+                            524,
+                            524
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能的关系是什么?",
+                "options": [
+                    "朋友",
+                    "夫妻",
+                    "无关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13685.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            80,
+                            51,
+                            271,
+                            335
+                        ],
+                        "second_human_bbox": [
+                            483,
+                            61,
+                            624,
+                            426
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "家庭",
+                    "朋友",
+                    "商业关系",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08045.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            121,
+                            2,
+                            296,
+                            267
+                        ],
+                        "second_human_bbox": [
+                            353,
+                            5,
+                            530,
+                            279
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人之间最可能的关联是什么?",
+                "options": [
+                    "无关系",
+                    "商业关系",
+                    "职业关系",
+                    "情侣"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13504.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 3,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            413,
+                            133,
+                            536,
+                            365
+                        ],
+                        "second_human_bbox": [
+                            34,
+                            140,
+                            149,
+                            279
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人之间最可能的联系是什么?",
+                "options": [
+                    "夫妻",
+                    "商业关系",
+                    "无关系",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/17070.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            338,
+                            105,
+                            483,
+                            299
+                        ],
+                        "second_human_bbox": [
+                            102,
+                            10,
+                            266,
+                            262
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能有什么样的关系?",
+                "options": [
+                    "家庭",
+                    "没有关系",
+                    "夫妻/情侣",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03902.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            76,
+                            36,
+                            329,
+                            483
+                        ],
+                        "second_human_bbox": [
+                            7,
+                            117,
+                            216,
+                            482
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "在图片中,红框内的两个人最可能是什么类型的关系?",
+                "options": [
+                    "职业关系",
+                    "商业关系",
+                    "夫妻",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10933.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            40,
+                            4,
+                            194,
+                            455
+                        ],
+                        "second_human_bbox": [
+                            149,
+                            53,
+                            414,
+                            451
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图画中红框内的两个人之间可能的关系是什么?",
+                "options": [
+                    "朋友",
+                    "无关系",
+                    "商业关系",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/09269.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            343,
+                            49,
+                            488,
+                            420
+                        ],
+                        "second_human_bbox": [
+                            67,
+                            36,
+                            260,
+                            273
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框内的两个人之间可能的联系是什么?",
+                "options": [
+                    "商业关系",
+                    "职业关系",
+                    "无关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05605.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            330,
+                            135,
+                            488,
+                            302
+                        ],
+                        "second_human_bbox": [
+                            655,
+                            130,
+                            767,
+                            346
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "职业关系",
+                    "夫妻",
+                    "朋友",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04763.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            0,
+                            329,
+                            125,
+                            500
+                        ],
+                        "second_human_bbox": [
+                            131,
+                            134,
+                            215,
+                            457
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人之间最可能是什么关系?",
+                "options": [
+                    "商业关系",
+                    "家庭",
+                    "朋友",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05564.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            234,
+                            177,
+                            326,
+                            407
+                        ],
+                        "second_human_bbox": [
+                            119,
+                            213,
+                            185,
+                            307
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框中两个人之间最可能的联系是什么?",
+                "options": [
+                    "朋友",
+                    "无关系",
+                    "职业关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10369.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            7,
+                            138,
+                            584,
+                            337
+                        ],
+                        "second_human_bbox": [
+                            5,
+                            237,
+                            427,
+                            450
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能是什么关系?",
+                "options": [
+                    "职业关系",
+                    "商业关系",
+                    "夫妻",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00306.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            216,
+                            22,
+                            349,
+                            260
+                        ],
+                        "second_human_bbox": [
+                            359,
+                            56,
+                            477,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能是什么关系?",
+                "options": [
+                    "家庭",
+                    "朋友",
+                    "无关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14673.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            214,
+                            283,
+                            462,
+                            592
+                        ],
+                        "second_human_bbox": [
+                            398,
+                            123,
+                            742,
+                            591
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能是什么关系?",
+                "options": [
+                    "家庭",
+                    "无关系",
+                    "夫妻或情侣",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19463.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            400,
+                            147,
+                            480,
+                            256
+                        ],
+                        "second_human_bbox": [
+                            367,
+                            107,
+                            427,
+                            183
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能共享什么样的关系?",
+                "options": [
+                    "家庭",
+                    "夫妻(夫妇)",
+                    "职业关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19174.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            326,
+                            131,
+                            409,
+                            345
+                        ],
+                        "second_human_bbox": [
+                            487,
+                            121,
+                            567,
+                            318
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "家庭",
+                    "商业关系",
+                    "职业关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07808.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            108,
+                            78,
+                            414,
+                            419
+                        ],
+                        "second_human_bbox": [
+                            1,
+                            0,
+                            348,
+                            352
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能的关系是什么?",
+                "options": [
+                    "夫妻",
+                    "家庭",
+                    "职业关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14630.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            91,
+                            54,
+                            345,
+                            762
+                        ],
+                        "second_human_bbox": [
+                            84,
+                            11,
+                            413,
+                            792
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框内的两个人之间可能的联系是什么?",
+                "options": [
+                    "家庭",
+                    "无关系",
+                    "商业关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22936.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            219,
+                            436,
+                            283,
+                            605
+                        ],
+                        "second_human_bbox": [
+                            343,
+                            480,
+                            436,
+                            631
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能共享什么样的关系?",
+                "options": [
+                    "职业关系",
+                    "朋友",
+                    "夫妻",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07819.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            180,
+                            74,
+                            410,
+                            631
+                        ],
+                        "second_human_bbox": [
+                            24,
+                            74,
+                            177,
+                            622
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能共享什么样的关系?",
+                "options": [
+                    "无关系",
+                    "家庭",
+                    "夫妻",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08998.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            145,
+                            165,
+                            198,
+                            229
+                        ],
+                        "second_human_bbox": [
+                            0,
+                            141,
+                            79,
+                            479
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最有可能拥有何种联系?",
+                "options": [
+                    "夫妻",
+                    "无关系",
+                    "商业关系",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14345.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            361,
+                            68,
+                            603,
+                            396
+                        ],
+                        "second_human_bbox": [
+                            166,
+                            80,
+                            474,
+                            521
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人之间最可能的联系是什么?",
+                "options": [
+                    "职业关系",
+                    "无关系",
+                    "家庭",
+                    "夫妻/情侣"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23712.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            127,
+                            99,
+                            202,
+                            185
+                        ],
+                        "second_human_bbox": [
+                            358,
+                            115,
+                            459,
+                            244
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "在图片中,红框内的两个人最可能是什么类型的关系?",
+                "options": [
+                    "无关系",
+                    "夫妻",
+                    "家庭",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08935.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 3,
+                        "second_human_id": 4,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            240,
+                            112,
+                            431,
+                            339
+                        ],
+                        "second_human_bbox": [
+                            461,
+                            126,
+                            520,
+                            179
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能是什么关系?",
+                "options": [
+                    "夫妻",
+                    "家庭",
+                    "没有关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07888.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 3,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            305,
+                            127,
+                            389,
+                            317
+                        ],
+                        "second_human_bbox": [
+                            386,
+                            120,
+                            509,
+                            419
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最可能的关系是什么?",
+                "options": [
+                    "职业关系",
+                    "商业关系",
+                    "家庭",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05692.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            519,
+                            139,
+                            595,
+                            418
+                        ],
+                        "second_human_bbox": [
+                            678,
+                            142,
+                            791,
+                            532
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框内的两个人之间可能的联系是什么?",
+                "options": [
+                    "职业关系",
+                    "商业关系",
+                    "无关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23009.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            244,
+                            59,
+                            459,
+                            246
+                        ],
+                        "second_human_bbox": [
+                            52,
+                            19,
+                            274,
+                            247
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框里的两个人最有可能是什么样的关系?",
+                "options": [
+                    "夫妻",
+                    "朋友",
+                    "无关系",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01144.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 4,
+                        "second_human_id": 5,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            116,
+                            151,
+                            276,
+                            402
+                        ],
+                        "second_human_bbox": [
+                            308,
+                            142,
+                            474,
+                            297
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "朋友",
+                    "商业关系",
+                    "职业关系",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04094.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 5,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            60,
+                            169,
+                            262,
+                            333
+                        ],
+                        "second_human_bbox": [
+                            326,
+                            73,
+                            457,
+                            333
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内这两个人最可能的关系是什么?",
+                "options": [
+                    "无关系",
+                    "职业关系",
+                    "商业关系",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03114.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 3,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            111,
+                            180,
+                            168,
+                            322
+                        ],
+                        "second_human_bbox": [
+                            281,
+                            171,
+                            319,
+                            270
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能是什么关系?",
+                "options": [
+                    "商业关系",
+                    "朋友",
+                    "无关系",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05236.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            154,
+                            51,
+                            352,
+                            492
+                        ],
+                        "second_human_bbox": [
+                            417,
+                            74,
+                            560,
+                            537
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能是什么关系?",
+                "options": [
+                    "商业关系",
+                    "职业关系",
+                    "无关系",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06212.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            162,
+                            95,
+                            272,
+                            349
+                        ],
+                        "second_human_bbox": [
+                            66,
+                            151,
+                            225,
+                            365
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能的关系是什么?",
+                "options": [
+                    "商业关系",
+                    "无关系",
+                    "家庭",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05525.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 3,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            162,
+                            48,
+                            370,
+                            321
+                        ],
+                        "second_human_bbox": [
+                            502,
+                            7,
+                            708,
+                            308
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人最有可能是什么关系?",
+                "options": [
+                    "朋友",
+                    "无关系",
+                    "职业关系",
+                    "商业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08078.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            308,
+                            138,
+                            393,
+                            444
+                        ],
+                        "second_human_bbox": [
+                            497,
+                            132,
+                            639,
+                            475
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能有什么样的关系?",
+                "options": [
+                    "商业关系",
+                    "家庭",
+                    "朋友",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06996.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 3,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            17,
+                            199,
+                            229,
+                            496
+                        ],
+                        "second_human_bbox": [
+                            108,
+                            26,
+                            266,
+                            338
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "在图片中,红框内的两个人之间最可能的关系是什么?",
+                "options": [
+                    "家庭",
+                    "朋友",
+                    "无关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10884.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            134,
+                            27,
+                            328,
+                            332
+                        ],
+                        "second_human_bbox": [
+                            436,
+                            81,
+                            616,
+                            331
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "照片中红框内的两个人之间可能的联系是什么?",
+                "options": [
+                    "夫妻",
+                    "商业关系",
+                    "无关系",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15666.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            249,
+                            40,
+                            418,
+                            486
+                        ],
+                        "second_human_bbox": [
+                            345,
+                            86,
+                            499,
+                            486
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人之间最可能的联系是什么?",
+                "options": [
+                    "夫妻",
+                    "商业关系",
+                    "家庭",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03166.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            175,
+                            51,
+                            260,
+                            375
+                        ],
+                        "second_human_bbox": [
+                            242,
+                            72,
+                            326,
+                            367
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最可能是什么关系?",
+                "options": [
+                    "无关系",
+                    "家庭",
+                    "商业关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/09418.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 4,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            564,
+                            82,
+                            625,
+                            158
+                        ],
+                        "second_human_bbox": [
+                            452,
+                            67,
+                            526,
+                            166
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "在图片中,红框内的两个人最有可能有以下哪种关系?",
+                "options": [
+                    "无关系",
+                    "家庭",
+                    "商业关系",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18245.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 3,
+                        "second_human_id": 4,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            252,
+                            139,
+                            321,
+                            291
+                        ],
+                        "second_human_bbox": [
+                            62,
+                            141,
+                            168,
+                            346
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最有可能有何种关系?",
+                "options": [
+                    "无关系",
+                    "商业关系",
+                    "朋友",
+                    "家庭"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06472.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 4,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            118,
+                            91,
+                            164,
+                            154
+                        ],
+                        "second_human_bbox": [
+                            476,
+                            116,
+                            521,
+                            183
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "商业关系",
+                    "朋友",
+                    "无关系",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04954.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            360,
+                            306,
+                            478,
+                            452
+                        ],
+                        "second_human_bbox": [
+                            82,
+                            283,
+                            216,
+                            533
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人最可能的关系是什么?",
+                "options": [
+                    "家庭",
+                    "职业关系",
+                    "朋友",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/16558.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            197,
+                            126,
+                            302,
+                            328
+                        ],
+                        "second_human_bbox": [
+                            255,
+                            46,
+                            499,
+                            288
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能分享何种关系?",
+                "options": [
+                    "夫妻",
+                    "无关系",
+                    "家庭",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08436.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            6,
+                            13,
+                            354,
+                            390
+                        ],
+                        "second_human_bbox": [
+                            251,
+                            45,
+                            632,
+                            390
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人最可能有什么关系?",
+                "options": [
+                    "商业关系",
+                    "家庭",
+                    "夫妻",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04875.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            493,
+                            222,
+                            565,
+                            338
+                        ],
+                        "second_human_bbox": [
+                            677,
+                            228,
+                            792,
+                            538
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图像中红框内的两个人之间最可能是什么关系?",
+                "options": [
+                    "无关系",
+                    "商业关系",
+                    "朋友",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00560.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            68,
+                            65,
+                            152,
+                            331
+                        ],
+                        "second_human_bbox": [
+                            329,
+                            69,
+                            401,
+                            293
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图片中红框内的两个人最可能具有以下哪种关系?",
+                "options": [
+                    "朋友",
+                    "无关系",
+                    "夫妻",
+                    "职业关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02578.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Friends",
+                        "first_human_bbox": [
+                            280,
+                            27,
+                            383,
+                            282
+                        ],
+                        "second_human_bbox": [
+                            374,
+                            41,
+                            454,
+                            275
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两个人之间可能的关系是什么?",
+                "options": [
+                    "职业关系",
+                    "夫妻/情侣",
+                    "商业关系",
+                    "无关系"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19984.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            239,
+                            91,
+                            371,
+                            267
+                        ],
+                        "second_human_bbox": [
+                            112,
+                            40,
+                            208,
+                            264
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "图中红框内的两人之间可能的关系是什么?",
+                "options": [
+                    "家庭",
+                    "无关系",
+                    "朋友",
+                    "夫妻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/24158.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Family",
+                        "first_human_bbox": [
+                            435,
+                            104,
+                            551,
+                            480
+                        ],
+                        "second_human_bbox": [
+                            212,
+                            109,
+                            341,
+                            383
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "在照片中,红框内的两个人最有可能是什么关系?",
+                "options": [
+                    "夫妻",
+                    "没有关系",
+                    "家庭",
+                    "朋友"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02063.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            300,
+                            49,
+                            412,
+                            333
+                        ],
+                        "second_human_bbox": [
+                            186,
+                            38,
+                            351,
+                            333
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

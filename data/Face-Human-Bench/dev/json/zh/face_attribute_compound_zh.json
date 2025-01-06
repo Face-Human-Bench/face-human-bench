@@ -1,0 +1,2904 @@
+{
+    "data": [
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有戴耳环,没有戴帽子,没有戴眼镜",
+                    "有刘海,戴着帽子,没有戴项链",
+                    "秃头,没有涂口红,金黄色头发",
+                    "发际线后退,棕色头发,没有胡须"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0001.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167524.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167524.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing hat, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能代表图片中的人物?",
+                "options": [
+                    "没有胡须,没有领带,男性",
+                    "没有戴耳环,留有连鬓胡,留八字胡",
+                    "眉毛浓密,微微张开嘴巴,戴着帽子",
+                    "不秃头,有金发,眉毛浓密"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0002.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164802.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164802.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necktie, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述完全符合图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有涂口红,男性",
+                    "微微张着嘴巴,有胡渣,女性",
+                    "涂着口红,戴着眼镜,没有戴帽子",
+                    "戴眼镜,有眼袋,有褐色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0003.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178521.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178521.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing lipstick, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "微笑着,浓妆艳抹,没有戴帽子",
+                    "有刘海,戴着耳环,不秃头",
+                    "没有戴帽子,有眼袋,男性",
+                    "有黑色头发,没有戴领带,嘴巴微微张开"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0004.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178811.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178811.jpg"
+                    },
+                    "labels": [
+                        "smiling, with heavy makeup, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一项最适合照片中的人物?",
+                "options": [
+                    "没有胡须,没有戴项链,嘴巴微微张开",
+                    "留山羊胡,女性,不秃头",
+                    "涂口红,没有戴眼镜,发际线后移",
+                    "戴着项链,没有戴眼镜,头发秃顶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0005.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175526.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175526.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necklace, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "有胡须,没有戴眼镜,没有微笑",
+                    "没有涂口红,黑色头发,戴眼镜",
+                    "眉毛浓密,没有戴眼镜,戴着耳环",
+                    "没有戴耳环,有刘海,女性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0006.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173873.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173873.jpg"
+                    },
+                    "labels": [
+                        "with 5 o' clock shadow, without eyeglasses, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "照片中人物最准确的描述是什么?",
+                "options": [
+                    "不秃头,女性,没有戴领带",
+                    "浓妆艳抹,戴着帽子,留着络腮胡",
+                    "微笑,戴着帽子,涂着唇膏",
+                    "戴着帽子,没有戴耳环,发际线后退"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0007.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163738.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163738.jpg"
+                    },
+                    "labels": [
+                        "not bald, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请从描述中选择最符合图片中人物的描述。",
+                "options": [
+                    "没有戴帽子,眉毛浓密,男性",
+                    "金发,男性,没有戴领带",
+                    "有眼袋,没有戴领带,没有涂口红",
+                    "没有微笑,涂着唇膏,发际线后退"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0008.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163913.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163913.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, with bushy eyebrows, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "指出与照片中人物最相符的描述。",
+                "options": [
+                    "嘴巴微微张开,浓妆艳抹,没有戴项链",
+                    "黑发,女性,棕色头发",
+                    "涂口红,秃顶,留胡子",
+                    "眉毛浓密,微微张着嘴巴,没有涂口红"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0009.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168890.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168890.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, with heavy makeup, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在这些描述中,哪一项最准确地描绘了图片中的人物?",
+                "options": [
+                    "浓妆艳抹,头发乌黑,嘴巴微微张开",
+                    "戴领带,戴帽子,嘴巴微微张开",
+                    "没有戴帽子,棕色头发,金色头发",
+                    "有黑色头发,留着山羊胡,有胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0010.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180035.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180035.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, with black hair, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选出最符合图片中人物的描述。",
+                "options": [
+                    "涂口红,微张嘴,没有戴帽子",
+                    "黑发,没有戴眼镜,没有微笑",
+                    "系着领带,不秃顶,留着连鬓胡子",
+                    "有刘海,浓密的眉毛,棕色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0011.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169499.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169499.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, with mouth slightly open, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最符合图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有戴领带,没有涂口红",
+                    "微笑,戴着领带,留着山羊胡",
+                    "微笑,有连鬓胡须,黑色头发",
+                    "女性,涂着口红,没有戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0012.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167494.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167494.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necktie, not wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最能代表所展示的人物?",
+                "options": [
+                    "不戴领带,不戴帽子,涂着口红",
+                    "戴眼镜,眉毛浓密,不秃头",
+                    "浓眉,山羊胡,女性",
+                    "有金色头发,不笑,女性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0013.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176419.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176419.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近与图片中的人物?",
+                "options": [
+                    "没有秃头,没有胡须,没有戴耳环",
+                    "戴耳环,戴着帽子,化了浓妆",
+                    "戴耳环,嘴巴微微张开,没有胡须",
+                    "有浓密的眉毛,女性,留着山羊胡。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0014.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167651.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167651.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请鉴别最能反映图片中人物的描述。",
+                "options": [
+                    "没有戴耳环,不秃头,没有胡须",
+                    "没有涂口红,有胡须,头发是黑色",
+                    "有胡渣,留山羊胡,没有戴眼镜",
+                    "秃头,有胡须,不戴领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0015.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178469.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178469.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一项描述最适合照片中的人物?",
+                "options": [
+                    "没有戴项链,没有微笑,留着连鬓胡。",
+                    "有胡须,有眼袋,没有涂口红",
+                    "有棕色头发,有金色头发,不秃头",
+                    "有金发,发际线后移,男性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0016.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173846.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173846.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not smiling, with sideburns"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "你认为哪种描述最符合图片中的人物?",
+                "options": [
+                    "没有戴帽子,没有戴项链,微笑",
+                    "浓妆艳抹,男性,嘴微微张开",
+                    "秃头,不微笑,不涂口红",
+                    "不秃头,有连鬓胡,没有微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0017.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173480.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173480.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing necklace, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "这张图片中人物的最贴切描述是什么?",
+                "options": [
+                    "没有戴眼镜,女性,没有戴帽子",
+                    "有鬓角,没有戴领带,有金色头发",
+                    "有连鬓胡,有刘海,没有微笑",
+                    "秃头,没有胡须,戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0018.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169972.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169972.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, female, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合图片中的人物?",
+                "options": [
+                    "没有胡须,有眼袋,没有戴帽子",
+                    "不秃顶,没有微笑,有金黄色头发",
+                    "涂口红,留着山羊胡,不戴耳环",
+                    "男性,秃头,戴耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0019.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174491.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174491.jpg"
+                    },
+                    "labels": [
+                        "without beard, with eye bags, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选择最符合所示个人的描述。",
+                "options": [
+                    "没有戴耳环,没有戴项链,没有戴领带",
+                    "留山羊胡,女性,戴着项链",
+                    "棕色头发,不秃顶,没有戴眼镜",
+                    "微张着嘴,留胡须,没有戴耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0020.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179981.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179981.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能体现照片中的人物?",
+                "options": [
+                    "没有戴领带,戴着眼镜,没有戴项链",
+                    "没有涂口红,发际线后退,戴着项链",
+                    "戴耳环,没秃顶,有眼袋",
+                    "浓妆艳抹,没有微笑,戴着项链"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0021.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169747.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169747.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with eyeglasses, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "不秃顶,涂着口红,戴着项链",
+                    "留着山羊胡,微微张开嘴巴,女性",
+                    "留着黑色头发,不笑,眉毛浓密",
+                    "没有戴眼镜,有刘海,微微张开嘴巴"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0022.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177273.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177273.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing lipstick, wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "这张照片中的人物最合适的描述是什么?",
+                "options": [
+                    "没有胡须,没有涂口红,秃头",
+                    "没有涂口红,留有五点钟胡须,留有胡子",
+                    "发际线后退,没有戴耳环,没有戴领带",
+                    "嘴巴微微张开,有刘海,涂着唇膏"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0023.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180568.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180568.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人物?",
+                "options": [
+                    "女性,没有戴项链,不秃头",
+                    "有眼袋,嘴巴微张,有黑色头发",
+                    "没有戴项链,有刘海,留着胡须",
+                    "戴眼镜,微笑着,留着连鬓胡。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0024.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172911.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172911.jpg"
+                    },
+                    "labels": [
+                        "female, not wearing necklace, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有戴耳环,没有秃头,戴着眼镜",
+                    "没有胡须,有眼袋,金发",
+                    "戴着眼镜,戴着耳环,有连鬓胡须",
+                    "系着领带,男性,有眼袋"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0025.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168862.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168862.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, with eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述最符合图片中的人物?",
+                "options": [
+                    "没有戴领带,有胡须,男性",
+                    "没有系领带,秃头,留山羊胡",
+                    "戴着帽子,眉毛浓密,戴着项链",
+                    "浓妆艳抹,没有戴眼镜,微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0026.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170938.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170938.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with 5 o' clock shadow, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪项描述最符合图片中的人物?",
+                "options": [
+                    "没有胡须,女性,没有戴领带",
+                    "戴着耳环,有眼袋,没有胡须",
+                    "秃顶,浓妆艳抹,戴眼镜",
+                    "戴着耳环,秃头,没有戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0027.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175500.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175500.jpg"
+                    },
+                    "labels": [
+                        "without beard, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "不秃头,有金发,没有戴眼镜",
+                    "没有戴眼镜,有眼袋,秃头",
+                    "微张嘴,戴着项链,留着山羊胡。",
+                    "戴着耳环,戴眼镜,微微张着嘴巴"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0028.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172011.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172011.jpg"
+                    },
+                    "labels": [
+                        "not bald, with blond hair, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述完美匹配图片中的人物?",
+                "options": [
+                    "没有胡须,女性,没有戴领带",
+                    "秃头,有眼袋,没有戴项链",
+                    "留山羊胡,戴眼镜,没有戴耳环",
+                    "发际线后移,没有戴领带,有山羊胡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0029.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168209.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168209.jpg"
+                    },
+                    "labels": [
+                        "without beard, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有戴领带,没有戴耳环,没有戴帽子",
+                    "有淡淡的胡须,嘴巴微微张开,金色头发",
+                    "留着连鬓胡,微微张开嘴巴,有胡渣",
+                    "戴着领带,发际线后退,眉毛浓密"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0030.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171627.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171627.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing earrings, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合照片中的人?",
+                "options": [
+                    "不秃顶,没有戴眼镜,不打领带",
+                    "男性,涂着口红,眉毛浓密",
+                    "有眼袋,戴着项链,没有戴眼镜",
+                    "微笑,有胡须,没有戴领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0031.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174562.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174562.jpg"
+                    },
+                    "labels": [
+                        "not bald, without eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "有棕色头发,浓妆,没有戴领带",
+                    "没有微笑,留着连鬓胡须,戴着眼镜",
+                    "戴着帽子,有黑色头发,有棕色头发",
+                    "没有戴项链,有金黄色头发,有棕色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0032.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/182338.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/182338.jpg"
+                    },
+                    "labels": [
+                        "with brown hair, with heavy makeup, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "照片中的人最准确的描述是什么?",
+                "options": [
+                    "棕色头发,没有戴领带,浓妆艳抹",
+                    "留山羊胡子,没有戴耳环,有眼袋",
+                    "戴着耳环,戴着帽子,有棕色头发",
+                    "留胡子,有眼袋,没有微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0033.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172670.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172670.jpg"
+                    },
+                    "labels": [
+                        "with brown hair, not wearing necktie, with heavy makeup"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请从描述中选出最能描述图片中人物的一项。",
+                "options": [
+                    "没有戴帽子,没有涂口红,没有胡须",
+                    "留山羊胡子,没有戴帽子,金黄色头发",
+                    "戴着项链,没有涂口红,光头",
+                    "有胡渣,留胡子,没有戴耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0034.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165528.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165528.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing lipstick, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "指出与照片中人物最符合的描述。",
+                "options": [
+                    "没有胡须,没有涂口红,没有戴耳环",
+                    "黑发,有眼袋,秃头",
+                    "秃头,微笑,戴着帽子",
+                    "眉毛浓密,微笑,留着胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0035.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181490.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181490.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在这些描述中,哪个最准确地描绘了图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有戴帽子,没有胡须",
+                    "有刘海,涂着口红,留着小胡子",
+                    "戴眼镜,涂口红,有棕色头发",
+                    "女性,戴着帽子,留有胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0036.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181546.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181546.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing hat, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选择最符合图片中人物的描述。",
+                "options": [
+                    "眉毛浓密,不笑,没有胡须",
+                    "留着山羊胡,戴着帽子,眉毛浓密",
+                    "有刘海,秃头,没有戴项链",
+                    "有金发,有黑发,有胡须"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0037.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173665.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173665.jpg"
+                    },
+                    "labels": [
+                        "with bushy eyebrows, not smiling, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述与图片中的人最匹配?",
+                "options": [
+                    "没有戴领带,嘴微微张开,没有秃顶",
+                    "有刘海,男性,黑色头发",
+                    "戴着帽子,没有戴领带,有连鬓胡。",
+                    "有刘海,没有戴耳环,微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0038.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178626.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178626.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with mouth slightly open, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合所示人物?",
+                "options": [
+                    "没有戴帽子,没有戴领带,没有胡须",
+                    "女性,戴领带,不笑",
+                    "不涂口红,浓妆,不系领带",
+                    "不微笑,眉毛浓密,金黄色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0039.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174525.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174525.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing necktie, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合图片中的人物?",
+                "options": [
+                    "没有戴项链,不秃头,涂着口红",
+                    "有刘海,有胡须,没有戴耳环",
+                    "嘴巴微微张开,金黄色头发,戴着项链",
+                    "有金发,有眼袋,秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0040.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166088.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166088.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请确定最能反映图片中人物的描述。",
+                "options": [
+                    "没有戴眼镜,没有戴耳环,没有戴领带",
+                    "戴着帽子,戴着眼镜,有刘海",
+                    "有刘海,戴着项链,留有山羊胡",
+                    "没有胡须,有黑色头发,留有胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0041.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181091.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181091.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing earrings, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合照片中的人物?",
+                "options": [
+                    "没有戴领带,浓妆艳抹,嘴巴微微张开",
+                    "头发是棕色的,没有戴眼镜,没有戴耳环",
+                    "戴帽子,女性,棕色头发",
+                    "没有涂口红,有胡须,没有戴帽子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0042.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178533.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178533.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with heavy makeup, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "你认为哪一项描述最符合图片中的人物?",
+                "options": [
+                    "嘴巴微张着,没有戴项链,涂着口红",
+                    "没有戴眼镜,戴着帽子,没有微笑",
+                    "有棕色头发,有黑色头发,戴领带",
+                    "留山羊胡,没有胡须,戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0043.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165195.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165195.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, not wearing necklace, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "图片中人物最合适的描述是什么?",
+                "options": [
+                    "微张着嘴巴,没有胡须,没有戴耳环",
+                    "有眼袋,女性,没有涂口红",
+                    "有小胡子,有刘海,男性",
+                    "涂着口红,没有微笑,没有戴耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0044.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178035.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178035.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, without beard, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一个最适用于图片中的人物?",
+                "options": [
+                    "戴眼镜,戴着帽子,没有戴耳环",
+                    "没有秃头,有棕色头发,戴着项链",
+                    "有胡子,戴着帽子,眉毛浓密",
+                    "戴着帽子,秃顶,留着山羊胡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0045.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/162816.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/162816.jpg"
+                    },
+                    "labels": [
+                        "with eyeglasses, wearing hat, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选出最符合所描述人物的描述。",
+                "options": [
+                    "微笑,没有戴项链,没有系领带",
+                    "没有胡须,男性,有5点钟的胡茬",
+                    "没有戴项链,不微笑,男性",
+                    "戴眼镜,浓妆,黑色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0046.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173348.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173348.jpg"
+                    },
+                    "labels": [
+                        "smiling, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最好地体现了照片中的人物?",
+                "options": [
+                    "有5点钟的胡子,没有涂口红,没有戴眼镜",
+                    "戴着项链,没有戴帽子,发际线后移",
+                    "没有胡须,男性,有连鬓胡",
+                    "眉毛浓密,没有戴领带,戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0047.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164427.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164427.jpg"
+                    },
+                    "labels": [
+                        "with 5 o' clock shadow, not wearing lipstick, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "涂口红,没有戴眼镜,不秃头",
+                    "没有戴领带,戴着帽子,男性",
+                    "系着领带,留着连鬓胡,不秃头",
+                    "戴耳环,微笑,有刘海"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0048.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170810.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170810.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, without eyeglasses, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "照片中人物最合适的描述是什么?",
+                "options": [
+                    "没有戴耳环,没有戴项链,秃头",
+                    "有鬓角,没有胡须,发际线后移",
+                    "戴着帽子,没有戴项链,眉毛浓密",
+                    "系着领带,没有戴耳环,不是秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0049.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175922.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175922.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing necklace, bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人物?",
+                "options": [
+                    "没有胡须,微微张开嘴巴,金黄色头发",
+                    "戴眼镜,没有戴耳环,不秃头",
+                    "没有戴眼镜,有黑色头发,发际线后退",
+                    "眉毛浓密,女性,戴领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0050.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179850.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179850.jpg"
+                    },
+                    "labels": [
+                        "without beard, with mouth slightly open, with blond hair"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪种描述最符合图片中所描绘的人物?",
+                "options": [
+                    "没有戴眼镜,没有戴领带,微笑",
+                    "女性,留有胡子,戴着领带",
+                    "留胡子,棕色头发,没有戴项链",
+                    "没有胡须,棕色头发,系着领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0051.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177448.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177448.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necktie, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有胡须,棕色头发,没有戴领带",
+                    "有连鬓胡子,有眼袋,没有戴帽子",
+                    "有眼袋,涂着口红,金发",
+                    "没有戴帽子,有眼袋,戴着项链"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0052.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163161.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163161.jpg"
+                    },
+                    "labels": [
+                        "without beard, with brown hair, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有胡须,没有涂口红,没有戴项链",
+                    "化了浓妆,戴着项链,不微笑",
+                    "留山羊胡子,金发,不秃头",
+                    "黑色头发,有连鬓胡,没有涂口红"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0053.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177013.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177013.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最符合图片中的人物?",
+                "options": [
+                    "不戴领带,没有戴眼镜,微笑",
+                    "有眼袋,未微笑,化了浓妆",
+                    "有眼袋,戴着帽子,没有胡须",
+                    "戴着帽子,领带,嘴巴微微张开"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0054.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164142.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164142.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, without eyeglasses, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述完美符合图片中的人物?",
+                "options": [
+                    "涂口红,不笑,女性",
+                    "发际线后移,没有微笑,眉毛浓密",
+                    "没有戴帽子,戴眼镜,男性",
+                    "有眼袋,留有山羊胡,没有微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0055.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169164.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169164.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, not smiling, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有秃头,留着山羊胡,没有微笑",
+                    "没有涂口红,戴着眼镜,有眼袋",
+                    "有秃顶,男性,戴着领带",
+                    "没有戴帽子,有眼袋,微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0056.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177315.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177315.jpg"
+                    },
+                    "labels": [
+                        "not bald, with goatee, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合照片中的人?",
+                "options": [
+                    "有着金发,没有胡须,没有戴眼镜",
+                    "有八字胡,没有微笑,没有胡须",
+                    "有胡须,有刘海,没有戴眼镜",
+                    "留有连鬓胡,戴着眼镜,微笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0057.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173038.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173038.jpg"
+                    },
+                    "labels": [
+                        "with blond hair, without beard, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "眉毛浓密,化了浓妆,没有胡须",
+                    "没有戴项链,留着山羊胡,留着连鬓发",
+                    "有金色头发,有棕色头发,没有戴眼镜",
+                    "有眼袋,黑发,男性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0058.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163568.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163568.jpg"
+                    },
+                    "labels": [
+                        "with bushy eyebrows, with heavy makeup, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "照片中人物的最准确描述是什么?",
+                "options": [
+                    "不秃头,没有戴眼镜,没有戴耳环",
+                    "有浓密的眉毛,带刘海,秃头",
+                    "秃顶,没有笑容,有刘海",
+                    "没有戴帽子,嘴巴微微张开,戴着领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0059.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164581.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164581.jpg"
+                    },
+                    "labels": [
+                        "not bald, without eyeglasses, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请从描述中挑选出最符合图片中的人物的那个描述。",
+                "options": [
+                    "没有戴耳环,没有胡须,没有戴帽子",
+                    "黑发,戴着帽子,秃头",
+                    "有金黄色头发,微微张着嘴,有胡须",
+                    "涂口红,黑发,留胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0060.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174377.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174377.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, without beard, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "指出最符合照片中人物的描述。",
+                "options": [
+                    "非秃头,无胡须,女性",
+                    "浓密的眉毛,女性,秃头",
+                    "有棕色头发,不秃头,戴着项链",
+                    "女性,戴领带,秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0061.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173537.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173537.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在这些描述中,哪一项最准确地描绘了图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有戴帽子,头发不秃的",
+                    "秃头,有胡须,没有微笑",
+                    "发际线后退,黑发,没有戴耳环",
+                    "女性,秃头,有黑色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0062.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/182564.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/182564.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing hat, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选择最符合图片中人物的描述。",
+                "options": [
+                    "没戴领带,没戴帽子,没戴项链",
+                    "秃头,棕色头发,有胡须影",
+                    "浓妆艳抹,没有戴眼镜,有褐色头发",
+                    "微微张开嘴巴,微笑,女性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0063.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164703.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164703.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最符合图片中的人物?",
+                "options": [
+                    "没戴帽子,没有戴眼镜,不戴耳环",
+                    "微笑,戴眼镜,有5点钟胡子",
+                    "有山羊胡子,秃头,女性",
+                    "秃头,微张嘴,没有胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0064.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179625.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179625.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, without eyeglasses, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪种描述最能代表所展示的人?",
+                "options": [
+                    "没有胡须,没有戴项链,化了浓妆",
+                    "秃头,戴着项链,女性",
+                    "有发际线后移,棕色头发,没有戴眼镜",
+                    "系着领带,浓密的眉毛,微微张开嘴巴"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0065.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176839.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176839.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necklace, with heavy makeup"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在所提供的描述中,哪一个最接近图片中的人物?",
+                "options": [
+                    "没有秃顶,没有胡须,没有戴领带",
+                    "有眼袋,黑发,浓密的眉毛",
+                    "有5点胡渣,没有系领带,没有戴帽子",
+                    "没有胡须,没有微笑,有小胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0066.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181977.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181977.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请识别最能反映出图片中人物的描述。",
+                "options": [
+                    "女性,没有戴眼镜,没有戴领带",
+                    "没有戴帽子,有胡子,秃头",
+                    "没有胡须,有胡渣,戴着帽子",
+                    "有发际线后退,没有戴领带,有刘海"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0067.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176767.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176767.jpg"
+                    },
+                    "labels": [
+                        "female, without eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪种描述最适合照片中的人物?",
+                "options": [
+                    "没有戴耳环,不秃头,没有戴帽子",
+                    "留有胡子,没有秃头,戴着帽子",
+                    "有山羊胡,系着领带,没有胡须",
+                    "没有戴帽子,金发,有刘海"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0068.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166282.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166282.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "你认为哪一种描述最符合照片中的人物?",
+                "options": [
+                    "没有戴领带,没有胡须,有着金黄色头发",
+                    "眉毛浓密,秃头,微笑",
+                    "秃头,女性,有胡子",
+                    "有刘海,有鬓角,眉毛浓密"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0069.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177456.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177456.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, without beard, with blond hair"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "这张照片中的人最恰当的描述是什么?",
+                "options": [
+                    "没有戴项链,不秃头,没有戴帽子",
+                    "留有山羊胡,涂着口红,戴着项链",
+                    "不秃头,没有涂口红,留着山羊胡",
+                    "微微张开嘴巴,戴着耳环,有发际线后退"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0070.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166514.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166514.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一项最符合图片中的人物?",
+                "options": [
+                    "没有戴项链,没有戴领带,没有戴眼镜",
+                    "男性,没有戴项链,戴着耳环",
+                    "胡子已经长出,没有秃头,有连鬓辫",
+                    "不涂口红,男性,没有戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0071.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175147.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175147.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not wearing necktie, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选出最符合所示个人的描述。",
+                "options": [
+                    "没有戴帽子,涂口红,没有秃头",
+                    "留山羊胡子,发际线后移,微笑",
+                    "棕色头发,没有胡须,有小胡子",
+                    "男性,不秃头,有金色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0072.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168393.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168393.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, wearing lipstick, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一项描述最能体现照片中的人物?",
+                "options": [
+                    "戴着帽子,戴着项链,不秃头",
+                    "涂着口红,没有戴耳环,有黑色头发",
+                    "系着领带,棕色头发,没有戴耳环",
+                    "留胡子,女性,没有戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0073.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177027.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177027.jpg"
+                    },
+                    "labels": [
+                        "wearing hat, wearing necklace, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请指出最符合所示人物的描述。",
+                "options": [
+                    "没有戴耳环,没有涂口红,没有微笑",
+                    "发际线后退,留着连鬓胡子,没有微笑",
+                    "戴眼镜,没有胡须,有刘海",
+                    "有刘海,秃头,不笑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0074.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180016.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180016.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing lipstick, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "这张照片中的人最合适的描述是什么?",
+                "options": [
+                    "没有戴项链,涂着口红,女性",
+                    "化了浓妆,有棕色头发,有连鬓胡。",
+                    "戴帽子,女性,留山羊胡",
+                    "留山羊胡,微微张开嘴巴,男性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0075.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164392.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164392.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, wearing lipstick, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有戴项链,没有戴领带",
+                    "没有涂口红,没有戴帽子,金色头发",
+                    "戴帽子,嘴巴微微张开,有棕色头发",
+                    "微笑着,非秃头,有连鬓胡。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0076.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165539.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165539.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中所描绘的人物?",
+                "options": [
+                    "没有戴项链,没有戴领带,没有胡子",
+                    "男性,发际线后退,黑色头发",
+                    "不秃顶,眉毛浓密,留胡子",
+                    "有眼袋,微笑着,眉毛浓密"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0077.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176545.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176545.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not wearing necktie, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述最符合图片中的人物?",
+                "options": [
+                    "没有戴眼镜,嘴巴微微张开,有胡子阴影",
+                    "有金黄色头发,留胡子,不秃头",
+                    "没有戴帽子,没有胡须,微笑",
+                    "戴眼镜,没有戴项链,发际线后退"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0078.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167740.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167740.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, with mouth slightly open, with 5 o' clock shadow"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人物?",
+                "options": [
+                    "化了浓妆,没有戴领带,没有戴耳环",
+                    "男性,戴耳环,没有戴帽子",
+                    "女性,戴着耳环,黑发",
+                    "眉毛浓密,没有戴眼镜,秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0079.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167609.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167609.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, not wearing necktie, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最能代表图片中的人物?",
+                "options": [
+                    "有金黄色头发,浓妆艳抹,戴着耳环",
+                    "男性,没有戴眼镜,头发是黑色的",
+                    "戴眼镜,不秃头,有刘海",
+                    "戴眼镜,戴耳环,系领带"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0080.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180683.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180683.jpg"
+                    },
+                    "labels": [
+                        "with blond hair, with heavy makeup, wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "以下哪一项描述完美符合图片中的人物?",
+                "options": [
+                    "有黑色头发,没有戴帽子,没有戴项链",
+                    "没有戴项链,留胡子,女性",
+                    "有胡子,留有山羊胡,没有戴耳环",
+                    "女性,没有戴耳环,有山羊胡子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0081.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165860.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165860.jpg"
+                    },
+                    "labels": [
+                        "with black hair, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最适合图片中的人物?",
+                "options": [
+                    "没有笑,棕色头发,没有胡须",
+                    "秃头,有连鬓胡子,不笑",
+                    "留胡须,没有戴项链,戴着眼镜",
+                    "戴着项链,涂着口红,秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0082.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173409.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173409.jpg"
+                    },
+                    "labels": [
+                        "not smiling, with brown hair, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合图片中的人物?",
+                "options": [
+                    "浓妆艳抹,没有戴项链,没有戴眼镜",
+                    "戴着项链,女性,没有微笑",
+                    "不化妆唇,没有戴眼镜,男性",
+                    "眉毛浓密,没有戴耳环,不秃头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0083.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171013.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171013.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, not wearing necklace, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最符合图片中的人物?",
+                "options": [
+                    "没有涂口红,没有戴帽子,没有戴项链",
+                    "黑色头发,男性,留山羊胡",
+                    "有棕色头发,不笑,光头",
+                    "男性,戴着领带,有发际线后退"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0084.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167601.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167601.jpg"
+                    },
+                    "labels": [
+                        "not wearing lipstick, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "这张照片中人物的最准确描述是什么?",
+                "options": [
+                    "不秃头,系着领带,没有戴耳环",
+                    "没有戴帽子,戴着项链,戴着耳环",
+                    "留山羊胡,涂口红,有眼袋",
+                    "嘴巴微微张开,不笑,戴着眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0085.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168077.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168077.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing necktie, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请从描述中挑选最符合图片中人物的那一项。",
+                "options": [
+                    "没有涂口红,有胡渣,没有戴眼镜",
+                    "秃顶,男性,有连鬓胡",
+                    "戴着耳环,金发,没有涂口红",
+                    "微笑,金色头发,男性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0086.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180248.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180248.jpg"
+                    },
+                    "labels": [
+                        "not wearing lipstick, with 5 o' clock shadow, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "指出与照片中的人最相符的描述。",
+                "options": [
+                    "没有胡须,不秃头,没有戴领带",
+                    "微笑着,没有戴项链,有刘海",
+                    "微笑,女性,戴着眼镜",
+                    "戴眼镜,秃头,有棕色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0087.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167986.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167986.jpg"
+                    },
+                    "labels": [
+                        "without beard, not bald, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在这些描述中,哪一个最准确地描述了图片中的人物?",
+                "options": [
+                    "不秃头,涂着唇膏,没有胡子",
+                    "有棕色头发,微笑,拥有浓密眉毛",
+                    "有胡须,金发,没有戴帽子",
+                    "有眼袋,没有戴眼镜,金黄色头发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0088.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179385.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179385.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing lipstick, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选出最适合图片中人物的描述。",
+                "options": [
+                    "没有戴领带,没有戴帽子,不秃头",
+                    "有连鬓胡,金黄色头发,微微张开嘴巴",
+                    "没有戴帽子,有茂密的下午五点胡须,有刘海",
+                    "金发,女性,没有戴耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0089.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164347.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164347.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一个描述最符合图片中的人物?",
+                "options": [
+                    "没有戴眼镜,没有涂口红,眉毛浓密",
+                    "戴耳环,没有戴项链,有刘海",
+                    "没有戴领带,发际线后移,戴着帽子",
+                    "没有涂口红,有小胡须,戴着项链"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0090.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171774.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171774.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing lipstick, with bushy eyebrows"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能代表所示的人?",
+                "options": [
+                    "没有戴耳环,不秃头,有发际线后移",
+                    "没有戴领带,戴着项链,发际线后退",
+                    "黑发,男性,留山羊胡。",
+                    "头发是棕色的,没有涂口红,眉毛浓密"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0091.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164900.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164900.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, with a receding hairline"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近画面中的人物?",
+                "options": [
+                    "女性,不微笑,没有戴耳环",
+                    "留山羊胡,系着领带,没有戴项链",
+                    "没有戴领带,留有山羊胡,秃头",
+                    "没有系领带,有连鬓胡须,有刘海"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0092.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176571.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176571.jpg"
+                    },
+                    "labels": [
+                        "female, not smiling, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请确定最能反映图中人物的描述。",
+                "options": [
+                    "有连鬓胡子,没有戴领带,眉毛浓密",
+                    "女性,没有戴耳环,有棕色头发",
+                    "化了浓妆,没有戴眼镜,发际线后移",
+                    "戴着领带,戴着项链,没有戴帽子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0093.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173149.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173149.jpg"
+                    },
+                    "labels": [
+                        "with sideburns, not wearing necktie, with bushy eyebrows"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪一项描述最符合照片中的人物?",
+                "options": [
+                    "没有戴领带,微笑着,没有胡须",
+                    "没有戴项链,留着山羊胡子,有黑色头发",
+                    "棕色头发,浓密眉毛,黑色头发",
+                    "男性,留胡子,没有戴眼镜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0094.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163713.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163713.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, smiling, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "你认为哪个描述最符合图片中的个人?",
+                "options": [
+                    "没有秃头,没有胡须,没有微笑",
+                    "女性,有些许胡须,有棕色头发",
+                    "有棕色头发,戴耳环,有金发",
+                    "有眼袋,有棕色头发,涂着口红"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0095.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170717.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170717.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "对于图片中的人物,哪种描述最恰当?",
+                "options": [
+                    "没有微笑,没有戴项链,涂着口红",
+                    "戴领带,秃头,没有戴帽子",
+                    "戴眼镜,浓妆艳抹,留着连鬓胡",
+                    "有连鬓胡须,有眼袋,女性"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0096.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171743.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171743.jpg"
+                    },
+                    "labels": [
+                        "not smiling, not wearing necklace, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "在提供的描述中,哪个最符合图片中的人物?",
+                "options": [
+                    "不戴项链,不秃头,不系领带",
+                    "戴着耳环,留着山羊胡,光头",
+                    "戴着帽子,男性,微笑",
+                    "有刘海,微笑着,留着山羊胡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0097.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180215.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180215.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请选出最符合所示个人的描述。",
+                "options": [
+                    "涂口红,戴项链,没有胡须",
+                    "微微张着嘴,没有微笑,有胡须",
+                    "没有胡须,有眼袋,有金黄色头发",
+                    "男性,不秃头,留着山羊胡。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0098.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165147.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165147.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, wearing necklace, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "哪个描述最能体现照片中的人物?",
+                "options": [
+                    "男性,戴眼镜,没有戴领带",
+                    "没有胡须,涂着唇膏,系着领带",
+                    "女性,没有戴眼镜,没有戴耳环",
+                    "微笑着,浓妆艳抹,微张着嘴巴"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0099.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176176.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176176.jpg"
+                    },
+                    "labels": [
+                        "male, with eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "男性,没有戴眼镜,没有涂口红",
+                    "留山羊胡,涂口红,没有戴耳环",
+                    "有眼袋,没有戴项链,有刘海",
+                    "有刘海,没有戴眼镜,戴着耳环"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0100.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181957.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181957.jpg"
+                    },
+                    "labels": [
+                        "male, without eyeglasses, not wearing lipstick"
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1254 @@
+{
+    "data": [
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is the presented face digitally manipulated?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/879/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face been digitally altered?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/110/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did someone digitally modify the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/428/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the image of the face been digitally manipulated?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/803/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial appearance digitally changed?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/419/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is the face not its original form due to digital editing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/692/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has digital software been used to modify the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/183/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did someone digitally tweak the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/923/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face been digitally transformed?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/057/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial image digitally modified in any way?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/016/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did someone use digital tools to change the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/004/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is the face not natural due to digital manipulation?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/452/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face's appearance been digitally adjusted?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/150/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial image digitally doctored?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/802/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital techniques alter the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/547/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital manipulation change the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/251/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the facial image undergone digital alteration?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/697/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face undergone digital changes?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/708/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital tools change the face's appearance?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/298/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this a forged face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/173/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this face a forgery?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/245/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has this face been falsified?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/972/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is there a chance that this face has been digitally manipulated?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/197/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Does this face appear to have been edited or forged?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/521/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this face the result of some form of forgery or tampering?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/845/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial image digitally doctored?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/849_771/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the facial image undergone digital alteration?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/943_942/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital software change the face's look?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/519_515/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital tools change the face's appearance?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/220_219/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this a forged face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/824_419/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this face a forgery?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/853_863/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has this face been falsified?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/250_461/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is there a chance that this face has been digitally manipulated?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/973_970/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital techniques alter the face",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/993_989/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face been digitally altered?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/734_699/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did someone digitally modify the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/275_887/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial appearance digitally changed?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/348_202/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has digital software been used to modify the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/172_582/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face been digitally transformed?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/632_548/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial image digitally modified in any way?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/414_385/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is the face not natural due to digital manipulation?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/277_335/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the face's appearance been digitally adjusted?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/707_705/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Was the facial image digitally doctored?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/123_119/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital techniques alter the face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/054_071/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Has the facial image undergone digital alteration?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/621_546/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Did digital software change the face's look?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/493_538/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this a forged face?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/316_369/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this face a forgery?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/903_792/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is there a chance that this face has been digitally manipulated?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/010_005/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "Is this face the result of some form of forgery or tampering?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/786_819/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        }
+    ]
+}

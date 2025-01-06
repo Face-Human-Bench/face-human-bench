@@ -1,0 +1,2454 @@
+{
+    "data": [
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional expression can you see on the person in the image?",
+                "options": [
+                    "Fearfully Surprised",
+                    "Sadly Angry",
+                    "Sadly Disgusted",
+                    "Angrily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_385_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised",
+                        "five_points": [
+                            [
+                                26,
+                                32
+                            ],
+                            [
+                                75,
+                                33
+                            ],
+                            [
+                                51,
+                                50
+                            ],
+                            [
+                                29,
+                                71
+                            ],
+                            [
+                                74,
+                                71
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is the person in the photo displaying?",
+                "options": [
+                    "Sadly Surprised",
+                    "Disgustedly Surprised",
+                    "Angrily Disgusted",
+                    "Happily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_503_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Surprised",
+                        "five_points": [
+                            [
+                                23,
+                                32
+                            ],
+                            [
+                                73,
+                                32
+                            ],
+                            [
+                                47,
+                                54
+                            ],
+                            [
+                                32,
+                                74
+                            ],
+                            [
+                                64,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the facial expression of the person in this image?",
+                "options": [
+                    "Sadly Fearful",
+                    "Disgustedly Surprised",
+                    "Happily Surprised",
+                    "Angrily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_784_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Fearful",
+                        "five_points": [
+                            [
+                                22,
+                                33
+                            ],
+                            [
+                                68,
+                                33
+                            ],
+                            [
+                                37,
+                                53
+                            ],
+                            [
+                                24,
+                                76
+                            ],
+                            [
+                                73,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What expression is the person in the image showing?",
+                "options": [
+                    "Angrily Disgusted",
+                    "Sadly Fearful",
+                    "Happily Disgusted",
+                    "Fearfully Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_210_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                26,
+                                33
+                            ],
+                            [
+                                72,
+                                34
+                            ],
+                            [
+                                44,
+                                63
+                            ],
+                            [
+                                30,
+                                73
+                            ],
+                            [
+                                67,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "Based on this picture, what is the person's expression?",
+                "options": [
+                    "Happily Disgusted",
+                    "Fearfully Surprised",
+                    "Sadly Disgusted",
+                    "Sadly Fearful"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_153_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                25,
+                                33
+                            ],
+                            [
+                                69,
+                                33
+                            ],
+                            [
+                                41,
+                                61
+                            ],
+                            [
+                                27,
+                                74
+                            ],
+                            [
+                                72,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the facial expression of the person in this picture?",
+                "options": [
+                    "Happily Disgusted",
+                    "Fearfully Angry",
+                    "Sadly Disgusted",
+                    "Sadly Angry"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_156_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                25,
+                                32
+                            ],
+                            [
+                                72,
+                                32
+                            ],
+                            [
+                                39,
+                                49
+                            ],
+                            [
+                                25,
+                                74
+                            ],
+                            [
+                                70,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion does the person in the picture show?",
+                "options": [
+                    "Sadly Fearful",
+                    "Happily Disgusted",
+                    "Disgustedly Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_228_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Fearful",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                68,
+                                32
+                            ],
+                            [
+                                38,
+                                46
+                            ],
+                            [
+                                29,
+                                71
+                            ],
+                            [
+                                65,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is evident in the person in the photo?",
+                "options": [
+                    "Sadly Angry",
+                    "Happily Surprised",
+                    "Happily Disgusted",
+                    "Fearfully Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_551_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                24,
+                                34
+                            ],
+                            [
+                                69,
+                                34
+                            ],
+                            [
+                                44,
+                                68
+                            ],
+                            [
+                                31,
+                                73
+                            ],
+                            [
+                                64,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional response is the person in the picture displaying?",
+                "options": [
+                    "Angrily Surprised",
+                    "Happily Disgusted",
+                    "Happily Surprised",
+                    "Sadly Fearful"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_718_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised",
+                        "five_points": [
+                            [
+                                25,
+                                32
+                            ],
+                            [
+                                73,
+                                33
+                            ],
+                            [
+                                51,
+                                64
+                            ],
+                            [
+                                30,
+                                73
+                            ],
+                            [
+                                68,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What does the expression of the person in the picture convey?",
+                "options": [
+                    "Fearfully Angry",
+                    "Sadly Surprised",
+                    "Disgustedly Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_686_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry",
+                        "five_points": [
+                            [
+                                25,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                49,
+                                49
+                            ],
+                            [
+                                31,
+                                73
+                            ],
+                            [
+                                68,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What expression does the person in the picture display?",
+                "options": [
+                    "Fearfully Angry",
+                    "Happily Disgusted",
+                    "Happily Surprised",
+                    "Disgustedly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_604_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry",
+                        "five_points": [
+                            [
+                                27,
+                                34
+                            ],
+                            [
+                                72,
+                                34
+                            ],
+                            [
+                                49,
+                                56
+                            ],
+                            [
+                                29,
+                                72
+                            ],
+                            [
+                                71,
+                                70
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What kind of expression does the person have in the picture?",
+                "options": [
+                    "Angrily Disgusted",
+                    "Fearfully Angry",
+                    "Sadly Fearful",
+                    "Sadly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_704_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                30,
+                                32
+                            ],
+                            [
+                                72,
+                                32
+                            ],
+                            [
+                                60,
+                                54
+                            ],
+                            [
+                                28,
+                                74
+                            ],
+                            [
+                                68,
+                                72
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the expression of the person in this image?",
+                "options": [
+                    "Sadly Disgusted",
+                    "Happily Surprised",
+                    "Fearfully Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_238_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Disgusted",
+                        "five_points": [
+                            [
+                                22,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                46,
+                                52
+                            ],
+                            [
+                                30,
+                                73
+                            ],
+                            [
+                                66,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "How does the person in the image appear?",
+                "options": [
+                    "Happily Disgusted",
+                    "Sadly Fearful",
+                    "Angrily Disgusted",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_200_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                23,
+                                33
+                            ],
+                            [
+                                68,
+                                34
+                            ],
+                            [
+                                41,
+                                58
+                            ],
+                            [
+                                27,
+                                73
+                            ],
+                            [
+                                69,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What does the expression of the person in the image reveal?",
+                "options": [
+                    "Disgustedly Surprised",
+                    "Happily Surprised",
+                    "Fearfully Angry",
+                    "Happily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_494_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised",
+                        "five_points": [
+                            [
+                                22,
+                                31
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                47,
+                                52
+                            ],
+                            [
+                                29,
+                                73
+                            ],
+                            [
+                                66,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "How do you perceive the expression of the person in the picture?",
+                "options": [
+                    "Happily Disgusted",
+                    "Fearfully Angry",
+                    "Disgustedly Surprised",
+                    "Sadly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_285_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                26,
+                                34
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                51,
+                                59
+                            ],
+                            [
+                                31,
+                                74
+                            ],
+                            [
+                                67,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the expression of the person in this photo?",
+                "options": [
+                    "Sadly Disgusted",
+                    "Fearfully Angry",
+                    "Angrily Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_459_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Disgusted",
+                        "five_points": [
+                            [
+                                29,
+                                32
+                            ],
+                            [
+                                70,
+                                32
+                            ],
+                            [
+                                61,
+                                55
+                            ],
+                            [
+                                29,
+                                74
+                            ],
+                            [
+                                70,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the expression of the person in the picture?\"",
+                "options": [
+                    "Angrily Disgusted",
+                    "Sadly Surprised",
+                    "Sadly Fearful",
+                    "Fearfully Angry"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_650_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                24,
+                                32
+                            ],
+                            [
+                                68,
+                                33
+                            ],
+                            [
+                                36,
+                                55
+                            ],
+                            [
+                                30,
+                                73
+                            ],
+                            [
+                                62,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the person's expression in the photo?",
+                "options": [
+                    "Angrily Disgusted",
+                    "Fearfully Angry",
+                    "Happily Disgusted",
+                    "Sadly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_659_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                25,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                46,
+                                55
+                            ],
+                            [
+                                33,
+                                73
+                            ],
+                            [
+                                65,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What kind of facial expression does the person in the picture have?",
+                "options": [
+                    "Happily Surprised",
+                    "Sadly Surprised",
+                    "Sadly Fearful",
+                    "Disgustedly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_128_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Surprised",
+                        "five_points": [
+                            [
+                                23,
+                                31
+                            ],
+                            [
+                                73,
+                                30
+                            ],
+                            [
+                                45,
+                                51
+                            ],
+                            [
+                                24,
+                                74
+                            ],
+                            [
+                                71,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion can be seen on the person in the photo?",
+                "options": [
+                    "Sadly Fearful",
+                    "Fearfully Surprised",
+                    "Happily Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_484_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Fearful",
+                        "five_points": [
+                            [
+                                23,
+                                33
+                            ],
+                            [
+                                72,
+                                34
+                            ],
+                            [
+                                42,
+                                56
+                            ],
+                            [
+                                26,
+                                75
+                            ],
+                            [
+                                72,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What kind of facial expression does the person in the photo have?",
+                "options": [
+                    "Happily Disgusted",
+                    "Angrily Disgusted",
+                    "Sadly Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_505_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                22,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                44,
+                                59
+                            ],
+                            [
+                                24,
+                                72
+                            ],
+                            [
+                                73,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What expression does the person in the picture display?",
+                "options": [
+                    "Sadly Fearful",
+                    "Angrily Disgusted",
+                    "Fearfully Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_788_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Fearful",
+                        "five_points": [
+                            [
+                                23,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                48,
+                                54
+                            ],
+                            [
+                                29,
+                                72
+                            ],
+                            [
+                                66,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the mood of the person in the picture?\"",
+                "options": [
+                    "Sadly Surprised",
+                    "Happily Surprised",
+                    "Happily Disgusted",
+                    "Fearfully Angry"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_662_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Surprised",
+                        "five_points": [
+                            [
+                                25,
+                                33
+                            ],
+                            [
+                                71,
+                                32
+                            ],
+                            [
+                                44,
+                                54
+                            ],
+                            [
+                                31,
+                                72
+                            ],
+                            [
+                                65,
+                                72
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is shown on the face of the person in the image?",
+                "options": [
+                    "Happily Disgusted",
+                    "Angrily Surprised",
+                    "Happily Surprised",
+                    "Sadly Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_098_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                71,
+                                32
+                            ],
+                            [
+                                44,
+                                55
+                            ],
+                            [
+                                28,
+                                74
+                            ],
+                            [
+                                68,
+                                76
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is shown on the face of the person in the image?",
+                "options": [
+                    "Fearfully Angry",
+                    "Sadly Disgusted",
+                    "Disgustedly Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_628_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry",
+                        "five_points": [
+                            [
+                                26,
+                                34
+                            ],
+                            [
+                                73,
+                                34
+                            ],
+                            [
+                                51,
+                                54
+                            ],
+                            [
+                                33,
+                                73
+                            ],
+                            [
+                                68,
+                                71
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is visible in the person in the photo?",
+                "options": [
+                    "Sadly Surprised",
+                    "Angrily Disgusted",
+                    "Happily Disgusted",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_372_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Surprised",
+                        "five_points": [
+                            [
+                                29,
+                                33
+                            ],
+                            [
+                                71,
+                                32
+                            ],
+                            [
+                                46,
+                                56
+                            ],
+                            [
+                                38,
+                                72
+                            ],
+                            [
+                                69,
+                                72
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is portrayed by the person in the image?",
+                "options": [
+                    "Sadly Angry",
+                    "Angrily Surprised",
+                    "Disgustedly Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_038_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                23,
+                                25
+                            ],
+                            [
+                                67,
+                                28
+                            ],
+                            [
+                                35,
+                                54
+                            ],
+                            [
+                                30,
+                                73
+                            ],
+                            [
+                                67,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What sentiment is the person in the image displaying?",
+                "options": [
+                    "Fearfully Surprised",
+                    "Angrily Disgusted",
+                    "Sadly Angry",
+                    "Sadly Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_356_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised",
+                        "five_points": [
+                            [
+                                26,
+                                33
+                            ],
+                            [
+                                71,
+                                31
+                            ],
+                            [
+                                55,
+                                68
+                            ],
+                            [
+                                28,
+                                76
+                            ],
+                            [
+                                68,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "Based on this picture, what is the person's expression?",
+                "options": [
+                    "Disgustedly Surprised",
+                    "Happily Disgusted",
+                    "Happily Surprised",
+                    "Sadly Angry"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0106.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_047_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                70,
+                                33
+                            ],
+                            [
+                                46,
+                                60
+                            ],
+                            [
+                                25,
+                                71
+                            ],
+                            [
+                                67,
+                                77
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional state is the person in the picture in?",
+                "options": [
+                    "Fearfully Angry",
+                    "Sadly Disgusted",
+                    "Happily Surprised",
+                    "Sadly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_626_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry",
+                        "five_points": [
+                            [
+                                27,
+                                34
+                            ],
+                            [
+                                72,
+                                34
+                            ],
+                            [
+                                49,
+                                53
+                            ],
+                            [
+                                29,
+                                72
+                            ],
+                            [
+                                70,
+                                72
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What kind of facial expression does the person in the photo have?",
+                "options": [
+                    "Fearfully Angry",
+                    "Sadly Surprised",
+                    "Disgustedly Surprised",
+                    "Sadly Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_602_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry",
+                        "five_points": [
+                            [
+                                22,
+                                34
+                            ],
+                            [
+                                24,
+                                36
+                            ],
+                            [
+                                40,
+                                61
+                            ],
+                            [
+                                32,
+                                75
+                            ],
+                            [
+                                73,
+                                66
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional tone is conveyed by the person in the photo?",
+                "options": [
+                    "Fearfully Surprised",
+                    "Sadly Disgusted",
+                    "Angrily Disgusted",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_241_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised",
+                        "five_points": [
+                            [
+                                23,
+                                32
+                            ],
+                            [
+                                67,
+                                33
+                            ],
+                            [
+                                41,
+                                58
+                            ],
+                            [
+                                30,
+                                72
+                            ],
+                            [
+                                65,
+                                72
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What kind of emotion is shown by the person in the photo?",
+                "options": [
+                    "Fearfully Surprised",
+                    "Sadly Disgusted",
+                    "Sadly Angry",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_610_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised",
+                        "five_points": [
+                            [
+                                25,
+                                32
+                            ],
+                            [
+                                72,
+                                33
+                            ],
+                            [
+                                49,
+                                59
+                            ],
+                            [
+                                29,
+                                70
+                            ],
+                            [
+                                67,
+                                70
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the mood of the person in the picture?\"",
+                "options": [
+                    "Angrily Disgusted",
+                    "Sadly Surprised",
+                    "Fearfully Surprised",
+                    "Sadly Fearful"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_297_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                25,
+                                33
+                            ],
+                            [
+                                70,
+                                34
+                            ],
+                            [
+                                46,
+                                55
+                            ],
+                            [
+                                26,
+                                72
+                            ],
+                            [
+                                72,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is the person in the photo displaying?",
+                "options": [
+                    "Angrily Surprised",
+                    "Sadly Disgusted",
+                    "Sadly Fearful",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_487_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised",
+                        "five_points": [
+                            [
+                                23,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                48,
+                                50
+                            ],
+                            [
+                                25,
+                                73
+                            ],
+                            [
+                                71,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the expression of the person in the picture?\"",
+                "options": [
+                    "Happily Surprised",
+                    "Fearfully Surprised",
+                    "Sadly Surprised",
+                    "Happily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_724_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Surprised",
+                        "five_points": [
+                            [
+                                25,
+                                32
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                46,
+                                51
+                            ],
+                            [
+                                31,
+                                74
+                            ],
+                            [
+                                67,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the expression of the person in the picture?\"",
+                "options": [
+                    "Angrily Surprised",
+                    "Happily Disgusted",
+                    "Sadly Fearful",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_529_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised",
+                        "five_points": [
+                            [
+                                22,
+                                32
+                            ],
+                            [
+                                71,
+                                34
+                            ],
+                            [
+                                42,
+                                57
+                            ],
+                            [
+                                29,
+                                74
+                            ],
+                            [
+                                65,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What does the expression of the person in the image reveal?",
+                "options": [
+                    "Happily Disgusted",
+                    "Happily Surprised",
+                    "Angrily Disgusted",
+                    "Fearfully Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_232_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happily Disgusted",
+                        "five_points": [
+                            [
+                                23,
+                                33
+                            ],
+                            [
+                                72,
+                                33
+                            ],
+                            [
+                                53,
+                                58
+                            ],
+                            [
+                                28,
+                                77
+                            ],
+                            [
+                                72,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional state does the person in the picture seem to be in?",
+                "options": [
+                    "Sadly Angry",
+                    "Angrily Surprised",
+                    "Disgustedly Surprised",
+                    "Happily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_723_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                29,
+                                27
+                            ],
+                            [
+                                72,
+                                31
+                            ],
+                            [
+                                57,
+                                56
+                            ],
+                            [
+                                32,
+                                71
+                            ],
+                            [
+                                71,
+                                71
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotional response is the person in the picture displaying?",
+                "options": [
+                    "Sadly Angry",
+                    "Happily Surprised",
+                    "Disgustedly Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_329_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                28,
+                                29
+                            ],
+                            [
+                                74,
+                                30
+                            ],
+                            [
+                                52,
+                                67
+                            ],
+                            [
+                                29,
+                                72
+                            ],
+                            [
+                                67,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the facial expression of the person in the photo?",
+                "options": [
+                    "Disgustedly Surprised",
+                    "Fearfully Angry",
+                    "Sadly Angry",
+                    "Angrily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_344_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised",
+                        "five_points": [
+                            [
+                                21,
+                                32
+                            ],
+                            [
+                                66,
+                                32
+                            ],
+                            [
+                                35,
+                                60
+                            ],
+                            [
+                                24,
+                                73
+                            ],
+                            [
+                                68,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What expression is on the face of the person in the picture?",
+                "options": [
+                    "Angrily Disgusted",
+                    "Happily Surprised",
+                    "Sadly Surprised",
+                    "Fearfully Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_757_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                72,
+                                32
+                            ],
+                            [
+                                50,
+                                52
+                            ],
+                            [
+                                32,
+                                74
+                            ],
+                            [
+                                67,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the facial expression of the person in this picture?",
+                "options": [
+                    "Disgustedly Surprised",
+                    "Sadly Fearful",
+                    "Angrily Surprised",
+                    "Happily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_388_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                73,
+                                34
+                            ],
+                            [
+                                48,
+                                59
+                            ],
+                            [
+                                27,
+                                76
+                            ],
+                            [
+                                70,
+                                71
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is the person in the image showing?",
+                "options": [
+                    "Angrily Surprised",
+                    "Sadly Fearful",
+                    "Happily Surprised",
+                    "Happily Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_544_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                72,
+                                34
+                            ],
+                            [
+                                50,
+                                59
+                            ],
+                            [
+                                29,
+                                75
+                            ],
+                            [
+                                71,
+                                75
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What is the emotional expression of the person in the photo?",
+                "options": [
+                    "Sadly Angry",
+                    "Angrily Surprised",
+                    "Happily Surprised",
+                    "Disgustedly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_527_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                24,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                46,
+                                63
+                            ],
+                            [
+                                28,
+                                73
+                            ],
+                            [
+                                68,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion does the person in the image convey?",
+                "options": [
+                    "Sadly Angry",
+                    "Fearfully Surprised",
+                    "Happily Surprised",
+                    "Angrily Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_062_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadly Angry",
+                        "five_points": [
+                            [
+                                24,
+                                32
+                            ],
+                            [
+                                68,
+                                33
+                            ],
+                            [
+                                36,
+                                59
+                            ],
+                            [
+                                27,
+                                74
+                            ],
+                            [
+                                69,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "What emotion is the person in the photo displaying?",
+                "options": [
+                    "Angrily Disgusted",
+                    "Fearfully Angry",
+                    "Happily Surprised",
+                    "Disgustedly Surprised"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_712_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted",
+                        "five_points": [
+                            [
+                                26,
+                                33
+                            ],
+                            [
+                                71,
+                                33
+                            ],
+                            [
+                                42,
+                                58
+                            ],
+                            [
+                                32,
+                                73
+                            ],
+                            [
+                                65,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "How does the person in the photo appear emotionally?",
+                "options": [
+                    "Angrily Surprised",
+                    "Happily Disgusted",
+                    "Happily Surprised",
+                    "Sadly Disgusted"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_753_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised",
+                        "five_points": [
+                            [
+                                24,
+                                32
+                            ],
+                            [
+                                71,
+                                32
+                            ],
+                            [
+                                45,
+                                54
+                            ],
+                            [
+                                28,
+                                74
+                            ],
+                            [
+                                68,
+                                74
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "How do you perceive the expression of the person in the picture?",
+                "options": [
+                    "Disgustedly Surprised",
+                    "Angrily Disgusted",
+                    "Happily Surprised",
+                    "Sadly Fearful"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0104.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_782_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised",
+                        "five_points": [
+                            [
+                                25,
+                                34
+                            ],
+                            [
+                                73,
+                                34
+                            ],
+                            [
+                                49,
+                                57
+                            ],
+                            [
+                                28,
+                                72
+                            ],
+                            [
+                                72,
+                                73
+                            ]
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

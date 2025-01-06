@@ -1,0 +1,4804 @@
+{
+    "data": [
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他留着短发,穿着一件有条纹的短袖衬衫。",
+                    "他留着长发,戴着太阳镜,但没有戴帽子。",
+                    "他留着长发,戴着帽子,穿着短袖衬衫。",
+                    "他戴着口罩,穿着没有条纹的衣服,没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_2.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            834.4216216216216,
+                            178.5081081081081,
+                            102.4,
+                            307.20000000000005
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她没有戴太阳镜,也没有戴帽子,也没有穿T恤。",
+                    "她穿着休闲短袖上衣,没有穿T恤。",
+                    "她穿着T恤和太阳镜,衣服上没有标志。",
+                    "她戴着口罩和太阳镜,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_125.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            778.7373068432671,
+                            144.6710816777042,
+                            144.6710816777042,
+                            453.22737306843266
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述完全符合图片中的人?",
+                "options": [
+                    "她穿着长裤和长袖衬衫,头发短。",
+                    "她穿着印有标志的短袖衬衫,还戴着口罩。",
+                    "她戴着口罩和长袖衬衫,还戴着太阳镜。",
+                    "她留着长发,穿着短袖上衣,但没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_89.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            855.988684582744,
+                            126.00848656294201,
+                            94.14427157001414,
+                            341.81612446958985
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她留着长发,穿着没有条纹的休闲服装。",
+                    "她穿着正式服装,戴着口罩,没有穿牛仔裤。",
+                    "她穿着长袖衣服和太阳镜,衣服上没有条纹。",
+                    "她留着短发,穿着休闲服装,戴着帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_726.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            736.5889570552148,
+                            150.77300613496934,
+                            191.6073619631902,
+                            615.6564417177914
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他戴着帽子,穿着没有条纹的衣服,选择了长袖的服装。",
+                    "他穿着正式的长袖衬衫和牛仔裤。",
+                    "他穿着一件没有条纹的T恤和衣服,但没有穿长裤。",
+                    "他留着长发,没有戴太阳镜,但穿着牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            828.320652173913,
+                            115.16304347826087,
+                            74.59239130434783,
+                            170.78804347826087
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "指出与照片中人物最符合的描述。",
+                "options": [
+                    "她穿着休闲服装,没有戴太阳镜,衣服上也没有条纹。",
+                    "她穿着牛仔裤,打扮得很随意,戴着口罩。",
+                    "她戴着帽子,没有戴太阳镜或短裤。",
+                    "她留着长发,穿着一件长袖T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_181.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            44.57142857142857,
+                            876.0,
+                            192.0,
+                            557.1428571428571
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在这些描述中,哪一个最准确地描绘了图片中的人?",
+                "options": [
+                    "他留着短发,没有戴帽子,穿着有标志的衣服。",
+                    "他戴着帽子,穿着T恤和牛仔裤。",
+                    "他穿着正式,戴着太阳镜,没有穿长裤。",
+                    "他留着短发,没有穿着没有条纹的T恤衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_106.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            59.71197846567967,
+                            223.89232839838493,
+                            142.38492597577388,
+                            374.37415881561236
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合照片中人物的描述。",
+                "options": [
+                    "他留着短发,穿着一件没有太阳镜的短袖衬衫。",
+                    "他穿着休闲服,戴着口罩,没有穿短裤。",
+                    "他穿着短袖T恤和口罩。",
+                    "他留着长发,没有穿T恤,而是选择了长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_913.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            241.1297798377752,
+                            211.3117033603708,
+                            64.24101969872538,
+                            179.09617612977985
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他留着短发,没有戴帽子,穿着休闲装。",
+                    "他穿着休闲服装,戴着帽子和口罩。",
+                    "他戴着帽子和短袖衬衫,但没有戴太阳镜。",
+                    "他没有穿长裤或太阳镜,但穿着有标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_286.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            87.20516129032258,
+                            445.93548387096774,
+                            116.9341935483871,
+                            216.03096774193548
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能代表所示人物?",
+                "options": [
+                    "她留着长发,没有戴帽子或穿T恤。",
+                    "她留着短发,戴着口罩,但没有穿裙子。",
+                    "她穿着短裤和一件没有条纹的短袖上衣。",
+                    "她穿着休闲服装,戴着帽子,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/30--Surgeons/30_Surgeons_Surgeons_30_612.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            280.1509433962264,
+                            249.55974842767296,
+                            141.68553459119497,
+                            426.6666666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近照片中的人?",
+                "options": [
+                    "她留着长发,没有戴太阳镜或帽子。",
+                    "她穿着牛仔裤和一件没有条纹的长袖上衣。",
+                    "她穿着一件没有标志的T恤和长裤。",
+                    "她留着短发,穿着有标志的衣服,但没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_611.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            474.6666666666667,
+                            245.33333333333334,
+                            129.06666666666666,
+                            276.26666666666665
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请确定最能反映图片中人物的描述。",
+                "options": [
+                    "她没有戴帽子,留着短发,穿着没有标志的衣服。",
+                    "她穿着长袖衬衫和太阳镜,没有戴帽子。",
+                    "她戴着帽子、口罩和裙子。",
+                    "她穿着正式的裙子,衣服上有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_212.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            369.06666666666666,
+                            208.0,
+                            291.2,
+                            470.4
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最适合照片中的人?",
+                "options": [
+                    "她没有戴口罩,留着短发,也没有穿T恤。",
+                    "她戴着口罩和有标志的衣服,但没有戴太阳镜。",
+                    "她戴着太阳镜和长袖衬衫,但没有戴口罩。",
+                    "她留着长发,穿着一件长袖衬衫和裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_622.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            395.93048128342247,
+                            323.53743315508024,
+                            148.16310160427807,
+                            250.70855614973263
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "您认为哪个描述最符合图片中的个人?",
+                "options": [
+                    "她没有戴口罩或穿T恤,但穿着长裤。",
+                    "她穿着有标志的衣服,留着短发,戴着太阳镜。",
+                    "她没有穿长裤或太阳镜,但穿着有标志的衣服。",
+                    "她留着长发,穿着长袖衬衫,还戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_473.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            539.6806596701649,
+                            156.86356821589206,
+                            87.16041979010495,
+                            208.2728635682159
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "这张图片中的人最合适的描述是什么?",
+                "options": [
+                    "她留着长发,没有穿T恤或口罩。",
+                    "她穿着短裤和长袖衬衫,没有戴太阳镜。",
+                    "她穿着有标志和条纹的衣服,但没有穿牛仔裤。",
+                    "她没有穿T恤,但戴着太阳镜和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_334.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            404.8661800486618,
+                            373.7226277372263,
+                            193.09002433090023,
+                            198.07299270072994
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合照片中的人?",
+                "options": [
+                    "她留着长发,没有戴口罩,穿着没有条纹的衣服。",
+                    "她戴着太阳镜和长裤,但没有戴帽子。",
+                    "她留着短发,穿着一件长袖衬衫和裙子。",
+                    "她戴着口罩,穿着印有标志的衣服,搭配一条裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_598.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            781.7803806734993,
+                            277.50219619326504,
+                            202.90483162518302,
+                            737.0219619326501
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合所示个人的描述。",
+                "options": [
+                    "他留着短发,没有戴口罩或穿T恤。",
+                    "他没有穿有标志或条纹的衣服,也没有戴太阳镜。",
+                    "他戴着口罩,但没有戴帽子或裙子。",
+                    "他戴着口罩、帽子和短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_238.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            214.39118457300276,
+                            114.24793388429752,
+                            270.8099173553719,
+                            648.8154269972451
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能体现照片中的人?",
+                "options": [
+                    "她穿着没有条纹的衣服,短袖,也没有戴太阳镜。",
+                    "她穿着正式的长袖衬衫,没有戴帽子。",
+                    "她穿着长袖衬衫,没有戴口罩或牛仔裤。",
+                    "她穿着正式的长袖上衣,没有穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/22--Picnic/22_Picnic_Picnic_22_18.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            0.0,
+                            383.11051212938,
+                            88.94878706199461,
+                            147.81671159029648
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "他戴着帽子,戴着太阳镜,穿着长袖衬衫。",
+                    "他没有戴口罩或太阳镜,但穿着短裤。",
+                    "他穿着有标志的衣服和短袖衬衫,但没有戴口罩。",
+                    "他长发披肩,没有戴帽子,穿着没有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_614.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            334.7420689655172,
+                            303.66896551724136,
+                            372.8772413793103,
+                            398.3006896551724
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中的人最合适的描述是什么?",
+                "options": [
+                    "他留着短发,穿着没有条纹的衣服,但没有穿短裤。",
+                    "他留着长发,穿着没有标志的短袖衣服。",
+                    "他留着长发,戴着太阳镜,没有穿裙子。",
+                    "他留着短发,戴着帽子,穿着短袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_18.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            547.1299270072992,
+                            445.4773722627737,
+                            91.1883211678832,
+                            147.9941605839416
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人?",
+                "options": [
+                    "他没有穿长裤,穿着一件没有太阳镜的短袖衬衫。",
+                    "他留着长发,戴着太阳镜,没有穿牛仔裤。",
+                    "他戴着帽子和太阳镜,他的衣服上没有条纹。",
+                    "他穿着正式服装,戴着口罩,没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_636.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            417.8725376593279,
+                            986.1158748551564,
+                            99.71958285052143,
+                            330.81575898030127
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他戴着帽子和长袖衬衫,但没有戴口罩。",
+                    "他戴着口罩和短袖衬衫,但没有戴帽子。",
+                    "他穿着T恤和口罩,但没有戴太阳镜。",
+                    "他穿着印有标志的休闲服装,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/43--Row_Boat/43_Row_Boat_Rowboat_43_1048.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            207.86879432624113,
+                            232.07269503546098,
+                            153.7659574468085,
+                            227.80141843971631
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他穿着一件没有条纹的T恤和衣服,他没有穿裙子。",
+                    "他穿着长袖T恤和条纹衣服。",
+                    "他穿着正式服装,戴着太阳镜,没有穿裙子。",
+                    "他留着长发,戴着帽子,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_882.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            867.329253365973,
+                            335.9020807833537,
+                            80.21542227662178,
+                            315.84822521419824
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "她没有戴帽子或口罩,但穿着没有标志的衣服。",
+                    "她戴着太阳镜和口罩,但没有穿T恤。",
+                    "她穿着长裤和一件没有条纹的短袖上衣。",
+                    "她留着长发,穿着有标志的衣服,长袖的。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_538.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            420.3478260869565,
+                            248.58695652173913,
+                            62.93478260869565,
+                            310.4782608695652
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他穿着条纹衣服,打扮得很随意,没有穿短裤。",
+                    "他留着长发,没有穿T恤,但穿着牛仔裤。",
+                    "他穿着正式的短袖衬衫,没有戴太阳镜。",
+                    "他留着长发,穿着一件没有帽子的T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_4.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            684.3317073170732,
+                            319.6878048780488,
+                            161.09268292682927,
+                            363.3951219512195
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述完全符合图片中的人?",
+                "options": [
+                    "她没有穿T恤或太阳镜,穿着没有条纹的衣服。",
+                    "她穿着牛仔裤和有标志的衣服,但没有戴口罩。",
+                    "她穿着条纹和标志的休闲服装。",
+                    "她留着短发,戴着帽子,穿着短袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_49.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            693.1113831089351,
+                            443.69155446756423,
+                            95.25581395348837,
+                            234.37943696450427
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合照片中的人?",
+                "options": [
+                    "他穿着短袖T恤,没有穿牛仔裤。",
+                    "他戴着口罩和长袖衬衫,但没有穿长裤。",
+                    "他留着长发,穿着牛仔裤,没有戴太阳镜。",
+                    "他戴着太阳镜,但没有戴帽子或穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_874.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            806.4,
+                            393.6,
+                            161.06666666666666,
+                            263.46666666666664
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他留着短发,穿着休闲服装,戴着帽子。",
+                    "他穿着短裤和太阳镜,衣服上没有标志。",
+                    "他没有戴帽子,但穿着长裤和有标志的衣服。",
+                    "他穿着休闲的长袖衬衫和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_823.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            637.2842998585573,
+                            270.8458274398869,
+                            120.21499292786422,
+                            328.78076379066476
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中人物的最准确描述是什么?",
+                "options": [
+                    "他穿着休闲服装,没有戴口罩或太阳镜。",
+                    "他戴着帽子,穿着没有标志的T恤衫。",
+                    "他穿着休闲的长袖衬衫,还穿着裙子。",
+                    "他没有穿T恤或太阳镜,但穿着牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_105.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            590.72,
+                            119.128,
+                            209.80266666666668,
+                            388.3706666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请从描述中选择最符合图片中人物的那一项。",
+                "options": [
+                    "他穿着休闲服装,没有标志,并且没有穿裙子。",
+                    "他穿着没有标志的正式服装,穿着短袖衬衫。",
+                    "他戴着口罩和太阳镜,留着短发。",
+                    "他穿着正式,没有戴口罩或帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_876.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            49.53684210526316,
+                            377.7157894736842,
+                            240.94736842105263,
+                            603.5157894736842
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "指出最符合照片中人物的描述。",
+                "options": [
+                    "他穿着正式服装,没有条纹,也没有穿短裤。",
+                    "他穿着休闲服装,穿着裙子,但没有戴口罩。",
+                    "他穿着有标志的衣服和口罩,但没有穿裙子。",
+                    "他留着长发,没有戴太阳镜,选择穿短袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_474.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            683.1606367583212,
+                            154.1186685962373,
+                            125.96237337192474,
+                            443.09117221418234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在这些描述中,哪一个最准确地描绘了图片中的人?",
+                "options": [
+                    "他留着短发,穿着休闲服装,没有戴口罩。",
+                    "他穿着牛仔裤和口罩,衣服上没有条纹。",
+                    "他穿着T恤和短裤正式打扮。",
+                    "他没有戴口罩或帽子,但戴着太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_185.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            191.140350877193,
+                            467.0526315789474,
+                            75.26315789473684,
+                            150.140350877193
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选出最符合照片中人物的描述。",
+                "options": [
+                    "她留着短发,穿着短袖上衣,没有穿长裤。",
+                    "她穿着一件短袖T恤正式打扮。",
+                    "她戴着帽子和太阳镜,穿着短袖衬衫。",
+                    "她穿着条纹衣服,戴着口罩,没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_279.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            124.73654390934844,
+                            71.07082152974505,
+                            380.0113314447592,
+                            942.7762039660057
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他穿着条纹衣服,打扮得很随意,戴着帽子。",
+                    "他戴着帽子和太阳镜,但没有穿长裤。",
+                    "他留着长发,穿着一条有条纹图案的裙子。",
+                    "他穿着印有标志的T恤,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_15.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            560.6871165644172,
+                            69.1042944785276,
+                            230.87116564417178,
+                            609.3742331288344
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能代表所示人物?",
+                "options": [
+                    "她穿着牛仔裤,穿着没有标志的衣服,打扮得很随意。",
+                    "她戴着帽子,没有穿T恤或裙子。",
+                    "她戴着帽子,头发短,没有戴太阳镜。",
+                    "她穿着正式服装,没有条纹,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/22--Picnic/22_Picnic_Picnic_22_133.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            257.62264150943395,
+                            150.56603773584905,
+                            154.41509433962264,
+                            269.0566037735849
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近照片中的人?",
+                "options": [
+                    "他留着短发,没有戴帽子,穿着短裤。",
+                    "他穿着长袖衣服和有标志的衣服,但没有穿有条纹的衣服。",
+                    "他留着长发,穿着一件T恤衫,打扮随意。",
+                    "他穿着条纹衣服正式打扮,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_135.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            438.7768817204301,
+                            352.88844086021504,
+                            149.3709677419355,
+                            272.002688172043
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请识别最能反映图片中人物的描述。",
+                "options": [
+                    "他没有戴口罩,穿着没有条纹或标志的衣服。",
+                    "他戴着口罩,穿着长袖衬衫和牛仔裤。",
+                    "他没有戴太阳镜或帽子,但穿着条纹衣服。",
+                    "他长发披肩,穿着正式服装,穿着长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_283.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            480.14055636896046,
+                            80.96046852122987,
+                            115.81844802342607,
+                            476.76720351390924
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最适合照片中的人?",
+                "options": [
+                    "他没有戴帽子,穿着短裤和短袖衬衫。",
+                    "他穿着条纹长袖衣服,还穿着裙子。",
+                    "他没有穿T恤,没有戴太阳镜,穿着一件长袖衬衫。",
+                    "他穿着长袖衬衫和口罩,但没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_49.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            381.0232558139535,
+                            364.7294981640147,
+                            115.30966952264382,
+                            184.24479804161564
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "您认为哪个描述最符合图片中的个人?",
+                "options": [
+                    "他没有穿T恤,而是穿着没有条纹但有标志的衣服。",
+                    "他穿着正式的T恤,没有穿短裤。",
+                    "他留着长发,穿着休闲的牛仔裤。",
+                    "他穿着短裤和没有标志的衣服,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/3--Riot/3_Riot_Riot_3_128.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            667.1902173913044,
+                            184.10326086956522,
+                            114.88043478260869,
+                            347.5869565217391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "这张图片中的人最合适的描述是什么?",
+                "options": [
+                    "他穿着没有条纹的衣服,短袖,没有穿裙子。",
+                    "他穿着休闲的长袖衬衫和牛仔裤。",
+                    "他没有戴帽子,穿着有条纹但没有任何标志的衣服。",
+                    "他穿得正式,衣服上没有标志,并戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_565.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            711.04047976012,
+                            183.8335832083958,
+                            118.85757121439279,
+                            364.45277361319336
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合照片中的人?",
+                "options": [
+                    "她没有穿T恤或牛仔裤,但穿着有条纹的衣服。",
+                    "她穿着没有标志的衣服,戴着口罩,头发很长。",
+                    "她穿着休闲服装,戴着帽子和牛仔裤。",
+                    "她戴着太阳镜,穿着长袖衬衫,但没有穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/15--Stock_Market/15_Stock_Market_Stock_Market_15_1033.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            193.83812010443864,
+                            1.671018276762402,
+                            613.2637075718015,
+                            1271.6449086161879
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合所示个人的描述。",
+                "options": [
+                    "他没有穿T恤、口罩或牛仔裤。",
+                    "他穿着正式服装,戴着口罩,还戴着帽子。",
+                    "他留着短发,戴着帽子,穿着短袖衬衫。",
+                    "他穿着正式,戴着帽子,没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_983.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            689.4257425742575,
+                            282.43281471004246,
+                            68.07355021216408,
+                            181.04667609618105
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "他留着短发,穿着休闲装,没有穿裙子。",
+                    "他没有穿T恤,但穿着裙子和太阳镜。",
+                    "他穿着印有标志的衣服和短袖衬衫,但没有穿裙子。",
+                    "他没有穿T恤或长裤,但穿着有标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            216.21195652173913,
+                            379.6539855072464,
+                            92.79528985507245,
+                            172.26086956521738
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中的人最合适的描述是什么?",
+                "options": [
+                    "她留着长发,戴着帽子,没有穿牛仔裤。",
+                    "她穿着没有条纹的长袖衣服,但没有穿长裤。",
+                    "她穿着条纹衣服,没有标志,也没有戴太阳镜。",
+                    "她穿着休闲T恤,戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_iceskiing_39_308.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            472.3090909090909,
+                            253.54545454545456,
+                            65.60000000000001,
+                            300.41818181818184
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人?",
+                "options": [
+                    "他没有戴帽子,穿着一件T恤和条纹衣服。",
+                    "他留着长发,穿着一件T恤和牛仔裤。",
+                    "他穿着T恤和牛仔裤,戴着太阳镜。",
+                    "他穿着正式的T恤和长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_203.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            656.8738255033556,
+                            262.0389261744966,
+                            103.37986577181208,
+                            338.91543624161073
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她没有穿T恤或牛仔裤,但穿着短袖。",
+                    "她穿着休闲装,戴着帽子和牛仔裤。",
+                    "她没有戴口罩,穿着长袖上衣,没有穿短裤。",
+                    "她留着短发,穿着印有标志的T恤衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_436.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            127.21472392638037,
+                            241.86503067484662,
+                            105.22699386503068,
+                            265.4233128834356
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他没有戴太阳镜,穿着没有条纹的衣服,也没有穿T恤。",
+                    "他穿着牛仔裤和没有条纹的衣服,但没有戴帽子。",
+                    "他穿着一件有条纹的T恤和太阳镜。",
+                    "他留着长发,戴着帽子,穿着条纹衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_339.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            404.91077636152954,
+                            422.40440324449594,
+                            58.12282734646582,
+                            86.69988412514485
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他没有戴帽子,穿着短袖,也没有穿裙子。",
+                    "他戴着帽子,穿着短袖衬衫和长裤。",
+                    "他留着长发,没有戴帽子,穿着牛仔裤。",
+                    "他穿着T恤和口罩,但他的衣服上没有任何标志。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_715.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            631.6964504283965,
+                            461.23867809057526,
+                            90.2423500611995,
+                            166.69767441860463
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他没有戴口罩或太阳镜,穿着没有条纹的衣服。",
+                    "他穿着正式的有标志的衣服,穿着长袖衬衫。",
+                    "他戴着口罩和长袖衬衫,但没有穿牛仔裤。",
+                    "他没有戴太阳镜,穿着没有标志但有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_114.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            10.384332925336597,
+                            768.4406364749082,
+                            259.60832313341496,
+                            642.0979192166462
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述完全符合图片中的人?",
+                "options": [
+                    "她留着长发,没有戴太阳镜,但穿着短裤。",
+                    "她留着长发,穿着牛仔裤,不是穿T恤。",
+                    "她穿着裙子和有标志的衣服,还戴着太阳镜。",
+                    "她穿着休闲服装,戴着帽子和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_160.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            671.5768194070081,
+                            37.7722371967655,
+                            330.14824797843664,
+                            554.366576819407
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她穿着长袖衬衫,没有戴帽子或裙子。",
+                    "她穿着T恤和帽子,但她的衣服上没有任何标志。",
+                    "她穿着休闲裙,戴着太阳镜。",
+                    "她留着长发,穿着一件短袖衬衫,还戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_106.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            281.4659685863875,
+                            72.37696335078535,
+                            241.25654450261783,
+                            574.9947643979058
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合照片中的人?",
+                "options": [
+                    "她穿着休闲服装,没有戴太阳镜,也没有穿牛仔裤。",
+                    "她戴着帽子,穿着没有标志的衣服,穿着T恤。",
+                    "她留着短发,穿着正式服装,不穿T恤。",
+                    "她留着短发,戴着帽子,但她的衣服没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/7--Cheering/7_Cheering_Cheering_7_864.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            431.7558945908461,
+                            18.463245492371705,
+                            150.54646324549236,
+                            529.753120665742
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他穿着条纹衣服和帽子,但没有穿短裤。",
+                    "他没有戴太阳镜,也没有戴帽子,穿着没有标志的衣服。",
+                    "他穿着正式,留着短发,戴着口罩。",
+                    "他没有戴帽子或穿T恤,而是穿着短袖装。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_402.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            94.0,
+                            486.0,
+                            256.0,
+                            778.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中人物的最准确描述是什么?",
+                "options": [
+                    "他没有穿T恤,穿着长袖衬衫,没有戴太阳镜。",
+                    "他穿着T恤,没有戴帽子或穿短裤。",
+                    "他穿着短裤和条纹衣服,但没有穿T恤。",
+                    "他穿着短袖衬衫正式打扮,没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_910.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            613.552536231884,
+                            98.3840579710145,
+                            83.89130434782608,
+                            205.20471014492753
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请从描述中选择最符合照片中人物的那一项。",
+                "options": [
+                    "她没有戴口罩或帽子,但穿着长裤。",
+                    "她戴着帽子和太阳镜,但没有戴口罩。",
+                    "她穿着T恤和太阳镜,但没有穿短裤。",
+                    "她穿着条纹衣服,一件长袖衬衫,还戴着帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_934.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            762.396292004635,
+                            698.5098493626883,
+                            105.64078794901506,
+                            219.29895712630358
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "指出最符合照片中人物的描述。",
+                "options": [
+                    "她没有穿长裤,但穿着没有条纹并带有标志的衣服。",
+                    "她留着长发,穿着有标志的衣服和长裤。",
+                    "她留着短发,穿着条纹衣服,戴着太阳镜。",
+                    "她穿着长袖衬衫和太阳镜,但没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_784.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            304.7189189189189,
+                            528.8689189189189,
+                            68.65945945945946,
+                            184.07837837837837
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在这些描述中,哪一个最准确地描绘了图片中的人?",
+                "options": [
+                    "他留着短发,戴着帽子,没有戴口罩。",
+                    "他穿着正式,戴着口罩,没有穿短裤。",
+                    "他穿着正式服装,戴着口罩,没有穿短裤。",
+                    "他穿着短袖T恤和帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_301.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            314.11042944785277,
+                            177.4723926380368,
+                            109.93865030674847,
+                            260.7116564417178
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合照片中人物的描述。",
+                "options": [
+                    "他穿着一件没有标志的T恤和衣服,没有戴太阳镜。",
+                    "他留着长发,穿着一件T恤和牛仔裤。",
+                    "他戴着口罩,穿着条纹衣服,但没有穿裙子。",
+                    "他留着短发,戴着帽子和口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_186.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            314.6837146702557,
+                            125.35127860026918,
+                            269.34320323014805,
+                            501.06864064602956
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他留着短发,没有戴太阳镜或穿牛仔裤。",
+                    "他留着短发,穿着印有标志的衣服,但他也穿着裙子。",
+                    "他没有戴太阳镜,但穿着有条纹和标志的衣服。",
+                    "他没有穿T恤,但戴着太阳镜,也没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_302.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            75.5958815958816,
+                            86.14414414414414,
+                            124.82110682110682,
+                            1133.938223938224
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能代表所示人物?",
+                "options": [
+                    "她留着长发,穿着短裤,衣服上没有标志。",
+                    "她穿着休闲服,戴着帽子和口罩。",
+                    "她没有戴口罩或穿长裤,但穿着长袖衬衫。",
+                    "她穿着一件印有标志的T恤,穿着正式。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/44--Aerobics/44_Aerobics_Aerobics_44_39.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            606.3638525564803,
+                            122.97740784780022,
+                            161.94054696789536,
+                            231.34363852556478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近照片中的人?",
+                "options": [
+                    "她留着短发,没有穿T恤或牛仔裤。",
+                    "她穿着休闲服装,戴着帽子和短裤。",
+                    "她穿着长袖T恤,没有戴太阳镜。",
+                    "她没有戴帽子,但穿着有标志的衣服和太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/44--Aerobics/44_Aerobics_Aerobics_44_420.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            64.53269916765754,
+                            101.06064209274672,
+                            107.14863258026159,
+                            323.8810939357907
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请识别最能反映图片中人物的描述。",
+                "options": [
+                    "她没有穿长裤、太阳镜或带有标志的衣服。",
+                    "她穿着裙子,搭配长袖衬衫和太阳镜。",
+                    "她穿着正式服装,没有条纹,但有一个标志。",
+                    "她戴着太阳镜,但没有戴口罩或穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_442.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            443.73333333333335,
+                            145.06666666666666,
+                            197.33333333333334,
+                            533.3333333333334
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最适合照片中的人?",
+                "options": [
+                    "他没有戴太阳镜,穿有标志的衣服,或者穿T恤。",
+                    "他穿着休闲的T恤,戴着帽子。",
+                    "他穿着印有标志和条纹的休闲服装。",
+                    "他穿着短裤和条纹衣服,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_86.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            539.9003623188406,
+                            23.39673913043478,
+                            185.04891304347828,
+                            406.0144927536232
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "您认为哪个描述最符合图片中的个人?",
+                "options": [
+                    "他留着短发,穿着没有条纹的衣服,但没有穿T恤。",
+                    "他没有穿长裤,穿着没有条纹的衣服,包括一件短袖衬衫。",
+                    "他留着短发,穿着休闲服装,戴着太阳镜。",
+                    "他戴着太阳镜,穿着条纹衣服,但没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_799.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            0.0,
+                            101.390452876377,
+                            412.4357405140759,
+                            1292.2986536107712
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "这张图片中的人最合适的描述是什么?",
+                "options": [
+                    "他穿着休闲服装,没有戴口罩或穿条纹衣服。",
+                    "他穿着一件长袖衬衫,打扮得很随意,并戴着口罩。",
+                    "他穿着正式的长裤,衣服上没有标志。",
+                    "他留着长发,穿着裙子,但衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_631.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            917.0347593582887,
+                            752.5882352941177,
+                            100.17112299465242,
+                            352.98395721925135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合图片中的人?",
+                "options": [
+                    "她没有戴太阳镜或帽子,穿着短袖上衣。",
+                    "她穿着T恤和牛仔裤,戴着太阳镜。",
+                    "她没有戴太阳镜,穿着长袖衣服,也没有穿裙子。",
+                    "她戴着帽子和长裤,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_287.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            372.24969400244794,
+                            201.79192166462667,
+                            137.87025703794367,
+                            458.7319461444308
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合所示个人的描述。",
+                "options": [
+                    "她留着长发,穿着休闲服装,没有戴帽子。",
+                    "她穿着条纹衣服和帽子,戴着太阳镜。",
+                    "她穿着正式的短袖服装,没有穿牛仔裤。",
+                    "她穿着牛仔裤和一件有条纹的长袖衬衫。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_4.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            766.606170598911,
+                            554.7441016333938,
+                            89.20508166969147,
+                            166.33030852994554
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能体现照片中的人?",
+                "options": [
+                    "他没有戴帽子或太阳镜,但穿着短裤。",
+                    "他留着长发,穿着条纹和短袖的衣服。",
+                    "他穿着正式服装,没有戴口罩或穿T恤。",
+                    "他穿着正式服装,没有标志或条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_940.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            184.24479804161564,
+                            85.22888616891063,
+                            180.484700122399,
+                            488.81272949816395
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "他穿着一件长袖衬衫,打扮得很随意,没有戴口罩。",
+                    "他留着短发,戴着太阳镜,穿着短袖衬衫。",
+                    "他戴着太阳镜,穿着条纹衣服,但没有戴口罩。",
+                    "他戴着口罩,穿着没有标志的衣服,但没有穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_854.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            232.25711662075298,
+                            220.97337006427915,
+                            83.68778696051423,
+                            166.43526170798899
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中的人最合适的描述是什么?",
+                "options": [
+                    "他戴着帽子,没有穿T恤或裙子。",
+                    "他穿着一件短袖T恤,打扮得很随意。",
+                    "他穿着一件印有标志的短袖衬衫,打扮得很随意。",
+                    "他穿着短袖和太阳镜,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_864.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            800.1608040201005,
+                            24.44221105527638,
+                            217.4070351758794,
+                            670.2311557788945
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人?",
+                "options": [
+                    "她没有戴太阳镜、帽子或长裤。",
+                    "她穿着短裤和长袖上衣,没有戴口罩。",
+                    "她穿着条纹衣服正式打扮,没有穿短裤。",
+                    "她穿着条纹衣服,一件短袖衬衫,还戴着帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_378.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            592.7641099855282,
+                            19.264833574529664,
+                            380.85094066570184,
+                            657.9681620839362
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她穿着长袖衬衫,没有戴口罩或穿T恤。",
+                    "她没有戴帽子,穿着短袖,但没有戴口罩。",
+                    "她没有穿T恤,但戴着口罩和牛仔裤。",
+                    "她穿着长裤、帽子和有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_75.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            313.272972972973,
+                            598.6216216216217,
+                            286.75405405405405,
+                            543.2297297297297
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "她没有戴太阳镜或长裤,但穿着有标志的衣服。",
+                    "她穿着裙子和太阳镜,但没有穿T恤。",
+                    "她穿着没有标志或条纹的衣服,戴着太阳镜。",
+                    "她穿着正式的短袖服装,戴着帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_452.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            578.8535031847134,
+                            221.7579617834395,
+                            125.55414012738854,
+                            321.2229299363058
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "她留着长发,穿着牛仔裤和短袖衬衫。",
+                    "她穿着印有标志的休闲服装,没有穿牛仔裤。",
+                    "她留着短发,没有戴太阳镜,而选择穿长袖服装。",
+                    "她留着长发,穿着正式服装,戴着帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/15--Stock_Market/15_Stock_Market_Stock_Market_15_173.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            238.377972465582,
+                            246.06758448060077,
+                            96.12015018773467,
+                            329.37171464330413
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她穿着正式服装,没有戴口罩或穿长裤。",
+                    "她穿着正式,戴着帽子,戴着口罩。",
+                    "她留着短发,穿着休闲服装,没有戴口罩。",
+                    "她穿着休闲服装,没有条纹,穿着短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_633.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            568.5748663101605,
+                            287.2379679144385,
+                            101.13770053475936,
+                            389.4104278074866
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述完全符合图片中的人?",
+                "options": [
+                    "她穿着裙子,没有戴口罩或帽子。",
+                    "她穿着长袖T恤,没有戴太阳镜。",
+                    "她穿着正式服装,没有戴太阳镜,穿着短裤。",
+                    "她戴着帽子,没有戴太阳镜或裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/51--Dresses/51_Dresses_wearingdress_51_976.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            269.13383458646615,
+                            29.413533834586467,
+                            239.72030075187968,
+                            883.8766917293233
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "他穿着一件有条纹的长袖衬衫,没有戴口罩。",
+                    "他戴着帽子和太阳镜,但没有穿裙子。",
+                    "他留着长发,穿着没有条纹的衣服,还戴着太阳镜。",
+                    "他穿着正式服装,没有戴帽子,穿着有标志的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_56.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            693.4524158125915,
+                            218.65300146412883,
+                            187.87115666178624,
+                            380.9428989751098
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最适合照片中的人?",
+                "options": [
+                    "他穿着休闲服装,没有戴帽子,衣服上也没有条纹。",
+                    "他穿着一件印有标志的休闲T恤。",
+                    "他穿着条纹衣服,穿着牛仔裤,打扮得很随意。",
+                    "他穿着有标志的衣服和帽子,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_125.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            589.429347826087,
+                            303.3152173913044,
+                            124.9945652173913,
+                            233.40217391304347
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她留着短发,没有戴帽子或穿T恤。",
+                    "她戴着帽子,穿着有标志的衣服,但没有穿T恤。",
+                    "她戴着帽子,穿着没有标志的衣服,但她的服装有条纹。",
+                    "她留着短发,戴着口罩,穿着短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/19--Couple/19_Couple_Couple_19_1013.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            62.72364672364672,
+                            147.32763532763533,
+                            264.02279202279203,
+                            532.4216524216524
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中人物的最准确描述是什么?",
+                "options": [
+                    "她留着长发,没有穿裙子或太阳镜。",
+                    "她留着长发,穿着短裤和长袖上衣。",
+                    "她穿着T恤和口罩,头发很短。",
+                    "她穿着正式,戴着帽子,衣服上没有任何标志。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_128.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            755.2,
+                            117.33333333333333,
+                            221.86666666666667,
+                            83.2
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请从描述中选择最符合照片中人物的那一项。",
+                "options": [
+                    "他穿着长裤,衣服上没有条纹或标志。",
+                    "他没有戴帽子,穿着没有条纹的衣服,同时戴着口罩。",
+                    "他穿着有条纹和短袖的衣服,但没有穿T恤。",
+                    "他穿着正式,不穿T恤,而且衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/43--Row_Boat/43_Row_Boat_Canoe_43_279.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            472.2179836512262,
+                            118.56948228882834,
+                            237.70027247956403,
+                            264.79564032697544
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "指出与照片中人物最符合的描述。",
+                "options": [
+                    "他戴着帽子,没有穿裙子或口罩。",
+                    "他穿着短裤和太阳镜,但没有穿T恤。",
+                    "他留着长发,戴着口罩和帽子。",
+                    "他穿着正式的短袖衬衫,没有穿T恤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_347.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            727.4979423868313,
+                            254.89437585733882,
+                            55.43895747599451,
+                            204.75994513031551
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在这些描述中,哪一个最准确地描绘了图片中的人?",
+                "options": [
+                    "他留着短发,穿着短袖T恤。",
+                    "他没有穿T恤,而是穿着有条纹和短袖的衣服。",
+                    "他穿着牛仔裤和一件有标志的长袖衬衫。",
+                    "他没有穿T恤或裙子,但穿着有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_264.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            1.2324324324324325,
+                            49.26486486486486,
+                            162.0648648648649,
+                            364.8
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合照片中人物的描述。",
+                "options": [
+                    "他戴着帽子,但没有戴口罩或裙子。",
+                    "他没有戴帽子,穿着没有条纹的衣服,穿着短裤。",
+                    "他留着短发,穿着一套正式的短袖服装。",
+                    "他穿着长裤和条纹衣服,还戴着口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0108.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            357.9076086956522,
+                            277.4710144927536,
+                            56.96195652173913,
+                            166.03804347826087
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合照片中的人?",
+                "options": [
+                    "她留着长发,穿着没有条纹的衣服,但没有穿T恤。",
+                    "她穿着条纹衣服,长袖衬衫和太阳镜。",
+                    "她戴着帽子,穿着没有条纹的长袖衣服。",
+                    "她穿着正式服装,没有戴口罩或穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_37.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            131.0048019207683,
+                            341.3505402160864,
+                            481.5810324129652,
+                            1195.6494597839135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合所示人物?",
+                "options": [
+                    "她留着长发,穿着长裤,没有戴帽子。",
+                    "她留着短发,穿着有条纹但没有任何标志的衣服。",
+                    "她没有戴口罩,穿着没有标志的衣服,也没有穿长裤。",
+                    "她戴着太阳镜,穿着有标志的衣服和牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_americanfootball_ball_36_775.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            652.8,
+                            233.6,
+                            133.33333333333334,
+                            326.4
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最接近照片中的人?",
+                "options": [
+                    "他留着短发,穿着裙子或帽子。",
+                    "他戴着帽子,穿着条纹衣服,但没有戴太阳镜。",
+                    "他戴着口罩和帽子,但没有穿牛仔裤。",
+                    "他留着长发,戴着帽子,没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0112.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_286.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            9.067296340023614,
+                            814.2432113341205,
+                            172.27863046044865,
+                            362.6918536009445
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请确定最能反映图片中人物的描述。",
+                "options": [
+                    "他穿着长裤,没有穿牛仔裤或太阳镜。",
+                    "他没有穿长裤,戴着帽子和太阳镜。",
+                    "他没有穿长裤,穿着没有条纹的衣服,戴着太阳镜。",
+                    "他戴着帽子,穿着有标志的衣服,但没有穿长裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0113.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_486.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            767.2947658402204,
+                            296.198347107438,
+                            227.55555555555554,
+                            362.9605142332415
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "您认为哪个描述最符合图片中的个人?",
+                "options": [
+                    "她留着长发,没有戴帽子或太阳镜。",
+                    "她穿着条纹衣服,打扮得很随意,没有穿T恤。",
+                    "她留着短发,穿着印有标志的休闲服装。",
+                    "她穿着T恤和长裤,戴着太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0114.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_141.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            634.8731884057971,
+                            390.9673913043478,
+                            57.518115942028984,
+                            174.3659420289855
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "这张图片中的人最合适的描述是什么?",
+                "options": [
+                    "她没有戴口罩或裙子,穿着没有标志的衣服。",
+                    "她穿着正式服装,戴着口罩,没有穿牛仔裤。",
+                    "她穿着短袖和太阳镜,衣服上没有任何标志。",
+                    "她留着长发,穿着条纹衣服,但没有穿牛仔裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0115.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_359.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            493.7366362451108,
+                            783.076923076923,
+                            201.74185136897,
+                            226.95958279009125
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在提供的描述中,哪一个最符合照片中的人?",
+                "options": [
+                    "他穿着长袖衬衫,没有戴帽子或短裤。",
+                    "他戴着太阳镜和口罩,但没有穿T恤。",
+                    "他穿着T恤和太阳镜,但他的衣服没有条纹。",
+                    "他留着长发,没有穿T恤,选择穿短裤。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0116.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            189.1945945945946,
+                            402.6054054054054,
+                            142.85945945945946,
+                            366.1135135135135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请选择最符合所示个人的描述。",
+                "options": [
+                    "他留着短发,穿着一件不是T恤的短袖衬衫。",
+                    "他穿着牛仔裤和口罩,但没有穿T恤。",
+                    "他穿着一件长袖衬衫,打扮得很随意,并戴着口罩。",
+                    "他没有穿T恤,而是穿着没有标志但有条纹的衣服。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0117.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_461.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            1.8584392014519056,
+                            41.814882032667875,
+                            264.82758620689657,
+                            502.7078039927405
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能体现照片中的人?",
+                "options": [
+                    "她留着长发,穿着休闲装,没有戴太阳镜。",
+                    "她留着短发,戴着口罩,但没有穿牛仔裤。",
+                    "她穿着休闲的T恤和短裤。",
+                    "她穿着条纹衣服,袖子很长,但没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0119.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/51--Dresses/51_Dresses_wearingdress_51_248.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            260.8478260869565,
+                            27.782608695652172,
+                            236.15217391304347,
+                            799.5217391304348
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "请指出与所示人物最符合的描述。",
+                "options": [
+                    "她留着短发,没有穿裙子,穿着没有标志的衣服。",
+                    "她戴着帽子和短裤,没有戴太阳镜。",
+                    "她留着短发,穿着T恤,戴着口罩。",
+                    "她穿着有标志的衣服和太阳镜,但没有戴口罩。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0120.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_1045.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            63.54319180087848,
+                            27.232796486090777,
+                            804.2752562225476,
+                            1200.0585651537335
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "照片中的人最合适的描述是什么?",
+                "options": [
+                    "他戴着帽子和长裤,但没有戴太阳镜。",
+                    "他穿着没有条纹的衣服,戴着口罩和太阳镜。",
+                    "他留着长发,穿着正式服装,没有穿短裤。",
+                    "他戴着口罩和长袖衬衫,但没有戴帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0121.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_1027.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            701.5783783783784,
+                            242.1621621621622,
+                            84.41081081081082,
+                            238.01081081081082
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "在给定的描述中,哪一个最能描述图片中的人?",
+                "options": [
+                    "她没有戴帽子,穿着没有标志的衣服,但她没有穿T恤。",
+                    "她戴着帽子,没有穿裙子或太阳镜。",
+                    "她留着短发,穿着牛仔裤和没有条纹的衣服。",
+                    "她留着短发,穿着短裤,衣服上有一个标志。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0122.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_226.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            470.01223990208075,
+                            234.37943696450427,
+                            203.0452876376989,
+                            412.35740514075883
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最符合图片中的人?",
+                "options": [
+                    "她穿着短袖,没有戴墨镜或口罩。",
+                    "她穿着条纹衣服,没有穿牛仔裤,头发很短。",
+                    "她留着短发,穿着牛仔裤和短袖衬衫。",
+                    "她戴着口罩和短裤,没有戴太阳镜。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0123.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_609.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            860.4573502722322,
+                            246.24319419237747,
+                            107.78947368421052,
+                            433.94555353901995
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他戴着帽子和长袖衬衫,但没有戴口罩。",
+                    "他戴着太阳镜,没有穿长裤或帽子。",
+                    "他留着长发,戴着口罩和帽子。",
+                    "他留着长发,穿着牛仔裤,没有戴帽子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0125.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_94.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            248.32166018158236,
+                            228.29571984435796,
+                            520.674448767834,
+                            1303.6887159533073
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "以下哪个描述最符合图片中的人?",
+                "options": [
+                    "他留着短发,没有戴口罩,但穿着T恤。",
+                    "他留着长发,戴着帽子,但他的衣服没有条纹。",
+                    "他穿着条纹衣服正式打扮,穿着牛仔裤。",
+                    "他穿着正式的长袖衬衫,没有穿裙子。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0126.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_738.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            303.64864864864865,
+                            48.695945945945944,
+                            119.99324324324323,
+                            325.377027027027
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound_cropped",
+            "QA": {
+                "question": "哪个描述最能代表图片中的人?",
+                "options": [
+                    "她穿着没有标志的衣服,但没有戴口罩或太阳镜。",
+                    "她戴着口罩,穿着有标志的衣服,但没有穿T恤。",
+                    "她穿着短袖T恤,没有戴帽子。",
+                    "她穿着T恤和太阳镜,衣服上没有条纹。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/attribute/compound/cropped/sample_0127.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_121.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            142.9122340425532,
+                            107.83377659574468,
+                            98.73936170212765,
+                            163.6994680851064
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

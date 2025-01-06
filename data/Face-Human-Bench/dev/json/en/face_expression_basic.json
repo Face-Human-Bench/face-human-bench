@@ -1,0 +1,2504 @@
+{
+    "data": [
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What expression is the person in the image showing?",
+                "options": [
+                    "Happiness",
+                    "Neutral",
+                    "Sadness",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0054.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0717.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                58,
+                                63
+                            ],
+                            [
+                                79,
+                                63
+                            ],
+                            [
+                                65,
+                                75
+                            ],
+                            [
+                                59,
+                                85
+                            ],
+                            [
+                                80,
+                                85
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What kind of facial expression does the person in the picture have?",
+                "options": [
+                    "Happiness",
+                    "Surprise",
+                    "Neutral",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0055.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0425.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                73,
+                                78
+                            ],
+                            [
+                                104,
+                                85
+                            ],
+                            [
+                                82,
+                                105
+                            ],
+                            [
+                                72,
+                                107
+                            ],
+                            [
+                                99,
+                                110
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in this picture?",
+                "options": [
+                    "Happiness",
+                    "Anger",
+                    "Fear",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0056.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1580.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                27,
+                                40
+                            ],
+                            [
+                                97,
+                                51
+                            ],
+                            [
+                                58,
+                                85
+                            ],
+                            [
+                                27,
+                                115
+                            ],
+                            [
+                                88,
+                                120
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "How does the person in the image appear?",
+                "options": [
+                    "Happiness",
+                    "Disgust",
+                    "Fear",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0057.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0066.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                241,
+                                280
+                            ],
+                            [
+                                345,
+                                260
+                            ],
+                            [
+                                303,
+                                341
+                            ],
+                            [
+                                275,
+                                393
+                            ],
+                            [
+                                363,
+                                373
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the expression of the person in this image?",
+                "options": [
+                    "Happiness",
+                    "Neutral",
+                    "Sadness",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0058.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0158.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                148,
+                                152
+                            ],
+                            [
+                                200,
+                                155
+                            ],
+                            [
+                                171,
+                                175
+                            ],
+                            [
+                                152,
+                                201
+                            ],
+                            [
+                                191,
+                                201
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "How do you perceive the expression of the person in the picture?",
+                "options": [
+                    "Happiness",
+                    "Neutral",
+                    "Anger",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0059.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1179.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                43,
+                                45
+                            ],
+                            [
+                                59,
+                                47
+                            ],
+                            [
+                                51,
+                                57
+                            ],
+                            [
+                                42,
+                                61
+                            ],
+                            [
+                                58,
+                                62
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in the photo?",
+                "options": [
+                    "Happiness",
+                    "Surprise",
+                    "Anger",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0060.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0402.jpg"
+                    },
+                    "labels": {
+                        "expression": "Happiness",
+                        "five_points": [
+                            [
+                                110,
+                                115
+                            ],
+                            [
+                                154,
+                                121
+                            ],
+                            [
+                                134,
+                                139
+                            ],
+                            [
+                                106,
+                                158
+                            ],
+                            [
+                                148,
+                                164
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "Based on this picture, what is the person's expression?",
+                "options": [
+                    "Sadness",
+                    "Neutral",
+                    "Anger",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0061.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1116.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                105,
+                                112
+                            ],
+                            [
+                                150,
+                                110
+                            ],
+                            [
+                                132,
+                                135
+                            ],
+                            [
+                                112,
+                                156
+                            ],
+                            [
+                                147,
+                                155
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What does the expression of the person in the picture convey?",
+                "options": [
+                    "Sadness",
+                    "Surprise",
+                    "Neutral",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0062.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0229.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                125,
+                                132
+                            ],
+                            [
+                                144,
+                                130
+                            ],
+                            [
+                                154,
+                                156
+                            ],
+                            [
+                                129,
+                                179
+                            ],
+                            [
+                                146,
+                                176
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is shown on the face of the person in the image?",
+                "options": [
+                    "Sadness",
+                    "Happiness",
+                    "Disgust",
+                    "Anger"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0063.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2194.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                240,
+                                223
+                            ],
+                            [
+                                314,
+                                242
+                            ],
+                            [
+                                251,
+                                267
+                            ],
+                            [
+                                213,
+                                316
+                            ],
+                            [
+                                286,
+                                340
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What kind of facial expression does the person in the photo have?",
+                "options": [
+                    "Sadness",
+                    "Happiness",
+                    "Neutral",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0064.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1753.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                537,
+                                594
+                            ],
+                            [
+                                791,
+                                581
+                            ],
+                            [
+                                665,
+                                700
+                            ],
+                            [
+                                557,
+                                818
+                            ],
+                            [
+                                816,
+                                808
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What does the expression of the person in the image reveal?",
+                "options": [
+                    "Sadness",
+                    "Happiness",
+                    "Fear",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0065.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0560.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                105,
+                                113
+                            ],
+                            [
+                                154,
+                                115
+                            ],
+                            [
+                                128,
+                                145
+                            ],
+                            [
+                                111,
+                                159
+                            ],
+                            [
+                                151,
+                                161
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in this image?",
+                "options": [
+                    "Sadness",
+                    "Fear",
+                    "Neutral",
+                    "Happiness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0066.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0290.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                173,
+                                185
+                            ],
+                            [
+                                235,
+                                187
+                            ],
+                            [
+                                197,
+                                225
+                            ],
+                            [
+                                189,
+                                259
+                            ],
+                            [
+                                239,
+                                259
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What expression does the person in the picture display?",
+                "options": [
+                    "Sadness",
+                    "Neutral",
+                    "Fear",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0067.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1439.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                389,
+                                431
+                            ],
+                            [
+                                526,
+                                419
+                            ],
+                            [
+                                493,
+                                530
+                            ],
+                            [
+                                409,
+                                596
+                            ],
+                            [
+                                517,
+                                590
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion does the person in the picture show?",
+                "options": [
+                    "Sadness",
+                    "Fear",
+                    "Surprise",
+                    "Neutral"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0068.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1441.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                548,
+                                551
+                            ],
+                            [
+                                719,
+                                596
+                            ],
+                            [
+                                702,
+                                694
+                            ],
+                            [
+                                546,
+                                824
+                            ],
+                            [
+                                685,
+                                850
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotional state is the person in the picture in?",
+                "options": [
+                    "Sadness",
+                    "Fear",
+                    "Neutral",
+                    "Anger"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0069.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0483.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                197,
+                                179
+                            ],
+                            [
+                                233,
+                                196
+                            ],
+                            [
+                                174,
+                                207
+                            ],
+                            [
+                                163,
+                                261
+                            ],
+                            [
+                                205,
+                                266
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the mood of the person in the photo?",
+                "options": [
+                    "Sadness",
+                    "Surprise",
+                    "Happiness",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0070.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1851.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                54,
+                                61
+                            ],
+                            [
+                                76,
+                                58
+                            ],
+                            [
+                                65,
+                                74
+                            ],
+                            [
+                                58,
+                                83
+                            ],
+                            [
+                                75,
+                                81
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What kind of emotion is shown by the person in the photo?",
+                "options": [
+                    "Sadness",
+                    "Neutral",
+                    "Anger",
+                    "Happiness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0071.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1923.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                182,
+                                196
+                            ],
+                            [
+                                254,
+                                200
+                            ],
+                            [
+                                220,
+                                246
+                            ],
+                            [
+                                189,
+                                274
+                            ],
+                            [
+                                238,
+                                277
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What sentiment is the person in the image displaying?",
+                "options": [
+                    "Sadness",
+                    "Happiness",
+                    "Surprise",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0072.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0095.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                78,
+                                80
+                            ],
+                            [
+                                110,
+                                82
+                            ],
+                            [
+                                92,
+                                101
+                            ],
+                            [
+                                82,
+                                113
+                            ],
+                            [
+                                102,
+                                114
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion can be seen on the person in the photo?",
+                "options": [
+                    "Sadness",
+                    "Anger",
+                    "Fear",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0073.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0022.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                180,
+                                194
+                            ],
+                            [
+                                253,
+                                200
+                            ],
+                            [
+                                216,
+                                247
+                            ],
+                            [
+                                190,
+                                273
+                            ],
+                            [
+                                239,
+                                276
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the person in the picture experiencing emotionally?",
+                "options": [
+                    "Sadness",
+                    "Neutral",
+                    "Surprise",
+                    "Anger"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0074.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1494.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                195,
+                                206
+                            ],
+                            [
+                                281,
+                                215
+                            ],
+                            [
+                                235,
+                                270
+                            ],
+                            [
+                                206,
+                                294
+                            ],
+                            [
+                                267,
+                                298
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotional tone is conveyed by the person in the photo?",
+                "options": [
+                    "Sadness",
+                    "Surprise",
+                    "Neutral",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0075.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1081.jpg"
+                    },
+                    "labels": {
+                        "expression": "Sadness",
+                        "five_points": [
+                            [
+                                86,
+                                102
+                            ],
+                            [
+                                129,
+                                89
+                            ],
+                            [
+                                119,
+                                115
+                            ],
+                            [
+                                100,
+                                139
+                            ],
+                            [
+                                127,
+                                134
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the emotional expression of the person in the photo?",
+                "options": [
+                    "Anger",
+                    "Fear",
+                    "Surprise",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0076.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1301.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                210,
+                                220
+                            ],
+                            [
+                                280,
+                                217
+                            ],
+                            [
+                                241,
+                                261
+                            ],
+                            [
+                                221,
+                                305
+                            ],
+                            [
+                                288,
+                                302
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion does the person in the image convey?",
+                "options": [
+                    "Anger",
+                    "Fear",
+                    "Disgust",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0077.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1058.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                229,
+                                256
+                            ],
+                            [
+                                320,
+                                251
+                            ],
+                            [
+                                261,
+                                327
+                            ],
+                            [
+                                257,
+                                363
+                            ],
+                            [
+                                314,
+                                363
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is evident in the person in the photo?",
+                "options": [
+                    "Anger",
+                    "Sadness",
+                    "Neutral",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0078.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1289.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                531,
+                                591
+                            ],
+                            [
+                                749,
+                                577
+                            ],
+                            [
+                                657,
+                                749
+                            ],
+                            [
+                                563,
+                                812
+                            ],
+                            [
+                                735,
+                                796
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotional expression can you see on the person in the image?",
+                "options": [
+                    "Anger",
+                    "Surprise",
+                    "Neutral",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0079.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2073.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                205,
+                                218
+                            ],
+                            [
+                                273,
+                                217
+                            ],
+                            [
+                                240,
+                                268
+                            ],
+                            [
+                                215,
+                                278
+                            ],
+                            [
+                                271,
+                                281
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the emotional state of the person in the picture?",
+                "options": [
+                    "Anger",
+                    "Happiness",
+                    "Disgust",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0080.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1746.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                43,
+                                70
+                            ],
+                            [
+                                90,
+                                63
+                            ],
+                            [
+                                61,
+                                85
+                            ],
+                            [
+                                53,
+                                118
+                            ],
+                            [
+                                94,
+                                116
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is the person in the image showing?",
+                "options": [
+                    "Anger",
+                    "Fear",
+                    "Happiness",
+                    "Neutral"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0081.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1791.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                267,
+                                294
+                            ],
+                            [
+                                381,
+                                294
+                            ],
+                            [
+                                324,
+                                391
+                            ],
+                            [
+                                271,
+                                422
+                            ],
+                            [
+                                373,
+                                422
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotional response is the person in the picture displaying?",
+                "options": [
+                    "Anger",
+                    "Sadness",
+                    "Surprise",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0082.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1739.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                264,
+                                295
+                            ],
+                            [
+                                371,
+                                293
+                            ],
+                            [
+                                337,
+                                362
+                            ],
+                            [
+                                256,
+                                438
+                            ],
+                            [
+                                342,
+                                449
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "How does the person in the photo appear emotionally?",
+                "options": [
+                    "Anger",
+                    "Happiness",
+                    "Surprise",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0083.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1681.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                253,
+                                272
+                            ],
+                            [
+                                373,
+                                288
+                            ],
+                            [
+                                305,
+                                353
+                            ],
+                            [
+                                238,
+                                382
+                            ],
+                            [
+                                353,
+                                401
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is portrayed by the person in the image?",
+                "options": [
+                    "Anger",
+                    "Fear",
+                    "Neutral",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0084.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1373.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                267,
+                                289
+                            ],
+                            [
+                                405,
+                                293
+                            ],
+                            [
+                                329,
+                                392
+                            ],
+                            [
+                                286,
+                                430
+                            ],
+                            [
+                                382,
+                                435
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotional state does the person in the picture seem to be in?",
+                "options": [
+                    "Anger",
+                    "Surprise",
+                    "Fear",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0085.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1783.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                436,
+                                467
+                            ],
+                            [
+                                606,
+                                476
+                            ],
+                            [
+                                518,
+                                574
+                            ],
+                            [
+                                438,
+                                675
+                            ],
+                            [
+                                597,
+                                675
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is visible in the person in the photo?",
+                "options": [
+                    "Anger",
+                    "Disgust",
+                    "Surprise",
+                    "Sadness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0086.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0986.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                28,
+                                31
+                            ],
+                            [
+                                39,
+                                31
+                            ],
+                            [
+                                35,
+                                35
+                            ],
+                            [
+                                30,
+                                43
+                            ],
+                            [
+                                38,
+                                42
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What kind of emotional expression is the person in the photo displaying?",
+                "options": [
+                    "Anger",
+                    "Happiness",
+                    "Disgust",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0087.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1007.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                80,
+                                86
+                            ],
+                            [
+                                110,
+                                87
+                            ],
+                            [
+                                95,
+                                112
+                            ],
+                            [
+                                84,
+                                119
+                            ],
+                            [
+                                106,
+                                119
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is the person in the photo displaying?",
+                "options": [
+                    "Anger",
+                    "Surprise",
+                    "Neutral",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0088.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_0870.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                37,
+                                36
+                            ],
+                            [
+                                53,
+                                38
+                            ],
+                            [
+                                41,
+                                49
+                            ],
+                            [
+                                40,
+                                55
+                            ],
+                            [
+                                51,
+                                56
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the mood of the person in the picture?\"",
+                "options": [
+                    "Anger",
+                    "Neutral",
+                    "Fear",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0089.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1997.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                519,
+                                514
+                            ],
+                            [
+                                710,
+                                465
+                            ],
+                            [
+                                673,
+                                526
+                            ],
+                            [
+                                636,
+                                750
+                            ],
+                            [
+                                785,
+                                661
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the expression of the person in the picture?\"",
+                "options": [
+                    "Anger",
+                    "Happiness",
+                    "Fear",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0090.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_1741.jpg"
+                    },
+                    "labels": {
+                        "expression": "Anger",
+                        "five_points": [
+                            [
+                                119,
+                                131
+                            ],
+                            [
+                                177,
+                                137
+                            ],
+                            [
+                                146,
+                                173
+                            ],
+                            [
+                                109,
+                                190
+                            ],
+                            [
+                                166,
+                                193
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What emotion is the person in the photo displaying?",
+                "options": [
+                    "Neutral",
+                    "Anger",
+                    "Surprise",
+                    "Happiness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0091.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2467.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                57,
+                                61
+                            ],
+                            [
+                                77,
+                                62
+                            ],
+                            [
+                                67,
+                                72
+                            ],
+                            [
+                                58,
+                                83
+                            ],
+                            [
+                                75,
+                                83
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the expression of the person in the picture?\"",
+                "options": [
+                    "Neutral",
+                    "Disgust",
+                    "Anger",
+                    "Happiness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0093.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2872.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                151,
+                                151
+                            ],
+                            [
+                                212,
+                                168
+                            ],
+                            [
+                                163,
+                                195
+                            ],
+                            [
+                                139,
+                                214
+                            ],
+                            [
+                                185,
+                                226
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What kind of expression does the person have in the picture?",
+                "options": [
+                    "Neutral",
+                    "Sadness",
+                    "Disgust",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0094.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2733.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                106,
+                                117
+                            ],
+                            [
+                                149,
+                                120
+                            ],
+                            [
+                                130,
+                                149
+                            ],
+                            [
+                                109,
+                                163
+                            ],
+                            [
+                                142,
+                                167
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in this image?",
+                "options": [
+                    "Neutral",
+                    "Surprise",
+                    "Disgust",
+                    "Anger"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0095.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2677.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                267,
+                                271
+                            ],
+                            [
+                                375,
+                                325
+                            ],
+                            [
+                                297,
+                                348
+                            ],
+                            [
+                                233,
+                                388
+                            ],
+                            [
+                                306,
+                                422
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the person's expression in the photo?",
+                "options": [
+                    "Neutral",
+                    "Disgust",
+                    "Sadness",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0096.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2987.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                83,
+                                86
+                            ],
+                            [
+                                106,
+                                85
+                            ],
+                            [
+                                106,
+                                103
+                            ],
+                            [
+                                85,
+                                121
+                            ],
+                            [
+                                102,
+                                120
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What expression is on the face of the person in the picture?",
+                "options": [
+                    "Neutral",
+                    "Anger",
+                    "Happiness",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0097.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2995.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                229,
+                                239
+                            ],
+                            [
+                                309,
+                                242
+                            ],
+                            [
+                                272,
+                                281
+                            ],
+                            [
+                                236,
+                                334
+                            ],
+                            [
+                                302,
+                                334
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the expression of the person in this photo?",
+                "options": [
+                    "Neutral",
+                    "Sadness",
+                    "Disgust",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0098.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2652.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                85,
+                                91
+                            ],
+                            [
+                                119,
+                                95
+                            ],
+                            [
+                                99,
+                                109
+                            ],
+                            [
+                                88,
+                                123
+                            ],
+                            [
+                                111,
+                                126
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What expression is the person in the image showing?",
+                "options": [
+                    "Neutral",
+                    "Happiness",
+                    "Sadness",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0099.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2823.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                186,
+                                194
+                            ],
+                            [
+                                254,
+                                198
+                            ],
+                            [
+                                217,
+                                246
+                            ],
+                            [
+                                191,
+                                262
+                            ],
+                            [
+                                241,
+                                265
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in this picture?",
+                "options": [
+                    "Neutral",
+                    "Disgust",
+                    "Sadness",
+                    "Happiness"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0101.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2976.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                281,
+                                295
+                            ],
+                            [
+                                387,
+                                318
+                            ],
+                            [
+                                321,
+                                378
+                            ],
+                            [
+                                270,
+                                408
+                            ],
+                            [
+                                351,
+                                426
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "How does the person in the image appear?",
+                "options": [
+                    "Neutral",
+                    "Anger",
+                    "Surprise",
+                    "Disgust"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0102.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0102.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2742.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                133,
+                                143
+                            ],
+                            [
+                                179,
+                                141
+                            ],
+                            [
+                                158,
+                                176
+                            ],
+                            [
+                                142,
+                                194
+                            ],
+                            [
+                                177,
+                                192
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the expression of the person in this image?",
+                "options": [
+                    "Neutral",
+                    "Disgust",
+                    "Sadness",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0103.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2710.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                351,
+                                438
+                            ],
+                            [
+                                515,
+                                425
+                            ],
+                            [
+                                418,
+                                572
+                            ],
+                            [
+                                418,
+                                618
+                            ],
+                            [
+                                537,
+                                618
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "How do you perceive the expression of the person in the picture?",
+                "options": [
+                    "Neutral",
+                    "Disgust",
+                    "Fear",
+                    "Surprise"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0104.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0104.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2716.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                256,
+                                275
+                            ],
+                            [
+                                355,
+                                275
+                            ],
+                            [
+                                297,
+                                348
+                            ],
+                            [
+                                269,
+                                376
+                            ],
+                            [
+                                345,
+                                380
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_basic",
+            "QA": {
+                "question": "What is the facial expression of the person in the photo?",
+                "options": [
+                    "Neutral",
+                    "Happiness",
+                    "Disgust",
+                    "Fear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/face/expression/basic/original/sample_0105.jpg",
+                    "cropped": "eval_data/face/expression/basic/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-basic",
+                    "paths": {
+                        "original": "raw_data/face/RAF-DB/basic/Image/original/test_2951.jpg"
+                    },
+                    "labels": {
+                        "expression": "Neutral",
+                        "five_points": [
+                            [
+                                479,
+                                332
+                            ],
+                            [
+                                642,
+                                395
+                            ],
+                            [
+                                622,
+                                471
+                            ],
+                            [
+                                484,
+                                581
+                            ],
+                            [
+                                594,
+                                616
+                            ]
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

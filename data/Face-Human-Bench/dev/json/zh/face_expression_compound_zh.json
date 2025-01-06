@@ -1,0 +1,1354 @@
+{
+    "data": [
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "根据这张图片,这个人的表情是什么?",
+                "options": [
+                    "害怕地愤怒",
+                    "厌恶地惊讶",
+                    "开心地厌恶",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_168_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中人物的表情传达了什么?",
+                "options": [
+                    "害怕地愤怒",
+                    "开心地厌恶",
+                    "开心地惊喜",
+                    "厌恶地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_730_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人脸上显示的是什么情绪?",
+                "options": [
+                    "害怕地生气",
+                    "伤心地惊讶",
+                    "开心的厌恶",
+                    "厌恶地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_630_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人展现了怎样的面部表情?",
+                "options": [
+                    "害怕地愤怒",
+                    "悲伤地厌恶",
+                    "厌恶地惊讶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_155_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中人物的表情透露了什么?",
+                "options": [
+                    "害怕地愤怒",
+                    "悲伤地惊讶",
+                    "厌恶地惊讶",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_597_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这张图片中的人物表情是什么?",
+                "options": [
+                    "害怕地愤怒",
+                    "愉快地厌恶",
+                    "悲伤地厌恶",
+                    "厌恶地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_081_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人展示了什么表情?",
+                "options": [
+                    "害怕地生气",
+                    "伤心地厌恶",
+                    "厌恶地惊讶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_629_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人展现了什么情绪?",
+                "options": [
+                    "害怕地愤怒",
+                    "开心地厌恶",
+                    "开心地惊讶",
+                    "厌恶地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_627_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Angry"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人处于什么情绪状态?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地生气",
+                    "愤怒地厌恶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_521_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中人的心情是什么?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地厌恶",
+                    "开心地惊讶",
+                    "悲伤地愤怒"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_287_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人展现了什么样的情绪?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地生气",
+                    "开心地惊讶",
+                    "愤怒地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_654_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人展现出什么情绪?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地厌恶",
+                    "伤心地生气",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_397_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中这个人显示出什么情绪?",
+                "options": [
+                    "害怕地惊讶",
+                    "愤怒地厌恶",
+                    "悲伤地愤怒",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_067_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人在情感上经历了什么?",
+                "options": [
+                    "恐惧地惊讶",
+                    "开心地厌恶",
+                    "开心地惊讶",
+                    "伤心地生气"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_133_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人传达了什么情绪色调?",
+                "options": [
+                    "害怕地惊讶",
+                    "愤怒地厌恶",
+                    "开心的厌恶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_685_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人表达了什么情绪?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地厌恶",
+                    "愤怒地厌恶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_481_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人传达了什么情绪?",
+                "options": [
+                    "害怕地惊讶",
+                    "悲伤地生气",
+                    "愉快地惊讶",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_063_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人表现出了哪种情感?",
+                "options": [
+                    "害怕地惊讶",
+                    "开心地惊讶",
+                    "伤心地生气",
+                    "愤怒地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_337_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Fearfully Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "您能在图像中看到人物的什么情绪表达?",
+                "options": [
+                    "愤怒地吃惊",
+                    "悲伤地厌恶",
+                    "悲伤地害怕",
+                    "愉快的厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_787_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中的人的情绪状态是什么?",
+                "options": [
+                    "生气地惊讶",
+                    "愉快地惊讶",
+                    "愉快的厌恶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_151_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人展现出什么情绪?",
+                "options": [
+                    "愤怒地惊讶",
+                    "悲伤地害怕",
+                    "开心地惊讶",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_138_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人展现了什么情绪回应?",
+                "options": [
+                    "愤怒地惊讶",
+                    "悲伤地害怕",
+                    "开心地惊讶",
+                    "开心地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_252_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人看起来情绪如何?",
+                "options": [
+                    "愤怒地惊讶",
+                    "愉快厌恶",
+                    "开心地惊讶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_077_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人展现了什么情绪?",
+                "options": [
+                    "愤怒地惊讶",
+                    "开心的厌恶",
+                    "开心地惊讶",
+                    "悲伤地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_572_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的这个人似乎处于什么情绪状态?",
+                "options": [
+                    "愤怒地惊讶",
+                    "悲伤地害怕",
+                    "悲伤地厌恶",
+                    "开心的惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_518_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人显示出什么情绪?",
+                "options": [
+                    "愤怒地惊讶",
+                    "开心地反感",
+                    "悲伤地害怕",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_635_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人展示了什么样的情感表达?",
+                "options": [
+                    "愤怒地惊讶",
+                    "悲伤地害怕",
+                    "悲伤地厌恶",
+                    "愉快地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_739_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人展示了什么情绪?",
+                "options": [
+                    "愤怒地惊讶",
+                    "悲伤地厌恶",
+                    "愉快地惊讶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_728_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中人物的情绪是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "悲伤地惊讶",
+                    "害怕地愤怒",
+                    "愉快的厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_790_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中人物的表情是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "害怕地惊讶",
+                    "开心地厌恶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_708_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人显示出什么情绪?",
+                "options": [
+                    "愤怒地厌恶",
+                    "厌恶地惊讶",
+                    "害怕地惊讶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_759_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中人物的情绪是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "高兴地反感",
+                    "害怕地惊讶",
+                    "害怕地生气"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_461_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中的人表情如何?",
+                "options": [
+                    "愤怒地厌恶",
+                    "开心的厌恶",
+                    "害怕地愤怒",
+                    "惊喜地开心"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_332_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这张图片中的人表现出什么样的表情?",
+                "options": [
+                    "愤怒地厌恶",
+                    "害怕地生气",
+                    "伤心地吃惊",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_735_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这幅图片中的人物面部表情是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "悲伤地惊讶",
+                    "悲伤地害怕",
+                    "恐惧地生气"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_065_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中这个人的表情是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "害怕地愤怒",
+                    "悲伤地害怕",
+                    "悲伤地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_339_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中人物的脸上有什么表情?",
+                "options": [
+                    "愤怒地厌恶",
+                    "悲伤地害怕",
+                    "恐惧地惊讶",
+                    "厌恶地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_302_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这张照片中的人表情是什么?",
+                "options": [
+                    "愤怒地厌恶",
+                    "恐惧地愤怒",
+                    "愉快地厌恶",
+                    "悲伤地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_510_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Angrily Disgusted"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人显示了什么表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "开心地惊讶",
+                    "悲伤地生气",
+                    "生气地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_525_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中的人展现了什么样的面部表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "愤怒地厌恶",
+                    "愤怒地惊讶",
+                    "愉快地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_483_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这张图片中人的面部表情是什么?",
+                "options": [
+                    "厌恶地惊讶",
+                    "悲伤地害怕",
+                    "开心地厌恶",
+                    "愤怒地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_021_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图中的人看起来怎么样?",
+                "options": [
+                    "厌恶地惊讶",
+                    "害怕地愤怒",
+                    "愤怒地厌恶",
+                    "开心地惊讶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0102.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_303_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "这张图片中的人表现出什么表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "悲伤地害怕",
+                    "愤怒地惊讶",
+                    "开心地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_670_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "你如何理解图片中人的表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "愉快地惊讶",
+                    "伤心地生气",
+                    "愤怒地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0104.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_418_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人脸上表现出了什么表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "开心地惊讶",
+                    "愤怒地惊讶",
+                    "开心的厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_316_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "根据这张图片,这个人的表情是什么?",
+                "options": [
+                    "厌恶地惊讶",
+                    "愤怒地厌恶",
+                    "开心地惊讶",
+                    "悲伤地害怕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0106.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_069_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图片中的人表情传达了什么?",
+                "options": [
+                    "厌恶地惊讶",
+                    "害怕地愤怒",
+                    "悲伤地愤怒",
+                    "愤怒地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_703_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中人的脸上展现了什么情绪?",
+                "options": [
+                    "厌恶地惊讶",
+                    "快乐地厌恶",
+                    "开心地惊讶",
+                    "悲伤地愤怒"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0108.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_584_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "照片中的人展现了怎样的面部表情?",
+                "options": [
+                    "厌恶地惊讶",
+                    "恐惧地愤怒",
+                    "开心地惊讶",
+                    "愤怒地厌恶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_429_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_expression_compound",
+            "QA": {
+                "question": "图像中的人的表情透露出什么?",
+                "options": [
+                    "厌恶地惊讶",
+                    "开心地惊讶",
+                    "悲伤地害怕",
+                    "悲伤地愤怒"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/expression/compound/cropped/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "RAF-DB-compound",
+                    "paths": {
+                        "cropped": "raw_data/face/RAF-DB/compound/Image/aligned/test_299_aligned.jpg"
+                    },
+                    "labels": {
+                        "expression": "Disgustedly Surprised"
+                    }
+                }
+            }
+        }
+    ]
+}

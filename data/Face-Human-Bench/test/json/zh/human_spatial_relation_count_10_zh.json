@@ -1,0 +1,1354 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片里有多少个人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06171.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中显示的总人数是多少?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00599.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片里有多少人可见?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07149.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19976.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15283.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人物?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07659.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10601.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中出现了多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07807.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18924.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少个人类?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00236.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片里有多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03130.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中的总人数是多少?",
+                "options": [
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/16439.jpg"
+                    },
+                    "labels": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中有多少人是可见的?",
+                "options": [
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07706.jpg"
+                    },
+                    "labels": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22460.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/12321.jpg"
+                    },
+                    "labels": [
+                        8
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中捕捉到了多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/11210.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中展示了多少人物?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22146.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08193.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片包含多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22371.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这个画面中有多少人类?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01717.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中的总人数是多少?",
+                "options": [
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/21514.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片展示了多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/09297.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人在视线范围内?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02753.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中有多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03271.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片上有多少人?",
+                "options": [
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08191.jpg"
+                    },
+                    "labels": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中可见的人数是多少?",
+                "options": [
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08838.jpg"
+                    },
+                    "labels": [
+                        8
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片上有多少个人物?",
+                "options": [
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/12567.jpg"
+                    },
+                    "labels": [
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中出现了多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00250.jpg"
+                    },
+                    "labels": [
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00383.jpg"
+                    },
+                    "labels": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片里看到了多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01035.jpg"
+                    },
+                    "labels": [
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中包括多少人?",
+                "options": [
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01609.jpg"
+                    },
+                    "labels": [
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中出现的人数是多少?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01751.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中有多少人?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01770.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这里有多少人类?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02290.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03481.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图像中抓拍到了多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03827.jpg"
+                    },
+                    "labels": [
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片里有多少人是可见的?",
+                "options": [
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03950.jpg"
+                    },
+                    "labels": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中显示的总人数是多少?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04241.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这个画面中有多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04493.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04875.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片展示了多少人类?",
+                "options": [
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04912.jpg"
+                    },
+                    "labels": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中显示了多少人?",
+                "options": [
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05253.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中视野内的人数是多少?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05258.jpg"
+                    },
+                    "labels": [
+                        4
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片展示了多少人?",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05263.jpg"
+                    },
+                    "labels": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05363.jpg"
+                    },
+                    "labels": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片里有多少个人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05398.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片里有多少个人?",
+                "options": [
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05725.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中显示的人数总共有多少?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05782.jpg"
+                    },
+                    "labels": [
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张照片中可见有多少人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06046.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_10",
+            "QA": {
+                "question": "这张图片中有多少人?",
+                "options": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_10/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06125.jpg"
+                    },
+                    "labels": [
+                        5
+                    ]
+                }
+            }
+        }
+    ]
+}

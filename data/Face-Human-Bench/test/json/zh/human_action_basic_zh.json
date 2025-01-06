@@ -1,0 +1,4004 @@
+{
+    "data": [
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最准确描述了图片中红色方框内人物的动作?",
+                "options": [
+                    "拿着叉子",
+                    "抓起勺子",
+                    "平衡着一个叉子",
+                    "掉落叉子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004101.jpg"
+                    },
+                    "labels": {
+                        "object_name": "fork",
+                        "action": "hold",
+                        "human_bbox": [
+                            165,
+                            320,
+                            6,
+                            382
+                        ],
+                        "object_bbox": [
+                            166,
+                            222,
+                            190,
+                            263
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图中红色方框内个人的动作?",
+                "options": [
+                    "扶着自行车",
+                    "骑自行车",
+                    "修理自行车",
+                    "租自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007303.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            123,
+                            418,
+                            117,
+                            425
+                        ],
+                        "object_bbox": [
+                            51,
+                            331,
+                            210,
+                            424
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选项中哪一个最能描述图片中红色方框内的人在做什么?",
+                "options": [
+                    "拿着刀子",
+                    "拿着勺子",
+                    "挥舞刀子",
+                    "磨刀"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009713.jpg"
+                    },
+                    "labels": {
+                        "object_name": "knife",
+                        "action": "hold",
+                        "human_bbox": [
+                            227,
+                            638,
+                            130,
+                            335
+                        ],
+                        "object_bbox": [
+                            174,
+                            440,
+                            239,
+                            469
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "翻转滑板",
+                    "骑着滑板",
+                    "踢滑板",
+                    "接住滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005027.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            138,
+                            451,
+                            107,
+                            461
+                        ],
+                        "object_bbox": [
+                            240,
+                            355,
+                            446,
+                            536
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描绘了图像中红色方框内个人的行为?",
+                "options": [
+                    "在键盘上打字",
+                    "在键盘上写字",
+                    "清洁键盘",
+                    "重新摆放键盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003886.jpg"
+                    },
+                    "labels": {
+                        "object_name": "keyboard",
+                        "action": "type_on",
+                        "human_bbox": [
+                            1,
+                            526,
+                            2,
+                            372
+                        ],
+                        "object_bbox": [
+                            3,
+                            632,
+                            168,
+                            427
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述照片中红色方框内的人在做什么?",
+                "options": [
+                    "拿着花瓶",
+                    "拿着花束",
+                    "掉花瓶",
+                    "正在玩花瓶"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001238.jpg"
+                    },
+                    "labels": {
+                        "object_name": "vase",
+                        "action": "hold",
+                        "human_bbox": [
+                            10,
+                            556,
+                            18,
+                            386
+                        ],
+                        "object_bbox": [
+                            317,
+                            531,
+                            124,
+                            434
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最准确地描述了照片中红色方框内个人的活动?",
+                "options": [
+                    "开公交车",
+                    "开出租车",
+                    "修理公共汽车",
+                    "上公交车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002633.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            311,
+                            362,
+                            273,
+                            331
+                        ],
+                        "object_bbox": [
+                            42,
+                            408,
+                            221,
+                            403
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "骑大象",
+                    "骑马",
+                    "喂大象",
+                    "训练大象"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001127.jpg"
+                    },
+                    "labels": {
+                        "object_name": "elephant",
+                        "action": "ride",
+                        "human_bbox": [
+                            151,
+                            276,
+                            130,
+                            327
+                        ],
+                        "object_bbox": [
+                            114,
+                            370,
+                            290,
+                            599
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述图像中红色方框内人物的活动?",
+                "options": [
+                    "坐在沙发上",
+                    "躺在沙发上",
+                    "在沙发上跳跃",
+                    "重新摆放沙发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006492.jpg"
+                    },
+                    "labels": {
+                        "object_name": "couch",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            270,
+                            539,
+                            63,
+                            398
+                        ],
+                        "object_bbox": [
+                            70,
+                            501,
+                            114,
+                            477
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确描述了照片中红色方框内个人的动作?",
+                "options": [
+                    "放风筝",
+                    "驾驶无人机",
+                    "追风筝",
+                    "修理风筝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001858.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            222,
+                            253,
+                            324,
+                            440
+                        ],
+                        "object_bbox": [
+                            342,
+                            456,
+                            152,
+                            190
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内人物的动作?",
+                "options": [
+                    "拿着棒球棒",
+                    "拿着网球拍",
+                    "握着高尔夫球杆",
+                    "挥舞着剑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003047.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "hold",
+                        "human_bbox": [
+                            435,
+                            638,
+                            57,
+                            391
+                        ],
+                        "object_bbox": [
+                            335,
+                            456,
+                            93,
+                            180
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个选项最能描绘图像中红色方框内个人的行为?",
+                "options": [
+                    "坐在椅子上",
+                    "坐在桌子上",
+                    "站在椅子上",
+                    "躺在椅子上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008628.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            355,
+                            538,
+                            86,
+                            410
+                        ],
+                        "object_bbox": [
+                            400,
+                            618,
+                            146,
+                            421
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "清洁微波炉",
+                    "打开微波炉",
+                    "在微波炉中加热食物",
+                    "在微波炉中解冻"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001670.jpg"
+                    },
+                    "labels": {
+                        "object_name": "microwave",
+                        "action": "clean",
+                        "human_bbox": [
+                            202,
+                            495,
+                            155,
+                            469
+                        ],
+                        "object_bbox": [
+                            10,
+                            281,
+                            158,
+                            460
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确描述了图中红色方框内个人的动作?",
+                "options": [
+                    "在键盘上打字",
+                    "清洁键盘",
+                    "重新排列键盘按键",
+                    "更换键盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004395.jpg"
+                    },
+                    "labels": {
+                        "object_name": "keyboard",
+                        "action": "type_on",
+                        "human_bbox": [
+                            165,
+                            288,
+                            214,
+                            573
+                        ],
+                        "object_bbox": [
+                            167,
+                            418,
+                            329,
+                            391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选择中哪一个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "拿着勺子",
+                    "掉落勺子",
+                    "用勺子搅拌",
+                    "扔勺子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002859.jpg"
+                    },
+                    "labels": {
+                        "object_name": "spoon",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            222,
+                            18,
+                            293
+                        ],
+                        "object_bbox": [
+                            226,
+                            439,
+                            155,
+                            328
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内个人的活动?",
+                "options": [
+                    "扶着自行车",
+                    "推着自行车",
+                    "修理自行车",
+                    "偷自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003693.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            123,
+                            255,
+                            128,
+                            367
+                        ],
+                        "object_bbox": [
+                            104,
+                            276,
+                            229,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图像中红色方框内人物的行为?",
+                "options": [
+                    "提着伞",
+                    "提着手提箱",
+                    "打开伞",
+                    "放下伞"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002881.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            440,
+                            535,
+                            142,
+                            369
+                        ],
+                        "object_bbox": [
+                            365,
+                            534,
+                            109,
+                            179
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图像中红色方框内的人正在做什么?",
+                "options": [
+                    "提着伞",
+                    "转动伞",
+                    "放下伞",
+                    "借出伞"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002552.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            38,
+                            165,
+                            55,
+                            382
+                        ],
+                        "object_bbox": [
+                            36,
+                            214,
+                            5,
+                            67
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最能描述照片中红色方框内个人的动作?",
+                "options": [
+                    "拿着书",
+                    "在书上写字",
+                    "掉书",
+                    "扔书"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006428.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "hold",
+                        "human_bbox": [
+                            55,
+                            501,
+                            157,
+                            527
+                        ],
+                        "object_bbox": [
+                            335,
+                            534,
+                            335,
+                            480
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描绘了图像中红色方框内人物的动作?",
+                "options": [
+                    "拿着瓶子",
+                    "释放瓶子",
+                    "递送瓶子",
+                    "平衡瓶子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007767.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bottle",
+                        "action": "hold",
+                        "human_bbox": [
+                            57,
+                            626,
+                            9,
+                            468
+                        ],
+                        "object_bbox": [
+                            298,
+                            434,
+                            235,
+                            472
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述照片中红色方框内的人正在做什么?",
+                "options": [
+                    "看着笔记本电脑",
+                    "关闭笔记本电脑",
+                    "给笔记本电脑充电",
+                    "清洁笔记本电脑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007863.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "read",
+                        "human_bbox": [
+                            2,
+                            481,
+                            22,
+                            423
+                        ],
+                        "object_bbox": [
+                            142,
+                            400,
+                            62,
+                            289
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最准确地描述了图片中红色方框内人物的动作?",
+                "options": [
+                    "吃香蕉",
+                    "掉落香蕉",
+                    "搅拌香蕉",
+                    "切香蕉"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006872.jpg"
+                    },
+                    "labels": {
+                        "object_name": "banana",
+                        "action": "eat",
+                        "human_bbox": [
+                            174,
+                            522,
+                            70,
+                            478
+                        ],
+                        "object_bbox": [
+                            310,
+                            398,
+                            217,
+                            311
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图中红色方框内个人的动作?",
+                "options": [
+                    "在餐桌上吃饭",
+                    "在餐桌上阅读",
+                    "在餐桌上写字",
+                    "在餐桌上工作"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002612.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            106,
+                            364,
+                            182,
+                            418
+                        ],
+                        "object_bbox": [
+                            158,
+                            636,
+                            230,
+                            413
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选项中哪一个最能描述图片中红色方框内的人在做什么?",
+                "options": [
+                    "拿着蛋糕",
+                    "烤蛋糕",
+                    "切蛋糕",
+                    "掉落蛋糕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002448.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cake",
+                        "action": "carry",
+                        "human_bbox": [
+                            3,
+                            287,
+                            24,
+                            447
+                        ],
+                        "object_bbox": [
+                            219,
+                            383,
+                            168,
+                            386
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "吹灭蜡烛",
+                    "切蛋糕",
+                    "点燃蜡烛",
+                    "装饰蛋糕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003926.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cake",
+                        "action": "blow",
+                        "human_bbox": [
+                            124,
+                            395,
+                            42,
+                            278
+                        ],
+                        "object_bbox": [
+                            280,
+                            371,
+                            230,
+                            318
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描绘了图像中红色方框内个人的行为?",
+                "options": [
+                    "坐在床上",
+                    "躺在床上",
+                    "在床上跳跃",
+                    "整理床铺"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006402.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bed",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            303,
+                            475,
+                            234,
+                            482
+                        ],
+                        "object_bbox": [
+                            198,
+                            475,
+                            393,
+                            634
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述照片中红色方框内的人在做什么?",
+                "options": [
+                    "放风筝",
+                    "驾驶无人机",
+                    "发射火箭",
+                    "驾驶直升机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008545.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            303,
+                            317,
+                            558,
+                            586
+                        ],
+                        "object_bbox": [
+                            280,
+                            297,
+                            488,
+                            507
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最准确地描述了照片中红色方框内个人的活动?",
+                "options": [
+                    "躺在沙发上",
+                    "坐在沙发上",
+                    "在沙发上阅读",
+                    "在沙发上吃东西"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006324.jpg"
+                    },
+                    "labels": {
+                        "object_name": "couch",
+                        "action": "lie_on",
+                        "human_bbox": [
+                            86,
+                            598,
+                            6,
+                            389
+                        ],
+                        "object_bbox": [
+                            34,
+                            636,
+                            7,
+                            432
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "坐在沙发上",
+                    "躺在沙发上",
+                    "在沙发上跳跃",
+                    "重新摆放沙发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003927.jpg"
+                    },
+                    "labels": {
+                        "object_name": "couch",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            35,
+                            516,
+                            15,
+                            423
+                        ],
+                        "object_bbox": [
+                            167,
+                            639,
+                            75,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述图像中红色方框内人物的活动?",
+                "options": [
+                    "扶着摩托车",
+                    "举起摩托车",
+                    "停放摩托车",
+                    "修理摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003653.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            170,
+                            530,
+                            66,
+                            328
+                        ],
+                        "object_bbox": [
+                            216,
+                            579,
+                            90,
+                            313
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了照片中红色方框内个人的动作?",
+                "options": [
+                    "背着背包",
+                    "提着公文包",
+                    "丢下背包",
+                    "调整背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000778.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            381,
+                            439,
+                            152,
+                            281
+                        ],
+                        "object_bbox": [
+                            408,
+                            451,
+                            149,
+                            221
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内人物的动作?",
+                "options": [
+                    "抱着一只鸟",
+                    "喂鸟",
+                    "释放一只鸟",
+                    "拿着一只鸡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005791.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bird",
+                        "action": "hold",
+                        "human_bbox": [
+                            11,
+                            350,
+                            2,
+                            485
+                        ],
+                        "object_bbox": [
+                            202,
+                            483,
+                            130,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个选项最能描绘图像中红色方框内个人的行为?",
+                "options": [
+                    "戴着棒球手套",
+                    "扔棒球手套",
+                    "掉落一个棒球手套",
+                    "清洗棒球手套"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007909.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_glove",
+                        "action": "hold",
+                        "human_bbox": [
+                            61,
+                            507,
+                            62,
+                            428
+                        ],
+                        "object_bbox": [
+                            443,
+                            638,
+                            137,
+                            380
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "读着笔记本电脑",
+                    "在笔记本电脑上打字",
+                    "关闭笔记本电脑",
+                    "给笔记本电脑充电"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006794.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "read",
+                        "human_bbox": [
+                            6,
+                            318,
+                            97,
+                            635
+                        ],
+                        "object_bbox": [
+                            186,
+                            477,
+                            403,
+                            629
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了图像中红色方框内个人的动作?",
+                "options": [
+                    "驾驶汽车",
+                    "修理汽车",
+                    "洗车",
+                    "停车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003348.jpg"
+                    },
+                    "labels": {
+                        "object_name": "car",
+                        "action": "drive",
+                        "human_bbox": [
+                            376,
+                            419,
+                            158,
+                            201
+                        ],
+                        "object_bbox": [
+                            38,
+                            636,
+                            120,
+                            294
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "抱着狗",
+                    "抚摸狗",
+                    "遛狗",
+                    "喂狗"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001719.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dog",
+                        "action": "hold",
+                        "human_bbox": [
+                            6,
+                            258,
+                            2,
+                            217
+                        ],
+                        "object_bbox": [
+                            315,
+                            565,
+                            62,
+                            296
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内个人的活动?",
+                "options": [
+                    "乘坐火车",
+                    "骑自行车",
+                    "登机",
+                    "搭出租车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006540.jpg"
+                    },
+                    "labels": {
+                        "object_name": "train",
+                        "action": "ride",
+                        "human_bbox": [
+                            518,
+                            578,
+                            114,
+                            388
+                        ],
+                        "object_bbox": [
+                            1,
+                            638,
+                            1,
+                            430
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图像中红色方框内个人的行为?",
+                "options": [
+                    "拿着滑板",
+                    "骑着滑板",
+                    "放下滑板",
+                    "在滑板上保持平衡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006436.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "hold",
+                        "human_bbox": [
+                            414,
+                            458,
+                            343,
+                            499
+                        ],
+                        "object_bbox": [
+                            439,
+                            460,
+                            416,
+                            496
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图像中红色方框内的人正在做什么?",
+                "options": [
+                    "滑雪",
+                    "骑自行车",
+                    "滑旱冰滑雪",
+                    "滑冰"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004085.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skis",
+                        "action": "ride",
+                        "human_bbox": [
+                            242,
+                            350,
+                            126,
+                            376
+                        ],
+                        "object_bbox": [
+                            100,
+                            381,
+                            326,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最能描述照片中红色方框内个人的动作?",
+                "options": [
+                    "翻转滑板",
+                    "骑着滑板",
+                    "滑板做ollie动作",
+                    "磨滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002676.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            150,
+                            464,
+                            11,
+                            370
+                        ],
+                        "object_bbox": [
+                            146,
+                            413,
+                            328,
+                            490
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描绘了图像中红色方框内个人的动作?",
+                "options": [
+                    "背着背包",
+                    "提着手提箱",
+                    "丢下背包",
+                    "整理背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006870.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            89,
+                            382,
+                            75,
+                            638
+                        ],
+                        "object_bbox": [
+                            134,
+                            343,
+                            255,
+                            445
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述照片中红色方框内的人正在做什么?",
+                "options": [
+                    "在餐桌上吃饭",
+                    "收拾餐桌",
+                    "装饰餐桌",
+                    "重新摆放餐桌"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005818.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            98,
+                            234,
+                            244,
+                            427
+                        ],
+                        "object_bbox": [
+                            78,
+                            494,
+                            234,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最准确地描述了图片中红色方框内人物的动作?",
+                "options": [
+                    "牵着一匹马",
+                    "梳理马毛",
+                    "喂马",
+                    "牵着马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004289.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            109,
+                            281,
+                            112,
+                            278
+                        ],
+                        "object_bbox": [
+                            68,
+                            322,
+                            164,
+                            400
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图中红色方框内个人的动作?",
+                "options": [
+                    "抱着一只鸟",
+                    "喂鸟",
+                    "释放一只鸟",
+                    "提着鸟笼"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006409.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bird",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            410,
+                            247,
+                            514
+                        ],
+                        "object_bbox": [
+                            86,
+                            446,
+                            31,
+                            513
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选项中哪一个最能描述图片中红色方框内的人在做什么?",
+                "options": [
+                    "清洗摩托车",
+                    "给摩托车打蜡",
+                    "擦拭摩托车",
+                    "修理摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001155.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "wash",
+                        "human_bbox": [
+                            321,
+                            432,
+                            2,
+                            167
+                        ],
+                        "object_bbox": [
+                            82,
+                            533,
+                            27,
+                            411
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "坐在长凳上",
+                    "坐在椅子上",
+                    "躺在长凳上",
+                    "站在长凳上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008972.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            257,
+                            463,
+                            32,
+                            464
+                        ],
+                        "object_bbox": [
+                            2,
+                            451,
+                            158,
+                            449
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描绘了图像中红色方框内个人的行为?",
+                "options": [
+                    "拿着笔记本电脑",
+                    "在笔记本电脑上打字",
+                    "掉落笔记本电脑",
+                    "使用笔记本电脑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007286.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "hold",
+                        "human_bbox": [
+                            68,
+                            199,
+                            152,
+                            536
+                        ],
+                        "object_bbox": [
+                            114,
+                            178,
+                            141,
+                            220
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述照片中红色方框内的人在做什么?",
+                "options": [
+                    "提着伞",
+                    "拿着公文包",
+                    "紧握雨衣",
+                    "提着购物袋"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007795.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            146,
+                            350,
+                            190,
+                            633
+                        ],
+                        "object_bbox": [
+                            74,
+                            364,
+                            156,
+                            426
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最准确描述了照片中红色方框内个人的活动?",
+                "options": [
+                    "挡住飞盘",
+                    "接住飞盘",
+                    "扔飞盘",
+                    "踢飞盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008536.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "block",
+                        "human_bbox": [
+                            311,
+                            500,
+                            25,
+                            374
+                        ],
+                        "object_bbox": [
+                            271,
+                            339,
+                            196,
+                            271
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "运球",
+                    "扔运动球",
+                    "接住运动球",
+                    "弹跳运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009565.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "dribble",
+                        "human_bbox": [
+                            130,
+                            472,
+                            10,
+                            622
+                        ],
+                        "object_bbox": [
+                            175,
+                            265,
+                            537,
+                            625
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述图像中红色方框内人物的活动?",
+                "options": [
+                    "亲吻泰迪熊",
+                    "拥抱泰迪熊",
+                    "和泰迪熊说话",
+                    "扔泰迪熊"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001813.jpg"
+                    },
+                    "labels": {
+                        "object_name": "teddy_bear",
+                        "action": "kiss",
+                        "human_bbox": [
+                            2,
+                            397,
+                            2,
+                            563
+                        ],
+                        "object_bbox": [
+                            342,
+                            637,
+                            274,
+                            562
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了照片中红色方框内个人的动作?",
+                "options": [
+                    "骑着冲浪板",
+                    "骑着滑板",
+                    "携带冲浪板",
+                    "给冲浪板打蜡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008372.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            153,
+                            544,
+                            180,
+                            553
+                        ],
+                        "object_bbox": [
+                            22,
+                            406,
+                            461,
+                            588
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内人物的动作?",
+                "options": [
+                    "滑雪板",
+                    "骑滑板",
+                    "在雪板上跳跃",
+                    "从雪板上摔下"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008772.jpg"
+                    },
+                    "labels": {
+                        "object_name": "snowboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            322,
+                            349,
+                            263,
+                            332
+                        ],
+                        "object_bbox": [
+                            309,
+                            366,
+                            316,
+                            345
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描绘图像中红色方框内个人的行为?",
+                "options": [
+                    "吹灭蛋糕上的蜡烛",
+                    "切蛋糕",
+                    "装饰蛋糕",
+                    "给蛋糕上糖霜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005639.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cake",
+                        "action": "blow",
+                        "human_bbox": [
+                            26,
+                            369,
+                            73,
+                            519
+                        ],
+                        "object_bbox": [
+                            146,
+                            315,
+                            406,
+                            517
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "骑马",
+                    "牵着马",
+                    "骑自行车",
+                    "梳理马毛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000028.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            294,
+                            383,
+                            74,
+                            254
+                        ],
+                        "object_bbox": [
+                            215,
+                            594,
+                            165,
+                            376
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了图中红色方框内个人的动作?",
+                "options": [
+                    "提着伞",
+                    "放下伞",
+                    "转动伞",
+                    "打开伞"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008039.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            46,
+                            498,
+                            2,
+                            372
+                        ],
+                        "object_bbox": [
+                            1,
+                            495,
+                            2,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选择中哪一个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "坐在椅子上",
+                    "靠在椅子上",
+                    "站在椅子上",
+                    "从椅子上跳下"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000072.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            262,
+                            386,
+                            30,
+                            129
+                        ],
+                        "object_bbox": [
+                            14,
+                            194,
+                            100,
+                            337
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内个人的活动?",
+                "options": [
+                    "拿着笔记本电脑",
+                    "掉落笔记本电脑",
+                    "给笔记本电脑充电",
+                    "关闭笔记本电脑"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004838.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "hold",
+                        "human_bbox": [
+                            29,
+                            412,
+                            223,
+                            488
+                        ],
+                        "object_bbox": [
+                            118,
+                            339,
+                            367,
+                            509
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图像中红色方框内个人的行为?",
+                "options": [
+                    "踢运动球",
+                    "扔运动球",
+                    "接住运动球",
+                    "弹跳运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000725.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "kick",
+                        "human_bbox": [
+                            375,
+                            606,
+                            1,
+                            161
+                        ],
+                        "object_bbox": [
+                            138,
+                            214,
+                            58,
+                            132
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图像中红色方框内的人正在做什么?",
+                "options": [
+                    "骑冲浪板",
+                    "骑滑板",
+                    "从冲浪板上摔下",
+                    "给冲浪板打蜡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004359.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            387,
+                            419,
+                            190,
+                            212
+                        ],
+                        "object_bbox": [
+                            369,
+                            429,
+                            195,
+                            228
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最能描述照片中红色方框内个人的动作?",
+                "options": [
+                    "背着背包",
+                    "提着手提箱",
+                    "放下背包",
+                    "打开背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001021.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            296,
+                            373,
+                            198,
+                            441
+                        ],
+                        "object_bbox": [
+                            342,
+                            400,
+                            233,
+                            312
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描绘了图像中红色方框内个人的动作?",
+                "options": [
+                    "看鸟。",
+                    "看着猫",
+                    "追逐鸟",
+                    "拍摄这只鸟"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007450.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bird",
+                        "action": "watch",
+                        "human_bbox": [
+                            82,
+                            151,
+                            69,
+                            214
+                        ],
+                        "object_bbox": [
+                            336,
+                            369,
+                            153,
+                            186
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述照片中红色方框内的人正在做什么?",
+                "options": [
+                    "抱着一头牛",
+                    "抱着一只羊",
+                    "释放一头牛",
+                    "牵着一头牛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001634.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cow",
+                        "action": "hold",
+                        "human_bbox": [
+                            123,
+                            378,
+                            20,
+                            492
+                        ],
+                        "object_bbox": [
+                            188,
+                            611,
+                            95,
+                            479
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个选项最准确地描述了图片中红色方框内人物的动作?",
+                "options": [
+                    "放风筝",
+                    "驾驶无人机",
+                    "追风筝",
+                    "修理风筝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008736.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            11,
+                            63,
+                            350,
+                            436
+                        ],
+                        "object_bbox": [
+                            284,
+                            308,
+                            385,
+                            420
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图中红色方框内个人的动作?",
+                "options": [
+                    "背着背包",
+                    "提着手提包",
+                    "丢下背包",
+                    "整理背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009351.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            436,
+                            456,
+                            241,
+                            277
+                        ],
+                        "object_bbox": [
+                            440,
+                            455,
+                            246,
+                            262
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选项中哪一个最能描述图片中红色方框内的人在做什么?",
+                "options": [
+                    "坐在长凳上",
+                    "躺在长椅上",
+                    "靠在长凳上",
+                    "站在长凳上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000589.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            11,
+                            421,
+                            246,
+                            587
+                        ],
+                        "object_bbox": [
+                            10,
+                            422,
+                            434,
+                            630
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "拿着棒球棒",
+                    "挥动网球拍",
+                    "握着高尔夫球杆",
+                    "杂耍棒球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009680.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "hold",
+                        "human_bbox": [
+                            364,
+                            638,
+                            10,
+                            455
+                        ],
+                        "object_bbox": [
+                            272,
+                            463,
+                            234,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描绘了图像中红色方框内个人的行为?",
+                "options": [
+                    "扔飞盘",
+                    "接住飞盘",
+                    "踢飞盘",
+                    "滚动飞盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000503.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "throw",
+                        "human_bbox": [
+                            222,
+                            317,
+                            34,
+                            283
+                        ],
+                        "object_bbox": [
+                            299,
+                            345,
+                            81,
+                            105
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述照片中红色方框内的人在做什么?",
+                "options": [
+                    "喂鸟",
+                    "喂鱼",
+                    "看着鸟",
+                    "追逐鸟"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009097.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bird",
+                        "action": "feed",
+                        "human_bbox": [
+                            2,
+                            330,
+                            7,
+                            289
+                        ],
+                        "object_bbox": [
+                            242,
+                            620,
+                            118,
+                            369
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最准确描述了照片中红色方框内个人的活动?",
+                "options": [
+                    "扶着自行车",
+                    "举起自行车",
+                    "推着自行车",
+                    "修理自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002231.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            138,
+                            23,
+                            331
+                        ],
+                        "object_bbox": [
+                            2,
+                            132,
+                            165,
+                            423
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "躺在沙发上",
+                    "坐在沙发上",
+                    "在沙发上睡觉",
+                    "在沙发上跳跃"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008852.jpg"
+                    },
+                    "labels": {
+                        "object_name": "couch",
+                        "action": "lie_on",
+                        "human_bbox": [
+                            84,
+                            390,
+                            106,
+                            316
+                        ],
+                        "object_bbox": [
+                            2,
+                            497,
+                            89,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述图像中红色方框内人物的活动?",
+                "options": [
+                    "抱着绵羊",
+                    "抱着小猫",
+                    "给羊剪毛",
+                    "牵着一只羊"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002595.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sheep",
+                        "action": "hold",
+                        "human_bbox": [
+                            26,
+                            182,
+                            27,
+                            161
+                        ],
+                        "object_bbox": [
+                            25,
+                            209,
+                            34,
+                            178
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了照片中红色方框内个人的动作?",
+                "options": [
+                    "提着杯子",
+                    "溢出杯子",
+                    "掉杯子",
+                    "从杯子里啜饮"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001358.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cup",
+                        "action": "carry",
+                        "human_bbox": [
+                            8,
+                            425,
+                            38,
+                            637
+                        ],
+                        "object_bbox": [
+                            178,
+                            293,
+                            358,
+                            480
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内人物的动作?",
+                "options": [
+                    "接住运动球",
+                    "弹跳运动球",
+                    "踢运动球",
+                    "击打运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003458.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "catch",
+                        "human_bbox": [
+                            315,
+                            509,
+                            108,
+                            454
+                        ],
+                        "object_bbox": [
+                            500,
+                            603,
+                            242,
+                            326
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描绘图像中红色方框内个人的行为?",
+                "options": [
+                    "坐在长凳上",
+                    "躺在长凳上",
+                    "站在长凳上",
+                    "从长凳上跳下"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0102.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009011.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            158,
+                            372,
+                            30,
+                            365
+                        ],
+                        "object_bbox": [
+                            1,
+                            465,
+                            138,
+                            365
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "骑马",
+                    "骑自行车",
+                    "抚摸马",
+                    "梳理马毛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0104.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006312.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            265,
+                            409,
+                            10,
+                            267
+                        ],
+                        "object_bbox": [
+                            179,
+                            532,
+                            102,
+                            429
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了图像中红色方框内个人的动作?",
+                "options": [
+                    "拿着一只大象",
+                    "拿着一个西瓜",
+                    "抚摸大象",
+                    "喂大象"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005632.jpg"
+                    },
+                    "labels": {
+                        "object_name": "elephant",
+                        "action": "hold",
+                        "human_bbox": [
+                            554,
+                            639,
+                            124,
+                            414
+                        ],
+                        "object_bbox": [
+                            37,
+                            606,
+                            245,
+                            474
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "磨滑板",
+                    "携带滑板",
+                    "滑板做Ollie动作",
+                    "翻转滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0106.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001712.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            82,
+                            277,
+                            30,
+                            332
+                        ],
+                        "object_bbox": [
+                            141,
+                            289,
+                            272,
+                            340
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内个人的活动?",
+                "options": [
+                    "扶着自行车",
+                    "骑自行车",
+                    "推着自行车",
+                    "卖自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002087.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            161,
+                            287,
+                            82,
+                            423
+                        ],
+                        "object_bbox": [
+                            335,
+                            590,
+                            158,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图像中红色方框内人物的行为?",
+                "options": [
+                    "挤牛奶",
+                    "喂牛",
+                    "梳理牛",
+                    "赶牛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0108.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005962.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cow",
+                        "action": "milk",
+                        "human_bbox": [
+                            263,
+                            629,
+                            110,
+                            390
+                        ],
+                        "object_bbox": [
+                            8,
+                            620,
+                            9,
+                            290
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图像中红色方框内的人在做什么?",
+                "options": [
+                    "扶着自行车",
+                    "骑自行车",
+                    "修理自行车",
+                    "推着自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004261.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            245,
+                            370,
+                            1,
+                            460
+                        ],
+                        "object_bbox": [
+                            181,
+                            594,
+                            191,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最能描述照片中红色方框内个人的动作?",
+                "options": [
+                    "提着瓶子",
+                    "提着一个罐子",
+                    "掉落瓶子",
+                    "递送瓶子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007412.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bottle",
+                        "action": "carry",
+                        "human_bbox": [
+                            168,
+                            594,
+                            126,
+                            557
+                        ],
+                        "object_bbox": [
+                            391,
+                            580,
+                            243,
+                            378
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描绘了图像中红色方框内人物的动作?",
+                "options": [
+                    "检查汽车",
+                    "修理汽车",
+                    "洗车",
+                    "试驾汽车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0111.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003950.jpg"
+                    },
+                    "labels": {
+                        "object_name": "car",
+                        "action": "inspect",
+                        "human_bbox": [
+                            430,
+                            546,
+                            77,
+                            356
+                        ],
+                        "object_bbox": [
+                            154,
+                            619,
+                            26,
+                            338
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述照片中红色方框内的人正在做什么。",
+                "options": [
+                    "吃苹果",
+                    "切苹果",
+                    "削苹果",
+                    "切苹果"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0112.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000126.jpg"
+                    },
+                    "labels": {
+                        "object_name": "apple",
+                        "action": "eat",
+                        "human_bbox": [
+                            86,
+                            334,
+                            160,
+                            423
+                        ],
+                        "object_bbox": [
+                            154,
+                            190,
+                            266,
+                            302
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最准确地描述了图片中红色方框内人物的动作?",
+                "options": [
+                    "抓住一匹马",
+                    "梳理马毛",
+                    "喂马",
+                    "抚摸马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0114.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007027.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            285,
+                            411,
+                            80,
+                            249
+                        ],
+                        "object_bbox": [
+                            192,
+                            499,
+                            120,
+                            317
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述图中红色方框内个人的动作?",
+                "options": [
+                    "洗车",
+                    "擦拭汽车",
+                    "给车打蜡",
+                    "给车子吸尘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0115.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000553.jpg"
+                    },
+                    "labels": {
+                        "object_name": "car",
+                        "action": "wash",
+                        "human_bbox": [
+                            35,
+                            102,
+                            75,
+                            278
+                        ],
+                        "object_bbox": [
+                            98,
+                            472,
+                            72,
+                            295
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选项中哪一个最能描述图片中红色方框内的人在做什么?",
+                "options": [
+                    "拿着手机",
+                    "在手机上发短信",
+                    "掉手机",
+                    "用手机打电话"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0116.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004024.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cell_phone",
+                        "action": "hold",
+                        "human_bbox": [
+                            194,
+                            540,
+                            4,
+                            425
+                        ],
+                        "object_bbox": [
+                            291,
+                            365,
+                            290,
+                            375
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下哪个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "烹饪比萨",
+                    "烤蛋糕",
+                    "订购披萨",
+                    "烤汉堡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0118.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001440.jpg"
+                    },
+                    "labels": {
+                        "object_name": "pizza",
+                        "action": "cook",
+                        "human_bbox": [
+                            118,
+                            403,
+                            128,
+                            453
+                        ],
+                        "object_bbox": [
+                            273,
+                            404,
+                            349,
+                            403
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描绘了图像中红色方框内个人的行为?",
+                "options": [
+                    "放风筝",
+                    "驾驶无人机",
+                    "发射火箭",
+                    "驾驶直升机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0120.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002511.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            293,
+                            373,
+                            186,
+                            432
+                        ],
+                        "object_bbox": [
+                            2,
+                            637,
+                            1,
+                            512
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述照片中红色方框内的人在做什么?",
+                "options": [
+                    "背着背包",
+                    "丢下背包",
+                    "装载背包",
+                    "清空背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0121.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000838.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            90,
+                            240,
+                            129,
+                            631
+                        ],
+                        "object_bbox": [
+                            233,
+                            377,
+                            198,
+                            325
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最准确地描述了照片中红色方框内个人的活动?",
+                "options": [
+                    "用刀切东西",
+                    "用刀刺戳",
+                    "用刀涂抹黄油",
+                    "用刀削皮"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0122.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003478.jpg"
+                    },
+                    "labels": {
+                        "object_name": "knife",
+                        "action": "cut_with",
+                        "human_bbox": [
+                            3,
+                            584,
+                            2,
+                            161
+                        ],
+                        "object_bbox": [
+                            65,
+                            401,
+                            34,
+                            276
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确地描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "携带手机",
+                    "掉手机",
+                    "给手机充电",
+                    "扔手机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0123.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006501.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cell_phone",
+                        "action": "carry",
+                        "human_bbox": [
+                            4,
+                            235,
+                            58,
+                            474
+                        ],
+                        "object_bbox": [
+                            89,
+                            180,
+                            166,
+                            299
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选项最能描述图像中红色方框内人物的活动?",
+                "options": [
+                    "磨滑板",
+                    "修理滑板",
+                    "给滑板打蜡",
+                    "定制滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0124.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000491.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            69,
+                            172,
+                            201,
+                            315
+                        ],
+                        "object_bbox": [
+                            70,
+                            116,
+                            299,
+                            331
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确地描述了照片中红色方框内个人的动作?",
+                "options": [
+                    "乘船",
+                    "驾驶一艘船",
+                    "在船上钓鱼",
+                    "倾覆一艘船"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0125.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007282.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "ride",
+                        "human_bbox": [
+                            120,
+                            183,
+                            261,
+                            319
+                        ],
+                        "object_bbox": [
+                            52,
+                            435,
+                            279,
+                            371
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内人物的动作?",
+                "options": [
+                    "骑自行车",
+                    "骑滑板车",
+                    "踩三轮车",
+                    "在独轮车上保持平衡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0126.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003746.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "ride",
+                        "human_bbox": [
+                            251,
+                            404,
+                            90,
+                            361
+                        ],
+                        "object_bbox": [
+                            149,
+                            379,
+                            219,
+                            413
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描绘图像中红色方框内个人的行为?",
+                "options": [
+                    "追逐猫",
+                    "追逐蝴蝶",
+                    "抚摸猫",
+                    "喂猫"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0127.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009675.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cat",
+                        "action": "chase",
+                        "human_bbox": [
+                            141,
+                            315,
+                            238,
+                            426
+                        ],
+                        "object_bbox": [
+                            129,
+                            203,
+                            141,
+                            227
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最准确描述了图片中红色方框内的人在做什么?",
+                "options": [
+                    "骑摩托车跳跃",
+                    "骑自行车",
+                    "骑摩托车",
+                    "修理摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0128.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001488.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "jump",
+                        "human_bbox": [
+                            33,
+                            409,
+                            38,
+                            227
+                        ],
+                        "object_bbox": [
+                            227,
+                            586,
+                            110,
+                            371
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这些选择中哪一个最准确描述了图像中红色方框内个人的动作?",
+                "options": [
+                    "抓狗",
+                    "喂狗",
+                    "遛狗",
+                    "给狗梳毛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0129.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008718.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dog",
+                        "action": "scratch",
+                        "human_bbox": [
+                            43,
+                            385,
+                            37,
+                            596
+                        ],
+                        "object_bbox": [
+                            94,
+                            271,
+                            312,
+                            560
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "以下选项中哪一个最能描述图片中红色方框内人物的动作?",
+                "options": [
+                    "磨滑板",
+                    "给滑板打蜡",
+                    "组装滑板",
+                    "清洁滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0131.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008335.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            110,
+                            284,
+                            51,
+                            253
+                        ],
+                        "object_bbox": [
+                            51,
+                            184,
+                            166,
+                            278
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "哪个选择最能描述照片中红色方框内个人的活动?",
+                "options": [
+                    "在餐桌上吃饭",
+                    "在沙发上吃东西",
+                    "在餐桌上烹饪",
+                    "重新摆放餐桌"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0133.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004144.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            373,
+                            635,
+                            4,
+                            276
+                        ],
+                        "object_bbox": [
+                            46,
+                            634,
+                            97,
+                            474
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

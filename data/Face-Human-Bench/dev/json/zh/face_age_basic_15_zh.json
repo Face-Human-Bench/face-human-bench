@@ -1,0 +1,2504 @@
+{
+    "data": [
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄最有可能是照片中人的年龄?",
+                "options": [
+                    "2",
+                    "17",
+                    "32",
+                    "47"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0001.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/2_0_1_20170113175826133.jpg"
+                    },
+                    "labels": {
+                        "age": 2,
+                        "five_points": [
+                            [
+                                347,
+                                501
+                            ],
+                            [
+                                522,
+                                485
+                            ],
+                            [
+                                435,
+                                582
+                            ],
+                            [
+                                395,
+                                654
+                            ],
+                            [
+                                524,
+                                638
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在选择中,哪个年龄似乎最适合图片中的个体?",
+                "options": [
+                    "3",
+                    "18",
+                    "33",
+                    "48"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0002.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/18_1_0_20170117140258008.jpg"
+                    },
+                    "labels": {
+                        "age": 18,
+                        "five_points": [
+                            [
+                                331,
+                                380
+                            ],
+                            [
+                                457,
+                                369
+                            ],
+                            [
+                                413,
+                                450
+                            ],
+                            [
+                                346,
+                                502
+                            ],
+                            [
+                                454,
+                                491
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在所给年龄中,你认为照片中的人最可能是哪个年龄?",
+                "options": [
+                    "5",
+                    "20",
+                    "35",
+                    "50"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0003.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/5_1_0_20170117140150663.jpg"
+                    },
+                    "labels": {
+                        "age": 5,
+                        "five_points": [
+                            [
+                                322,
+                                286
+                            ],
+                            [
+                                414,
+                                284
+                            ],
+                            [
+                                364,
+                                346
+                            ],
+                            [
+                                338,
+                                368
+                            ],
+                            [
+                                423,
+                                361
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄最有可能是图片中人的年龄?",
+                "options": [
+                    "5",
+                    "20",
+                    "35",
+                    "50"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0004.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/20_0_0_20170117135525494.jpg"
+                    },
+                    "labels": {
+                        "age": 20,
+                        "five_points": [
+                            [
+                                215,
+                                311
+                            ],
+                            [
+                                321,
+                                311
+                            ],
+                            [
+                                266,
+                                382
+                            ],
+                            [
+                                232,
+                                429
+                            ],
+                            [
+                                313,
+                                425
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人物最可能是哪个年龄?",
+                "options": [
+                    "12",
+                    "27",
+                    "42",
+                    "57"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0005.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/12_0_0_20170117141849040.jpg"
+                    },
+                    "labels": {
+                        "age": 12,
+                        "five_points": [
+                            [
+                                658,
+                                357
+                            ],
+                            [
+                                811,
+                                393
+                            ],
+                            [
+                                721,
+                                504
+                            ],
+                            [
+                                627,
+                                529
+                            ],
+                            [
+                                746,
+                                548
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的个人适合哪个年龄段?",
+                "options": [
+                    "16",
+                    "31",
+                    "46",
+                    "61"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0006.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/16_1_1_20170114025520014.jpg"
+                    },
+                    "labels": {
+                        "age": 16,
+                        "five_points": [
+                            [
+                                366,
+                                391
+                            ],
+                            [
+                                495,
+                                405
+                            ],
+                            [
+                                456,
+                                504
+                            ],
+                            [
+                                339,
+                                556
+                            ],
+                            [
+                                450,
+                                562
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中描绘的人物最可能是多大年龄?",
+                "options": [
+                    "19",
+                    "34",
+                    "49",
+                    "64"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0007.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/19_0_0_20170117140608208.jpg"
+                    },
+                    "labels": {
+                        "age": 19,
+                        "five_points": [
+                            [
+                                378,
+                                493
+                            ],
+                            [
+                                567,
+                                503
+                            ],
+                            [
+                                466,
+                                630
+                            ],
+                            [
+                                390,
+                                706
+                            ],
+                            [
+                                527,
+                                721
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "你认为这张照片中的人最有可能是多少岁?",
+                "options": [
+                    "4",
+                    "19",
+                    "34",
+                    "49"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0008.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/19_1_1_20170117195435822.jpg"
+                    },
+                    "labels": {
+                        "age": 19,
+                        "five_points": [
+                            [
+                                368,
+                                418
+                            ],
+                            [
+                                468,
+                                433
+                            ],
+                            [
+                                425,
+                                488
+                            ],
+                            [
+                                356,
+                                518
+                            ],
+                            [
+                                447,
+                                536
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人物看起来最有可能是什么年龄?",
+                "options": [
+                    "12",
+                    "27",
+                    "42",
+                    "57"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0009.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/12_1_0_20170117181943783.jpg"
+                    },
+                    "labels": {
+                        "age": 12,
+                        "five_points": [
+                            [
+                                397,
+                                141
+                            ],
+                            [
+                                460,
+                                175
+                            ],
+                            [
+                                403,
+                                205
+                            ],
+                            [
+                                363,
+                                199
+                            ],
+                            [
+                                430,
+                                235
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的人最适合的年龄是多大?",
+                "options": [
+                    "5",
+                    "20",
+                    "35",
+                    "50"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0010.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/20_0_0_20170117140133828.jpg"
+                    },
+                    "labels": {
+                        "age": 20,
+                        "five_points": [
+                            [
+                                589,
+                                251
+                            ],
+                            [
+                                684,
+                                247
+                            ],
+                            [
+                                646,
+                                301
+                            ],
+                            [
+                                596,
+                                347
+                            ],
+                            [
+                                684,
+                                340
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄可能是图片中人物的年龄?",
+                "options": [
+                    "27",
+                    "42",
+                    "57",
+                    "72"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0011.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/27_1_4_20170117175508442.jpg"
+                    },
+                    "labels": {
+                        "age": 27,
+                        "five_points": [
+                            [
+                                530,
+                                106
+                            ],
+                            [
+                                596,
+                                106
+                            ],
+                            [
+                                568,
+                                138
+                            ],
+                            [
+                                540,
+                                183
+                            ],
+                            [
+                                590,
+                                183
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的人可能是哪个年龄段?",
+                "options": [
+                    "5",
+                    "20",
+                    "35",
+                    "50"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0012.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/35_1_2_20170116191840543.jpg"
+                    },
+                    "labels": {
+                        "age": 35,
+                        "five_points": [
+                            [
+                                229,
+                                114
+                            ],
+                            [
+                                281,
+                                130
+                            ],
+                            [
+                                230,
+                                149
+                            ],
+                            [
+                                213,
+                                182
+                            ],
+                            [
+                                255,
+                                194
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这些年龄中哪一个最适合图片中的人?",
+                "options": [
+                    "5",
+                    "20",
+                    "35",
+                    "50"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0013.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/35_1_0_20170117191417058.jpg"
+                    },
+                    "labels": {
+                        "age": 35,
+                        "five_points": [
+                            [
+                                175,
+                                292
+                            ],
+                            [
+                                251,
+                                281
+                            ],
+                            [
+                                186,
+                                357
+                            ],
+                            [
+                                212,
+                                401
+                            ],
+                            [
+                                281,
+                                392
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在图片中展示的人物最可能是哪个年龄?",
+                "options": [
+                    "25",
+                    "40",
+                    "55",
+                    "70"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0014.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/25_1_1_20170112205156233.jpg"
+                    },
+                    "labels": {
+                        "age": 25,
+                        "five_points": [
+                            [
+                                352,
+                                333
+                            ],
+                            [
+                                504,
+                                327
+                            ],
+                            [
+                                422,
+                                417
+                            ],
+                            [
+                                381,
+                                487
+                            ],
+                            [
+                                491,
+                                487
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人可能是哪个年龄?",
+                "options": [
+                    "29",
+                    "44",
+                    "59",
+                    "74"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0015.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/29_1_2_20170116163331282.jpg"
+                    },
+                    "labels": {
+                        "age": 29,
+                        "five_points": [
+                            [
+                                287,
+                                178
+                            ],
+                            [
+                                355,
+                                183
+                            ],
+                            [
+                                335,
+                                230
+                            ],
+                            [
+                                290,
+                                265
+                            ],
+                            [
+                                342,
+                                268
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在以下年龄中,这个图片中的人最可能是多少岁?",
+                "options": [
+                    "26",
+                    "41",
+                    "56",
+                    "71"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0016.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/26_1_1_20170116234436659.jpg"
+                    },
+                    "labels": {
+                        "age": 26,
+                        "five_points": [
+                            [
+                                577,
+                                278
+                            ],
+                            [
+                                660,
+                                283
+                            ],
+                            [
+                                647,
+                                336
+                            ],
+                            [
+                                557,
+                                379
+                            ],
+                            [
+                                647,
+                                383
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在选择中,哪个年龄看起来最适合图片中的个体?",
+                "options": [
+                    "8",
+                    "23",
+                    "38",
+                    "53"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0017.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/23_0_0_20170116221708213.jpg"
+                    },
+                    "labels": {
+                        "age": 23,
+                        "five_points": [
+                            [
+                                420,
+                                442
+                            ],
+                            [
+                                645,
+                                455
+                            ],
+                            [
+                                558,
+                                586
+                            ],
+                            [
+                                425,
+                                677
+                            ],
+                            [
+                                620,
+                                698
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在给定的年龄中,你认为这张图片中的这个人最有可能是多大?",
+                "options": [
+                    "13",
+                    "28",
+                    "43",
+                    "58"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0018.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/28_0_0_20170117180237845.jpg"
+                    },
+                    "labels": {
+                        "age": 28,
+                        "five_points": [
+                            [
+                                282,
+                                435
+                            ],
+                            [
+                                426,
+                                416
+                            ],
+                            [
+                                364,
+                                526
+                            ],
+                            [
+                                324,
+                                583
+                            ],
+                            [
+                                443,
+                                560
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄最可能是图片中这个人的年龄?",
+                "options": [
+                    "23",
+                    "38",
+                    "53",
+                    "68"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0019.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/23_0_0_20170117134919191.jpg"
+                    },
+                    "labels": {
+                        "age": 23,
+                        "five_points": [
+                            [
+                                190,
+                                364
+                            ],
+                            [
+                                367,
+                                319
+                            ],
+                            [
+                                313,
+                                456
+                            ],
+                            [
+                                241,
+                                553
+                            ],
+                            [
+                                410,
+                                513
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人物最可能是多大年龄?",
+                "options": [
+                    "11",
+                    "26",
+                    "41",
+                    "56"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0020.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/26_1_1_20170117141807232.jpg"
+                    },
+                    "labels": {
+                        "age": 26,
+                        "five_points": [
+                            [
+                                653,
+                                259
+                            ],
+                            [
+                                733,
+                                219
+                            ],
+                            [
+                                733,
+                                285
+                            ],
+                            [
+                                710,
+                                349
+                            ],
+                            [
+                                767,
+                                322
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的个人最适合哪个年龄?",
+                "options": [
+                    "24",
+                    "39",
+                    "54",
+                    "69"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0021.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/54_0_0_20170117191419939.jpg"
+                    },
+                    "labels": {
+                        "age": 54,
+                        "five_points": [
+                            [
+                                339,
+                                217
+                            ],
+                            [
+                                419,
+                                224
+                            ],
+                            [
+                                384,
+                                265
+                            ],
+                            [
+                                341,
+                                314
+                            ],
+                            [
+                                407,
+                                321
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这幅图片中的人物最可能是多大年龄?",
+                "options": [
+                    "40",
+                    "55",
+                    "70",
+                    "85"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0022.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/55_1_0_20170117145739403.jpg"
+                    },
+                    "labels": {
+                        "age": 55,
+                        "five_points": [
+                            [
+                                316,
+                                291
+                            ],
+                            [
+                                423,
+                                301
+                            ],
+                            [
+                                374,
+                                362
+                            ],
+                            [
+                                313,
+                                394
+                            ],
+                            [
+                                410,
+                                403
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "你认为这张照片中的人最可能是多大年龄?",
+                "options": [
+                    "43",
+                    "58",
+                    "73",
+                    "88"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0023.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/58_0_1_20170117193628506.jpg"
+                    },
+                    "labels": {
+                        "age": 58,
+                        "five_points": [
+                            [
+                                199,
+                                250
+                            ],
+                            [
+                                340,
+                                228
+                            ],
+                            [
+                                284,
+                                321
+                            ],
+                            [
+                                222,
+                                383
+                            ],
+                            [
+                                351,
+                                372
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人物年龄看起来最为合理?",
+                "options": [
+                    "15",
+                    "30",
+                    "45",
+                    "60"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0024.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/45_1_4_20170117150756260.jpg"
+                    },
+                    "labels": {
+                        "age": 45,
+                        "five_points": [
+                            [
+                                313,
+                                341
+                            ],
+                            [
+                                433,
+                                305
+                            ],
+                            [
+                                371,
+                                391
+                            ],
+                            [
+                                361,
+                                465
+                            ],
+                            [
+                                471,
+                                433
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的人适合哪个年龄?",
+                "options": [
+                    "31",
+                    "46",
+                    "61",
+                    "76"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0025.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/46_0_2_20170116192700927.jpg"
+                    },
+                    "labels": {
+                        "age": 46,
+                        "five_points": [
+                            [
+                                331,
+                                198
+                            ],
+                            [
+                                408,
+                                197
+                            ],
+                            [
+                                357,
+                                248
+                            ],
+                            [
+                                343,
+                                302
+                            ],
+                            [
+                                412,
+                                295
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄可能是图片中人物的年龄?",
+                "options": [
+                    "53",
+                    "68",
+                    "83",
+                    "98"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0026.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/53_1_0_20170117204229856.jpg"
+                    },
+                    "labels": {
+                        "age": 53,
+                        "five_points": [
+                            [
+                                338,
+                                250
+                            ],
+                            [
+                                415,
+                                233
+                            ],
+                            [
+                                378,
+                                286
+                            ],
+                            [
+                                360,
+                                323
+                            ],
+                            [
+                                428,
+                                311
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张照片中的人最可能是多大年龄?",
+                "options": [
+                    "27",
+                    "42",
+                    "57",
+                    "72"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0027.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/42_0_0_20170112220250648.jpg"
+                    },
+                    "labels": {
+                        "age": 42,
+                        "five_points": [
+                            [
+                                347,
+                                351
+                            ],
+                            [
+                                484,
+                                371
+                            ],
+                            [
+                                419,
+                                481
+                            ],
+                            [
+                                339,
+                                524
+                            ],
+                            [
+                                438,
+                                536
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张照片中的人物适合哪个年龄?",
+                "options": [
+                    "39",
+                    "54",
+                    "69",
+                    "84"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0028.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/54_0_2_20170112221955514.jpg"
+                    },
+                    "labels": {
+                        "age": 54,
+                        "five_points": [
+                            [
+                                365,
+                                228
+                            ],
+                            [
+                                439,
+                                230
+                            ],
+                            [
+                                399,
+                                273
+                            ],
+                            [
+                                371,
+                                310
+                            ],
+                            [
+                                430,
+                                310
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在图片中展示的人物最可能是哪个年龄?",
+                "options": [
+                    "55",
+                    "70",
+                    "85",
+                    "100"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0029.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/55_0_2_20170112223845572.jpg"
+                    },
+                    "labels": {
+                        "age": 55,
+                        "five_points": [
+                            [
+                                411,
+                                324
+                            ],
+                            [
+                                588,
+                                324
+                            ],
+                            [
+                                485,
+                                433
+                            ],
+                            [
+                                423,
+                                511
+                            ],
+                            [
+                                579,
+                                518
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张照片中的人可能是哪个年龄段?",
+                "options": [
+                    "15",
+                    "30",
+                    "45",
+                    "60"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0030.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/60_0_2_20170117171420930.jpg"
+                    },
+                    "labels": {
+                        "age": 60,
+                        "five_points": [
+                            [
+                                253,
+                                236
+                            ],
+                            [
+                                340,
+                                231
+                            ],
+                            [
+                                296,
+                                280
+                            ],
+                            [
+                                260,
+                                323
+                            ],
+                            [
+                                346,
+                                319
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在以下年龄中,这张图片中的人最有可能是多少岁?",
+                "options": [
+                    "63",
+                    "78",
+                    "93",
+                    "108"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0031.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/78_0_1_20170116204857697.jpg"
+                    },
+                    "labels": {
+                        "age": 78,
+                        "five_points": [
+                            [
+                                375,
+                                144
+                            ],
+                            [
+                                496,
+                                163
+                            ],
+                            [
+                                448,
+                                231
+                            ],
+                            [
+                                386,
+                                298
+                            ],
+                            [
+                                484,
+                                298
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在选择中,哪个年龄似乎最适合图片中的个人?",
+                "options": [
+                    "80",
+                    "95",
+                    "110",
+                    "125"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0032.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/80_0_0_20170117174755679.jpg"
+                    },
+                    "labels": {
+                        "age": 80,
+                        "five_points": [
+                            [
+                                233,
+                                376
+                            ],
+                            [
+                                337,
+                                363
+                            ],
+                            [
+                                287,
+                                430
+                            ],
+                            [
+                                265,
+                                484
+                            ],
+                            [
+                                350,
+                                475
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在给定的年龄中,你认为这张照片中的人最可能是多少岁?",
+                "options": [
+                    "35",
+                    "50",
+                    "65",
+                    "80"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0033.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/65_0_1_20170117194017535.jpg"
+                    },
+                    "labels": {
+                        "age": 65,
+                        "five_points": [
+                            [
+                                425,
+                                307
+                            ],
+                            [
+                                560,
+                                292
+                            ],
+                            [
+                                513,
+                                389
+                            ],
+                            [
+                                439,
+                                451
+                            ],
+                            [
+                                569,
+                                435
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在以下年龄中,这张照片中的人最可能是几岁?",
+                "options": [
+                    "30",
+                    "45",
+                    "60",
+                    "75"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0034.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/75_0_2_20170112205221689.jpg"
+                    },
+                    "labels": {
+                        "age": 75,
+                        "five_points": [
+                            [
+                                569,
+                                201
+                            ],
+                            [
+                                671,
+                                202
+                            ],
+                            [
+                                616,
+                                255
+                            ],
+                            [
+                                571,
+                                304
+                            ],
+                            [
+                                657,
+                                313
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的人物最可能是哪个年龄?",
+                "options": [
+                    "65",
+                    "80",
+                    "95",
+                    "110"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0035.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/65_0_1_20170117190957867.jpg"
+                    },
+                    "labels": {
+                        "age": 65,
+                        "five_points": [
+                            [
+                                230,
+                                345
+                            ],
+                            [
+                                403,
+                                333
+                            ],
+                            [
+                                297,
+                                438
+                            ],
+                            [
+                                269,
+                                540
+                            ],
+                            [
+                                405,
+                                526
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张照片中的个体适合哪个年龄段?",
+                "options": [
+                    "69",
+                    "84",
+                    "99",
+                    "114"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0036.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/69_0_0_20170117172119964.jpg"
+                    },
+                    "labels": {
+                        "age": 69,
+                        "five_points": [
+                            [
+                                211,
+                                302
+                            ],
+                            [
+                                366,
+                                299
+                            ],
+                            [
+                                312,
+                                408
+                            ],
+                            [
+                                209,
+                                466
+                            ],
+                            [
+                                363,
+                                466
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这幅图片中的人物最可能是多大年龄?",
+                "options": [
+                    "65",
+                    "80",
+                    "95",
+                    "110"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0037.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/65_1_1_20170117193956961.jpg"
+                    },
+                    "labels": {
+                        "age": 65,
+                        "five_points": [
+                            [
+                                695,
+                                248
+                            ],
+                            [
+                                815,
+                                233
+                            ],
+                            [
+                                807,
+                                347
+                            ],
+                            [
+                                682,
+                                392
+                            ],
+                            [
+                                796,
+                                369
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "你认为这张图片中的人最可能是什么年龄?.",
+                "options": [
+                    "17",
+                    "32",
+                    "47",
+                    "62"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0038.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/62_0_2_20170112205718780.jpg"
+                    },
+                    "labels": {
+                        "age": 62,
+                        "five_points": [
+                            [
+                                304,
+                                322
+                            ],
+                            [
+                                397,
+                                326
+                            ],
+                            [
+                                336,
+                                370
+                            ],
+                            [
+                                307,
+                                423
+                            ],
+                            [
+                                376,
+                                427
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在图像中,这个人看起来最可能是多少岁?",
+                "options": [
+                    "46",
+                    "61",
+                    "76",
+                    "91"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0039.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/61_0_1_20170113174636459.jpg"
+                    },
+                    "labels": {
+                        "age": 61,
+                        "five_points": [
+                            [
+                                320,
+                                435
+                            ],
+                            [
+                                544,
+                                444
+                            ],
+                            [
+                                422,
+                                555
+                            ],
+                            [
+                                311,
+                                629
+                            ],
+                            [
+                                533,
+                                647
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "照片中的人适合的年龄是多大?",
+                "options": [
+                    "25",
+                    "40",
+                    "55",
+                    "70"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0040.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/70_0_0_20170117172631161.jpg"
+                    },
+                    "labels": {
+                        "age": 70,
+                        "five_points": [
+                            [
+                                232,
+                                378
+                            ],
+                            [
+                                408,
+                                373
+                            ],
+                            [
+                                292,
+                                492
+                            ],
+                            [
+                                254,
+                                584
+                            ],
+                            [
+                                407,
+                                569
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄可能是图片中人的年龄?",
+                "options": [
+                    "70",
+                    "85",
+                    "100",
+                    "115"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0041.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/85_0_2_20170112224212748.jpg"
+                    },
+                    "labels": {
+                        "age": 85,
+                        "five_points": [
+                            [
+                                300,
+                                361
+                            ],
+                            [
+                                443,
+                                370
+                            ],
+                            [
+                                359,
+                                458
+                            ],
+                            [
+                                309,
+                                526
+                            ],
+                            [
+                                408,
+                                538
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张照片中的人最可能是多大年龄?",
+                "options": [
+                    "43",
+                    "58",
+                    "73",
+                    "88"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0042.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/88_0_2_20170112223932900.jpg"
+                    },
+                    "labels": {
+                        "age": 88,
+                        "five_points": [
+                            [
+                                243,
+                                449
+                            ],
+                            [
+                                415,
+                                471
+                            ],
+                            [
+                                319,
+                                575
+                            ],
+                            [
+                                247,
+                                618
+                            ],
+                            [
+                                383,
+                                639
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人适合哪个年龄段?",
+                "options": [
+                    "41",
+                    "56",
+                    "71",
+                    "86"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0043.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/86_0_0_20170112224722395.jpg"
+                    },
+                    "labels": {
+                        "age": 86,
+                        "five_points": [
+                            [
+                                609,
+                                184
+                            ],
+                            [
+                                777,
+                                184
+                            ],
+                            [
+                                690,
+                                304
+                            ],
+                            [
+                                609,
+                                341
+                            ],
+                            [
+                                770,
+                                348
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片中的人物最可能是哪个年龄?",
+                "options": [
+                    "116",
+                    "131",
+                    "146",
+                    "161"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0044.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/116_1_0_20170112213001988.jpg"
+                    },
+                    "labels": {
+                        "age": 116,
+                        "five_points": [
+                            [
+                                1008,
+                                397
+                            ],
+                            [
+                                1180,
+                                451
+                            ],
+                            [
+                                1085,
+                                537
+                            ],
+                            [
+                                953,
+                                611
+                            ],
+                            [
+                                1092,
+                                655
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "这张图片里的人的年龄可能是哪一个?",
+                "options": [
+                    "50",
+                    "65",
+                    "80",
+                    "95"
+                ],
+                "answer": 3
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0045.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/95_1_0_20170117174948948.jpg"
+                    },
+                    "labels": {
+                        "age": 95,
+                        "five_points": [
+                            [
+                                328,
+                                549
+                            ],
+                            [
+                                524,
+                                518
+                            ],
+                            [
+                                432,
+                                672
+                            ],
+                            [
+                                366,
+                                729
+                            ],
+                            [
+                                556,
+                                691
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在以下哪个年龄的人最有可能是图片中的那个人?",
+                "options": [
+                    "74",
+                    "89",
+                    "104",
+                    "119"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0046.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/89_0_1_20170117193440263.jpg"
+                    },
+                    "labels": {
+                        "age": 89,
+                        "five_points": [
+                            [
+                                396,
+                                366
+                            ],
+                            [
+                                498,
+                                382
+                            ],
+                            [
+                                433,
+                                456
+                            ],
+                            [
+                                387,
+                                474
+                            ],
+                            [
+                                474,
+                                486
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在这些选择中,哪个年龄看起来最适合图片中的个体?",
+                "options": [
+                    "52",
+                    "67",
+                    "82",
+                    "97"
+                ],
+                "answer": 2
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0047.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/82_0_2_20170112222041385.jpg"
+                    },
+                    "labels": {
+                        "age": 82,
+                        "five_points": [
+                            [
+                                315,
+                                293
+                            ],
+                            [
+                                417,
+                                306
+                            ],
+                            [
+                                381,
+                                367
+                            ],
+                            [
+                                319,
+                                439
+                            ],
+                            [
+                                391,
+                                439
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在给定的年龄中,你认为图片中的这个人最可能是多少岁?",
+                "options": [
+                    "90",
+                    "105",
+                    "120",
+                    "135"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0048.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/90_0_2_20170112224606516.jpg"
+                    },
+                    "labels": {
+                        "age": 90,
+                        "five_points": [
+                            [
+                                345,
+                                298
+                            ],
+                            [
+                                517,
+                                278
+                            ],
+                            [
+                                446,
+                                395
+                            ],
+                            [
+                                370,
+                                500
+                            ],
+                            [
+                                509,
+                                486
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "以下哪个年龄最有可能适用于图片中的这个人?",
+                "options": [
+                    "105",
+                    "120",
+                    "135",
+                    "150"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0049.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/105_1_1_20170112213303693.jpg"
+                    },
+                    "labels": {
+                        "age": 105,
+                        "five_points": [
+                            [
+                                553,
+                                548
+                            ],
+                            [
+                                780,
+                                504
+                            ],
+                            [
+                                713,
+                                697
+                            ],
+                            [
+                                629,
+                                831
+                            ],
+                            [
+                                797,
+                                806
+                            ]
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "face_age_basic_15",
+            "QA": {
+                "question": "在图像中展示的人最可能是哪个年龄?",
+                "options": [
+                    "90",
+                    "105",
+                    "120",
+                    "135"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/age/basic_15/cropped/sample_0050.jpg",
+                    "original": "eval_data/face/age/basic_15/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "UTKFace",
+                    "paths": {
+                        "original": "raw_data/face/UTKFace/part2/90_0_1_20170117195102223.jpg"
+                    },
+                    "labels": {
+                        "age": 90,
+                        "five_points": [
+                            [
+                                271,
+                                198
+                            ],
+                            [
+                                546,
+                                200
+                            ],
+                            [
+                                416,
+                                329
+                            ],
+                            [
+                                292,
+                                470
+                            ],
+                            [
+                                499,
+                                486
+                            ]
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

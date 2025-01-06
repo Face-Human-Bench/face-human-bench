@@ -1,0 +1,1354 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many individuals are in this picture?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_164.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the total number of people shown in this image?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_28.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many persons are visible in this photograph?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_29.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the count of humans in this pic?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_118.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are present in this image?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_143.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many figures populate this picture?",
+                "options": [
+                    200,
+                    500,
+                    1500,
+                    2500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_26.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the headcount in this image?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_53.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many people appear in this pic?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_138.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the number of individuals in this picture?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_73.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans are in this image?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_171.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are there in this pic?",
+                "options": [
+                    200,
+                    500,
+                    1500,
+                    2400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_76.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the total of people in this image?",
+                "options": [
+                    200,
+                    600,
+                    1700,
+                    2900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_86.jpg"
+                    },
+                    "labels": [
+                        600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are visible in this photograph?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_109.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the number of persons in this image?",
+                "options": [
+                    200,
+                    500,
+                    1400,
+                    2400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_33.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many populate this picture?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_161.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many people are captured in this image?",
+                "options": [
+                    400,
+                    1300,
+                    4000,
+                    6600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_8.jpg"
+                    },
+                    "labels": [
+                        1300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many figures are shown in this pic?",
+                "options": [
+                    0,
+                    100,
+                    400,
+                    600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_160.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the people count in this image?",
+                "options": [
+                    300,
+                    800,
+                    2400,
+                    4000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_42.jpg"
+                    },
+                    "labels": [
+                        800
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans does this picture contain?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_176.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans are present within this frame?",
+                "options": [
+                    0,
+                    100,
+                    400,
+                    600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_174.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the total human count in this image?",
+                "options": [
+                    0,
+                    100,
+                    400,
+                    700
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_55.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many persons does this pic show?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_64.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many individuals are in sight in this image?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_126.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the tally of people in this picture?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_158.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans grace this picture?",
+                "options": [
+                    100,
+                    400,
+                    1200,
+                    2000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_100.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the number of people visible in this pic?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_124.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many figures are in this image?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_159.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many persons make an appearance in this picture?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_77.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the total count of humans in this image?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_129.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many people are seen in this pic?",
+                "options": [
+                    0,
+                    100,
+                    400,
+                    700
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_133.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are included in this picture?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_99.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the number of individuals present in this image?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_39.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many populate this photograph?",
+                "options": [
+                    300,
+                    1000,
+                    3100,
+                    5100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_110.jpg"
+                    },
+                    "labels": [
+                        1000
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans are pictured here?",
+                "options": [
+                    100,
+                    300,
+                    1000,
+                    1700
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_56.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the people count in this pic?",
+                "options": [
+                    200,
+                    600,
+                    1800,
+                    3000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_131.jpg"
+                    },
+                    "labels": [
+                        600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many persons are captured in this image?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_93.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are visible within this picture?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_98.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the total number of figures shown in this image?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_51.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many populate this frame?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_142.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the count of people in this image?",
+                "options": [
+                    100,
+                    300,
+                    1000,
+                    1700
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_62.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many humans are displayed in this pic?",
+                "options": [
+                    100,
+                    400,
+                    1200,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_70.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many are shown in this photograph?",
+                "options": [
+                    200,
+                    500,
+                    1500,
+                    2500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_10.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the number of persons in sight in this image?",
+                "options": [
+                    800,
+                    2300,
+                    6800,
+                    11300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_90.jpg"
+                    },
+                    "labels": [
+                        2300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many people are exhibited in this image?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_4.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the tally of humans in this pic?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_57.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many individuals are in this picture?",
+                "options": [
+                    0,
+                    100,
+                    300,
+                    500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_136.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many individuals are in this picture?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_95.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the total number of people shown in this image?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_119.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "How many persons are visible in this photograph?",
+                "options": [
+                    400,
+                    1300,
+                    3900,
+                    6500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_150.jpg"
+                    },
+                    "labels": [
+                        1300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What's the count of humans in this pic?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_103.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        }
+    ]
+}

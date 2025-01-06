@@ -1,0 +1,1254 @@
+{
+    "data": [
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face in the image contain a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_41/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face shown in the image a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_35/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is there a spoofing attempt visible in the facial image?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_1/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the facial representation in the image exhibit signs of a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_37/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the image show signs of a potential face spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_82/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being deceived by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_89/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image a spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_49/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image subject to a form of spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_93/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Has the facial image been compromised by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_96/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being tricked by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_87/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face shown in the image exhibit spoofing characteristics",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_19/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the picture a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_80/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face in the image contain a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_83/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face shown in the image a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_40/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is there a spoofing attempt visible in the facial image?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_27/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the facial representation in the image exhibit signs of a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_43/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the image show signs of a potential face spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_7/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being deceived by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_34/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image a spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_6/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image subject to a form of spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_67/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Has the facial image been compromised by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_25/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being tricked by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_15/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face shown in the image exhibit spoofing characteristics",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_18/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the picture a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_5/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face in the image contain a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_39/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the image show signs of a potential face spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_45/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being deceived by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_110/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image a spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_116/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image subject to a form of spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_108/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Has the facial image been compromised by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_101/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being tricked by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_111/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face shown in the image exhibit spoofing characteristics",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_85/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the picture a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_134/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face in the image contain a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_4/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face shown in the image a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_104/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is there a spoofing attempt visible in the facial image?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_125/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the facial representation in the image exhibit signs of a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_119/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the image show signs of a potential face spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_11/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being deceived by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_113/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image a spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_28/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the image subject to a form of spoofing?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_7/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Has the facial image been compromised by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_90/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being tricked by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_76/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face shown in the image exhibit spoofing characteristics",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_83/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face in the picture a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_112/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the face in the image contain a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_99/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the face shown in the image a physical spoof?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_96/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is there a spoofing attempt visible in the facial image?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_2/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Does the facial representation in the image exhibit signs of a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_22/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "Is the facial recognition being deceived by a presentation attack?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_130/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        }
+    ]
+}

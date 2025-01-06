@@ -1,0 +1,2604 @@
+{
+    "data": [
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中左边和右边的人物相同吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1382_c1s5_071766_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1382_c5s3_054190_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左图和右图中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0548_c3s1_157808_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0548_c3s2_030787_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中抓拍到的这个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0715_c6s2_053268_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0715_c1s3_073631_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中左右两个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1062_c5s2_142374_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1062_c1s5_006311_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中出现的人是同一个人吗?",
+                "options": [
+                    "是",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0351_c2s1_079396_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0351_c3s1_081317_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图片中展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0288_c3s1_063267_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0288_c5s1_066798_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0789_c1s4_024456_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0789_c6s2_079343_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中所描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1246_c2s3_014032_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1246_c2s3_014057_11.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两侧照片里的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1024_c3s2_131669_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1024_c1s4_071311_06.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1119_c3s2_155044_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1119_c3s2_158094_06.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两幅图片中描绘的人是同一个吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0363_c3s1_083992_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0363_c3s1_089992_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不要"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1488_c4s6_022241_00.jpg.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1488_c4s6_022241_02.jpg.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左图和右图中的个体是否相同?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1125_c5s2_156399_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1125_c5s2_160649_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0015_c3s1_000826_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0015_c2s1_001126_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张照片中的人和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0521_c2s1_143941_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0521_c5s1_151695_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张照片和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1271_c5s3_025540_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1271_c3s3_025178_08.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张照片中描绘的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0283_c2s1_061571_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0283_c6s1_065601_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在这两幅图片中出现的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1249_c2s3_014407_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1249_c3s3_020903_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0621_c4s3_037429_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0621_c4s3_037554_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一和第二张图片中描绘的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0455_c1s2_043496_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0455_c5s1_116320_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在这两张图片中展示的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0165_c1s1_030151_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0165_c2s1_029551_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一幅图中的人物与第二幅图中的人物是同义词吗?",
+                "options": [
+                    "是",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1128_c1s5_021811_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1128_c6s3_019217_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张图片中的人和第二张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0227_c1s1_047076_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0227_c6s1_049926_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1153_c6s3_024717_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1153_c3s3_000962_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图片中的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0632_c1s3_039101_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0632_c5s2_028205_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0865_c3s2_108103_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0865_c3s2_108128_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图中描绘的个人是不是相同的?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1186_c4s5_036360_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1186_c2s3_000712_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中描绘的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0274_c5s1_060398_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0274_c1s1_060356_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中展示的人刚好是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0362_c6s1_084651_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0362_c5s1_084698_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0530_c2s1_148941_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0530_c6s2_002143_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1047_c5s2_135324_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1047_c3s2_134669_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中出现的人是否是同一个人?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1199_c5s3_011890_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1199_c1s5_037566_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中描绘的主题是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0577_c3s2_010512_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0577_c1s3_033676_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在图片一和图片二中亮相的人是同一个吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0128_c3s3_077819_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0128_c6s4_004277_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不要"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0207_c2s1_045176_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0207_c5s1_042176_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1020_c5s2_131974_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1020_c1s4_071011_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图中的人物描绘的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1413_c1s6_001616_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1413_c3s3_050453_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中描绘的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1202_c2s3_006382_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1202_c2s3_006382_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1482_c1s6_012566_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1482_c6s3_085167_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0815_c1s4_040531_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0815_c6s2_094793_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1290_c2s3_066402_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1290_c2s3_066402_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的主体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0544_c5s1_157745_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0544_c5s1_157745_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0062_c1s1_008751_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0062_c6s1_009001_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张图片中被拍摄到的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0769_c3s3_068844_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0769_c2s3_062602_05.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0910_c1s4_051106_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0910_c3s2_111328_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图中的个体是同一个吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0735_c6s2_059068_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0735_c2s2_069132_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0461_c3s1_140033_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0461_c5s1_140470_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左边和右边两张图片中的人代表同一个人吗?",
+                "options": [
+                    "是",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0418_c3s1_100167_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0418_c2s1_105321_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中左右两边的人物相同吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0258_c6s1_055201_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0258_c2s1_054451_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左边和右边的图片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1440_c3s3_056353_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1440_c5s3_056740_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0505_c2s1_136241_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0768_c6s2_080518_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图里的人物是不是相同的?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0102.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0073_c6s4_027677_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1384_c1s6_027621_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中描绘的个体是同一个吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0044_c3s1_003926_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0087_c1s1_013951_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中展示的人碰巧是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0104.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1276_c3s3_025903_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0544_c5s1_157745_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0602_c3s2_016887_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1184_c6s3_030692_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0106.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0229_c1s1_046976_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1203_c6s3_095792_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图中出现的个人是不是相同的?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1205_c2s3_065602_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0861_c3s2_107778_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的主题是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0108.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0949_c1s4_059886_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0870_c6s2_102418_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在两张图片中展示的那些人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1476_c6s3_084367_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1026_c1s6_038871_05.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1062_c5s2_142374_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0000_c6s2_092268_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0111.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1181_c1s5_041166_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1276_c3s3_025903_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中的个体是否描绘的是同一个人?",
+                "options": [
+                    "是",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0112.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0330_c3s1_075317_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1435_c3s3_055753_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中描绘的人是一样的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0113.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0447_c5s1_111870_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1150_c1s5_043641_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "两张照片中显示的个体是同一个吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0114.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1108_c3s2_151419_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0465_c2s1_119541_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0115.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1182_c3s3_006587_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0608_c2s2_014612_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0116.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0776_c5s2_079227_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1490_c3s3_074344_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的主体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0117.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0521_c2s1_143941_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0260_c5s2_113952_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0118.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0009_c5s1_000476_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0300_c6s1_076026_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中拍摄的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0119.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0080_c1s1_012601_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0847_c3s2_107278_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片里的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0120.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1323_c5s3_036415_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1151_c5s3_000768_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中显示的个体是同一个吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0121.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0846_c3s2_107278_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0479_c1s2_052746_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0122.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1483_c6s3_085317_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0138_c5s3_073812_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左图和右图中的个体代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0123.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1194_c6s3_032892_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0495_c3s1_131508_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中左右两侧的人物相同吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0124.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0124_c1s1_021151_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0431_c5s1_105248_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左图和右图中显示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0125.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0490_c3s1_129183_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1130_c2s3_080452_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中捕捉到的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0126.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1377_c3s3_044028_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1276_c3s3_025903_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图片中的人物是否一样?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0127.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1477_c6s3_084392_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1057_c6s3_001442_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中左右两人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0128.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1137_c1s5_036791_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0085_c5s1_013276_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中出现的人是否是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0129.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1256_c3s3_020903_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0295_c1s1_066781_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图片展示的这两个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0130.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1067_c6s3_004992_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0608_c2s2_014612_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0131.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1203_c1s6_023271_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0062_c6s1_009001_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两张照片中所描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0132.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1047_c5s2_135324_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0288_c5s1_066798_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "照片中两侧的人是否描绘的是同一个人?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0133.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0205_c2s1_040526_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1154_c2s3_006932_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0134.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1016_c6s2_124968_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0387_c3s2_000871_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在这两张图片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0135.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1089_c4s6_039016_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0541_c2s1_154966_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0136.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0770_c3s2_077253_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0395_c2s2_081482_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图中的人是相同的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0137.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0775_c4s4_018160_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1090_c3s3_070494_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "在这两张照片里展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0138.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0618_c3s2_020362_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0913_c3s2_113553_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两幅图片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0139.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1246_c2s3_014032_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1267_c1s5_069416_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张照片中的人和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0140.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1440_c3s3_056353_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0526_c3s1_157108_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张照片和第二张照片里的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0141.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0725_c1s4_000931_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0544_c5s1_157745_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0142.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0091_c1s1_014076_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0473_c5s1_123070_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "出现在两幅图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0143.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1221_c3s3_013678_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0497_c1s4_040556_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左边和右边照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0144.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0911_c2s2_109857_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0391_c2s1_090071_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张和第二张图片中的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0145.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0154_c5s1_025926_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0514_c5s1_142245_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张图片中的人物是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0146.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0005_c2s1_000976_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1042_c6s2_128318_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张图片中看到的个人与第二张图片中的个人意思相同吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0147.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0713_c5s2_058380_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0312_c1s1_070656_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "第一张图片中的人与第二张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0148.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1125_c5s2_156399_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0246_c4s1_051301_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0149.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1340_c6s3_062917_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0113_c5s1_019551_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "左右两幅图中的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0150.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0270_c5s1_058123_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0553_c1s3_015996_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

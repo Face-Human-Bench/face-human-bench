@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the people in the two photos the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Nikolay_Davydenko_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Nikolay_Davydenko_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Natalie_Maines_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Natalie_Maines_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Frank_Pallone_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Frank_Pallone_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Billy_Graham_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Billy_Graham_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Akbar_Al_Baker_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Akbar_Al_Baker_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/William_Rehnquist_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/William_Rehnquist_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Cedric_Benson_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Cedric_Benson_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the subjects depicted in both photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Chistian_Stahl_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Chistian_Stahl_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Sue_Grafton_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Sue_Grafton_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Catherine_Bell_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Catherine_Bell_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Katie_Harman_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Katie_Harman_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Jong_Wook_Lee_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Jong_Wook_Lee_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Kajsa_Bergqvist_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Kajsa_Bergqvist_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Lena_Olin_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Lena_Olin_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Nancy_Sinatra_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Nancy_Sinatra_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Bill_Fennelly_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Bill_Fennelly_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Anthony_LaPaglia_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Anthony_LaPaglia_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/John_Abizaid_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/John_Abizaid_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Mohamed_Seineldin_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Mohamed_Seineldin_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals in both pictures, one on the left and one on the right, represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Yolanda_King_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Yolanda_King_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Francis_Mer_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Francis_Mer_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Aretha_Franklin_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Aretha_Franklin_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals in the photos on both sides depict the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Pierre_Boulanger_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Pierre_Boulanger_3.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Morgan_Freeman_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Morgan_Freeman_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Koichi_Tanaka_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Koichi_Tanaka_2.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Gunilla_Backman_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Katie_Harman_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Franko_Simatovic_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Paul_Burrell_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Chance_Mock_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Matthew_Perry_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Kajsa_Bergqvist_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Paula_Radcliffe_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Robert_Nillson_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Rob_Lowe_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the persons shown in the two photos one and the selfsame individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Fernando_Alonso_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Jonathan_Woodgate_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Luis_Ernesto_Derbez_Bautista_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Mohamed_Seineldin_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Bill_Sizemore_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Markus_Naslund_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Goldie_Hawn_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Gwyneth_Paltrow_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Courtney_Love_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Frances_Fisher_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Damon_van_Dam_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Rick_Wagoner_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Guillermo_Canas_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Wally_Szczerbiak_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/John_Tyson_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Klaus_Zwickel_1.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Carlos_Mesa_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Severino_Antinori_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals featured in the two pictures, positioned on the left and right, identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Adrien_Brody_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Erik_Morales_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Julie_Goodenough_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Nia_Vardalos_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the people appearing in both the left and right photos happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Filippo_Volandri_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Greg_Rusedski_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals showcased in the left and right images one in the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Nick_Reilly_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Trent_Lott_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is it the same person in both the left and right photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Anna_Kournikova_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Sarah_Hughes_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Is the person portrayed in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/James_Kopp_2.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Jan_Peter_Balkenende_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Al_Pacino_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Tom_Sizemore_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the two pictures exhibit the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Alexander_Losyukov_1.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Xanana_Gusmao_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the person in the first photo and the person in the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Scott_Peterson_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Steve_Backley_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Are the people in the first photo and the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Emma_Watson_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Winona_Ryder_2.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_pose",
+            "QA": {
+                "question": "Do the people shown in the left and right photos represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_pose/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "CPLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CPLFW/cplfw/images/Carolyn_Dawn_Johnson_3.jpg",
+                        "cropped_2": "raw_data/face/CPLFW/cplfw/images/Kate_Hudson_3.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

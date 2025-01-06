@@ -1,0 +1,2054 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description gives the best understanding of the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is in the sofa.",
+                    "The man is behind the sofa.",
+                    "The man is to the left of the sofa.",
+                    "The man is to the right of the sofa."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2442049799_c7e8606cb2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "sofa",
+                        "relation": "in",
+                        "subject_bbox": [
+                            103,
+                            329,
+                            199,
+                            495
+                        ],
+                        "object_bbox": [
+                            144,
+                            328,
+                            5,
+                            396
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most effectively communicates the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The woman is next to the door.",
+                    "The woman is under the door.",
+                    "The woman is on the door.",
+                    "The woman is above the door."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4194278928_64d4589a19.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "door",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            63,
+                            333,
+                            140,
+                            321
+                        ],
+                        "object_bbox": [
+                            14,
+                            333,
+                            95,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "How to describe the positional relationship of the subject (marked with a red box) relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the lady.",
+                    "The man is under the lady.",
+                    "The man is above the lady.",
+                    "The man is behind the lady."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/439767879_1d8c716f66.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "lady",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            11,
+                            332,
+                            153,
+                            304
+                        ],
+                        "object_bbox": [
+                            92,
+                            330,
+                            266,
+                            467
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The girl is on the bed.",
+                    "The girl is behind the bed.",
+                    "The girl is to the right of the bed.",
+                    "The girl is to the left of the bed."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/207195930_9f47076dd4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "bed",
+                        "relation": "on",
+                        "subject_bbox": [
+                            102,
+                            353,
+                            271,
+                            422
+                        ],
+                        "object_bbox": [
+                            195,
+                            373,
+                            236,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description offers the best explanation of the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the women.",
+                    "The man is under the women.",
+                    "The man is above the women.",
+                    "The man is to the left of the women."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3575124730_c0d7b267e0.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            105,
+                            314,
+                            3,
+                            167
+                        ],
+                        "object_bbox": [
+                            141,
+                            195,
+                            341,
+                            465
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The child is behind the sofa.",
+                    "The child is to the right of the sofa.",
+                    "The child is to the left of the sofa.",
+                    "The child is under the sofa."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4949719899_89e98b3a2a.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "child",
+                        "object_name": "sofa",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            71,
+                            319,
+                            92,
+                            335
+                        ],
+                        "object_bbox": [
+                            218,
+                            373,
+                            0,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is in front of the mountain.",
+                    "The man is in the mountain.",
+                    "The man is to the left of the mountain.",
+                    "The man is on the mountain."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8058123160_4c80809089.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "mountain",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            25,
+                            175,
+                            159,
+                            296
+                        ],
+                        "object_bbox": [
+                            2,
+                            216,
+                            2,
+                            496
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the table.",
+                    "The woman is under the table.",
+                    "The woman is in front of the table.",
+                    "The woman is on the table."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5025798715_b3b4eb24d0.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            48,
+                            140,
+                            306,
+                            344
+                        ],
+                        "object_bbox": [
+                            192,
+                            292,
+                            2,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most accurately conveys the subject (marked with a red box)'s placement relative to the object (marked with a green box)?",
+                "options": [
+                    "The girl is on the bench.",
+                    "The girl is under the bench.",
+                    "The girl is to the right of the bench.",
+                    "The girl is behind the bench."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/137653945_0f004127d4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "bench",
+                        "relation": "on",
+                        "subject_bbox": [
+                            35,
+                            208,
+                            49,
+                            497
+                        ],
+                        "object_bbox": [
+                            195,
+                            281,
+                            41,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description offers the best explanation of the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is on the train.",
+                    "The man is in front of the train.",
+                    "The man is under the train.",
+                    "The man is in the train."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/145546618_f757fcadd8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "train",
+                        "relation": "on",
+                        "subject_bbox": [
+                            108,
+                            305,
+                            106,
+                            228
+                        ],
+                        "object_bbox": [
+                            223,
+                            437,
+                            81,
+                            190
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most appropriate way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is in front of the wood.",
+                    "The woman is under the wood.",
+                    "The woman is above the wood.",
+                    "The woman is on the wood."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3096716517_f2bb36d270.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "wood",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            104,
+                            332,
+                            160,
+                            386
+                        ],
+                        "object_bbox": [
+                            17,
+                            332,
+                            258,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most effectively communicates the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The girl is to the left of the woman.",
+                    "The girl is on the woman.",
+                    "The girl is behind the woman.",
+                    "The girl is in front of the woman."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6958618931_47568a5ef5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "woman",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            271,
+                            359,
+                            331,
+                            382
+                        ],
+                        "object_bbox": [
+                            244,
+                            359,
+                            278,
+                            344
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most effectively communicates the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the table.",
+                    "The woman is above the table.",
+                    "The woman is on the table.",
+                    "The woman is under the table."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6587079627_3dbb9f344d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            33,
+                            113,
+                            99,
+                            168
+                        ],
+                        "object_bbox": [
+                            88,
+                            331,
+                            3,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most accurately conveys the subject (marked with a red box)'s placement relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is in front of the door.",
+                    "The man is to the left of the door.",
+                    "The man is above the door.",
+                    "The man is behind the door."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14980386601_80d2610f54.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "door",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            133,
+                            331,
+                            332,
+                            457
+                        ],
+                        "object_bbox": [
+                            56,
+                            218,
+                            258,
+                            318
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description offers the best explanation of the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is in front of the helicopter.",
+                    "The man is on the helicopter.",
+                    "The man is in the helicopter.",
+                    "The man is above the helicopter."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/11804092335_0157a2e58d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "helicopter",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            74,
+                            233,
+                            414,
+                            467
+                        ],
+                        "object_bbox": [
+                            7,
+                            303,
+                            3,
+                            462
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most precise way to explain the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is on the rock.",
+                    "The woman is under the rock.",
+                    "The woman is to the left of the rock.",
+                    "The woman is behind the rock."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/15087708782_221f192202.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "rock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            131,
+                            241,
+                            308,
+                            362
+                        ],
+                        "object_bbox": [
+                            44,
+                            326,
+                            5,
+                            449
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the women.",
+                    "The man is to the right of the women.",
+                    "The man is above the women.",
+                    "The man is under the women."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/439767879_1d8c716f66.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            90,
+                            332,
+                            32,
+                            198
+                        ],
+                        "object_bbox": [
+                            12,
+                            332,
+                            168,
+                            315
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description gives the best understanding of the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the window.",
+                    "The woman is under the window.",
+                    "The woman is in front of the window.",
+                    "The woman is above the window."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5738157320_1d8a2658ba.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "window",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            69,
+                            316,
+                            45,
+                            206
+                        ],
+                        "object_bbox": [
+                            7,
+                            323,
+                            4,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the best way to describe the position of the subject (marked with a red box) in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the bread.",
+                    "The woman is to the left of the bread.",
+                    "The woman is in front of the bread.",
+                    "The woman is to the right of the bread."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/13198129224_8ca58d314d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bread",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            23,
+                            258,
+                            154,
+                            367
+                        ],
+                        "object_bbox": [
+                            197,
+                            228,
+                            265,
+                            367
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is in front of the wall.",
+                    "The man is under the wall.",
+                    "The man is in the wall.",
+                    "The man is behind the wall."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4471225788_93468fb589.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "wall",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            170,
+                            498,
+                            24,
+                            300
+                        ],
+                        "object_bbox": [
+                            33,
+                            439,
+                            20,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The girl is behind the boy.",
+                    "The girl is in front of the boy.",
+                    "The girl is to the left of the boy.",
+                    "The girl is to the right of the boy."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/10127119406_264379e6fb.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "boy",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            85,
+                            295,
+                            78,
+                            176
+                        ],
+                        "object_bbox": [
+                            203,
+                            385,
+                            51,
+                            253
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the table.",
+                    "The man is on the table.",
+                    "The man is under the table.",
+                    "The man is above the table."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/17095109286_ab09975db5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "table",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            23,
+                            186,
+                            99,
+                            187
+                        ],
+                        "object_bbox": [
+                            225,
+                            374,
+                            0,
+                            271
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most suitable way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is under the crack.",
+                    "The woman is above the crack.",
+                    "The woman is in the crack.",
+                    "The woman is in front of the crack."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/12258886505_dece6cff46.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "crack",
+                        "relation": "under",
+                        "subject_bbox": [
+                            2,
+                            366,
+                            3,
+                            332
+                        ],
+                        "object_bbox": [
+                            34,
+                            272,
+                            73,
+                            140
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the best way to describe the position of the subject (marked with a red box) in relation to the object (marked with a green box)?",
+                "options": [
+                    "The human is above the bike.",
+                    "The human is under to the bike.",
+                    "The human is to the left of the bike.",
+                    "The human is behind the bike."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5055426987_7637040775.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "human",
+                        "object_name": "bike",
+                        "relation": "above",
+                        "subject_bbox": [
+                            40,
+                            309,
+                            73,
+                            316
+                        ],
+                        "object_bbox": [
+                            125,
+                            370,
+                            7,
+                            408
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description accurately depicts the subject (marked with a red box)'s placement in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the man.",
+                    "The woman is under the man.",
+                    "The woman is to the right of the man.",
+                    "The woman is in front of the man."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3810059_770ed17909.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "man",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            165,
+                            334,
+                            96,
+                            177
+                        ],
+                        "object_bbox": [
+                            159,
+                            252,
+                            153,
+                            196
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most appropriate way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The girl is on the rock.",
+                    "The girl is behind the rock.",
+                    "The girl is in front of the rock.",
+                    "The girl is under the rock."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4763890508_b7e8071fc3.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "rock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            66,
+                            316,
+                            23,
+                            418
+                        ],
+                        "object_bbox": [
+                            266,
+                            330,
+                            10,
+                            429
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "How to describe the positional relationship of the subject (marked with a red box) relative to the object (marked with a green box)?",
+                "options": [
+                    "The woman is next to the bag.",
+                    "The woman is in the bag.",
+                    "The woman is on the bag.",
+                    "The woman is under the bag."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4794819722_f6ed5aa122.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bag",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            92,
+                            330,
+                            67,
+                            235
+                        ],
+                        "object_bbox": [
+                            216,
+                            296,
+                            203,
+                            309
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The man is behind the ball.",
+                    "The man is above the ball.",
+                    "The man is in front of the ball.",
+                    "The man is in the ball."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2525771126_895dc83455.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "ball",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            312,
+                            396,
+                            81,
+                            104
+                        ],
+                        "object_bbox": [
+                            55,
+                            83,
+                            241,
+                            276
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description accurately depicts the subject (marked with a red box)'s placement in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the table.",
+                    "The woman is in front of the table.",
+                    "The woman is to the left of the table.",
+                    "The woman is under the table."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14623857625_dc3b421f2c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            39,
+                            279,
+                            169,
+                            275
+                        ],
+                        "object_bbox": [
+                            259,
+                            497,
+                            3,
+                            372
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most effectively communicates the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The person is on the snow.",
+                    "The person is under the snow.",
+                    "The person is in the snow.",
+                    "The person is to the right of the snow."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8427122921_7822670132.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "person",
+                        "object_name": "snow",
+                        "relation": "on",
+                        "subject_bbox": [
+                            2,
+                            371,
+                            71,
+                            445
+                        ],
+                        "object_bbox": [
+                            205,
+                            374,
+                            3,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most precise way to explain the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the street light.",
+                    "The man is above the street light.",
+                    "The man is to the left of the street light.",
+                    "The man is on the street light."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4926379783_7486cd4e6f.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "street light",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            180,
+                            219,
+                            129,
+                            146
+                        ],
+                        "object_bbox": [
+                            83,
+                            232,
+                            72,
+                            93
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description accurately depicts the subject (marked with a red box)'s placement in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is on the horse.",
+                    "The man is to the left of the horse.",
+                    "The man is under the horse.",
+                    "The man is in front of the horse."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6852330336_f44954e780.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "horse",
+                        "relation": "on",
+                        "subject_bbox": [
+                            86,
+                            219,
+                            281,
+                            330
+                        ],
+                        "object_bbox": [
+                            109,
+                            279,
+                            200,
+                            454
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the best way to describe the position of the subject (marked with a red box) in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is in front of the machine.",
+                    "The man is above the machine.",
+                    "The man is in the machine.",
+                    "The man is under the machine."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/23283244074_2877d08863.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "machine",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            91,
+                            332,
+                            1,
+                            200
+                        ],
+                        "object_bbox": [
+                            81,
+                            240,
+                            148,
+                            400
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "How to describe the positional relationship of the subject (marked with a red box) relative to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the bicycle.",
+                    "The woman is in front of the bicycle.",
+                    "The woman is on the bicycle.",
+                    "The woman is to the right of the bicycle."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/1140868245_aaa46a5d2a.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bicycle",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            144,
+                            238,
+                            159,
+                            182
+                        ],
+                        "object_bbox": [
+                            275,
+                            350,
+                            71,
+                            221
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description offers the best explanation of the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The girl is in front of the boy.",
+                    "The girl is above the boy.",
+                    "The girl is to the right of the boy.",
+                    "The girl is on the boy."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/207195930_9f47076dd4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "boy",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            98,
+                            357,
+                            277,
+                            425
+                        ],
+                        "object_bbox": [
+                            78,
+                            298,
+                            65,
+                            143
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the optimal description of the subject (marked with a red box)'s position with respect to the object (marked with a green box)?",
+                "options": [
+                    "The man is above the river.",
+                    "The man is in the river.",
+                    "The man is on the river.",
+                    "The man is behind the river."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2082166938_dc6c50a553.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "river",
+                        "relation": "above",
+                        "subject_bbox": [
+                            170,
+                            198,
+                            284,
+                            299
+                        ],
+                        "object_bbox": [
+                            144,
+                            280,
+                            5,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most effectively communicates the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is on the water.",
+                    "The man is in front of the water.",
+                    "The man is in the water.",
+                    "The man is behind the water."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/720449832_b675bb68f2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "water",
+                        "relation": "on",
+                        "subject_bbox": [
+                            88,
+                            233,
+                            112,
+                            385
+                        ],
+                        "object_bbox": [
+                            0,
+                            374,
+                            0,
+                            498
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description accurately depicts the subject (marked with a red box)'s placement in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is in the train.",
+                    "The man is above the train.",
+                    "The man is to the left of the train.",
+                    "The man is behind the train."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/17954817872_d42f427498.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "train",
+                        "relation": "in",
+                        "subject_bbox": [
+                            123,
+                            185,
+                            88,
+                            156
+                        ],
+                        "object_bbox": [
+                            0,
+                            331,
+                            0,
+                            498
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "How to describe the positional relationship of the subject (marked with a red box) relative to the object (marked with a green box)?",
+                "options": [
+                    "The person is above the dirt.",
+                    "The person is on the dirt.",
+                    "The person is to the right of the dirt.",
+                    "The person is under the dirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/571218260_bfe79cec58.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "person",
+                        "object_name": "dirt",
+                        "relation": "above",
+                        "subject_bbox": [
+                            4,
+                            190,
+                            38,
+                            220
+                        ],
+                        "object_bbox": [
+                            94,
+                            191,
+                            135,
+                            306
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most appropriate way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is behind the wheelbarrow.",
+                    "The man is on the wheelbarrow.",
+                    "The man is above the wheelbarrow.",
+                    "The man is in the wheelbarrow."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14037158297_e4fe1e58d8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "wheel barrow",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            158,
+                            308,
+                            163,
+                            209
+                        ],
+                        "object_bbox": [
+                            301,
+                            498,
+                            2,
+                            372
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description gives the best understanding of the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is above the woman.",
+                    "The man is under the woman.",
+                    "The man is to the left of the woman.",
+                    "The man is behind the woman."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/16655891094_f980275d9c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "woman",
+                        "relation": "above",
+                        "subject_bbox": [
+                            194,
+                            356,
+                            129,
+                            174
+                        ],
+                        "object_bbox": [
+                            378,
+                            498,
+                            140,
+                            237
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The big boy is to the right of the small boy.",
+                    "The big boy is on the small boy.",
+                    "The big boy is in front of the small boy.",
+                    "The big boy is under the small boy."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/75707592_d29fb3eb7c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "big boy",
+                        "object_name": "small boy",
+                        "relation": "to the right of",
+                        "subject_bbox": [
+                            94,
+                            331,
+                            123,
+                            305
+                        ],
+                        "object_bbox": [
+                            175,
+                            325,
+                            315,
+                            453
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description gives the best understanding of the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is next to the woman.",
+                    "The man is in front of the woman.",
+                    "The man is under the woman.",
+                    "The man is above the woman."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4456172148_0a0a1ba7c2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "woman",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            35,
+                            372,
+                            230,
+                            394
+                        ],
+                        "object_bbox": [
+                            71,
+                            374,
+                            95,
+                            233
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most appropriate way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The human is on the bike.",
+                    "The human is above the bike.",
+                    "The human is behind the bike.",
+                    "The human is next to the bike."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/18134647880_58d91b0941.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "human",
+                        "object_name": "bike",
+                        "relation": "on",
+                        "subject_bbox": [
+                            57,
+                            262,
+                            170,
+                            299
+                        ],
+                        "object_bbox": [
+                            94,
+                            308,
+                            25,
+                            430
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most fitting way to characterize the subject (marked with a red box)'s location in relation to the object (marked with a green box)?",
+                "options": [
+                    "The girl is to the left of the table.",
+                    "The girl is in front of the table.",
+                    "The girl is under the table.",
+                    "The girl is behind the table."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/1465587839_0016062444.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "table",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            60,
+                            210,
+                            27,
+                            189
+                        ],
+                        "object_bbox": [
+                            138,
+                            348,
+                            1,
+                            437
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description most accurately conveys the subject (marked with a red box)'s placement relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is on the dock.",
+                    "The man is to the left of the dock.",
+                    "The man is behind the dock.",
+                    "The man is above the dock."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/144652902_ccf1d015b8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "dock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            218,
+                            319,
+                            267,
+                            297
+                        ],
+                        "object_bbox": [
+                            177,
+                            333,
+                            60,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most suitable way to describe the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is behind the sign.",
+                    "The woman is in front of the sign.",
+                    "The woman is in the sign.",
+                    "The woman is above the sign."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/13948046906_27fa2e1d02.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "sign",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            95,
+                            296,
+                            145,
+                            258
+                        ],
+                        "object_bbox": [
+                            157,
+                            247,
+                            191,
+                            340
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, what is the most precise way to explain the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The woman is on the floor.",
+                    "The woman is under the floor.",
+                    "The woman is behind the floor.",
+                    "The woman is to the left of the floor."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8727214589_d1d5c9d647.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "floor",
+                        "relation": "on",
+                        "subject_bbox": [
+                            100,
+                            444,
+                            190,
+                            285
+                        ],
+                        "object_bbox": [
+                            320,
+                            497,
+                            5,
+                            357
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description offers the best explanation of the subject (marked with a red box)'s position relative to the object (marked with a green box)?",
+                "options": [
+                    "The man is to the right of the machine.",
+                    "The man is in the machine.",
+                    "The man is in front of the machine.",
+                    "The man is behind the machine."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6820191500_3cd43261b2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "machine",
+                        "relation": "to the right of",
+                        "subject_bbox": [
+                            102,
+                            332,
+                            340,
+                            487
+                        ],
+                        "object_bbox": [
+                            4,
+                            331,
+                            1,
+                            402
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "Among the following options, which description gives the best understanding of the subject (marked with a red box)'s position in relation to the object (marked with a green box)?",
+                "options": [
+                    "The man is to the left of the women.",
+                    "The man is behind the women.",
+                    "The man is above the women.",
+                    "The man is to the right of the women."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/28191210136_b6c0d04bf5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            161,
+                            328,
+                            222,
+                            300
+                        ],
+                        "object_bbox": [
+                            185,
+                            331,
+                            137,
+                            213
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

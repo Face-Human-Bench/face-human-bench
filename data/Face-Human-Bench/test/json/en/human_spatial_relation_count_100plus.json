@@ -1,0 +1,1354 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "The number of people in the picture is closest to which of the following numbers?",
+                "options": [
+                    100,
+                    300,
+                    1000,
+                    1700
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_15.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What number is closest to the count of people in the image, among the following numbers?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_87.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number best approximates the number of individuals in the photograph?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_69.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what digit is nearest to the number of persons depicted in the picture?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_152.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given numbers, which one is closest to the tally of humans in the image?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_101.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which figure most resembles the number of people in the photograph?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_149.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number is the closest approximation to the number of people in the picture?",
+                "options": [
+                    400,
+                    1100,
+                    3300,
+                    5600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_2.jpg"
+                    },
+                    "labels": [
+                        1100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number comes closest to the number of individuals shown in the image?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_132.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which numeral is closest to the total count of humans in the picture?",
+                "options": [
+                    200,
+                    500,
+                    1400,
+                    2400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_146.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what is the closest number to the number of people depicted in the photograph?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_65.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number matches most closely with the number of individuals in the image?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_177.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which digit is the nearest estimate to the number of people in the snapshot?",
+                "options": [
+                    100,
+                    400,
+                    1100,
+                    1800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_139.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Which of the given numbers is closest to the number of people pictured, among the following numbers?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_168.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the closest numerical value among the options to the number of individuals in the image?",
+                "options": [
+                    300,
+                    1000,
+                    3000,
+                    4900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_127.jpg"
+                    },
+                    "labels": [
+                        1000
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options,  which number comes closest to approximating the number of people in the image?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_16.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options, which numeral is nearest to the count of people in the photograph?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_169.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the nearest numerical value to the number of humans depicted in the picture, among the following numbers?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_18.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "The number of people in the picture is closest to which of the following numbers?",
+                "options": [
+                    300,
+                    800,
+                    2300,
+                    3800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_14.jpg"
+                    },
+                    "labels": [
+                        800
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "The number of people in the picture is closest to which of the following numbers?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_151.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What number is closest to the count of people in the image, among the following numbers?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_23.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what digit is nearest to the number of persons depicted in the picture?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_30.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given numbers, which one is closest to the tally of humans in the image?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_1.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which figure most resembles the number of people in the photograph?",
+                "options": [
+                    0,
+                    100,
+                    400,
+                    600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_43.jpg"
+                    },
+                    "labels": [
+                        100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number is the closest approximation to the number of people in the picture?",
+                "options": [
+                    200,
+                    700,
+                    2000,
+                    3400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_170.jpg"
+                    },
+                    "labels": [
+                        700
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number comes closest to the number of individuals shown in the image?",
+                "options": [
+                    400,
+                    1200,
+                    3700,
+                    6200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_106.jpg"
+                    },
+                    "labels": [
+                        1200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which numeral is closest to the total count of humans in the picture?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_25.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what is the closest number to the number of people depicted in the photograph?",
+                "options": [
+                    200,
+                    500,
+                    1400,
+                    2400
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_141.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number matches most closely with the number of individuals in the image?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_80.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Which of the given numbers is closest to the number of people pictured, among the following numbers?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_68.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the closest numerical value among the options to the number of individuals in the image?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_37.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options,  which number comes closest to approximating the number of people in the image?",
+                "options": [
+                    400,
+                    1200,
+                    3600,
+                    6000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_121.jpg"
+                    },
+                    "labels": [
+                        1200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options, which numeral is nearest to the count of people in the photograph?",
+                "options": [
+                    200,
+                    600,
+                    1800,
+                    2900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_72.jpg"
+                    },
+                    "labels": [
+                        600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the nearest numerical value to the number of humans depicted in the picture, among the following numbers?",
+                "options": [
+                    200,
+                    600,
+                    1800,
+                    3000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_71.jpg"
+                    },
+                    "labels": [
+                        600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "The number of people in the picture is closest to which of the following numbers?",
+                "options": [
+                    200,
+                    500,
+                    1400,
+                    2300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_59.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "The number of people in the picture is closest to which of the following numbers?",
+                "options": [
+                    100,
+                    400,
+                    1300,
+                    2100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_128.jpg"
+                    },
+                    "labels": [
+                        400
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What number is closest to the count of people in the image, among the following numbers?",
+                "options": [
+                    300,
+                    900,
+                    2800,
+                    4600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_130.jpg"
+                    },
+                    "labels": [
+                        900
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number best approximates the number of individuals in the photograph?",
+                "options": [
+                    300,
+                    800,
+                    2500,
+                    4100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_66.jpg"
+                    },
+                    "labels": [
+                        800
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what digit is nearest to the number of persons depicted in the picture?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_162.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given numbers, which one is closest to the tally of humans in the image?",
+                "options": [
+                    100,
+                    200,
+                    500,
+                    800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_163.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which figure most resembles the number of people in the photograph?",
+                "options": [
+                    100,
+                    300,
+                    900,
+                    1500
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_3.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number is the closest approximation to the number of people in the picture?",
+                "options": [
+                    300,
+                    1000,
+                    2900,
+                    4800
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_32.jpg"
+                    },
+                    "labels": [
+                        1000
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which number comes closest to the number of individuals shown in the image?",
+                "options": [
+                    500,
+                    1600,
+                    4700,
+                    7900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_165.jpg"
+                    },
+                    "labels": [
+                        1600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which numeral is closest to the total count of humans in the picture?",
+                "options": [
+                    300,
+                    1000,
+                    3000,
+                    5000
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_50.jpg"
+                    },
+                    "labels": [
+                        1000
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, what is the closest number to the number of people depicted in the photograph?",
+                "options": [
+                    200,
+                    600,
+                    1800,
+                    2900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_147.jpg"
+                    },
+                    "labels": [
+                        600
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the options, which digit is the nearest estimate to the number of people in the snapshot?",
+                "options": [
+                    200,
+                    500,
+                    1600,
+                    2600
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_97.jpg"
+                    },
+                    "labels": [
+                        500
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Which of the given numbers is closest to the number of people pictured, among the following numbers?",
+                "options": [
+                    100,
+                    300,
+                    800,
+                    1300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_125.jpg"
+                    },
+                    "labels": [
+                        300
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the closest numerical value among the options to the number of individuals in the image?",
+                "options": [
+                    400,
+                    1100,
+                    3200,
+                    5300
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_11.jpg"
+                    },
+                    "labels": [
+                        1100
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options,  which number comes closest to approximating the number of people in the image?",
+                "options": [
+                    100,
+                    200,
+                    600,
+                    1100
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_22.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "Among the given options, which numeral is nearest to the count of people in the photograph?",
+                "options": [
+                    100,
+                    200,
+                    700,
+                    1200
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_40.jpg"
+                    },
+                    "labels": [
+                        200
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_count_100plus",
+            "QA": {
+                "question": "What is the nearest numerical value to the number of humans depicted in the picture, among the following numbers?",
+                "options": [
+                    400,
+                    1200,
+                    3500,
+                    5900
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "original": "eval_data/human/spatial_relation/count_100plus/original/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "ShTech",
+                    "paths": {
+                        "original": "raw_data/human/ShTech/ShanghaiTech_Crowd_Counting_Dataset/part_A_final/test_data/images/IMG_172.jpg"
+                    },
+                    "labels": [
+                        1200
+                    ]
+                }
+            }
+        }
+    ]
+}

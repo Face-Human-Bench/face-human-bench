@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片里的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Valentino_Rossi/Valentino_Rossi_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Valentino_Rossi/Valentino_Rossi_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图中的人物恰好一模一样吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jay_Garner/Jay_Garner_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jay_Garner/Jay_Garner_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中的人碰巧是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Luis_Gonzalez_Macchi/Luis_Gonzalez_Macchi_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Luis_Gonzalez_Macchi/Luis_Gonzalez_Macchi_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/James_Cunningham/James_Cunningham_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/James_Cunningham/James_Cunningham_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人是否碰巧是同一个人?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jacques_Chirac/Jacques_Chirac_0019.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jacques_Chirac/Jacques_Chirac_0028.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Antonio_Palocci/Antonio_Palocci_0005.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Antonio_Palocci/Antonio_Palocci_0007.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中描绘的人物是一样的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Fabiola_Zuluaga/Fabiola_Zuluaga_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Fabiola_Zuluaga/Fabiola_Zuluaga_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Paula_Zahn/Paula_Zahn_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Paula_Zahn/Paula_Zahn_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人是一个人吗?",
+                "options": [
+                    "是的",
+                    "不错"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Michael_Leavitt/Michael_Leavitt_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Michael_Leavitt/Michael_Leavitt_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中拍到的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jane_Pauley/Jane_Pauley_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jane_Pauley/Jane_Pauley_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片左右两边的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Monica_Lewinsky/Monica_Lewinsky_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Monica_Lewinsky/Monica_Lewinsky_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "照片左右两边的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jeffrey_Immelt/Jeffrey_Immelt_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jeffrey_Immelt/Jeffrey_Immelt_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片中拍摄的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0017.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0019.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "两张照片中左右两边的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/John_McCain/John_McCain_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/John_McCain/John_McCain_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片里描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Win_Aung/Win_Aung_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Win_Aung/Win_Aung_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两幅图片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Shimon_Peres/Shimon_Peres_0004.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Shimon_Peres/Shimon_Peres_0007.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Bob_Hope/Bob_Hope_0004.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Bob_Hope/Bob_Hope_0005.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/John_Ashcroft/John_Ashcroft_0013.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/John_Ashcroft/John_Ashcroft_0034.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Richard_Virenque/Richard_Virenque_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Richard_Virenque/Richard_Virenque_0007.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中描绘的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Steven_Hatfill/Steven_Hatfill_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Steven_Hatfill/Steven_Hatfill_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左边和右边的照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Heidi_Fleiss/Heidi_Fleiss_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Heidi_Fleiss/Heidi_Fleiss_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "第一张和第二张图片中描绘的个体是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/John_Snow/John_Snow_0009.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/John_Snow/John_Snow_0011.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "在第一张照片中看到的个人是否与第二张照片中的个人相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Gloria_Allred/Gloria_Allred_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Gloria_Allred/Gloria_Allred_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Demi_Moore/Demi_Moore_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Demi_Moore/Demi_Moore_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两幅图中的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Lucy_Liu/Lucy_Liu_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Lucy_Liu/Lucy_Liu_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中展示的人碰巧是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Leander_Paes/Leander_Paes_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Ralph_Firman/Ralph_Firman_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片描绘的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Charles_Bronson/Charles_Bronson_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Hu_Jintao/Hu_Jintao_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中所描绘的主体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Frederick_Madden/Frederick_Madden_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Gary_Condit/Gary_Condit_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Michael_Linscott/Michael_Linscott_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Tom_Brady/Tom_Brady_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中的人物是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Bill_Frist/Bill_Frist_0005.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jimmy_Kimmel/Jimmy_Kimmel_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Ilan_Goldfajn/Ilan_Goldfajn_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jennifer_Aniston/Jennifer_Aniston_0017.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Milo_Maestrecampo/Milo_Maestrecampo_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Steve_Peace/Steve_Peace_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中描绘的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jackie_Chan/Jackie_Chan_0003.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jennifer_Gratz/Jennifer_Gratz_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jerome_Golmard/Jerome_Golmard_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Kristin_Chenoweth/Kristin_Chenoweth_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片左右两边的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Roger_Cook/Roger_Cook_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Wilbert_Foy/Wilbert_Foy_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中的左边和右边的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jim_Freudenberg/Jim_Freudenberg_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Nigel_Redden/Nigel_Redden_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两边照片中所示的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Mary_Bono/Mary_Bono_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Todd_Wike/Todd_Wike_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片中所捕捉到的个体是同一人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Erika_Christensen/Erika_Christensen_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Michael_Dell/Michael_Dell_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Lily_Tomlin/Lily_Tomlin_0002.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Sim_Yong/Sim_Yong_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片中出现的人是否刚好是同一个人?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Dustan_Mohr/Dustan_Mohr_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Enrik_Vendt/Enrik_Vendt_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "左右两张照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Bob_Krueger/Bob_Krueger_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Mariana_Pollack/Mariana_Pollack_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Mike_Sherman/Mike_Sherman_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Paige_Fitzgerald/Paige_Fitzgerald_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张图片中展示的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Graham_Bentley/Graham_Bentley_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Jason_Clermont/Jason_Clermont_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Carolina_Kluft/Carolina_Kluft_0003.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Gwen_Stefani/Gwen_Stefani_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "第一张照片中的人和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Larry_Hagman/Larry_Hagman_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Val_Ackerman/Val_Ackerman_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "第一张照片和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Max_Mosley/Max_Mosley_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Raul_Gonzalez/Raul_Gonzalez_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中描绘的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Jose_Luis_Rodriguez_Zapatero/Jose_Luis_Rodriguez_Zapatero_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Steve_Lenard/Steve_Lenard_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "这两张照片中展示的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Guillermo_Canas/Guillermo_Canas_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Tim_Duncan/Tim_Duncan_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "第一张图片中的人和第二张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/Alfonso_Portillo/Alfonso_Portillo_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Faye_Alibocus/Faye_Alibocus_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_basic",
+            "QA": {
+                "question": "第一张图片中的人和第二张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/basic/cropped/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "LFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/LFW/data/James_Murdoch/James_Murdoch_0001.jpg",
+                        "cropped_2": "raw_data/face/LFW/data/Martina_McBride/Martina_McBride_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

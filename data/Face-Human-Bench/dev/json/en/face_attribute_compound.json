@@ -1,0 +1,2904 @@
+{
+    "data": [
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "not wearing earrings, not wearing hat, without eyeglasses",
+                    "with bangs, wearing hat, not wearing necklace",
+                    "bald, not wearing lipstick, with blond hair",
+                    "with a receding hairline, with brown hair, without beard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0001.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167524.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167524.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing hat, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person in the image?",
+                "options": [
+                    "without beard, not wearing necktie, male",
+                    "not wearing earrings, with sideburns, with goatee",
+                    "with bushy eyebrows, with mouth slightly open, wearing hat",
+                    "not bald, with blond hair, with bushy eyebrows"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0002.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164802.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164802.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necktie, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions perfectly matches the person in the picture?",
+                "options": [
+                    "without eyeglasses, not wearing lipstick, male",
+                    "with mouth slightly open, with 5 o' clock shadow, female",
+                    "wearing lipstick, with eyeglasses, not wearing hat",
+                    "with eyeglasses, with eye bags, with brown hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0003.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178521.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178521.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing lipstick, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best fits the person pictured?",
+                "options": [
+                    "smiling, with heavy makeup, not wearing hat",
+                    "with bangs, wearing earrings, not bald",
+                    "not wearing hat, with eye bags, male",
+                    "with black hair, not wearing necktie, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0004.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178811.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178811.jpg"
+                    },
+                    "labels": [
+                        "smiling, with heavy makeup, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one is most suitable for the person in the photo?",
+                "options": [
+                    "without beard, not wearing necklace, with mouth slightly open",
+                    "with goatee, female, not bald",
+                    "wearing lipstick, without eyeglasses, with a receding hairline",
+                    "wearing necklace, without eyeglasses, bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0005.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175526.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175526.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necklace, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description matches the person in the image the best?",
+                "options": [
+                    "with 5 o' clock shadow, without eyeglasses, not smiling",
+                    "not wearing lipstick, with black hair, with eyeglasses",
+                    "with bushy eyebrows, without eyeglasses, wearing earrings",
+                    "not wearing earrings, with bangs, female"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0006.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173873.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173873.jpg"
+                    },
+                    "labels": [
+                        "with 5 o' clock shadow, without eyeglasses, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most accurate description of the person in the photograph?",
+                "options": [
+                    "not bald, female, not wearing necktie",
+                    "with heavy makeup, wearing hat, with sideburns",
+                    "smiling, wearing hat, wearing lipstick",
+                    "wearing hat, not wearing earrings, with a receding hairline"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0007.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163738.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163738.jpg"
+                    },
+                    "labels": [
+                        "not bald, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the descriptions, please pick the one that best describes the person in the image.",
+                "options": [
+                    "not wearing hat, with bushy eyebrows, male",
+                    "with blond hair, male, not wearing necktie",
+                    "with eye bags, not wearing necktie, not wearing lipstick",
+                    "not smiling, wearing lipstick, with a receding hairline"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0008.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163913.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163913.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, with bushy eyebrows, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Point out the description that best corresponds to the person in the photo.",
+                "options": [
+                    "with mouth slightly open, with heavy makeup, not wearing necklace",
+                    "with black hair, female, with brown hair",
+                    "wearing lipstick, bald, with mustache",
+                    "with bushy eyebrows, with mouth slightly open, not wearing lipstick"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0009.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168890.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168890.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, with heavy makeup, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Out of the descriptions, which one most accurately portrays the person in the image?",
+                "options": [
+                    "with heavy makeup, with black hair, with mouth slightly open",
+                    "wearing necktie, wearing hat, with mouth slightly open",
+                    "not wearing hat, with brown hair, with blond hair",
+                    "with black hair, with goatee, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0010.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180035.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180035.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, with black hair, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best applies to the person in the picture.",
+                "options": [
+                    "wearing lipstick, with mouth slightly open, not wearing hat",
+                    "with black hair, without eyeglasses, not smiling",
+                    "wearing necktie, not bald, with sideburns",
+                    "with bangs, with bushy eyebrows, with brown hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0011.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169499.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169499.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, with mouth slightly open, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the descriptions best aligns with the person pictured?",
+                "options": [
+                    "without eyeglasses, not wearing necktie, not wearing lipstick",
+                    "smiling, wearing necktie, with goatee",
+                    "smiling, with sideburns, with black hair",
+                    "female, wearing lipstick, without eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0012.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167494.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167494.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necktie, not wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person shown?",
+                "options": [
+                    "not wearing necktie, not wearing hat, wearing lipstick",
+                    "with eyeglasses, with bushy eyebrows, not bald",
+                    "with bushy eyebrows, with goatee, female",
+                    "with blond hair, not smiling, female"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0013.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176419.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176419.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the offered descriptions, which one matches the person in the picture the closest?",
+                "options": [
+                    "not bald, without beard, not wearing earrings",
+                    "wearing earrings, wearing hat, with heavy makeup",
+                    "wearing earrings, with mouth slightly open, without beard",
+                    "with bushy eyebrows, female, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0014.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167651.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167651.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please identify the description that best reflects the person in the image.",
+                "options": [
+                    "not wearing earrings, not bald, without beard",
+                    "not wearing lipstick, with 5 o' clock shadow, with black hair",
+                    "with 5 o' clock shadow, with goatee, without eyeglasses",
+                    "bald, with 5 o' clock shadow, not wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0015.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178469.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178469.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description is the most fitting for the person depicted in the photo?",
+                "options": [
+                    "not wearing necklace, not smiling, with sideburns",
+                    "with mustache, with eye bags, not wearing lipstick",
+                    "with brown hair, with blond hair, not bald",
+                    "with blond hair, with a receding hairline, male"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0016.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173846.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173846.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not smiling, with sideburns"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What description do you think best matches the individual in the picture?",
+                "options": [
+                    "not wearing hat, not wearing necklace, smiling",
+                    "with heavy makeup, male, with mouth slightly open",
+                    "bald, not smiling, not wearing lipstick",
+                    "not bald, with sideburns, not smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0017.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173480.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173480.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing necklace, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most apt description for the person in the image?",
+                "options": [
+                    "without eyeglasses, female, not wearing hat",
+                    "with sideburns, not wearing necktie, with blond hair",
+                    "with sideburns, with bangs, not smiling",
+                    "bald, without beard, with eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0018.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169972.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169972.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, female, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the provided descriptions, which one best applies to the person pictured?",
+                "options": [
+                    "without beard, with eye bags, not wearing hat",
+                    "not bald, not smiling, with blond hair",
+                    "wearing lipstick, with goatee, not wearing earrings",
+                    "male, bald, wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0019.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174491.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174491.jpg"
+                    },
+                    "labels": [
+                        "without beard, with eye bags, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best matches the individual depicted.",
+                "options": [
+                    "not wearing earrings, not wearing necklace, not wearing necktie",
+                    "with goatee, female, wearing necklace",
+                    "with brown hair, not bald, without eyeglasses",
+                    "with mouth slightly open, with mustache, not wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0020.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179981.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179981.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best exemplifies the person in the photo?",
+                "options": [
+                    "not wearing necktie, with eyeglasses, not wearing necklace",
+                    "not wearing lipstick, with a receding hairline, wearing necklace",
+                    "wearing earrings, not bald, with eye bags",
+                    "with heavy makeup, not smiling, wearing necklace"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0021.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169747.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169747.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with eyeglasses, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please indicate the description that best corresponds to the person shown.",
+                "options": [
+                    "not bald, wearing lipstick, wearing necklace",
+                    "with goatee, with mouth slightly open, female",
+                    "with black hair, not smiling, with bushy eyebrows",
+                    "without eyeglasses, with bangs, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0022.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177273.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177273.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing lipstick, wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most appropriate description for the person shown in the photograph?",
+                "options": [
+                    "without beard, not wearing lipstick, bald",
+                    "not wearing lipstick, with 5 o' clock shadow, with mustache",
+                    "with a receding hairline, not wearing earrings, not wearing necktie",
+                    "with mouth slightly open, with bangs, wearing lipstick"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0023.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180568.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180568.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one best characterizes the person in the image?",
+                "options": [
+                    "female, not wearing necklace, not bald",
+                    "with eye bags, with mouth slightly open, with black hair",
+                    "not wearing necklace, with bangs, with 5 o' clock shadow",
+                    "with eyeglasses, smiling, with sideburns"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0024.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172911.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172911.jpg"
+                    },
+                    "labels": [
+                        "female, not wearing necklace, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best corresponds to the person depicted in the picture?",
+                "options": [
+                    "not wearing earrings, not bald, with eyeglasses",
+                    "without beard, with eye bags, with blond hair",
+                    "with eyeglasses, wearing earrings, with sideburns",
+                    "wearing necktie, male, with eye bags"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0025.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168862.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168862.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, with eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "not wearing necktie, with 5 o' clock shadow, male",
+                    "not wearing necktie, bald, with goatee",
+                    "wearing hat, with bushy eyebrows, wearing necklace",
+                    "with heavy makeup, without eyeglasses, smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0026.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170938.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170938.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with 5 o' clock shadow, male"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "without beard, female, not wearing necktie",
+                    "wearing earrings, with eye bags, without beard",
+                    "bald, with heavy makeup, with eyeglasses",
+                    "wearing earrings, bald, without eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0027.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175500.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175500.jpg"
+                    },
+                    "labels": [
+                        "without beard, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person in the image?",
+                "options": [
+                    "not bald, with blond hair, without eyeglasses",
+                    "without eyeglasses, with eye bags, bald",
+                    "with mouth slightly open, wearing necklace, with goatee",
+                    "wearing earrings, with eyeglasses, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0028.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172011.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172011.jpg"
+                    },
+                    "labels": [
+                        "not bald, with blond hair, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions perfectly matches the person in the picture?",
+                "options": [
+                    "without beard, female, not wearing necktie",
+                    "bald, with eye bags, not wearing necklace",
+                    "with goatee, with eyeglasses, not wearing earrings",
+                    "with a receding hairline, not wearing necktie, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0029.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168209.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168209.jpg"
+                    },
+                    "labels": [
+                        "without beard, female, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best fits the person pictured?",
+                "options": [
+                    "not wearing necktie, not wearing earrings, not wearing hat",
+                    "with 5 o' clock shadow, with mouth slightly open, with blond hair",
+                    "with sideburns, with mouth slightly open, with 5 o' clock shadow",
+                    "wearing necktie, with a receding hairline, with bushy eyebrows"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0030.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171627.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171627.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing earrings, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one is most suitable for the person in the photo?",
+                "options": [
+                    "not bald, without eyeglasses, not wearing necktie",
+                    "male, wearing lipstick, with bushy eyebrows",
+                    "with eye bags, wearing necklace, without eyeglasses",
+                    "smiling, with mustache, not wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0031.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174562.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174562.jpg"
+                    },
+                    "labels": [
+                        "not bald, without eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description matches the person in the image the best?",
+                "options": [
+                    "with brown hair, with heavy makeup, not wearing necktie",
+                    "not smiling, with sideburns, with eyeglasses",
+                    "wearing hat, with black hair, with brown hair",
+                    "not wearing necklace, with blond hair, with brown hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0032.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/182338.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/182338.jpg"
+                    },
+                    "labels": [
+                        "with brown hair, with heavy makeup, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most accurate description of the person in the photograph?",
+                "options": [
+                    "with brown hair, not wearing necktie, with heavy makeup",
+                    "with goatee, not wearing earrings, with eye bags",
+                    "wearing earrings, wearing hat, with brown hair",
+                    "with mustache, with eye bags, not smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0033.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/172670.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/172670.jpg"
+                    },
+                    "labels": [
+                        "with brown hair, not wearing necktie, with heavy makeup"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the descriptions, please pick the one that best describes the person in the image.",
+                "options": [
+                    "not wearing hat, not wearing lipstick, without beard",
+                    "with goatee, not wearing hat, with blond hair",
+                    "wearing necklace, not wearing lipstick, bald",
+                    "with 5 o' clock shadow, with mustache, not wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0034.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165528.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165528.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing lipstick, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Point out the description that best corresponds to the person in the photo.",
+                "options": [
+                    "without beard, not wearing lipstick, not wearing earrings",
+                    "with black hair, with eye bags, bald",
+                    "bald, smiling, wearing hat",
+                    "with bushy eyebrows, smiling, with 5 o' clock shadow"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0035.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181490.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181490.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Out of the descriptions, which one most accurately portrays the person in the image?",
+                "options": [
+                    "without eyeglasses, not wearing hat, without beard",
+                    "with bangs, wearing lipstick, with mustache",
+                    "with eyeglasses, wearing lipstick, with brown hair",
+                    "female, wearing hat, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0036.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181546.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181546.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing hat, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best applies to the person in the picture.",
+                "options": [
+                    "with bushy eyebrows, not smiling, without beard",
+                    "with sideburns, wearing hat, with bushy eyebrows",
+                    "with bangs, bald, not wearing necklace",
+                    "with blond hair, with black hair, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0037.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173665.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173665.jpg"
+                    },
+                    "labels": [
+                        "with bushy eyebrows, not smiling, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the descriptions best aligns with the person pictured?",
+                "options": [
+                    "not wearing necktie, with mouth slightly open, not bald",
+                    "with bangs, male, with black hair",
+                    "wearing hat, not wearing necktie, with sideburns",
+                    "with bangs, not wearing earrings, smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0038.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178626.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178626.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with mouth slightly open, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person shown?",
+                "options": [
+                    "not wearing hat, not wearing necktie, without beard",
+                    "female, wearing necktie, not smiling",
+                    "not wearing lipstick, with heavy makeup, not wearing necktie",
+                    "not smiling, with bushy eyebrows, with blond hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0039.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174525.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174525.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, not wearing necktie, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the offered descriptions, which one matches the person in the picture the closest?",
+                "options": [
+                    "not wearing necklace, not bald, wearing lipstick",
+                    "with bangs, with mustache, not wearing earrings",
+                    "with mouth slightly open, with blond hair, wearing necklace",
+                    "with blond hair, with eye bags, bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0040.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166088.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166088.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please identify the description that best reflects the person in the image.",
+                "options": [
+                    "without eyeglasses, not wearing earrings, not wearing necktie",
+                    "wearing hat, with eyeglasses, with bangs",
+                    "with bangs, wearing necklace, with goatee",
+                    "without beard, with black hair, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0041.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181091.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181091.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing earrings, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description is the most fitting for the person depicted in the photo?",
+                "options": [
+                    "not wearing necktie, with heavy makeup, with mouth slightly open",
+                    "with brown hair, without eyeglasses, not wearing earrings",
+                    "wearing hat, female, with brown hair",
+                    "not wearing lipstick, with 5 o' clock shadow, not wearing hat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0042.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178533.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178533.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, with heavy makeup, with mouth slightly open"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What description do you think best matches the individual in the picture?",
+                "options": [
+                    "with mouth slightly open, not wearing necklace, wearing lipstick",
+                    "without eyeglasses, wearing hat, not smiling",
+                    "with brown hair, with black hair, wearing necktie",
+                    "with goatee, without beard, with eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0043.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165195.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165195.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, not wearing necklace, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most apt description for the person in the image?",
+                "options": [
+                    "with mouth slightly open, without beard, not wearing earrings",
+                    "with eye bags, female, not wearing lipstick",
+                    "with mustache, with bangs, male",
+                    "wearing lipstick, not smiling, not wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0044.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/178035.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/178035.jpg"
+                    },
+                    "labels": [
+                        "with mouth slightly open, without beard, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the provided descriptions, which one best applies to the person pictured?",
+                "options": [
+                    "with eyeglasses, wearing hat, not wearing earrings",
+                    "not bald, with brown hair, wearing necklace",
+                    "with mustache, wearing hat, with bushy eyebrows",
+                    "wearing hat, bald, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0045.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/162816.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/162816.jpg"
+                    },
+                    "labels": [
+                        "with eyeglasses, wearing hat, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best matches the individual depicted.",
+                "options": [
+                    "smiling, not wearing necklace, not wearing necktie",
+                    "without beard, male, with 5 o' clock shadow",
+                    "not wearing necklace, not smiling, male",
+                    "with eyeglasses, with heavy makeup, with black hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0046.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173348.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173348.jpg"
+                    },
+                    "labels": [
+                        "smiling, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best exemplifies the person in the photo?",
+                "options": [
+                    "with 5 o' clock shadow, not wearing lipstick, without eyeglasses",
+                    "wearing necklace, not wearing hat, with a receding hairline",
+                    "without beard, male, with sideburns",
+                    "with bushy eyebrows, not wearing necktie, with eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0047.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164427.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164427.jpg"
+                    },
+                    "labels": [
+                        "with 5 o' clock shadow, not wearing lipstick, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please indicate the description that best corresponds to the person shown.",
+                "options": [
+                    "wearing lipstick, without eyeglasses, not bald",
+                    "not wearing necktie, wearing hat, male",
+                    "wearing necktie, with sideburns, not bald",
+                    "wearing earrings, smiling, with bangs"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0048.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170810.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170810.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, without eyeglasses, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most appropriate description for the person shown in the photograph?",
+                "options": [
+                    "not wearing earrings, not wearing necklace, bald",
+                    "with sideburns, without beard, with a receding hairline",
+                    "wearing hat, not wearing necklace, with bushy eyebrows",
+                    "wearing necktie, not wearing earrings, not bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0049.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175922.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175922.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing necklace, bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one best characterizes the person in the image?",
+                "options": [
+                    "without beard, with mouth slightly open, with blond hair",
+                    "with eyeglasses, not wearing earrings, not bald",
+                    "without eyeglasses, with black hair, with a receding hairline",
+                    "with bushy eyebrows, female, wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0050.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179850.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179850.jpg"
+                    },
+                    "labels": [
+                        "without beard, with mouth slightly open, with blond hair"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best corresponds to the person depicted in the picture?",
+                "options": [
+                    "without eyeglasses, not wearing necktie, smiling",
+                    "female, with mustache, wearing necktie",
+                    "with mustache, with brown hair, not wearing necklace",
+                    "without beard, with brown hair, wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0051.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177448.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177448.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necktie, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "without beard, with brown hair, not wearing necktie",
+                    "with sideburns, with eye bags, not wearing hat",
+                    "with eye bags, wearing lipstick, with blond hair",
+                    "not wearing hat, with eye bags, wearing necklace"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0052.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163161.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163161.jpg"
+                    },
+                    "labels": [
+                        "without beard, with brown hair, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "without beard, not wearing lipstick, not wearing necklace",
+                    "with heavy makeup, wearing necklace, not smiling",
+                    "with goatee, with blond hair, not bald",
+                    "with black hair, with sideburns, not wearing lipstick"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0053.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177013.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177013.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing lipstick, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person in the image?",
+                "options": [
+                    "not wearing necktie, without eyeglasses, smiling",
+                    "with eye bags, not smiling, with heavy makeup",
+                    "with eye bags, wearing hat, without beard",
+                    "wearing hat, wearing necktie, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0054.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164142.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164142.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, without eyeglasses, smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions perfectly matches the person in the picture?",
+                "options": [
+                    "wearing lipstick, not smiling, female",
+                    "with a receding hairline, not smiling, with bushy eyebrows",
+                    "not wearing hat, with eyeglasses, male",
+                    "with eye bags, with goatee, not smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0055.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/169164.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/169164.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, not smiling, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best fits the person pictured?",
+                "options": [
+                    "not bald, with goatee, not smiling",
+                    "not wearing lipstick, with eyeglasses, with eye bags",
+                    "with a receding hairline, male, wearing necktie",
+                    "not wearing hat, with eye bags, smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0056.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177315.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177315.jpg"
+                    },
+                    "labels": [
+                        "not bald, with goatee, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one is most suitable for the person in the photo?",
+                "options": [
+                    "with blond hair, without beard, without eyeglasses",
+                    "with mustache, not smiling, without beard",
+                    "with 5 o' clock shadow, with bangs, without eyeglasses",
+                    "with sideburns, with eyeglasses, smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0057.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173038.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173038.jpg"
+                    },
+                    "labels": [
+                        "with blond hair, without beard, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description matches the person in the image the best?",
+                "options": [
+                    "with bushy eyebrows, with heavy makeup, without beard",
+                    "not wearing necklace, with goatee, with sideburns",
+                    "with blond hair, with brown hair, without eyeglasses",
+                    "with eye bags, with black hair, male"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0058.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163568.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163568.jpg"
+                    },
+                    "labels": [
+                        "with bushy eyebrows, with heavy makeup, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most accurate description of the person in the photograph?",
+                "options": [
+                    "not bald, without eyeglasses, not wearing earrings",
+                    "with bushy eyebrows, with bangs, bald",
+                    "bald, not smiling, with bangs",
+                    "not wearing hat, with mouth slightly open, wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0059.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164581.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164581.jpg"
+                    },
+                    "labels": [
+                        "not bald, without eyeglasses, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the descriptions, please pick the one that best describes the person in the image.",
+                "options": [
+                    "not wearing earrings, without beard, not wearing hat",
+                    "with black hair, wearing hat, bald",
+                    "with blond hair, with mouth slightly open, with mustache",
+                    "wearing lipstick, with black hair, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0060.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/174377.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/174377.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, without beard, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Point out the description that best corresponds to the person in the photo.",
+                "options": [
+                    "not bald, without beard, female",
+                    "with bushy eyebrows, female, bald",
+                    "with brown hair, not bald, wearing necklace",
+                    "female, wearing necktie, bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0061.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173537.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173537.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Out of the descriptions, which one most accurately portrays the person in the image?",
+                "options": [
+                    "without eyeglasses, not wearing hat, not bald",
+                    "bald, with 5 o' clock shadow, not smiling",
+                    "with a receding hairline, with black hair, not wearing earrings",
+                    "female, bald, with black hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0062.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/182564.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/182564.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing hat, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best applies to the person in the picture.",
+                "options": [
+                    "not wearing necktie, not wearing hat, not wearing necklace",
+                    "bald, with brown hair, with 5 o' clock shadow",
+                    "with heavy makeup, without eyeglasses, with brown hair",
+                    "with mouth slightly open, smiling, female"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0063.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164703.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164703.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the descriptions best aligns with the person pictured?",
+                "options": [
+                    "not wearing hat, without eyeglasses, not wearing earrings",
+                    "smiling, with eyeglasses, with 5 o' clock shadow",
+                    "with goatee, bald, female",
+                    "bald, with mouth slightly open, without beard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0064.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179625.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179625.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, without eyeglasses, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person shown?",
+                "options": [
+                    "without beard, not wearing necklace, with heavy makeup",
+                    "bald, wearing necklace, female",
+                    "with a receding hairline, with brown hair, without eyeglasses",
+                    "wearing necktie, with bushy eyebrows, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0065.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176839.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176839.jpg"
+                    },
+                    "labels": [
+                        "without beard, not wearing necklace, with heavy makeup"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the offered descriptions, which one matches the person in the picture the closest?",
+                "options": [
+                    "not bald, without beard, not wearing necktie",
+                    "with eye bags, with black hair, with bushy eyebrows",
+                    "with 5 o' clock shadow, not wearing necktie, not wearing hat",
+                    "without beard, not smiling, with mustache"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0066.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181977.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181977.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please identify the description that best reflects the person in the image.",
+                "options": [
+                    "female, without eyeglasses, not wearing necktie",
+                    "not wearing hat, with mustache, bald",
+                    "without beard, with 5 o' clock shadow, wearing hat",
+                    "with a receding hairline, not wearing necktie, with bangs"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0067.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176767.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176767.jpg"
+                    },
+                    "labels": [
+                        "female, without eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description is the most fitting for the person depicted in the photo?",
+                "options": [
+                    "not wearing earrings, not bald, not wearing hat",
+                    "with mustache, not bald, wearing hat",
+                    "with goatee, wearing necktie, without beard",
+                    "not wearing hat, with blond hair, with bangs"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0068.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166282.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166282.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What description do you think best matches the individual in the picture?",
+                "options": [
+                    "not wearing necktie, without beard, with blond hair",
+                    "with bushy eyebrows, bald, smiling",
+                    "bald, female, with mustache",
+                    "with bangs, with sideburns, with bushy eyebrows"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0069.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177456.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177456.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, without beard, with blond hair"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most apt description for the person in the image?",
+                "options": [
+                    "not wearing necklace, not bald, not wearing hat",
+                    "with goatee, wearing lipstick, wearing necklace",
+                    "not bald, not wearing lipstick, with goatee",
+                    "with mouth slightly open, wearing earrings, with a receding hairline"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0070.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/166514.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/166514.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, not wearing hat"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the provided descriptions, which one best applies to the person pictured?",
+                "options": [
+                    "not wearing necklace, not wearing necktie, without eyeglasses",
+                    "male, not wearing necklace, wearing earrings",
+                    "with 5 o' clock shadow, not bald, with sideburns",
+                    "not wearing lipstick, male, without eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0071.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/175147.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/175147.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not wearing necktie, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best matches the individual depicted.",
+                "options": [
+                    "not wearing hat, wearing lipstick, not bald",
+                    "with goatee, with a receding hairline, smiling",
+                    "with brown hair, without beard, with mustache",
+                    "male, not bald, with blond hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0072.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168393.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168393.jpg"
+                    },
+                    "labels": [
+                        "not wearing hat, wearing lipstick, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best exemplifies the person in the photo?",
+                "options": [
+                    "wearing hat, wearing necklace, not bald",
+                    "wearing lipstick, not wearing earrings, with black hair",
+                    "wearing necktie, with brown hair, not wearing earrings",
+                    "with mustache, female, without eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0073.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/177027.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/177027.jpg"
+                    },
+                    "labels": [
+                        "wearing hat, wearing necklace, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please indicate the description that best corresponds to the person shown.",
+                "options": [
+                    "not wearing earrings, not wearing lipstick, not smiling",
+                    "with a receding hairline, with sideburns, not smiling",
+                    "with eyeglasses, without beard, with bangs",
+                    "with bangs, bald, not smiling"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0074.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180016.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180016.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not wearing lipstick, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most appropriate description for the person shown in the photograph?",
+                "options": [
+                    "not wearing necklace, wearing lipstick, female",
+                    "with heavy makeup, with brown hair, with sideburns",
+                    "wearing hat, female, with goatee",
+                    "with goatee, with mouth slightly open, male"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0075.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164392.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164392.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, wearing lipstick, female"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one best characterizes the person in the image?",
+                "options": [
+                    "without eyeglasses, not wearing necklace, not wearing necktie",
+                    "not wearing lipstick, not wearing hat, with blond hair",
+                    "wearing hat, with mouth slightly open, with brown hair",
+                    "smiling, not bald, with sideburns"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0076.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165539.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165539.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing necklace, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best corresponds to the person depicted in the picture?",
+                "options": [
+                    "not wearing necklace, not wearing necktie, without beard",
+                    "male, with a receding hairline, with black hair",
+                    "not bald, with bushy eyebrows, with mustache",
+                    "with eye bags, smiling, with bushy eyebrows"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0077.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176545.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176545.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not wearing necktie, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "without eyeglasses, with mouth slightly open, with 5 o' clock shadow",
+                    "with blond hair, with mustache, not bald",
+                    "not wearing hat, without beard, smiling",
+                    "with eyeglasses, not wearing necklace, with a receding hairline"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0078.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167740.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167740.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, with mouth slightly open, with 5 o' clock shadow"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the picture?",
+                "options": [
+                    "with heavy makeup, not wearing necktie, not wearing earrings",
+                    "male, wearing earrings, not wearing hat",
+                    "female, wearing earrings, with black hair",
+                    "with bushy eyebrows, without eyeglasses, bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0079.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167609.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167609.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, not wearing necktie, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person in the image?",
+                "options": [
+                    "with blond hair, with heavy makeup, wearing earrings",
+                    "male, without eyeglasses, with black hair",
+                    "with eyeglasses, not bald, with bangs",
+                    "with eyeglasses, wearing earrings, wearing necktie"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0080.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180683.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180683.jpg"
+                    },
+                    "labels": [
+                        "with blond hair, with heavy makeup, wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions perfectly matches the person in the picture?",
+                "options": [
+                    "with black hair, not wearing hat, not wearing necklace",
+                    "not wearing necklace, with mustache, female",
+                    "with mustache, with goatee, not wearing earrings",
+                    "female, not wearing earrings, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0081.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165860.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165860.jpg"
+                    },
+                    "labels": [
+                        "with black hair, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best fits the person pictured?",
+                "options": [
+                    "not smiling, with brown hair, without beard",
+                    "bald, with sideburns, not smiling",
+                    "with mustache, not wearing necklace, with eyeglasses",
+                    "wearing necklace, wearing lipstick, bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0082.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173409.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173409.jpg"
+                    },
+                    "labels": [
+                        "not smiling, with brown hair, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the given descriptions, which one is most suitable for the person in the photo?",
+                "options": [
+                    "with heavy makeup, not wearing necklace, without eyeglasses",
+                    "wearing necklace, female, not smiling",
+                    "not wearing lipstick, without eyeglasses, male",
+                    "with bushy eyebrows, not wearing earrings, not bald"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0083.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171013.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171013.jpg"
+                    },
+                    "labels": [
+                        "with heavy makeup, not wearing necklace, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description matches the person in the image the best?",
+                "options": [
+                    "not wearing lipstick, not wearing hat, not wearing necklace",
+                    "with black hair, male, with goatee",
+                    "with brown hair, not smiling, bald",
+                    "male, wearing necktie, with a receding hairline"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0084.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167601.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167601.jpg"
+                    },
+                    "labels": [
+                        "not wearing lipstick, not wearing hat, not wearing necklace"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most accurate description of the person in the photograph?",
+                "options": [
+                    "not bald, wearing necktie, not wearing earrings",
+                    "not wearing hat, wearing necklace, wearing earrings",
+                    "with goatee, wearing lipstick, with eye bags",
+                    "with mouth slightly open, not smiling, with eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0085.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/168077.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/168077.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing necktie, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the descriptions, please pick the one that best describes the person in the image.",
+                "options": [
+                    "not wearing lipstick, with 5 o' clock shadow, without eyeglasses",
+                    "bald, male, with sideburns",
+                    "wearing earrings, with blond hair, not wearing lipstick",
+                    "smiling, with blond hair, male"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0086.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180248.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180248.jpg"
+                    },
+                    "labels": [
+                        "not wearing lipstick, with 5 o' clock shadow, without eyeglasses"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Point out the description that best corresponds to the person in the photo.",
+                "options": [
+                    "without beard, not bald, not wearing necktie",
+                    "smiling, not wearing necklace, with bangs",
+                    "smiling, female, with eyeglasses",
+                    "with eyeglasses, bald, with brown hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0087.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/167986.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/167986.jpg"
+                    },
+                    "labels": [
+                        "without beard, not bald, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Out of the descriptions, which one most accurately portrays the person in the image?",
+                "options": [
+                    "not bald, wearing lipstick, without beard",
+                    "with brown hair, smiling, with bushy eyebrows",
+                    "with mustache, with blond hair, not wearing hat",
+                    "with eye bags, without eyeglasses, with blond hair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0088.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/179385.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/179385.jpg"
+                    },
+                    "labels": [
+                        "not bald, wearing lipstick, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best applies to the person in the picture.",
+                "options": [
+                    "not wearing necktie, not wearing hat, not bald",
+                    "with sideburns, with blond hair, with mouth slightly open",
+                    "not wearing hat, with 5 o' clock shadow, with bangs",
+                    "with blond hair, female, not wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0089.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164347.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164347.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, not wearing hat, not bald"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which of the descriptions best aligns with the person pictured?",
+                "options": [
+                    "without eyeglasses, not wearing lipstick, with bushy eyebrows",
+                    "wearing earrings, not wearing necklace, with bangs",
+                    "not wearing necktie, with a receding hairline, wearing hat",
+                    "not wearing lipstick, with mustache, wearing necklace"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0090.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171774.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171774.jpg"
+                    },
+                    "labels": [
+                        "without eyeglasses, not wearing lipstick, with bushy eyebrows"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person shown?",
+                "options": [
+                    "not wearing earrings, not bald, with a receding hairline",
+                    "not wearing necktie, wearing necklace, with a receding hairline",
+                    "with black hair, male, with goatee",
+                    "with brown hair, not wearing lipstick, with bushy eyebrows"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0091.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/164900.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/164900.jpg"
+                    },
+                    "labels": [
+                        "not wearing earrings, not bald, with a receding hairline"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the offered descriptions, which one matches the person in the picture the closest?",
+                "options": [
+                    "female, not smiling, not wearing earrings",
+                    "with goatee, wearing necktie, not wearing necklace",
+                    "not wearing necktie, with goatee, bald",
+                    "not wearing necktie, with sideburns, with bangs"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0092.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176571.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176571.jpg"
+                    },
+                    "labels": [
+                        "female, not smiling, not wearing earrings"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please identify the description that best reflects the person in the image.",
+                "options": [
+                    "with sideburns, not wearing necktie, with bushy eyebrows",
+                    "female, not wearing earrings, with brown hair",
+                    "with heavy makeup, without eyeglasses, with a receding hairline",
+                    "wearing necktie, wearing necklace, not wearing hat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0093.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/173149.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/173149.jpg"
+                    },
+                    "labels": [
+                        "with sideburns, not wearing necktie, with bushy eyebrows"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description is the most fitting for the person depicted in the photo?",
+                "options": [
+                    "not wearing necktie, smiling, without beard",
+                    "not wearing necklace, with goatee, with black hair",
+                    "with brown hair, with bushy eyebrows, with black hair",
+                    "male, with mustache, without eyeglasses"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0094.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/163713.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/163713.jpg"
+                    },
+                    "labels": [
+                        "not wearing necktie, smiling, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What description do you think best matches the individual in the picture?",
+                "options": [
+                    "not bald, without beard, not smiling",
+                    "female, with 5 o' clock shadow, with brown hair",
+                    "with brown hair, wearing earrings, with blond hair",
+                    "with eye bags, with brown hair, wearing lipstick"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0095.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/170717.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/170717.jpg"
+                    },
+                    "labels": [
+                        "not bald, without beard, not smiling"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "What is the most apt description for the person in the image?",
+                "options": [
+                    "not smiling, not wearing necklace, wearing lipstick",
+                    "wearing necktie, bald, not wearing hat",
+                    "with eyeglasses, with heavy makeup, with sideburns",
+                    "with sideburns, with eye bags, female"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0096.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/171743.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/171743.jpg"
+                    },
+                    "labels": [
+                        "not smiling, not wearing necklace, wearing lipstick"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Among the provided descriptions, which one best applies to the person pictured?",
+                "options": [
+                    "not wearing necklace, not bald, not wearing necktie",
+                    "wearing earrings, with goatee, bald",
+                    "wearing hat, male, smiling",
+                    "with bangs, smiling, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0097.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/180215.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/180215.jpg"
+                    },
+                    "labels": [
+                        "not wearing necklace, not bald, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please select the description that best matches the individual depicted.",
+                "options": [
+                    "wearing lipstick, wearing necklace, without beard",
+                    "with mouth slightly open, not smiling, with 5 o' clock shadow",
+                    "without beard, with eye bags, with blond hair",
+                    "male, not bald, with goatee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0098.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/165147.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/165147.jpg"
+                    },
+                    "labels": [
+                        "wearing lipstick, wearing necklace, without beard"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Which description best exemplifies the person in the photo?",
+                "options": [
+                    "male, with eyeglasses, not wearing necktie",
+                    "without beard, wearing lipstick, wearing necktie",
+                    "female, without eyeglasses, not wearing earrings",
+                    "smiling, with heavy makeup, with mouth slightly open"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0099.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/176176.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/176176.jpg"
+                    },
+                    "labels": [
+                        "male, with eyeglasses, not wearing necktie"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attribute_compound",
+            "QA": {
+                "question": "Please indicate the description that best corresponds to the person shown.",
+                "options": [
+                    "male, without eyeglasses, not wearing lipstick",
+                    "with goatee, wearing lipstick, not wearing earrings",
+                    "with eye bags, not wearing necklace, with bangs",
+                    "with bangs, without eyeglasses, wearing earrings"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attribute/compound/cropped/sample_0100.jpg",
+                    "original": "eval_data/face/attribute/compound/original/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "CelebA",
+                    "paths": {
+                        "cropped": "raw_data/face/CelebA/img_align_celeba/181957.jpg",
+                        "original": "raw_data/face/CelebA/img_celeba/181957.jpg"
+                    },
+                    "labels": [
+                        "male, without eyeglasses, not wearing lipstick"
+                    ]
+                }
+            }
+        }
+    ]
+}

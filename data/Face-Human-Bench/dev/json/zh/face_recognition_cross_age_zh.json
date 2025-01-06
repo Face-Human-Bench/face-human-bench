@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中被抓拍到的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Mel_Gibson_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Mel_Gibson_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Tracee_Ellis_Ross_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Tracee_Ellis_Ross_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中展示的个人是同一个人吗?",
+                "options": [
+                    "是",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Curtis_Joseph_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Curtis_Joseph_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中所描绘的人物是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Clara_Harris_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Clara_Harris_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中左右两侧的人物是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Glenn_Plummer_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Glenn_Plummer_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Kirsten_Dunst_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Kirsten_Dunst_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两幅图中展示的个体是同一个人吗?",
+                "options": [
+                    "是",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alberto_Sordi_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alberto_Sordi_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Billy_Graham_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Billy_Graham_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中所显示的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Yasein_Taher_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Yasein_Taher_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中的人物是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Peter_Sejna_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Peter_Sejna_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张图片中亮相的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Allison_Janney_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Allison_Janney_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两幅图片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Donald_Carty_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Donald_Carty_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Barry_Switzer_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Barry_Switzer_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Mira_Sorvino_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Mira_Sorvino_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Virenque_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Virenque_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张照片中的人和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sigourney_Weaver_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sigourney_Weaver_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张照片和第二张照片里的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Amram_Mitzna_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Amram_Mitzna_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Hans_Blix_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Hans_Blix_0002.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "出现在这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bob_Menendez_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bob_Menendez_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左边和右边的照片中展示的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Iva_Majoli_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Iva_Majoli_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张和第二张图像中的人是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Dora_Bakoyianni_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Dora_Bakoyianni_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中展示的个人是一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jacky_Cheung_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jacky_Cheung_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张图中的人与第二张图中的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Harry_Kalas_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Harry_Kalas_0003.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张图片中的人和第二张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Carol_Burnett_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Carol_Burnett_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/David_Caruso_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/David_Caruso_0004.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中被拍摄的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Roy_Moore_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sam_Brownback_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张图片中左右位置上的人物是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jeffrey_Jones_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Crenna_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/James_Baker_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Orrin_Hatch_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "出现在左边和右边照片中的人恰好是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Debra_Messing_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Vanessa_Williams_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左边和右边的照片中展示的个人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Guy_Ritchie_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Lance_Armstrong_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左边和右边的照片中是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bernard_Lord_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Emanuel_Ginobili_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张照片中描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Garry_Trudeau_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rick_Perry_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两侧照片中的个体是否描绘的是同一个人?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Alicia_Silverstone_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Carey_Lowell_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两幅图中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Fernando_Henrique_Cardoso_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jose_Miguel_Aleman_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中所描绘的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Arnold_Schwarzenegger_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rainer_Schuettler_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jo_Dee_Messina_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Natasha_Henstridge_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两幅图中的人是否相同?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Corinna_Harfouch_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Laura_Linney_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中展示的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Donald_Rumsfeld_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Frank_Griswold_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Juan_Manuel_Marquez_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Robbie_Williams_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张照片中的人和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Allen_Iverson_0003.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Jason_Gardner_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张照片和第二张照片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Heidi_Klum_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Paris_Hilton_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片中的人是同一人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Denis_Coderre_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Elton_John_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "出现在这两张图片中的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Ethan_Hawke_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Richard_Virenque_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左边和右边照片中的人代表同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Ahmed_Chalabi_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/James_Baker_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张和第二张图片中的人物是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rich_Gannon_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Sterling_Hitchcock_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张图片中展示的个体是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Ahmed_Chalabi_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Warren_Truss_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张图片中的个人与第二张图片中的个人是同一个吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Al_Pacino_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Bob_Dole_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "第一张照片里的人和第二张照片里的人是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Carly_Fiorina_0004.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Hillary_Clinton_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "这两张照片展示的是同一个人吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Michael_Richards_0002.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Rick_Perry_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_cross_age",
+            "QA": {
+                "question": "左右两张图片中的人是相同的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/cross_age/cropped/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "CALFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Juan_Ignacio_Chela_0001.jpg",
+                        "cropped_2": "raw_data/face/CALFW/calfw/images&landmarks/images&landmarks/images/Prince_William_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

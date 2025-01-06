@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people in the two photos the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Stephane_Rousseau_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Stephane_Rousseau_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Milton_Wynants_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Milton_Wynants_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Brett_Hull_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Brett_Hull_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Princess_Elisabeth_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Princess_Elisabeth_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Randy_Dryer_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Randy_Dryer_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Sun_Myung_Moon_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sun_Myung_Moon_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Sidney_Poitier_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sidney_Poitier_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the subjects depicted in both photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/John_Engler_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/John_Engler_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the persons shown in the two photos one and the selfsame individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bryan_Murray_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bryan_Murray_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jason_Alexander_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Jason_Alexander_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Anna_Nicole_Smith_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Anna_Nicole_Smith_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Suzie_McConnell_Serio_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Suzie_McConnell_Serio_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Micky_Ward_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Micky_Ward_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Nicolas_Escude_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Nicolas_Escude_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Uday_Hussein_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Uday_Hussein_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Enrique_Bolanos_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Enrique_Bolanos_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Martin_Short_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Martin_Short_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people captured in both pictures the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Mel_Gibson_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Mel_Gibson_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Tracee_Ellis_Ross_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Tracee_Ellis_Ross_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Curtis_Joseph_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Curtis_Joseph_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Meg_Wakeman_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Meg_Wakeman_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals in both pictures, one on the left and one on the right, represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Max_Baucus_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Max_Baucus_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Clara_Harris_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Clara_Harris_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Peter_Struck_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Peter_Struck_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Phil_Bennett_0001_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Phil_Bennett_0004_0000.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Roy_Moore_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sam_Brownback_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals featured in the two pictures, positioned on the left and right, identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jeffrey_Jones_0003_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Richard_Crenna_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/James_Baker_0003_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Orrin_Hatch_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the people appearing in both the left and right photos happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Debra_Messing_0004_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Vanessa_Williams_0004_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals showcased in the left and right images one in the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Guy_Ritchie_0003_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Lance_Armstrong_0004_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is it the same person in both the left and right photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Bernard_Lord_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Emanuel_Ginobili_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the persons depicted in both the left and right photographs one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Garry_Trudeau_0002_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Rick_Perry_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the individuals in the photos on both sides depict the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Alicia_Silverstone_0001_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Carey_Lowell_0003_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people featured in both images the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Fernando_Henrique_Cardoso_0004_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Jose_Miguel_Aleman_0002_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the person portrayed in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Arnold_Schwarzenegger_0003_0004.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Rainer_Schuettler_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Jo_Dee_Messina_0001_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Natasha_Henstridge_0002_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Corinna_Harfouch_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Laura_Linney_0003_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the person shown in both photos one and the selfsame?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Donald_Rumsfeld_0003_0000.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Frank_Griswold_0003_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the two pictures exhibit the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Juan_Manuel_Marquez_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Robbie_Williams_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the person in the first photo and the person in the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Allen_Iverson_0003_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Jason_Gardner_0001_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the people in the first photo and the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Heidi_Klum_0002_0004.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Paris_Hilton_0004_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals depicted in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Denis_Coderre_0002_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Elton_John_0001_0003.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the person appearing in both images the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Ethan_Hawke_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Richard_Virenque_0004_0005.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the people shown in the left and right photos represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Ahmed_Chalabi_0004_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/James_Baker_0001_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals depicted in the first and second images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Rich_Gannon_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Sterling_Hitchcock_0002_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals shown in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Ahmed_Chalabi_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Warren_Truss_0002_0002.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the individual seen in the first image synonymous with the one in the second?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Al_Pacino_0001_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Bob_Dole_0001_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Is the person in the first picture the same as the person in the second picture?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0098.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Carly_Fiorina_0004_0003.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Hillary_Clinton_0002_0001.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Michael_Richards_0002_0002.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Rick_Perry_0002_0004.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_recognition_mask",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/recognition/mask/cropped/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "MLFW",
+                    "paths": {
+                        "cropped_1": "raw_data/face/MLFW/origin/Juan_Ignacio_Chela_0001_0001.jpg",
+                        "cropped_2": "raw_data/face/MLFW/origin/Prince_William_0003_0000.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

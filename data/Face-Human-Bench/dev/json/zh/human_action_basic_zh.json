@@ -1,0 +1,4004 @@
+{
+    "data": [
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人在做什么?",
+                "options": [
+                    "拿着剪刀",
+                    "用剪刀剪辑",
+                    "掉剪刀",
+                    "正在剪刀。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0151.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007582.jpg"
+                    },
+                    "labels": {
+                        "object_name": "scissors",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            639,
+                            20,
+                            425
+                        ],
+                        "object_bbox": [
+                            98,
+                            359,
+                            164,
+                            353
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人在做什么动作?",
+                "options": [
+                    "阅读笔记本电脑",
+                    "在笔记本电脑上打字",
+                    "关闭笔记本电脑",
+                    "给笔记本电脑充电"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0152.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002976.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "read",
+                        "human_bbox": [
+                            38,
+                            339,
+                            44,
+                            424
+                        ],
+                        "object_bbox": [
+                            299,
+                            520,
+                            234,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "在餐桌上吃饭",
+                    "在厨房里吃饭",
+                    "摆餐桌",
+                    "在餐桌上端菜Serve food at the dining table"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0153.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006623.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            114,
+                            165,
+                            141,
+                            280
+                        ],
+                        "object_bbox": [
+                            152,
+                            528,
+                            219,
+                            419
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中红色框标记的人在做什么?",
+                "options": [
+                    "冲浪板上冲浪",
+                    "骑滑板",
+                    "冲浪在海浪中",
+                    "站在冲浪板上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0154.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002359.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            178,
+                            238,
+                            258,
+                            355
+                        ],
+                        "object_bbox": [
+                            113,
+                            306,
+                            331,
+                            365
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框里的人在做什么?",
+                "options": [
+                    "坐在长凳上",
+                    "在长凳上睡觉",
+                    "给长凳涂漆",
+                    "站在长椅上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0155.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002146.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            372,
+                            430,
+                            548,
+                            582
+                        ],
+                        "object_bbox": [
+                            248,
+                            457,
+                            585,
+                            610
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框框定的人在做什么?",
+                "options": [
+                    "用牙刷刷牙",
+                    "用海绵擦洗",
+                    "用牙线剔牙",
+                    "用漱口水漱口"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0156.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004450.jpg"
+                    },
+                    "labels": {
+                        "object_name": "toothbrush",
+                        "action": "brush_with",
+                        "human_bbox": [
+                            6,
+                            633,
+                            3,
+                            420
+                        ],
+                        "object_bbox": [
+                            485,
+                            596,
+                            341,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中被红框圈起来的人在做什么?",
+                "options": [
+                    "滑雪板",
+                    "滑雪下坡",
+                    "从雪板上摔下",
+                    "在雪板上跳跃"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0157.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005099.jpg"
+                    },
+                    "labels": {
+                        "object_name": "snowboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            142,
+                            391,
+                            82,
+                            386
+                        ],
+                        "object_bbox": [
+                            206,
+                            411,
+                            309,
+                            403
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在忙什么?",
+                "options": [
+                    "在滑板上跳跃",
+                    "在滑板上表演花招",
+                    "从滑板上摔倒",
+                    "骑滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0158.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007647.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "jump",
+                        "human_bbox": [
+                            174,
+                            304,
+                            110,
+                            519
+                        ],
+                        "object_bbox": [
+                            238,
+                            307,
+                            394,
+                            525
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在进行什么活动?",
+                "options": [
+                    "给酒杯倒酒",
+                    "倒空酒杯",
+                    "清洗酒杯",
+                    "打破了酒杯"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0159.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005850.jpg"
+                    },
+                    "labels": {
+                        "object_name": "wine_glass",
+                        "action": "fill",
+                        "human_bbox": [
+                            401,
+                            638,
+                            2,
+                            421
+                        ],
+                        "object_bbox": [
+                            160,
+                            265,
+                            146,
+                            423
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人正在发生什么事?",
+                "options": [
+                    "手持风筝",
+                    "放风筝",
+                    "折叠风筝",
+                    "设计一只风筝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0160.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006536.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "carry",
+                        "human_bbox": [
+                            96,
+                            439,
+                            105,
+                            519
+                        ],
+                        "object_bbox": [
+                            5,
+                            398,
+                            255,
+                            475
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在完成什么任务?",
+                "options": [
+                    "握着叉子",
+                    "掉叉",
+                    "用叉子刺的动作",
+                    "转动叉子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0162.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003539.jpg"
+                    },
+                    "labels": {
+                        "object_name": "fork",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            189,
+                            2,
+                            252
+                        ],
+                        "object_bbox": [
+                            146,
+                            177,
+                            129,
+                            222
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人正在做什么?",
+                "options": [
+                    "跳过马",
+                    "爬过马",
+                    "跃过马",
+                    "越过马桩"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0163.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005393.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "jump",
+                        "human_bbox": [
+                            127,
+                            296,
+                            83,
+                            404
+                        ],
+                        "object_bbox": [
+                            56,
+                            336,
+                            203,
+                            547
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人被描绘为在做什么?",
+                "options": [
+                    "滑雪",
+                    "滑下坡滑雪",
+                    "租借滑雪板",
+                    "调整滑雪板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0164.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003494.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skis",
+                        "action": "ride",
+                        "human_bbox": [
+                            239,
+                            478,
+                            102,
+                            355
+                        ],
+                        "object_bbox": [
+                            278,
+                            479,
+                            306,
+                            381
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图像中捕捉到的红色框中的人在做什么?",
+                "options": [
+                    "拿着一本书",
+                    "在读一本书",
+                    "掉了一本书",
+                    "整理书籍"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0165.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007380.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "carry",
+                        "human_bbox": [
+                            397,
+                            520,
+                            297,
+                            501
+                        ],
+                        "object_bbox": [
+                            397,
+                            455,
+                            374,
+                            405
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中看到的红色框中的人在做什么?",
+                "options": [
+                    "骑自行车",
+                    "修理自行车",
+                    "租一辆自行车",
+                    "偷走一辆自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0166.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007717.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "ride",
+                        "human_bbox": [
+                            127,
+                            160,
+                            253,
+                            289
+                        ],
+                        "object_bbox": [
+                            108,
+                            524,
+                            213,
+                            404
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红框中的人在做什么?",
+                "options": [
+                    "放风筝",
+                    "驾驶无人机",
+                    "买风筝",
+                    "解开一个风筝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0167.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001000.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            388,
+                            588,
+                            142,
+                            417
+                        ],
+                        "object_bbox": [
+                            20,
+                            169,
+                            58,
+                            190
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中红色框中的人参与了什么?",
+                "options": [
+                    "拿起蛋糕",
+                    "吃蛋糕",
+                    "切蛋糕",
+                    "烤蛋糕"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0168.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008932.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cake",
+                        "action": "pick_up",
+                        "human_bbox": [
+                            150,
+                            443,
+                            57,
+                            423
+                        ],
+                        "object_bbox": [
+                            206,
+                            325,
+                            255,
+                            299
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "坐在长凳上",
+                    "坐在地板上",
+                    "坐在凳子上",
+                    "坐在椅子上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0169.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003001.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            282,
+                            329,
+                            206,
+                            337
+                        ],
+                        "object_bbox": [
+                            158,
+                            451,
+                            237,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图中红色框中的个人在进行什么活动?",
+                "options": [
+                    "在餐桌上吃饭",
+                    "摆餐具",
+                    "收拾餐桌",
+                    "摆设桌子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0170.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007298.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            91,
+                            269,
+                            156,
+                            375
+                        ],
+                        "object_bbox": [
+                            119,
+                            456,
+                            165,
+                            449
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框中突出的人在做什么?",
+                "options": [
+                    "亲吻那个人",
+                    "拥抱这个人",
+                    "向那个人挥手",
+                    "和那个人交谈"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0171.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005896.jpg"
+                    },
+                    "labels": {
+                        "object_name": "person",
+                        "action": "kiss",
+                        "human_bbox": [
+                            258,
+                            414,
+                            92,
+                            426
+                        ],
+                        "object_bbox": [
+                            310,
+                            479,
+                            130,
+                            426
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在做什么动作?",
+                "options": [
+                    "握着停车标志",
+                    "举起停车标志",
+                    "挥动停止标志",
+                    "放下停止标志"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0173.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002592.jpg"
+                    },
+                    "labels": {
+                        "object_name": "stop_sign",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            290,
+                            302,
+                            635
+                        ],
+                        "object_bbox": [
+                            147,
+                            298,
+                            84,
+                            639
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框标记的人在做什么?",
+                "options": [
+                    "背着背包",
+                    "背着背包",
+                    "脱掉背包",
+                    "整理背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0175.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007754.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            51,
+                            328,
+                            55,
+                            418
+                        ],
+                        "object_bbox": [
+                            237,
+                            351,
+                            112,
+                            273
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框中的人在做什么?",
+                "options": [
+                    "吃甜甜圈",
+                    "烘烤甜甜圈",
+                    "分享一个甜甜圈",
+                    "渴望一个甜甜圈"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0176.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003695.jpg"
+                    },
+                    "labels": {
+                        "object_name": "donut",
+                        "action": "eat",
+                        "human_bbox": [
+                            66,
+                            299,
+                            109,
+                            637
+                        ],
+                        "object_bbox": [
+                            90,
+                            156,
+                            187,
+                            238
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框框起来的人在做什么?",
+                "options": [
+                    "翻转滑板",
+                    "旋转滑板",
+                    "骑滑板",
+                    "翻转滑雪板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0177.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008489.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            126,
+                            347,
+                            96,
+                            240
+                        ],
+                        "object_bbox": [
+                            236,
+                            278,
+                            195,
+                            301
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人正在忙于什么?",
+                "options": [
+                    "驾驶公共汽车",
+                    "乘公交车",
+                    "修理公交车",
+                    "清洁公交车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0179.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000364.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            144,
+                            198,
+                            343,
+                            414
+                        ],
+                        "object_bbox": [
+                            65,
+                            466,
+                            272,
+                            579
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在表演什么?",
+                "options": [
+                    "拿着杯子喝水",
+                    "从杯子里倒出",
+                    "倒杯子",
+                    "从杯子里啜饮"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0180.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005135.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cup",
+                        "action": "drink_with",
+                        "human_bbox": [
+                            11,
+                            377,
+                            50,
+                            355
+                        ],
+                        "object_bbox": [
+                            179,
+                            218,
+                            100,
+                            138
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人正在经历什么?",
+                "options": [
+                    "坐在椅子上",
+                    "靠在椅子上",
+                    "站在椅子上",
+                    "坐在凳子上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0181.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003451.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            216,
+                            359,
+                            281,
+                            498
+                        ],
+                        "object_bbox": [
+                            197,
+                            342,
+                            279,
+                            491
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么任务?",
+                "options": [
+                    "冲浪板上滑行",
+                    "骑滑板",
+                    "给冲浪板打蜡",
+                    "在冲浪板上保持平衡"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0182.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008128.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            367,
+                            435,
+                            126,
+                            251
+                        ],
+                        "object_bbox": [
+                            440,
+                            510,
+                            231,
+                            259
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在完成什么?",
+                "options": [
+                    "扶着摩托车",
+                    "骑摩托车",
+                    "推着摩托车",
+                    "拆卸摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0183.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005599.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            365,
+                            406,
+                            185,
+                            269
+                        ],
+                        "object_bbox": [
+                            285,
+                            426,
+                            231,
+                            291
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人正在做什么?",
+                "options": [
+                    "运球",
+                    "踢运动球",
+                    "扔运动球",
+                    "接住运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0184.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009569.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "dribble",
+                        "human_bbox": [
+                            16,
+                            345,
+                            9,
+                            411
+                        ],
+                        "object_bbox": [
+                            282,
+                            364,
+                            339,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人被描绘为在做什么?",
+                "options": [
+                    "跳过自行车",
+                    "骑自行车",
+                    "修理自行车",
+                    "推着自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0185.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000926.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "jump",
+                        "human_bbox": [
+                            115,
+                            310,
+                            43,
+                            226
+                        ],
+                        "object_bbox": [
+                            142,
+                            293,
+                            243,
+                            565
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人被拍到在做什么?",
+                "options": [
+                    "翻转滑板",
+                    "骑滑板",
+                    "跳过滑板",
+                    "摔坏了滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0186.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000284.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            21,
+                            314,
+                            121,
+                            290
+                        ],
+                        "object_bbox": [
+                            266,
+                            354,
+                            266,
+                            288
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中看到红色框内的人在做什么?",
+                "options": [
+                    "划船",
+                    "划船",
+                    "沉船",
+                    "驾驶小船"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0187.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003627.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "ride",
+                        "human_bbox": [
+                            134,
+                            383,
+                            76,
+                            274
+                        ],
+                        "object_bbox": [
+                            155,
+                            586,
+                            114,
+                            332
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红色框中的人正在做什么?",
+                "options": [
+                    "榨橙子",
+                    "剥橙子",
+                    "喝橙汁",
+                    "切橙子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0188.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002314.jpg"
+                    },
+                    "labels": {
+                        "object_name": "orange",
+                        "action": "squeeze",
+                        "human_bbox": [
+                            133,
+                            638,
+                            15,
+                            419
+                        ],
+                        "object_bbox": [
+                            181,
+                            432,
+                            41,
+                            376
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框中的人在图片中参与了什么?",
+                "options": [
+                    "握着飞盘",
+                    "扔飞盘",
+                    "转动飞盘",
+                    "抓住飞盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0189.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008526.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "hold",
+                        "human_bbox": [
+                            270,
+                            311,
+                            163,
+                            257
+                        ],
+                        "object_bbox": [
+                            298,
+                            321,
+                            175,
+                            194
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人在做什么?",
+                "options": [
+                    "骑摩托车比赛",
+                    "修理摩托车",
+                    "骑自行车",
+                    "赛车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0190.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006007.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "race",
+                        "human_bbox": [
+                            168,
+                            244,
+                            92,
+                            223
+                        ],
+                        "object_bbox": [
+                            188,
+                            259,
+                            129,
+                            231
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在从事什么活动?",
+                "options": [
+                    "抓住椅子",
+                    "移动椅子",
+                    "搬起椅子",
+                    "踢椅子"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0191.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006973.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "hold",
+                        "human_bbox": [
+                            97,
+                            540,
+                            66,
+                            422
+                        ],
+                        "object_bbox": [
+                            168,
+                            456,
+                            275,
+                            419
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红色方框内的人在做什么?",
+                "options": [
+                    "坐在长椅上",
+                    "坐在地板上",
+                    "坐在凳子上",
+                    "坐在椅子上"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0192.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004130.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            161,
+                            360,
+                            63,
+                            424
+                        ],
+                        "object_bbox": [
+                            1,
+                            637,
+                            340,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人在做什么?",
+                "options": [
+                    "拿着自行车",
+                    "骑自行车",
+                    "推着自行车",
+                    "修理自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0193.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001956.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            304,
+                            402,
+                            69,
+                            220
+                        ],
+                        "object_bbox": [
+                            191,
+                            542,
+                            182,
+                            395
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红框标记的人在图片中在做什么?",
+                "options": [
+                    "握着棒球棍",
+                    "挥动棒球棒",
+                    "放下棒球棒",
+                    "传递棒球棒"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0196.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001485.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "hold",
+                        "human_bbox": [
+                            255,
+                            407,
+                            163,
+                            358
+                        ],
+                        "object_bbox": [
+                            352,
+                            435,
+                            164,
+                            214
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框里的人在做什么?",
+                "options": [
+                    "在键盘上打字",
+                    "在键盘上点击",
+                    "清洁键盘",
+                    "猛击键盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0197.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003375.jpg"
+                    },
+                    "labels": {
+                        "object_name": "keyboard",
+                        "action": "type_on",
+                        "human_bbox": [
+                            1,
+                            333,
+                            1,
+                            464
+                        ],
+                        "object_bbox": [
+                            1,
+                            636,
+                            81,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框框住的人在做什么?",
+                "options": [
+                    "喂长颈鹿",
+                    "抚摸长颈鹿",
+                    "观察长颈鹿",
+                    "骑长颈鹿"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0198.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004751.jpg"
+                    },
+                    "labels": {
+                        "object_name": "giraffe",
+                        "action": "feed",
+                        "human_bbox": [
+                            224,
+                            633,
+                            170,
+                            635
+                        ],
+                        "object_bbox": [
+                            3,
+                            266,
+                            7,
+                            440
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中被红色框圈起来的人在做什么?",
+                "options": [
+                    "乘坐火车",
+                    "上火车",
+                    "错过了火车",
+                    "等待火车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0199.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009035.jpg"
+                    },
+                    "labels": {
+                        "object_name": "train",
+                        "action": "ride",
+                        "human_bbox": [
+                            481,
+                            526,
+                            185,
+                            264
+                        ],
+                        "object_bbox": [
+                            2,
+                            638,
+                            2,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在忙于做什么?",
+                "options": [
+                    "搬运一辆自行车",
+                    "骑自行车",
+                    "推着自行车",
+                    "修理自行车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0200.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000037.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "carry",
+                        "human_bbox": [
+                            237,
+                            620,
+                            5,
+                            631
+                        ],
+                        "object_bbox": [
+                            3,
+                            633,
+                            117,
+                            589
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红框中的人在图片中在做什么?",
+                "options": [
+                    "携带滑板",
+                    "提着冲浪板",
+                    "放下滑板",
+                    "踢滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0201.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007401.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            192,
+                            232,
+                            295,
+                            431
+                        ],
+                        "object_bbox": [
+                            178,
+                            249,
+                            342,
+                            388
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "这幅图像中红色框中的人在做什么任务?",
+                "options": [
+                    "用牙刷刷牙",
+                    "用刷子绘画",
+                    "用牙刷刷洗",
+                    "用梳子梳头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0203.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008294.jpg"
+                    },
+                    "labels": {
+                        "object_name": "toothbrush",
+                        "action": "brush_with",
+                        "human_bbox": [
+                            17,
+                            632,
+                            10,
+                            386
+                        ],
+                        "object_bbox": [
+                            288,
+                            402,
+                            210,
+                            387
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在取得什么成就?",
+                "options": [
+                    "磨滑板",
+                    "骑着滑板",
+                    "组装滑板",
+                    "装饰滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0204.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004291.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            227,
+                            396,
+                            68,
+                            390
+                        ],
+                        "object_bbox": [
+                            267,
+                            391,
+                            291,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框中的人正在图片中做什么?",
+                "options": [
+                    "骑马",
+                    "骑自行车",
+                    "给马梳理毛发",
+                    "喂马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0205.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002143.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            295,
+                            370,
+                            79,
+                            281
+                        ],
+                        "object_bbox": [
+                            118,
+                            469,
+                            145,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图像中被捕捉到的红色框中的人在做什么?",
+                "options": [
+                    "扔飞盘",
+                    "接飞盘",
+                    "旋转飞盘",
+                    "踢飞盘"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0207.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002326.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "throw",
+                        "human_bbox": [
+                            370,
+                            550,
+                            74,
+                            357
+                        ],
+                        "object_bbox": [
+                            295,
+                            338,
+                            61,
+                            82
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中看到红色框中的人在做什么?",
+                "options": [
+                    "骑摩托车",
+                    "骑自行车",
+                    "修理摩托车",
+                    "卖摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0208.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003435.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "ride",
+                        "human_bbox": [
+                            242,
+                            327,
+                            174,
+                            262
+                        ],
+                        "object_bbox": [
+                            223,
+                            361,
+                            205,
+                            297
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "提着胡萝卜",
+                    "吃胡萝卜",
+                    "种胡萝卜",
+                    "削胡萝卜"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0209.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000298.jpg"
+                    },
+                    "labels": {
+                        "object_name": "carrot",
+                        "action": "carry",
+                        "human_bbox": [
+                            2,
+                            321,
+                            7,
+                            162
+                        ],
+                        "object_bbox": [
+                            256,
+                            319,
+                            12,
+                            88
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中,红色框中的人在做什么?",
+                "options": [
+                    "修理水槽",
+                    "安装洗碗机",
+                    "修理漏水的水龙头",
+                    "给浴缸补缝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0210.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005618.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sink",
+                        "action": "repair",
+                        "human_bbox": [
+                            4,
+                            352,
+                            62,
+                            637
+                        ],
+                        "object_bbox": [
+                            180,
+                            474,
+                            343,
+                            637
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人在做什么?",
+                "options": [
+                    "抱着羊",
+                    "抚摸羊",
+                    "喂羊",
+                    "给羊剪毛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0211.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003443.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sheep",
+                        "action": "hold",
+                        "human_bbox": [
+                            138,
+                            345,
+                            1,
+                            377
+                        ],
+                        "object_bbox": [
+                            214,
+                            638,
+                            277,
+                            421
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在从事什么活动?",
+                "options": [
+                    "手提滑板",
+                    "骑滑板",
+                    "平衡滑板",
+                    "踢滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0212.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006037.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            223,
+                            239,
+                            221,
+                            271
+                        ],
+                        "object_bbox": [
+                            223,
+                            238,
+                            244,
+                            270
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中,红色框中的人在做什么?",
+                "options": [
+                    "携带棒球棒",
+                    "提着高尔夫球杆",
+                    "挥动棒球棒",
+                    "扔下一个棒球棒"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0214.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009362.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "carry",
+                        "human_bbox": [
+                            104,
+                            244,
+                            110,
+                            538
+                        ],
+                        "object_bbox": [
+                            217,
+                            397,
+                            219,
+                            278
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人正在进行什么动作?",
+                "options": [
+                    "滑雪",
+                    "滑雪板",
+                    "滑雪下坡",
+                    "租用滑雪板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0215.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008237.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skis",
+                        "action": "ride",
+                        "human_bbox": [
+                            309,
+                            355,
+                            290,
+                            384
+                        ],
+                        "object_bbox": [
+                            308,
+                            333,
+                            382,
+                            391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框圈出的人在图片中在做什么?",
+                "options": [
+                    "狩猎熊",
+                    "拍熊照片",
+                    "追踪一只熊",
+                    "喂熊"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0217.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005359.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bear",
+                        "action": "hunt",
+                        "human_bbox": [
+                            400,
+                            549,
+                            86,
+                            226
+                        ],
+                        "object_bbox": [
+                            182,
+                            637,
+                            199,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红框内的人在做什么?",
+                "options": [
+                    "牵着一匹马",
+                    "骑马",
+                    "梳理马的毛",
+                    "喂马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0218.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001446.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            170,
+                            283,
+                            27,
+                            406
+                        ],
+                        "object_bbox": [
+                            26,
+                            480,
+                            194,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中被红色框圈定的人在做什么?",
+                "options": [
+                    "提着伞",
+                    "拿着伞",
+                    "打开伞",
+                    "收起伞"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0220.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005125.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            356,
+                            436,
+                            200,
+                            419
+                        ],
+                        "object_bbox": [
+                            343,
+                            494,
+                            173,
+                            250
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在忙什么?",
+                "options": [
+                    "磨滑板",
+                    "骑滑板车",
+                    "给滑板涂色",
+                    "修理滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0221.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005615.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            41,
+                            359,
+                            5,
+                            535
+                        ],
+                        "object_bbox": [
+                            114,
+                            242,
+                            514,
+                            577
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红框中的人在图片中在做什么?",
+                "options": [
+                    "驾驶飞机",
+                    "驾驶直升机",
+                    "登机飞机",
+                    "给飞机加油"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0222.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006196.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "fly",
+                        "human_bbox": [
+                            269,
+                            357,
+                            134,
+                            227
+                        ],
+                        "object_bbox": [
+                            4,
+                            640,
+                            9,
+                            424
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人发生了什么?",
+                "options": [
+                    "扶着摩托车",
+                    "骑摩托车",
+                    "推着摩托车",
+                    "平衡摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0223.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000627.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            369,
+                            494,
+                            111,
+                            245
+                        ],
+                        "object_bbox": [
+                            362,
+                            502,
+                            188,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么任务?",
+                "options": [
+                    "撑着伞",
+                    "带着伞远足",
+                    "举着阳伞",
+                    "旋转一把伞"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0224.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002558.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            266,
+                            324,
+                            322,
+                            450
+                        ],
+                        "object_bbox": [
+                            263,
+                            352,
+                            293,
+                            331
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在完成什么?",
+                "options": [
+                    "骑摩托车比赛",
+                    "骑自行车",
+                    "修理摩托车",
+                    "装饰摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0225.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000990.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "race",
+                        "human_bbox": [
+                            131,
+                            373,
+                            121,
+                            377
+                        ],
+                        "object_bbox": [
+                            2,
+                            517,
+                            141,
+                            387
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框中的人在图像中展示出正在做什么?",
+                "options": [
+                    "拿着一本书",
+                    "看书",
+                    "平衡一本书",
+                    "放下一本书"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0226.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000514.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "hold",
+                        "human_bbox": [
+                            337,
+                            589,
+                            117,
+                            639
+                        ],
+                        "object_bbox": [
+                            334,
+                            459,
+                            238,
+                            322
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人被描绘成在做什么?",
+                "options": [
+                    "携带一个运动球",
+                    "弹跳运动球",
+                    "踢运动球",
+                    "扔运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0227.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006563.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "carry",
+                        "human_bbox": [
+                            299,
+                            371,
+                            66,
+                            369
+                        ],
+                        "object_bbox": [
+                            286,
+                            333,
+                            40,
+                            74
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红框中的人在图片中被拍到正在做什么?",
+                "options": [
+                    "提着书",
+                    "读书",
+                    "拿书",
+                    "掉落书籍"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0228.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009382.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "carry",
+                        "human_bbox": [
+                            163,
+                            300,
+                            97,
+                            426
+                        ],
+                        "object_bbox": [
+                            202,
+                            285,
+                            230,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中看到的红色框中的人在做什么?",
+                "options": [
+                    "骑马跳跃",
+                    "骑马",
+                    "喂马",
+                    "梳理马匹"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0229.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004699.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "jump",
+                        "human_bbox": [
+                            108,
+                            198,
+                            90,
+                            291
+                        ],
+                        "object_bbox": [
+                            87,
+                            242,
+                            164,
+                            401
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红色框中的人在忙些什么?",
+                "options": [
+                    "提着手提包",
+                    "戴着帽子",
+                    "拿着一个钱包",
+                    "掉了一个手袋"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0230.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004207.jpg"
+                    },
+                    "labels": {
+                        "object_name": "handbag",
+                        "action": "carry",
+                        "human_bbox": [
+                            46,
+                            213,
+                            90,
+                            506
+                        ],
+                        "object_bbox": [
+                            134,
+                            235,
+                            260,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框中的人在图片中参与了什么?",
+                "options": [
+                    "清洗水槽",
+                    "擦洗地板",
+                    "整理橱柜",
+                    "修理水龙头"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0231.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008900.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sink",
+                        "action": "clean",
+                        "human_bbox": [
+                            218,
+                            444,
+                            198,
+                            628
+                        ],
+                        "object_bbox": [
+                            142,
+                            306,
+                            311,
+                            456
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "拿着滑板",
+                    "骑滑板",
+                    "握住滑板",
+                    "放下滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0232.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000585.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "hold",
+                        "human_bbox": [
+                            136,
+                            418,
+                            92,
+                            312
+                        ],
+                        "object_bbox": [
+                            143,
+                            449,
+                            292,
+                            339
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的个人正在进行什么活动?",
+                "options": [
+                    "携带着一只泰迪熊",
+                    "拥抱泰迪熊",
+                    "赠送泰迪熊",
+                    "拥抱泰迪熊"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0233.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007992.jpg"
+                    },
+                    "labels": {
+                        "object_name": "teddy_bear",
+                        "action": "carry",
+                        "human_bbox": [
+                            274,
+                            437,
+                            69,
+                            387
+                        ],
+                        "object_bbox": [
+                            276,
+                            345,
+                            123,
+                            245
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "红色框中突出显示的人在照片中在做什么?",
+                "options": [
+                    "传递体育球",
+                    "击打运动球",
+                    "抓住运动球",
+                    "扔运动球"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0234.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002058.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "serve",
+                        "human_bbox": [
+                            142,
+                            175,
+                            177,
+                            242
+                        ],
+                        "object_bbox": [
+                            250,
+                            265,
+                            139,
+                            149
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人在做什么?",
+                "options": [
+                    "开公交车",
+                    "装饰巴士",
+                    "清洁公交车",
+                    "修理公交车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0235.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007297.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            184,
+                            241,
+                            183,
+                            230
+                        ],
+                        "object_bbox": [
+                            128,
+                            467,
+                            69,
+                            377
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中,红色框中的这个人正在做什么动作?",
+                "options": [
+                    "骑马",
+                    "骑自行车",
+                    "喂马",
+                    "给马梳理毛发"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0236.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007915.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            266,
+                            419,
+                            13,
+                            310
+                        ],
+                        "object_bbox": [
+                            66,
+                            565,
+                            101,
+                            350
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "握着酒杯",
+                    "敲击酒杯",
+                    "从酒杯中小口喝着",
+                    "旋转酒杯"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0237.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007201.jpg"
+                    },
+                    "labels": {
+                        "object_name": "wine_glass",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            637,
+                            1,
+                            424
+                        ],
+                        "object_bbox": [
+                            114,
+                            323,
+                            45,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框内的人在做什么?",
+                "options": [
+                    "推船",
+                    "沉船",
+                    "修理船只",
+                    "登上船"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0239.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003237.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "launch",
+                        "human_bbox": [
+                            307,
+                            361,
+                            224,
+                            326
+                        ],
+                        "object_bbox": [
+                            226,
+                            368,
+                            18,
+                            369
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框框起的人在做什么?",
+                "options": [
+                    "扶着摩托车",
+                    "骑摩托车",
+                    "推着摩托车",
+                    "修理摩托车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0240.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006104.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            165,
+                            375,
+                            42,
+                            388
+                        ],
+                        "object_bbox": [
+                            37,
+                            448,
+                            112,
+                            379
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图像中被红框围起的人在做什么?",
+                "options": [
+                    "携带滑板",
+                    "携带冲浪板",
+                    "骑滑板",
+                    "放下滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0241.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002926.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            12,
+                            247,
+                            57,
+                            629
+                        ],
+                        "object_bbox": [
+                            204,
+                            237,
+                            524,
+                            637
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在忙于什么?",
+                "options": [
+                    "翻转滑板",
+                    "骑滑板",
+                    "捕捉滑板",
+                    "翻转冲浪板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0242.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006049.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            251,
+                            406,
+                            127,
+                            289
+                        ],
+                        "object_bbox": [
+                            275,
+                            336,
+                            288,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人发生了什么事?",
+                "options": [
+                    "打断棒球棒",
+                    "修理棒球棒",
+                    "扔棒球棒",
+                    "在棒球棒上签名"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0244.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004068.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "break",
+                        "human_bbox": [
+                            174,
+                            393,
+                            82,
+                            446
+                        ],
+                        "object_bbox": [
+                            305,
+                            431,
+                            48,
+                            170
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在这张图片中,红框里的人在做什么任务?",
+                "options": [
+                    "拿着披萨",
+                    "送披萨",
+                    "吃披萨",
+                    "把披萨掉落"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0245.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000779.jpg"
+                    },
+                    "labels": {
+                        "object_name": "pizza",
+                        "action": "carry",
+                        "human_bbox": [
+                            35,
+                            209,
+                            66,
+                            350
+                        ],
+                        "object_bbox": [
+                            106,
+                            217,
+                            262,
+                            315
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红框中的人在做什么?",
+                "options": [
+                    "抱着猫",
+                    "抚摸猫",
+                    "喂猫",
+                    "拥抱猫咪"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0246.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008765.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cat",
+                        "action": "hold",
+                        "human_bbox": [
+                            59,
+                            491,
+                            8,
+                            474
+                        ],
+                        "object_bbox": [
+                            123,
+                            409,
+                            226,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人被描述为在做什么?",
+                "options": [
+                    "遛马",
+                    "骑马",
+                    "梳理马的毛",
+                    "喂马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0248.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009261.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "walk",
+                        "human_bbox": [
+                            319,
+                            516,
+                            54,
+                            589
+                        ],
+                        "object_bbox": [
+                            139,
+                            314,
+                            106,
+                            592
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图像中,红色框内的人正做着什么?",
+                "options": [
+                    "抚摸猫",
+                    "抚摸猫",
+                    "喂猫",
+                    "给猫梳毛"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0249.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009168.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cat",
+                        "action": "scratch",
+                        "human_bbox": [
+                            97,
+                            636,
+                            2,
+                            576
+                        ],
+                        "object_bbox": [
+                            150,
+                            635,
+                            216,
+                            634
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中红色框里的人在做什么?",
+                "options": [
+                    "喂长颈鹿",
+                    "抚摸长颈鹿",
+                    "看长颈鹿",
+                    "拍摄长颈鹿"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0250.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004954.jpg"
+                    },
+                    "labels": {
+                        "object_name": "giraffe",
+                        "action": "feed",
+                        "human_bbox": [
+                            291,
+                            375,
+                            206,
+                            363
+                        ],
+                        "object_bbox": [
+                            386,
+                            538,
+                            78,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红色框中的人在忙些什么?",
+                "options": [
+                    "检查飞机",
+                    "修理飞机",
+                    "登机飞机",
+                    "清洁飞机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0251.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002423.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "inspect",
+                        "human_bbox": [
+                            214,
+                            311,
+                            110,
+                            215
+                        ],
+                        "object_bbox": [
+                            190,
+                            637,
+                            1,
+                            470
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中,红色框中的人在做什么?",
+                "options": [
+                    "翻转滑板",
+                    "转动滑板",
+                    "骑滑板",
+                    "踢滑板"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0252.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001414.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            222,
+                            418,
+                            1,
+                            195
+                        ],
+                        "object_bbox": [
+                            277,
+                            356,
+                            186,
+                            227
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "拿着一辆自行车",
+                    "骑自行车",
+                    "携带皮划艇",
+                    "推着婴儿推车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0253.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004067.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            309,
+                            210,
+                            519
+                        ],
+                        "object_bbox": [
+                            62,
+                            337,
+                            352,
+                            619
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的个人正在参与什么活动?",
+                "options": [
+                    "开公交车",
+                    "正在修理公交车",
+                    "上公交车",
+                    "导航公交车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0254.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005620.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            381,
+                            468,
+                            118,
+                            200
+                        ],
+                        "object_bbox": [
+                            105,
+                            506,
+                            36,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在照片中,红框中突出的人在做什么?",
+                "options": [
+                    "提着风筝",
+                    "放风筝",
+                    "在制作风筝",
+                    "买风筝"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0255.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003059.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "carry",
+                        "human_bbox": [
+                            60,
+                            143,
+                            392,
+                            569
+                        ],
+                        "object_bbox": [
+                            104,
+                            238,
+                            459,
+                            560
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框里的人在做什么?",
+                "options": [
+                    "划船",
+                    "划船",
+                    "沉船",
+                    "在船上钓鱼"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0256.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006570.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "ride",
+                        "human_bbox": [
+                            341,
+                            381,
+                            299,
+                            405
+                        ],
+                        "object_bbox": [
+                            2,
+                            423,
+                            139,
+                            467
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人正在做什么动作?",
+                "options": [
+                    "背着背包",
+                    "背着背包",
+                    "整理背包",
+                    "购买一个背包"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0257.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002344.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            219,
+                            266,
+                            406,
+                            565
+                        ],
+                        "object_bbox": [
+                            250,
+                            274,
+                            421,
+                            492
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在做什么?",
+                "options": [
+                    "开车",
+                    "骑自行车",
+                    "修车",
+                    "洗车"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0258.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004922.jpg"
+                    },
+                    "labels": {
+                        "object_name": "car",
+                        "action": "drive",
+                        "human_bbox": [
+                            268,
+                            334,
+                            175,
+                            221
+                        ],
+                        "object_bbox": [
+                            68,
+                            548,
+                            146,
+                            341
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "在图片中,被红色框标记的人在做什么?",
+                "options": [
+                    "牵着马",
+                    "喂马",
+                    "骑马",
+                    "牵马"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0259.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004025.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            134,
+                            602,
+                            130,
+                            423
+                        ],
+                        "object_bbox": [
+                            4,
+                            444,
+                            6,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "照片中红色框内的人在做什么?",
+                "options": [
+                    "骑滑板",
+                    "骑自行车",
+                    "在滑板上保持平衡",
+                    "在滑板上跳跃"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0260.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005524.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            148,
+                            323,
+                            125,
+                            258
+                        ],
+                        "object_bbox": [
+                            138,
+                            191,
+                            239,
+                            292
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框框定的人在做什么?",
+                "options": [
+                    "坐在船上",
+                    "在船上钓鱼",
+                    "站在船上",
+                    "在船上睡觉"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0261.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003563.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            264,
+                            542,
+                            93,
+                            390
+                        ],
+                        "object_bbox": [
+                            3,
+                            638,
+                            278,
+                            424
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中被红框圈定的人正在做什么?",
+                "options": [
+                    "携带着泰迪熊",
+                    "拥抱泰迪熊",
+                    "掉落泰迪熊",
+                    "扔泰迪熊"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0262.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007984.jpg"
+                    },
+                    "labels": {
+                        "object_name": "teddy_bear",
+                        "action": "carry",
+                        "human_bbox": [
+                            98,
+                            371,
+                            1,
+                            634
+                        ],
+                        "object_bbox": [
+                            278,
+                            396,
+                            312,
+                            485
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框中的人在忙什么?",
+                "options": [
+                    "拿着手机",
+                    "掉手机",
+                    "在手机上发短信",
+                    "看手机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0263.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004186.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cell_phone",
+                        "action": "hold",
+                        "human_bbox": [
+                            121,
+                            378,
+                            90,
+                            625
+                        ],
+                        "object_bbox": [
+                            181,
+                            232,
+                            126,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "图片中红色框内的人在做什么?",
+                "options": [
+                    "指挥飞机",
+                    "驾驶飞机",
+                    "着陆飞机",
+                    "修理飞机"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0264.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009065.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "direct",
+                        "human_bbox": [
+                            391,
+                            500,
+                            208,
+                            286
+                        ],
+                        "object_bbox": [
+                            105,
+                            481,
+                            90,
+                            235
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,2054 @@
+{
+    "data": [
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能让人理解主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在沙发里。",
+                    "这个男人在沙发后面。",
+                    "这个男人在沙发的左边。",
+                    "这个男人在沙发的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2442049799_c7e8606cb2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "sofa",
+                        "relation": "in",
+                        "subject_bbox": [
+                            103,
+                            329,
+                            199,
+                            495
+                        ],
+                        "object_bbox": [
+                            144,
+                            328,
+                            5,
+                            396
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能有效地传达主体(以红框标记)相对于对象(以绿框标记)的位置?",
+                "options": [
+                    "这个女人在门旁边。",
+                    "这个女人在门下面。",
+                    "女人在门上。",
+                    "这个女人在门的上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4194278928_64d4589a19.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "door",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            63,
+                            333,
+                            140,
+                            321
+                        ],
+                        "object_bbox": [
+                            14,
+                            333,
+                            95,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "如何描述主体(用红框标记)相对于对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个男人在那位女士旁边。",
+                    "这个男人在女士下面。",
+                    "这个男人在女士的上方。",
+                    "这个男人在那位女士的后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/439767879_1d8c716f66.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "lady",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            11,
+                            332,
+                            153,
+                            304
+                        ],
+                        "object_bbox": [
+                            92,
+                            330,
+                            266,
+                            467
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,对于主体(用红框标记)相对于对象(用绿框标记)的位置,哪个是最佳描述?",
+                "options": [
+                    "这个女孩在床上。",
+                    "这个女孩在床后面。",
+                    "这个女孩在床的右边。",
+                    "这个女孩在床的左边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/207195930_9f47076dd4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "bed",
+                        "relation": "on",
+                        "subject_bbox": [
+                            102,
+                            353,
+                            271,
+                            422
+                        ],
+                        "object_bbox": [
+                            195,
+                            373,
+                            236,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能最好地解释主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在女人旁边。",
+                    "这个男人在女人下面。",
+                    "这个男人在女人的上方。",
+                    "这个男人在女人的左边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3575124730_c0d7b267e0.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            105,
+                            314,
+                            3,
+                            167
+                        ],
+                        "object_bbox": [
+                            141,
+                            195,
+                            341,
+                            465
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,对于主体(用红框标记)相对于对象(用绿框标记)的位置,哪个是最佳的描述?",
+                "options": [
+                    "这个孩子在沙发后面。",
+                    "这个孩子在沙发的右边。",
+                    "这个孩子在沙发的左边。",
+                    "这个孩子在沙发底下。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4949719899_89e98b3a2a.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "child",
+                        "object_name": "sofa",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            71,
+                            319,
+                            92,
+                            335
+                        ],
+                        "object_bbox": [
+                            218,
+                            373,
+                            0,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合的方式是如何描述主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在山前。",
+                    "这个男人在山里。",
+                    "这个男人在山的左边。",
+                    "这个男人在山上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8058123160_4c80809089.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "mountain",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            25,
+                            175,
+                            159,
+                            296
+                        ],
+                        "object_bbox": [
+                            2,
+                            216,
+                            2,
+                            496
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合的方式是如何描述主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在桌子后面。",
+                    "这个女人在桌子下面。",
+                    "这个女人在桌子前面。",
+                    "这个女人在桌子上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5025798715_b3b4eb24d0.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            48,
+                            140,
+                            306,
+                            344
+                        ],
+                        "object_bbox": [
+                            192,
+                            292,
+                            2,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最准确地传达了主体(用红框标记)相对于对象(用绿框标记)的放置位置?",
+                "options": [
+                    "这个女孩在长凳上。",
+                    "这个女孩在长凳下面。",
+                    "这个女孩在长凳的右边。",
+                    "这个女孩在长凳后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/137653945_0f004127d4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "bench",
+                        "relation": "on",
+                        "subject_bbox": [
+                            35,
+                            208,
+                            49,
+                            497
+                        ],
+                        "object_bbox": [
+                            195,
+                            281,
+                            41,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述提供了关于主体(用红框标记)相对于对象(用绿框标记)位置的最佳解释?",
+                "options": [
+                    "这个男人在火车上。",
+                    "这个男人在火车前面。",
+                    "这个男人在火车下面。",
+                    "这个男人在火车上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/145546618_f757fcadd8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "train",
+                        "relation": "on",
+                        "subject_bbox": [
+                            108,
+                            305,
+                            106,
+                            228
+                        ],
+                        "object_bbox": [
+                            223,
+                            437,
+                            81,
+                            190
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最合适的描述主体(用红框标记)相对于对象(用绿框标记)的位置的方式是什么?",
+                "options": [
+                    "这个女人在木头前面。",
+                    "这个女人在木头下面。",
+                    "这个女人在木头上方。",
+                    "这个女人在木头上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3096716517_f2bb36d270.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "wood",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            104,
+                            332,
+                            160,
+                            386
+                        ],
+                        "object_bbox": [
+                            17,
+                            332,
+                            258,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最有效地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女孩在这个女人的左边。",
+                    "这个女孩在女人身上。",
+                    "这个女孩在女人的后面。",
+                    "这个女孩在这个女人前面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6958618931_47568a5ef5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "woman",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            271,
+                            359,
+                            331,
+                            382
+                        ],
+                        "object_bbox": [
+                            244,
+                            359,
+                            278,
+                            344
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最有效地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在桌子后面。",
+                    "这个女人在桌子上方。",
+                    "这个女人在桌子上。",
+                    "这个女人在桌子下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6587079627_3dbb9f344d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            33,
+                            113,
+                            99,
+                            168
+                        ],
+                        "object_bbox": [
+                            88,
+                            331,
+                            3,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最准确地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在门前。",
+                    "这个男人在门的左边。",
+                    "这个男人在门上方。",
+                    "这个男人在门后。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14980386601_80d2610f54.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "door",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            133,
+                            331,
+                            332,
+                            457
+                        ],
+                        "object_bbox": [
+                            56,
+                            218,
+                            258,
+                            318
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述提供了主体(用红框标记)相对于对象(用绿框标记)位置的最佳解释?",
+                "options": [
+                    "这个男人在直升机前面。",
+                    "这个男人在直升机上。",
+                    "这个男人在直升机里。",
+                    "这个男人在直升机上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/11804092335_0157a2e58d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "helicopter",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            74,
+                            233,
+                            414,
+                            467
+                        ],
+                        "object_bbox": [
+                            7,
+                            303,
+                            3,
+                            462
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最精确的方式是如何解释主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在岩石上。",
+                    "这个女人在石头下面。",
+                    "这个女人在石头的左边。",
+                    "这个女人在岩石后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/15087708782_221f192202.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "rock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            131,
+                            241,
+                            308,
+                            362
+                        ],
+                        "object_bbox": [
+                            44,
+                            326,
+                            5,
+                            449
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,对于主体(用红框标记)相对于对象(用绿框标记)的位置,哪个是最佳描述?",
+                "options": [
+                    "这个男人在女人旁边。",
+                    "这个男人在女人的右边。",
+                    "这个男人在女人上面。",
+                    "这个男人在女人下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/439767879_1d8c716f66.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            90,
+                            332,
+                            32,
+                            198
+                        ],
+                        "object_bbox": [
+                            12,
+                            332,
+                            168,
+                            315
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能让人了解主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在窗户后面。",
+                    "这个女人在窗户下面。",
+                    "这个女人在窗前。",
+                    "这个女人在窗户上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5738157320_1d8a2658ba.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "window",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            69,
+                            316,
+                            45,
+                            206
+                        ],
+                        "object_bbox": [
+                            7,
+                            323,
+                            4,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,描述主体(用红框标记)与对象(用绿框标记)的位置关系,哪种方式最好?",
+                "options": [
+                    "这个女人在面包后面。",
+                    "这个女人在面包的左边。",
+                    "这个女人在面包前面。",
+                    "这个女人在面包的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/13198129224_8ca58d314d.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bread",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            23,
+                            258,
+                            154,
+                            367
+                        ],
+                        "object_bbox": [
+                            197,
+                            228,
+                            265,
+                            367
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合如何描述主体(用红框标记)与对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个男人在墙的前面。",
+                    "这个男人在墙下。",
+                    "这个男人在墙里。",
+                    "这个男人在墙后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4471225788_93468fb589.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "wall",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            170,
+                            498,
+                            24,
+                            300
+                        ],
+                        "object_bbox": [
+                            33,
+                            439,
+                            20,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,对于主体(用红框标记)与对象(用绿框标记)的位置关系,最适合的描述是什么?",
+                "options": [
+                    "这个女孩在男孩后面。",
+                    "这个女孩在男孩前面。",
+                    "这个女孩在男孩的左边。",
+                    "这个女孩在男孩的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/10127119406_264379e6fb.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "boy",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            85,
+                            295,
+                            78,
+                            176
+                        ],
+                        "object_bbox": [
+                            203,
+                            385,
+                            51,
+                            253
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,关于主题(用红框标记)与对象(用绿框标记)的位置,哪个是最佳描述?",
+                "options": [
+                    "这个男人在桌子旁边。",
+                    "这个男人在桌子上。",
+                    "这个男人在桌子下面。",
+                    "这个男人在桌子上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/17095109286_ab09975db5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "table",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            23,
+                            186,
+                            99,
+                            187
+                        ],
+                        "object_bbox": [
+                            225,
+                            374,
+                            0,
+                            271
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合描述主体(用红框标记)相对于对象(用绿框标记)位置的方式是什么?",
+                "options": [
+                    "这个女人在裂缝下面。",
+                    "这个女人在裂缝上方。",
+                    "这个女人在裂缝里。",
+                    "这个女人在裂缝前面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/12258886505_dece6cff46.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "crack",
+                        "relation": "under",
+                        "subject_bbox": [
+                            2,
+                            366,
+                            3,
+                            332
+                        ],
+                        "object_bbox": [
+                            34,
+                            272,
+                            73,
+                            140
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,怎样最好地描述主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个人在自行车上方。",
+                    "这个人在自行车下面。",
+                    "人类在自行车的左边。",
+                    "这个人在自行车后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/5055426987_7637040775.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "human",
+                        "object_name": "bike",
+                        "relation": "above",
+                        "subject_bbox": [
+                            40,
+                            309,
+                            73,
+                            316
+                        ],
+                        "object_bbox": [
+                            125,
+                            370,
+                            7,
+                            408
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述准确地描绘了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在男人后面。",
+                    "这个女人在男人下面。",
+                    "这个女人在男人的右边。",
+                    "这个女人在男人前面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/3810059_770ed17909.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "man",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            165,
+                            334,
+                            96,
+                            177
+                        ],
+                        "object_bbox": [
+                            159,
+                            252,
+                            153,
+                            196
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合描述主体(用红框标记)相对于对象(用绿框标记)的位置的方式是什么?",
+                "options": [
+                    "这个女孩在岩石上。",
+                    "这个女孩在岩石后面。",
+                    "这个女孩在岩石前面。",
+                    "这个女孩在石头下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4763890508_b7e8071fc3.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "rock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            66,
+                            316,
+                            23,
+                            418
+                        ],
+                        "object_bbox": [
+                            266,
+                            330,
+                            10,
+                            429
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "如何描述主体(用红框标记)相对于对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个女人在包旁边。",
+                    "这个女人在包里。",
+                    "这个女人在包上。",
+                    "这个女人在包下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4794819722_f6ed5aa122.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bag",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            92,
+                            330,
+                            67,
+                            235
+                        ],
+                        "object_bbox": [
+                            216,
+                            296,
+                            203,
+                            309
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,关于主体(用红框标记)相对于对象(用绿框标记)的位置,哪个是最优描述?",
+                "options": [
+                    "这个男人在球后面。",
+                    "这个男人在球上方。",
+                    "这个男人在球的前面。",
+                    "这个男人在球里。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2525771126_895dc83455.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "ball",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            312,
+                            396,
+                            81,
+                            104
+                        ],
+                        "object_bbox": [
+                            55,
+                            83,
+                            241,
+                            276
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述准确地描绘了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在桌子后面。",
+                    "这个女人在桌子前面。",
+                    "这个女人在桌子的左边。",
+                    "这个女人在桌子下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14623857625_dc3b421f2c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "table",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            39,
+                            279,
+                            169,
+                            275
+                        ],
+                        "object_bbox": [
+                            259,
+                            497,
+                            3,
+                            372
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最有效地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个人在雪上。",
+                    "这个人在雪下。",
+                    "这个人在雪中。",
+                    "这个人在雪的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8427122921_7822670132.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "person",
+                        "object_name": "snow",
+                        "relation": "on",
+                        "subject_bbox": [
+                            2,
+                            371,
+                            71,
+                            445
+                        ],
+                        "object_bbox": [
+                            205,
+                            374,
+                            3,
+                            499
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最准确的方式是如何解释主体(用红框标记)与对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个男人在路灯旁边。",
+                    "这个男人在路灯上方。",
+                    "这个男人在路灯的左边。",
+                    "这个男人在路灯上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4926379783_7486cd4e6f.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "street light",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            180,
+                            219,
+                            129,
+                            146
+                        ],
+                        "object_bbox": [
+                            83,
+                            232,
+                            72,
+                            93
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述准确地描绘了主体(用红框标记)与对象(用绿框标记)之间的摆放关系?",
+                "options": [
+                    "这个男人在马上。",
+                    "这个男人在马的左边。",
+                    "这个男人在马下。",
+                    "这个男人在马的前面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6852330336_f44954e780.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "horse",
+                        "relation": "on",
+                        "subject_bbox": [
+                            86,
+                            219,
+                            281,
+                            330
+                        ],
+                        "object_bbox": [
+                            109,
+                            279,
+                            200,
+                            454
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最佳描述主体(用红框标记)相对于对象(用绿框标记)位置的方式是什么?",
+                "options": [
+                    "这个男人在机器前面。",
+                    "这个男人在机器上方。",
+                    "这个男人在机器里。",
+                    "这个男人在机器下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/23283244074_2877d08863.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "machine",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            91,
+                            332,
+                            1,
+                            200
+                        ],
+                        "object_bbox": [
+                            81,
+                            240,
+                            148,
+                            400
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "如何描述主体(用红框标记)相对于对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个女人在自行车后面。",
+                    "这个女人在自行车前面。",
+                    "这个女人在自行车上。",
+                    "这个女人在自行车的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/1140868245_aaa46a5d2a.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "bicycle",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            144,
+                            238,
+                            159,
+                            182
+                        ],
+                        "object_bbox": [
+                            275,
+                            350,
+                            71,
+                            221
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述提供了关于主体(用红框标记)相对于对象(用绿框标记)位置的最佳解释?",
+                "options": [
+                    "这个女孩在男孩前面。",
+                    "这个女孩在男孩上方。",
+                    "这个女孩在男孩的右边。",
+                    "这个女孩在男孩身上。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/207195930_9f47076dd4.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "boy",
+                        "relation": "in front of",
+                        "subject_bbox": [
+                            98,
+                            357,
+                            277,
+                            425
+                        ],
+                        "object_bbox": [
+                            78,
+                            298,
+                            65,
+                            143
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,对于主体(用红框标记)相对于对象(用绿框标记)的位置,哪个是最佳描述?",
+                "options": [
+                    "这个男人在河上方。",
+                    "这个男人在河里。",
+                    "这个男人在河上。",
+                    "这个男人在河后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/2082166938_dc6c50a553.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "river",
+                        "relation": "above",
+                        "subject_bbox": [
+                            170,
+                            198,
+                            284,
+                            299
+                        ],
+                        "object_bbox": [
+                            144,
+                            280,
+                            5,
+                            497
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最有效地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在水上。",
+                    "这个男人在水前面。",
+                    "这个男人在水里。",
+                    "这个男人在水后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/720449832_b675bb68f2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "water",
+                        "relation": "on",
+                        "subject_bbox": [
+                            88,
+                            233,
+                            112,
+                            385
+                        ],
+                        "object_bbox": [
+                            0,
+                            374,
+                            0,
+                            498
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在下列选项中,哪一个描述了主体(用红框标记)相对于对象(用绿框标记)的准确位置?",
+                "options": [
+                    "这个男人在火车里。",
+                    "这个男人在火车上面。",
+                    "这个男人在火车的左边。",
+                    "这个男人在火车后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/17954817872_d42f427498.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "train",
+                        "relation": "in",
+                        "subject_bbox": [
+                            123,
+                            185,
+                            88,
+                            156
+                        ],
+                        "object_bbox": [
+                            0,
+                            331,
+                            0,
+                            498
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "如何描述主体(用红框标记)相对于对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个人在泥土上方。",
+                    "这个人在泥土上。",
+                    "这个人在土的右边。",
+                    "这个人在泥土下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/571218260_bfe79cec58.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "person",
+                        "object_name": "dirt",
+                        "relation": "above",
+                        "subject_bbox": [
+                            4,
+                            190,
+                            38,
+                            220
+                        ],
+                        "object_bbox": [
+                            94,
+                            191,
+                            135,
+                            306
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最合适的描述方式是什么,以描述主体(用红框标记)与对象(用绿框标记)的位置关系?",
+                "options": [
+                    "这个男人在独轮车后面。",
+                    "这个男人在手推车上。",
+                    "这个男人在独轮车上方。",
+                    "这个男人在手推车里。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/14037158297_e4fe1e58d8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "wheel barrow",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            158,
+                            308,
+                            163,
+                            209
+                        ],
+                        "object_bbox": [
+                            301,
+                            498,
+                            2,
+                            372
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能帮助理解主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在女人的上方。",
+                    "这个男人在女人下面。",
+                    "这个男人在这个女人的左边。",
+                    "这个男人在女人的后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/16655891094_f980275d9c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "woman",
+                        "relation": "above",
+                        "subject_bbox": [
+                            194,
+                            356,
+                            129,
+                            174
+                        ],
+                        "object_bbox": [
+                            378,
+                            498,
+                            140,
+                            237
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合描述主体(用红框标记)相对于对象(用绿框标记)位置的方式是什么?",
+                "options": [
+                    "大男孩在小男孩的右边。",
+                    "大男孩在小男孩身上。",
+                    "大男孩在小男孩的前面。",
+                    "大男孩在小男孩下面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/75707592_d29fb3eb7c.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "big boy",
+                        "object_name": "small boy",
+                        "relation": "to the right of",
+                        "subject_bbox": [
+                            94,
+                            331,
+                            123,
+                            305
+                        ],
+                        "object_bbox": [
+                            175,
+                            325,
+                            315,
+                            453
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能帮助理解主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在这个女人旁边。",
+                    "这个男人在女人前面。",
+                    "这个男人在女人下面。",
+                    "这个男人在女人的上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/4456172148_0a0a1ba7c2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "woman",
+                        "relation": "next to",
+                        "subject_bbox": [
+                            35,
+                            372,
+                            230,
+                            394
+                        ],
+                        "object_bbox": [
+                            71,
+                            374,
+                            95,
+                            233
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最合适的描述主体(用红框标记)相对于对象(用绿框标记)的位置的方式是什么?",
+                "options": [
+                    "这个人在自行车上。",
+                    "这个人在自行车上方。",
+                    "这个人在自行车后面。",
+                    "这个人类在自行车旁边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/18134647880_58d91b0941.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "human",
+                        "object_name": "bike",
+                        "relation": "on",
+                        "subject_bbox": [
+                            57,
+                            262,
+                            170,
+                            299
+                        ],
+                        "object_bbox": [
+                            94,
+                            308,
+                            25,
+                            430
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最适合对于主体(用红框标记)在与对象(用绿框标记)的位置关系上进行描述的方式是什么?",
+                "options": [
+                    "这个女孩在桌子的左边。",
+                    "这个女孩在桌子前面。",
+                    "这个女孩在桌子下面。",
+                    "这个女孩在桌子后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/1465587839_0016062444.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "girl",
+                        "object_name": "table",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            60,
+                            210,
+                            27,
+                            189
+                        ],
+                        "object_bbox": [
+                            138,
+                            348,
+                            1,
+                            437
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最准确地传达了主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个男人在码头上。",
+                    "这个男人在码头的左边。",
+                    "这个男人在船坞后面。",
+                    "这个男人在码头上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/144652902_ccf1d015b8.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "dock",
+                        "relation": "on",
+                        "subject_bbox": [
+                            218,
+                            319,
+                            267,
+                            297
+                        ],
+                        "object_bbox": [
+                            177,
+                            333,
+                            60,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪种描述方式最适合描述主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在标牌后面。",
+                    "这个女人在标志前面。",
+                    "这个女人在标志里。",
+                    "这个女人在标志上方。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/13948046906_27fa2e1d02.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "sign",
+                        "relation": "behind",
+                        "subject_bbox": [
+                            95,
+                            296,
+                            145,
+                            258
+                        ],
+                        "object_bbox": [
+                            157,
+                            247,
+                            191,
+                            340
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,最精确的方式是如何解释主体(用红框标记)相对于对象(用绿框标记)的位置?",
+                "options": [
+                    "这个女人在地板上。",
+                    "这个女人在地板下。",
+                    "这个女人在地板后面。",
+                    "这个女人在地板的左边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/8727214589_d1d5c9d647.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "woman",
+                        "object_name": "floor",
+                        "relation": "on",
+                        "subject_bbox": [
+                            100,
+                            444,
+                            190,
+                            285
+                        ],
+                        "object_bbox": [
+                            320,
+                            497,
+                            5,
+                            357
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述提供了关于主体(用红框标记)相对于对象(用绿框标记)位置的最佳解释?",
+                "options": [
+                    "这个男人在机器的右边。",
+                    "这个男人在机器里面。",
+                    "这个男人在机器前面。",
+                    "这个男人在机器后面。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/6820191500_3cd43261b2.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "machine",
+                        "relation": "to the right of",
+                        "subject_bbox": [
+                            102,
+                            332,
+                            340,
+                            487
+                        ],
+                        "object_bbox": [
+                            4,
+                            331,
+                            1,
+                            402
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_spatial_relation_location",
+            "QA": {
+                "question": "在以下选项中,哪个描述最能对主体(用红框标记)相对于对象(用绿框标记)的位置给出最好的理解?",
+                "options": [
+                    "这个男人在女人的左边。",
+                    "这个男人在女人的后面。",
+                    "这个男人在女人的上方。",
+                    "这个男人在女人的右边。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/spatial_relation/location/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "SpatialSense",
+                    "paths": {
+                        "original": "raw_data/human/SpatialSense/images/flickr/28191210136_b6c0d04bf5.jpg"
+                    },
+                    "labels": {
+                        "subject_name": "man",
+                        "object_name": "women",
+                        "relation": "to the left of",
+                        "subject_bbox": [
+                            161,
+                            328,
+                            222,
+                            300
+                        ],
+                        "object_bbox": [
+                            185,
+                            331,
+                            137,
+                            213
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

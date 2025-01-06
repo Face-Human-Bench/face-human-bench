@@ -1,0 +1,4804 @@
+{
+    "data": [
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the red box in the picture?",
+                "options": [
+                    "He has short hair and is wearing a short-sleeved shirt with stripes.",
+                    "He has long hair and is wearing sunglasses but is not wearing a hat.",
+                    "He has long hair and is wearing a hat with a short-sleeved shirt.",
+                    "He is wearing a face mask and clothes without stripes, and he is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_2.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            834.4216216216216,
+                            178.5081081081081,
+                            102.4,
+                            307.20000000000005
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description below best fits the person in the red box in the image?",
+                "options": [
+                    "She is without sunglasses, not wearing a hat, and not wearing a T-shirt.",
+                    "She is dressed informally in a short-sleeved top and is not wearing a T-shirt.",
+                    "She is wearing a T-shirt and sunglasses, and her clothes do not have a logo.",
+                    "She is wearing a face mask and sunglasses but is not wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_125.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            778.7373068432671,
+                            144.6710816777042,
+                            144.6710816777042,
+                            453.22737306843266
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following best characterizes the person shown in the red box?",
+                "options": [
+                    "She is wearing long pants and a long sleeve shirt, and she has short hair.",
+                    "She is wearing a short-sleeve shirt with a logo, along with a face mask.",
+                    "She is wearing a face mask and long sleeves, along with sunglasses.",
+                    "She has long hair and is wearing a short-sleeved top, but she is not wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_89.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            855.988684582744,
+                            126.00848656294201,
+                            94.14427157001414,
+                            341.81612446958985
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most accurately represents the person within the red box in the photo?",
+                "options": [
+                    "She has long hair and is dressed informally in clothes without stripes.",
+                    "She is dressed formally, wearing a face mask, and not wearing jeans.",
+                    "She is wearing long sleeves and sunglasses, and her clothes do not have stripes.",
+                    "She has short hair and is dressed informally, wearing a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_726.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            736.5889570552148,
+                            150.77300613496934,
+                            191.6073619631902,
+                            615.6564417177914
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best fits the person marked by the red box in the picture?",
+                "options": [
+                    "He is wearing a hat and clothes without stripes, opting for a long-sleeved outfit.",
+                    "He is dressed formally in a long-sleeve shirt and jeans.",
+                    "He is wearing a T-shirt and clothes without stripes, but he is not wearing long pants.",
+                    "He has long hair and is not wearing sunglasses, but he is wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            828.320652173913,
+                            115.16304347826087,
+                            74.59239130434783,
+                            170.78804347826087
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best aligns with the person highlighted by the red box in the photo?",
+                "options": [
+                    "She is dressed informally without sunglasses and is wearing clothes without stripes.",
+                    "She is dressed informally in jeans and is wearing a face mask.",
+                    "She is wearing a hat and is not wearing sunglasses or shorts.",
+                    "She has long hair and is wearing a T-shirt with long sleeves."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_181.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            44.57142857142857,
+                            876.0,
+                            192.0,
+                            557.1428571428571
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best describes the person encased in the red box in the picture?",
+                "options": [
+                    "He has short hair, is not wearing a hat, and is dressed in clothes with a logo.",
+                    "He is wearing a hat, a T-shirt, and jeans.",
+                    "He is dressed formally, wearing sunglasses, and not wearing long pants.",
+                    "He has short hair and is not wearing a T-shirt with clothes that do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_106.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            59.71197846567967,
+                            223.89232839838493,
+                            142.38492597577388,
+                            374.37415881561236
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best matches the individual in the red box in the photo?",
+                "options": [
+                    "He has short hair and is wearing a short-sleeved shirt without sunglasses.",
+                    "He is dressed informally, wearing a face mask, and not wearing shorts.",
+                    "He is wearing a T-shirt with short sleeves and a face mask.",
+                    "He has long hair and is not wearing a T-shirt, opting instead for long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_913.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            241.1297798377752,
+                            211.3117033603708,
+                            64.24101969872538,
+                            179.09617612977985
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these descriptions best fits the person in the red box in the picture?",
+                "options": [
+                    "He has short hair, is not wearing a hat, and is dressed informally.",
+                    "He is dressed informally, wearing a hat and a face mask.",
+                    "He is wearing a hat and a short-sleeve shirt, but he is not wearing sunglasses.",
+                    "He is not wearing long pants or sunglasses but is wearing clothes with a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_286.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            87.20516129032258,
+                            445.93548387096774,
+                            116.9341935483871,
+                            216.03096774193548
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice most accurately describes the person in the red box in the image?",
+                "options": [
+                    "She has long hair and is not wearing a hat or a T-shirt.",
+                    "She has short hair and is wearing a face mask, but she is not wearing a skirt.",
+                    "She is wearing shorts and a short-sleeved top without stripes.",
+                    "She is dressed informally, wearing a hat, and her clothes do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/30--Surgeons/30_Surgeons_Surgeons_30_612.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            280.1509433962264,
+                            249.55974842767296,
+                            141.68553459119497,
+                            426.6666666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement best describes the individual highlighted in the red box in the picture?",
+                "options": [
+                    "She has long hair and is not wearing sunglasses or a hat.",
+                    "She is wearing jeans and a long-sleeve top without stripes.",
+                    "She is wearing a T-shirt and long pants without any logos.",
+                    "She has short hair and is wearing clothes with a logo, but she is not wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_611.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            474.6666666666667,
+                            245.33333333333334,
+                            129.06666666666666,
+                            276.26666666666665
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best describes the person in the red box in the image?",
+                "options": [
+                    "She is not wearing a hat, has short hair, and is wearing clothes without a logo.",
+                    "She is wearing a long sleeve shirt and sunglasses, and she is not wearing a hat.",
+                    "She is wearing a hat, a face mask, and a skirt.",
+                    "She is dressed formally in a skirt and wearing clothes with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_212.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            369.06666666666666,
+                            208.0,
+                            291.2,
+                            470.4
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best characterizes the individual within the red box in the picture?",
+                "options": [
+                    "She is not wearing a face mask, has short hair, and is not wearing a T-shirt.",
+                    "She is wearing a face mask and clothes with a logo, but she is not wearing sunglasses.",
+                    "She is wearing sunglasses and a long-sleeved shirt but is not wearing a face mask.",
+                    "She has long hair and is wearing a long-sleeved shirt with a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_622.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            395.93048128342247,
+                            323.53743315508024,
+                            148.16310160427807,
+                            250.70855614973263
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best represents the person in the red box in the image?",
+                "options": [
+                    "She is not wearing a face mask or a T-shirt but is wearing long pants.",
+                    "She is wearing clothes with a logo, has short hair, and is wearing sunglasses.",
+                    "She is not wearing long pants or sunglasses but is wearing clothes with a logo.",
+                    "She has long hair and is wearing a long-sleeved shirt along with a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_473.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            539.6806596701649,
+                            156.86356821589206,
+                            87.16041979010495,
+                            208.2728635682159
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the individual in the red box in the picture?",
+                "options": [
+                    "She has long hair and is not wearing a T-shirt or a face mask.",
+                    "She is wearing shorts and a long-sleeve shirt without sunglasses.",
+                    "She is wearing clothes with a logo and stripes but is not wearing jeans.",
+                    "She is not wearing a T-shirt but is wearing sunglasses and jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/17--Ceremony/17_Ceremony_Ceremony_17_334.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            404.8661800486618,
+                            373.7226277372263,
+                            193.09002433090023,
+                            198.07299270072994
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best aligns with the person shown in the red box in the picture?",
+                "options": [
+                    "She has long hair and is not wearing a face mask, dressed in clothes without stripes.",
+                    "She is wearing sunglasses and long pants but is not wearing a hat.",
+                    "She has short hair and is wearing a long-sleeved shirt with a skirt.",
+                    "She is wearing a face mask and clothes with a logo, paired with a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_598.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            781.7803806734993,
+                            277.50219619326504,
+                            202.90483162518302,
+                            737.0219619326501
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description most closely fits the person marked by the red box in the image?",
+                "options": [
+                    "He has short hair and is not wearing a face mask or a T-shirt.",
+                    "He is not wearing clothes with a logo or stripes, and he isn't wearing sunglasses.",
+                    "He is wearing a face mask but is not wearing a hat or a skirt.",
+                    "He is wearing a face mask, a hat, and shorts."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_238.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            214.39118457300276,
+                            114.24793388429752,
+                            270.8099173553719,
+                            648.8154269972451
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the red box in the picture?",
+                "options": [
+                    "She is wearing clothes without stripes, with short sleeves, and without sunglasses.",
+                    "She is dressed formally in a long-sleeve shirt and is not wearing a hat.",
+                    "She is wearing a long-sleeve shirt and is not wearing a face mask or jeans.",
+                    "She is dressed formally in a long-sleeve top and is not wearing shorts."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/22--Picnic/22_Picnic_Picnic_22_18.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            0.0,
+                            383.11051212938,
+                            88.94878706199461,
+                            147.81671159029648
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description below best fits the person in the red box in the image?",
+                "options": [
+                    "He is wearing a hat, has sunglasses, and is wearing a long sleeve shirt.",
+                    "He is not wearing a face mask or sunglasses but is wearing shorts.",
+                    "He is wearing clothes with a logo and a short-sleeved shirt, but he is not wearing a face mask.",
+                    "He, with long hair, is not wearing a hat and is dressed in clothes without stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_614.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            334.7420689655172,
+                            303.66896551724136,
+                            372.8772413793103,
+                            398.3006896551724
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most accurately represents the person within the red box in the photo?",
+                "options": [
+                    "He has short hair and is wearing clothes without stripes, but he is not wearing shorts.",
+                    "He has long hair and is wearing short sleeves on clothes without a logo.",
+                    "He has long hair, is wearing sunglasses, and is not wearing a skirt.",
+                    "With short hair, he is wearing a hat and a short-sleeved shirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_18.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            547.1299270072992,
+                            445.4773722627737,
+                            91.1883211678832,
+                            147.9941605839416
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best fits the person marked by the red box in the picture?",
+                "options": [
+                    "He is not wearing long pants and is dressed in a short-sleeve shirt without sunglasses.",
+                    "He has long hair, is wearing sunglasses, and is not wearing jeans.",
+                    "He is wearing a hat and sunglasses, and his clothes do not have stripes.",
+                    "He is dressed formally, wearing a face mask, and not wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_636.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            417.8725376593279,
+                            986.1158748551564,
+                            99.71958285052143,
+                            330.81575898030127
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following most closely describes the person in the red box in the image?",
+                "options": [
+                    "He is wearing a hat and a long sleeve shirt, but he is not wearing a face mask.",
+                    "He is wearing a face mask and a short-sleeved shirt but is not wearing a hat.",
+                    "He is wearing a T-shirt and a face mask, but he is not wearing sunglasses.",
+                    "He is dressed informally in clothes with a logo and is wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/43--Row_Boat/43_Row_Boat_Rowboat_43_1048.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            207.86879432624113,
+                            232.07269503546098,
+                            153.7659574468085,
+                            227.80141843971631
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best aligns with the person highlighted by the red box in the photo?",
+                "options": [
+                    "He is wearing a T-shirt and clothes without stripes, and he is not wearing a skirt.",
+                    "He is wearing a T-shirt with long sleeves and clothes with stripes.",
+                    "He is dressed formally, wearing sunglasses, and not wearing a skirt.",
+                    "He has long hair and is wearing a hat but is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_882.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            867.329253365973,
+                            335.9020807833537,
+                            80.21542227662178,
+                            315.84822521419824
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best describes the person encased in the red box in the picture?",
+                "options": [
+                    "She is not wearing a hat or a face mask but is wearing clothes without logo.",
+                    "She is wearing sunglasses and a face mask but is not wearing a T-shirt.",
+                    "She is wearing long pants and a short-sleeved top without stripes.",
+                    "She has long hair and is wearing clothes with a logo, featuring long sleeves."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_538.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            420.3478260869565,
+                            248.58695652173913,
+                            62.93478260869565,
+                            310.4782608695652
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best fits the individual within the red box in the image?",
+                "options": [
+                    "He is dressed informally in clothes with stripes and is not wearing shorts.",
+                    "He has long hair and is not wearing a T-shirt, but he is wearing jeans.",
+                    "He is dressed formally in a short-sleeved shirt and is not wearing sunglasses.",
+                    "He has long hair and is wearing a T-shirt without a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_4.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1
+                        ],
+                        "bbox": [
+                            684.3317073170732,
+                            319.6878048780488,
+                            161.09268292682927,
+                            363.3951219512195
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best matches the individual in the red box in the photo?",
+                "options": [
+                    "She is not wearing a T-shirt or sunglasses and is dressed in clothes without stripes.",
+                    "She is wearing jeans and clothes with a logo but is not wearing a face mask.",
+                    "She is dressed informally in clothes with stripes and a logo.",
+                    "She has short hair and is wearing a hat with a short-sleeved shirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_49.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            693.1113831089351,
+                            443.69155446756423,
+                            95.25581395348837,
+                            234.37943696450427
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these descriptions best fits the person in the red box in the picture?",
+                "options": [
+                    "He is wearing a T-shirt with short sleeves and is not wearing jeans.",
+                    "He is wearing a face mask and a long-sleeve shirt but is not wearing long pants.",
+                    "He has long hair and is wearing jeans without sunglasses.",
+                    "He is wearing sunglasses but is not wearing a hat or a T-shirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_874.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            806.4,
+                            393.6,
+                            161.06666666666666,
+                            263.46666666666664
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best aligns with the person in the red box in the picture?",
+                "options": [
+                    "He has short hair and is dressed informally, wearing a hat.",
+                    "He is wearing shorts and sunglasses, with clothes that do not have a logo.",
+                    "He is not wearing a hat, but he is wearing long pants and clothes with a logo.",
+                    "He is dressed informally in a long-sleeve shirt and jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_823.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            637.2842998585573,
+                            270.8458274398869,
+                            120.21499292786422,
+                            328.78076379066476
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best characterizes the person within the red box in the image?",
+                "options": [
+                    "He is dressed informally and is not wearing a face mask or sunglasses.",
+                    "He is wearing a hat and a T-shirt with clothes that do not have a logo.",
+                    "He is dressed informally in a long sleeve shirt and is wearing a skirt.",
+                    "He is not wearing a T-shirt or sunglasses but is wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_105.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            590.72,
+                            119.128,
+                            209.80266666666668,
+                            388.3706666666667
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement best describes the individual highlighted in the red box in the picture?",
+                "options": [
+                    "He is dressed informally in clothes without a logo and is not wearing a skirt.",
+                    "He is dressed formally in clothes without a logo, wearing a short-sleeved shirt.",
+                    "He is wearing a face mask and sunglasses with short hair.",
+                    "He is dressed formally and not wearing a face mask or a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_876.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            49.53684210526316,
+                            377.7157894736842,
+                            240.94736842105263,
+                            603.5157894736842
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best fits the person shown in the red box in the image?",
+                "options": [
+                    "He is dressed formally in clothes without stripes and is not wearing shorts.",
+                    "He is dressed informally and wearing a skirt, but he is not wearing a face mask.",
+                    "He is wearing clothes with a logo and a face mask, but he is not wearing a skirt.",
+                    "He has long hair and is not wearing sunglasses, opting for a short-sleeved shirt instead."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_474.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            683.1606367583212,
+                            154.1186685962373,
+                            125.96237337192474,
+                            443.09117221418234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person marked by the red box in the photo?",
+                "options": [
+                    "He has short hair and is dressed informally without wearing a face mask.",
+                    "He is wearing jeans and a face mask, and his clothes do not have stripes.",
+                    "He is dressed formally in a T-shirt and shorts.",
+                    "He is not wearing a face mask or a hat but is wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_185.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            191.140350877193,
+                            467.0526315789474,
+                            75.26315789473684,
+                            150.140350877193
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most closely describes the person in the red box in the photo?",
+                "options": [
+                    "She has short hair and is wearing a short-sleeved top, not long pants.",
+                    "She is dressed formally in a T-shirt with short sleeves.",
+                    "She is wearing a hat and sunglasses with a short-sleeved shirt.",
+                    "She is wearing clothes with stripes, a face mask, and is not wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_279.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            124.73654390934844,
+                            71.07082152974505,
+                            380.0113314447592,
+                            942.7762039660057
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best aligns with the person highlighted by the red box in the image?",
+                "options": [
+                    "He is dressed informally in clothes with stripes and is wearing a hat.",
+                    "He is wearing a hat and sunglasses but is not wearing long pants.",
+                    "He has long hair and is wearing a skirt with clothes featuring stripes.",
+                    "He is wearing a T-shirt with a logo and clothes without stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_15.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            560.6871165644172,
+                            69.1042944785276,
+                            230.87116564417178,
+                            609.3742331288344
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best characterizes the individual within the red box in the picture?",
+                "options": [
+                    "She is dressed informally in jeans and wearing clothes without a logo.",
+                    "She is wearing a hat and is not wearing a T-shirt or a skirt.",
+                    "She is wearing a hat, has short hair, and is not wearing sunglasses.",
+                    "She is dressed formally in clothes without stripes and is wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/22--Picnic/22_Picnic_Picnic_22_133.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            257.62264150943395,
+                            150.56603773584905,
+                            154.41509433962264,
+                            269.0566037735849
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best represents the person in the red box in the image?",
+                "options": [
+                    "He has short hair, is not wearing a hat, and is wearing shorts.",
+                    "He is wearing long sleeves and clothes with a logo, but he is not wearing clothes with stripes.",
+                    "He has long hair and is dressed informally in a T-shirt.",
+                    "He is dressed formally in clothes with stripes and is not wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_135.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            438.7768817204301,
+                            352.88844086021504,
+                            149.3709677419355,
+                            272.002688172043
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the individual in the red box in the picture?",
+                "options": [
+                    "He is not wearing a face mask and is dressed in clothes without stripes or logos.",
+                    "He is wearing a face mask, a long-sleeved shirt, and jeans.",
+                    "He is not wearing sunglasses or a hat but is dressed in clothes with stripes.",
+                    "He, with long hair, dressed formally, is wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_283.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            480.14055636896046,
+                            80.96046852122987,
+                            115.81844802342607,
+                            476.76720351390924
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option most accurately describes the person encased in the red box in the image?",
+                "options": [
+                    "He is not wearing a hat and is dressed in shorts with a short-sleeved shirt.",
+                    "He is wearing long-sleeved clothes with stripes and is wearing a skirt.",
+                    "He is not wearing a T-shirt, is without sunglasses, and has on a long-sleeve shirt.",
+                    "He is wearing a long sleeve shirt and a face mask, but he is not wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_49.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            381.0232558139535,
+                            364.7294981640147,
+                            115.30966952264382,
+                            184.24479804161564
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best aligns with the person shown in the red box in the picture?",
+                "options": [
+                    "He is not wearing a T-shirt but is dressed in clothes without stripes and with a logo.",
+                    "He is dressed formally in a T-shirt and is not wearing shorts.",
+                    "He has long hair and is dressed informally in jeans.",
+                    "He is wearing shorts and clothes without a logo, and he is wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/3--Riot/3_Riot_Riot_3_128.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            667.1902173913044,
+                            184.10326086956522,
+                            114.88043478260869,
+                            347.5869565217391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description most closely fits the person marked by the red box in the image?",
+                "options": [
+                    "He is wearing clothes without stripes, with short sleeves, and is not wearing a skirt.",
+                    "He is dressed informally in a long-sleeve shirt and jeans.",
+                    "He is not wearing a hat and is dressed in clothes with stripes and without any logos.",
+                    "He is dressed formally, wearing clothes without a logo, and has a face mask on."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_565.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            711.04047976012,
+                            183.8335832083958,
+                            118.85757121439279,
+                            364.45277361319336
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the red box in the picture?",
+                "options": [
+                    "She is not wearing a T-shirt or jeans but is wearing clothes with stripes.",
+                    "She is wearing clothes without a logo, a face mask, and has long hair.",
+                    "She is dressed informally in a hat and jeans.",
+                    "She is wearing sunglasses and a long-sleeved shirt, but not a T-shirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/15--Stock_Market/15_Stock_Market_Stock_Market_15_1033.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            193.83812010443864,
+                            1.671018276762402,
+                            613.2637075718015,
+                            1271.6449086161879
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description below best fits the person in the red box in the image?",
+                "options": [
+                    "He is not wearing a T-shirt, face mask, or jeans.",
+                    "He is dressed formally, wearing a face mask, and wearing a hat.",
+                    "He has short hair and is wearing a hat with a short-sleeved shirt.",
+                    "He is dressed formally, wearing a hat, and without sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_983.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            689.4257425742575,
+                            282.43281471004246,
+                            68.07355021216408,
+                            181.04667609618105
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most accurately represents the person within the red box in the photo?",
+                "options": [
+                    "He has short hair, is dressed informally, and is not wearing a skirt.",
+                    "He is not wearing a T-shirt but is wearing a skirt and sunglasses.",
+                    "He is wearing clothes with a logo and a short-sleeved shirt, but he is not wearing a skirt.",
+                    "He is not wearing a T-shirt or long pants but is wearing clothes with a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            216.21195652173913,
+                            379.6539855072464,
+                            92.79528985507245,
+                            172.26086956521738
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following most closely describes the person in the red box in the image?",
+                "options": [
+                    "She has long hair, is wearing a hat, and is not wearing jeans.",
+                    "She is wearing long-sleeved clothes without stripes and is not wearing long pants.",
+                    "She is wearing clothes with stripes and without a logo, and she is not wearing sunglasses.",
+                    "She is dressed informally in a T-shirt and is wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_iceskiing_39_308.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            472.3090909090909,
+                            253.54545454545456,
+                            65.60000000000001,
+                            300.41818181818184
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best aligns with the person highlighted by the red box in the photo?",
+                "options": [
+                    "He is not wearing a hat but is dressed in a T-shirt and clothes with stripes.",
+                    "He has long hair and is wearing a T-shirt with jeans.",
+                    "He is wearing a T-shirt and jeans, with sunglasses on.",
+                    "He is dressed formally in a T-shirt and long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_Football_36_203.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            656.8738255033556,
+                            262.0389261744966,
+                            103.37986577181208,
+                            338.91543624161073
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best describes the person encased in the red box in the picture?",
+                "options": [
+                    "She is not wearing a T-shirt or jeans but is wearing short sleeves.",
+                    "She is dressed informally in a hat and jeans.",
+                    "She is not wearing a face mask and is dressed in a long-sleeve top without shorts.",
+                    "She has short hair and is wearing a T-shirt with clothes featuring a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_436.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            127.21472392638037,
+                            241.86503067484662,
+                            105.22699386503068,
+                            265.4233128834356
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best fits the individual within the red box in the image?",
+                "options": [
+                    "He is without sunglasses, wearing clothes without stripes, and not wearing a T-shirt.",
+                    "He is wearing jeans and clothes without stripes, but he is not wearing a hat.",
+                    "He is wearing a T-shirt with stripes and sunglasses.",
+                    "He has long hair and is wearing a hat and clothes with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_339.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            404.91077636152954,
+                            422.40440324449594,
+                            58.12282734646582,
+                            86.69988412514485
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best matches the individual in the red box in the photo?",
+                "options": [
+                    "He is not wearing a hat, has short sleeves, and is not wearing a skirt.",
+                    "He is wearing a hat, short sleeves, and long pants.",
+                    "He has long hair, isn't wearing a hat, and is dressed in jeans.",
+                    "He is wearing a T-shirt and a face mask, but his clothes do not have any logos."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_715.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            631.6964504283965,
+                            461.23867809057526,
+                            90.2423500611995,
+                            166.69767441860463
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these descriptions best fits the person in the red box in the picture?",
+                "options": [
+                    "He is not wearing a face mask or sunglasses and is dressed in clothes without stripes.",
+                    "He is dressed formally in clothes with a logo, wearing a long-sleeve shirt.",
+                    "He is wearing a face mask and a long-sleeved shirt but is not wearing jeans.",
+                    "He is not wearing sunglasses and is dressed in clothes without a logo but with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_114.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            10.384332925336597,
+                            768.4406364749082,
+                            259.60832313341496,
+                            642.0979192166462
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice most accurately describes the person in the red box in the image?",
+                "options": [
+                    "She has long hair and is not wearing sunglasses, but she is wearing shorts.",
+                    "She has long hair and is wearing jeans, not a T-shirt.",
+                    "She is wearing a skirt and clothes with a logo, along with sunglasses.",
+                    "She is dressed informally in a hat and jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_Soccer_37_160.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            671.5768194070081,
+                            37.7722371967655,
+                            330.14824797843664,
+                            554.366576819407
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement best describes the individual highlighted in the red box in the picture?",
+                "options": [
+                    "She is wearing a long-sleeve shirt and is not wearing a hat or a skirt.",
+                    "She is wearing a T-shirt and a hat, but her clothes do not have any logos.",
+                    "She is dressed informally in a skirt and wearing sunglasses.",
+                    "She has long hair and is wearing a short-sleeved shirt along with a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_106.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            281.4659685863875,
+                            72.37696335078535,
+                            241.25654450261783,
+                            574.9947643979058
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best fits the person shown in the red box in the image?",
+                "options": [
+                    "She is dressed informally without sunglasses and is not wearing jeans.",
+                    "She is wearing a hat and clothes without a logo, and she is wearing a T-shirt.",
+                    "She has short hair and is dressed formally, not wearing a T-shirt.",
+                    "She has short hair and is wearing a hat, but her clothes do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/7--Cheering/7_Cheering_Cheering_7_864.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            431.7558945908461,
+                            18.463245492371705,
+                            150.54646324549236,
+                            529.753120665742
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person marked by the red box in the photo?",
+                "options": [
+                    "He is wearing clothes with stripes and a hat but is not wearing shorts.",
+                    "He is without sunglasses, not wearing a hat, and dressed in clothes without a logo.",
+                    "He is dressed formally with short hair and is wearing a face mask.",
+                    "He is not wearing a hat or a T-shirt but is dressed in a short-sleeve outfit."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_402.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            94.0,
+                            486.0,
+                            256.0,
+                            778.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best describes the person in the red box in the image?",
+                "options": [
+                    "He is not wearing a T-shirt and has long sleeves, without sunglasses.",
+                    "He is wearing a T-shirt and is not wearing a hat or shorts.",
+                    "He is wearing shorts and clothes with stripes, but he is not wearing a T-shirt.",
+                    "He is dressed formally in a short-sleeved shirt and is not wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_910.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            613.552536231884,
+                            98.3840579710145,
+                            83.89130434782608,
+                            205.20471014492753
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most closely describes the person in the red box in the photo?",
+                "options": [
+                    "She is not wearing a face mask or a hat but is wearing long pants.",
+                    "She is wearing a hat and sunglasses, but she is not wearing a face mask.",
+                    "She is wearing a T-shirt and sunglasses but is not wearing shorts.",
+                    "She is wearing clothes with stripes, a long-sleeved shirt, and a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_934.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            762.396292004635,
+                            698.5098493626883,
+                            105.64078794901506,
+                            219.29895712630358
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best aligns with the person highlighted by the red box in the image?",
+                "options": [
+                    "She is not wearing long pants but is wearing clothes without stripes and with a logo.",
+                    "She has long hair and is wearing clothes with a logo along with long pants.",
+                    "She has short hair, is wearing clothes with stripes, and is with sunglasses.",
+                    "She is wearing a long-sleeve shirt and sunglasses but is not wearing a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_784.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            304.7189189189189,
+                            528.8689189189189,
+                            68.65945945945946,
+                            184.07837837837837
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best characterizes the individual within the red box in the picture?",
+                "options": [
+                    "He has short hair, is wearing a hat, and is not wearing a face mask.",
+                    "He is dressed formally, wearing a face mask, and not wearing shorts.",
+                    "He is dressed formally, wearing a face mask, and not wearing shorts.",
+                    "He is wearing a T-shirt with short sleeves and a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_301.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            314.11042944785277,
+                            177.4723926380368,
+                            109.93865030674847,
+                            260.7116564417178
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best represents the person in the red box in the image?",
+                "options": [
+                    "He is wearing a T-shirt and clothes without a logo, and he is not wearing sunglasses.",
+                    "He has long hair and is wearing a T-shirt with jeans.",
+                    "He is wearing a face mask and clothes with stripes, but he is not wearing a skirt.",
+                    "He has short hair and is wearing a hat along with a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_186.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            314.6837146702557,
+                            125.35127860026918,
+                            269.34320323014805,
+                            501.06864064602956
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the individual in the red box in the picture?",
+                "options": [
+                    "He has short hair and is not wearing sunglasses or jeans.",
+                    "He has short hair and is wearing clothes with a logo, but he is also wearing a skirt.",
+                    "He is not wearing sunglasses but is dressed in clothes with stripes and a logo.",
+                    "He is not wearing a T-shirt but is wearing sunglasses and not wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/33--Running/33_Running_Running_33_302.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            75.5958815958816,
+                            86.14414414414414,
+                            124.82110682110682,
+                            1133.938223938224
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option most accurately describes the person encased in the red box in the image?",
+                "options": [
+                    "She has long hair and is wearing shorts along with clothes without a logo.",
+                    "She is dressed informally, wearing a hat and a face mask.",
+                    "She is not wearing a face mask or long pants but is dressed in a long-sleeve shirt.",
+                    "She is dressed formally in a T-shirt with a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/44--Aerobics/44_Aerobics_Aerobics_44_39.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            606.3638525564803,
+                            122.97740784780022,
+                            161.94054696789536,
+                            231.34363852556478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best aligns with the person shown in the red box in the picture?",
+                "options": [
+                    "She has short hair and is not wearing a T-shirt or jeans.",
+                    "She is dressed informally, wearing a hat and shorts.",
+                    "She is wearing a long-sleeve T-shirt and is not wearing sunglasses.",
+                    "She is not wearing a hat but is wearing clothes with a logo and sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/44--Aerobics/44_Aerobics_Aerobics_44_420.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            64.53269916765754,
+                            101.06064209274672,
+                            107.14863258026159,
+                            323.8810939357907
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description most closely fits the person marked by the red box in the image?",
+                "options": [
+                    "She is not wearing long pants, sunglasses, or clothes with a logo.",
+                    "She is wearing a skirt with a long-sleeved shirt and sunglasses.",
+                    "She is dressed formally in clothes without stripes but with a logo.",
+                    "She is wearing sunglasses but is not wearing a face mask or a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_442.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            443.73333333333335,
+                            145.06666666666666,
+                            197.33333333333334,
+                            533.3333333333334
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the red box in the picture?",
+                "options": [
+                    "He is not wearing sunglasses, clothes with a logo, or a T-shirt.",
+                    "He is dressed informally in a T-shirt and wearing a hat.",
+                    "He is dressed informally in clothes with a logo and stripes.",
+                    "He is wearing shorts and clothes with stripes but is not wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_86.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            539.9003623188406,
+                            23.39673913043478,
+                            185.04891304347828,
+                            406.0144927536232
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description below best fits the person in the red box in the image?",
+                "options": [
+                    "He has short hair and is wearing clothes without stripes, but he is not wearing a T-shirt.",
+                    "He is not wearing long pants and is dressed in clothes without stripes, including a short-sleeved shirt.",
+                    "He has short hair, is dressed informally, and is wearing sunglasses.",
+                    "He is wearing sunglasses and clothes with stripes, but he is not wearing a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_799.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            0.0,
+                            101.390452876377,
+                            412.4357405140759,
+                            1292.2986536107712
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following best characterizes the person shown in the red box?",
+                "options": [
+                    "He is dressed informally and not wearing a face mask or clothes with stripes.",
+                    "He is dressed informally in a long-sleeve shirt and is wearing a face mask.",
+                    "He is dressed formally in long pants and wearing clothes without a logo.",
+                    "He has long hair and is wearing a skirt, but his clothes do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_631.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            917.0347593582887,
+                            752.5882352941177,
+                            100.17112299465242,
+                            352.98395721925135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most accurately represents the person within the red box in the photo?",
+                "options": [
+                    "She is not wearing sunglasses or a hat and is dressed in a short-sleeved top.",
+                    "She is wearing a T-shirt and jeans, with sunglasses on.",
+                    "She is not wearing sunglasses, has long sleeves, and is not wearing a skirt.",
+                    "She is wearing a hat and long pants but is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_287.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            372.24969400244794,
+                            201.79192166462667,
+                            137.87025703794367,
+                            458.7319461444308
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best fits the person marked by the red box in the picture?",
+                "options": [
+                    "She has long hair and is dressed informally without wearing a hat.",
+                    "She is wearing clothes with stripes and a hat, and she is wearing sunglasses.",
+                    "She is dressed formally in a short-sleeved outfit and is not wearing jeans.",
+                    "She is wearing jeans and a long-sleeved shirt with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_4.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            766.606170598911,
+                            554.7441016333938,
+                            89.20508166969147,
+                            166.33030852994554
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following most closely describes the person in the red box in the image?",
+                "options": [
+                    "He is not wearing a hat or sunglasses but is wearing shorts.",
+                    "He has long hair and is wearing clothes with stripes and short sleeves.",
+                    "He is dressed formally and is not wearing a face mask or a T-shirt.",
+                    "He is dressed formally in clothes without a logo or stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_940.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            184.24479804161564,
+                            85.22888616891063,
+                            180.484700122399,
+                            488.81272949816395
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best aligns with the person highlighted by the red box in the photo?",
+                "options": [
+                    "He is dressed informally in a long-sleeve shirt and is not wearing a face mask.",
+                    "He has short hair and is wearing sunglasses with a short-sleeved shirt.",
+                    "He is wearing sunglasses and clothes with stripes but is not wearing a face mask.",
+                    "He is wearing a face mask and clothes without a logo, but he is not wearing shorts."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_854.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            232.25711662075298,
+                            220.97337006427915,
+                            83.68778696051423,
+                            166.43526170798899
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best describes the person encased in the red box in the picture?",
+                "options": [
+                    "He is wearing a hat and is not wearing a T-shirt or a skirt.",
+                    "He is dressed informally in a T-shirt with short sleeves.",
+                    "He is dressed informally in a short-sleeved shirt with a logo on it.",
+                    "He is wearing short sleeves and sunglasses, and his clothes do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0089.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_864.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            800.1608040201005,
+                            24.44221105527638,
+                            217.4070351758794,
+                            670.2311557788945
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best fits the individual within the red box in the image?",
+                "options": [
+                    "She is not wearing sunglasses, a hat, or long pants.",
+                    "She is wearing shorts with a long sleeve top and is not wearing a face mask.",
+                    "She is dressed formally in clothes with stripes and is not wearing shorts.",
+                    "She is wearing clothes with stripes, a short-sleeved shirt, and a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0090.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_378.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            592.7641099855282,
+                            19.264833574529664,
+                            380.85094066570184,
+                            657.9681620839362
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement best represents the person shown in the red box in the picture?",
+                "options": [
+                    "She is wearing a long-sleeve shirt and is not wearing a face mask or a T-shirt.",
+                    "She is not wearing a hat and has short sleeves, but she is not wearing a face mask.",
+                    "She is not wearing a T-shirt but is wearing a face mask and jeans.",
+                    "She is wearing long pants, a hat, and clothes with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0091.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_75.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            313.272972972973,
+                            598.6216216216217,
+                            286.75405405405405,
+                            543.2297297297297
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best matches the individual in the red box in the photo?",
+                "options": [
+                    "She is not wearing sunglasses or long pants but is wearing clothes with a logo.",
+                    "She is wearing a skirt and sunglasses but is not wearing a T-shirt.",
+                    "She is wearing clothes without a logo or stripes and is wearing sunglasses.",
+                    "She is dressed formally in a short-sleeved outfit and is wearing a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_Basketball_35_452.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            578.8535031847134,
+                            221.7579617834395,
+                            125.55414012738854,
+                            321.2229299363058
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these descriptions best fits the person in the red box in the picture?",
+                "options": [
+                    "She has long hair and is wearing jeans and a short-sleeve shirt.",
+                    "She is dressed informally in clothes with a logo and is not wearing jeans.",
+                    "She has short hair and is not wearing sunglasses, opting for a long-sleeved outfit instead.",
+                    "She has long hair and is dressed formally, wearing a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/15--Stock_Market/15_Stock_Market_Stock_Market_15_173.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            238.377972465582,
+                            246.06758448060077,
+                            96.12015018773467,
+                            329.37171464330413
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice most accurately describes the person in the red box in the image?",
+                "options": [
+                    "She is dressed formally and is not wearing a face mask or long pants.",
+                    "She is dressed formally, wearing a hat, and has a face mask on.",
+                    "She has short hair and is dressed informally, not wearing a face mask.",
+                    "She is dressed informally in clothes without stripes and wearing shorts."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0094.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_633.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            568.5748663101605,
+                            287.2379679144385,
+                            101.13770053475936,
+                            389.4104278074866
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best aligns with the person in the red box in the picture?",
+                "options": [
+                    "She is dressed in a skirt and is not wearing a face mask or a hat.",
+                    "She is wearing a T-shirt with long sleeves and is not wearing sunglasses.",
+                    "She is dressed formally, not wearing sunglasses, and wearing shorts.",
+                    "She is wearing a hat and is not wearing sunglasses or a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0095.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/51--Dresses/51_Dresses_wearingdress_51_976.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            269.13383458646615,
+                            29.413533834586467,
+                            239.72030075187968,
+                            883.8766917293233
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best characterizes the person within the red box in the image?",
+                "options": [
+                    "He is wearing a long-sleeved shirt with stripes and is not wearing a face mask.",
+                    "He is wearing a hat and sunglasses but is not wearing a skirt.",
+                    "He has long hair and is wearing clothes without stripes along with sunglasses.",
+                    "He is dressed formally, not wearing a hat, and wearing clothes with a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_56.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            693.4524158125915,
+                            218.65300146412883,
+                            187.87115666178624,
+                            380.9428989751098
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement best describes the individual highlighted in the red box in the picture?",
+                "options": [
+                    "He is dressed informally, not wearing a hat, and his clothes do not have stripes.",
+                    "He is dressed informally in a T-shirt with a logo.",
+                    "He is dressed informally in clothes with stripes and wearing jeans.",
+                    "He is wearing clothes with a logo and a hat, but he is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_125.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            589.429347826087,
+                            303.3152173913044,
+                            124.9945652173913,
+                            233.40217391304347
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person marked by the red box in the photo?",
+                "options": [
+                    "She has short hair and is not wearing a hat or a T-shirt.",
+                    "She is wearing a hat and clothes with a logo but is not wearing a T-shirt.",
+                    "She is wearing a hat and clothes without a logo, but her outfit features stripes.",
+                    "She has short hair and is wearing a face mask with shorts."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/19--Couple/19_Couple_Couple_19_1013.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            62.72364672364672,
+                            147.32763532763533,
+                            264.02279202279203,
+                            532.4216524216524
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most closely describes the person in the red box in the photo?",
+                "options": [
+                    "She has long hair and is not wearing a skirt or sunglasses.",
+                    "She has long hair and is wearing shorts with a long-sleeved top.",
+                    "She is wearing a T-shirt and a face mask, and she has short hair.",
+                    "She is dressed formally, wearing a hat, and her clothes do not have any logos."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0101.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_128.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            755.2,
+                            117.33333333333333,
+                            221.86666666666667,
+                            83.2
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best characterizes the individual within the red box in the picture?",
+                "options": [
+                    "He is wearing long pants and clothes without stripes or logos.",
+                    "He is not wearing a hat and is dressed in clothes without stripes, while also wearing a face mask.",
+                    "He is wearing clothes with stripes and short sleeves, but he is not wearing a T-shirt.",
+                    "He is dressed formally, not wearing a T-shirt, and wearing clothes without stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/43--Row_Boat/43_Row_Boat_Canoe_43_279.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            472.2179836512262,
+                            118.56948228882834,
+                            237.70027247956403,
+                            264.79564032697544
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the individual in the red box in the picture?",
+                "options": [
+                    "He is wearing a hat and is not wearing a skirt or a face mask.",
+                    "He is wearing shorts and sunglasses but is not wearing a T-shirt.",
+                    "He has long hair and is wearing a face mask along with a hat.",
+                    "He is dressed formally in a short-sleeved shirt and is not wearing a T-shirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_Parade_0_347.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            727.4979423868313,
+                            254.89437585733882,
+                            55.43895747599451,
+                            204.75994513031551
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best aligns with the person shown in the red box in the picture?",
+                "options": [
+                    "He has short hair and is wearing a T-shirt with short sleeves.",
+                    "He is not wearing a T-shirt but is dressed in clothes with stripes and short sleeves.",
+                    "He is wearing jeans and a long-sleeve shirt with a logo.",
+                    "He is not wearing a T-shirt or a skirt but is wearing clothes with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/37--Soccer/37_Soccer_soccer_ball_37_264.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            1.2324324324324325,
+                            49.26486486486486,
+                            162.0648648648649,
+                            364.8
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description most closely fits the person marked by the red box in the image?",
+                "options": [
+                    "He is wearing a hat, but he is not wearing a face mask or a skirt.",
+                    "He is not wearing a hat and is dressed in clothes without stripes, wearing shorts.",
+                    "He has short hair and is dressed formally in a short-sleeved outfit.",
+                    "He is wearing long pants and clothes with stripes, along with a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0108.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            357.9076086956522,
+                            277.4710144927536,
+                            56.96195652173913,
+                            166.03804347826087
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best matches the person in the red box in the picture?",
+                "options": [
+                    "She has long hair and is wearing clothes without stripes, but she is not wearing a T-shirt.",
+                    "She is wearing clothes with stripes, long sleeves, and sunglasses.",
+                    "She is wearing a hat and clothes without stripes, both with long sleeves.",
+                    "She is dressed formally and is not wearing a face mask or a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/4--Dancing/4_Dancing_Dancing_4_37.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            131.0048019207683,
+                            341.3505402160864,
+                            481.5810324129652,
+                            1195.6494597839135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description below best fits the person in the red box in the image?",
+                "options": [
+                    "She has long hair and is wearing long pants, not wearing a hat.",
+                    "She has short hair and is wearing clothes with stripes but without any logos.",
+                    "She is not wearing a face mask, is dressed in clothes without a logo, and is not wearing long pants.",
+                    "She is wearing sunglasses, clothes with a logo, and jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0110.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/36--Football/36_Football_americanfootball_ball_36_775.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            652.8,
+                            233.6,
+                            133.33333333333334,
+                            326.4
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which statement most accurately represents the person within the red box in the photo?",
+                "options": [
+                    "He has short hair and is wearing a skirt or a hat.",
+                    "He is wearing a hat and clothes with stripes, but he is not wearing sunglasses.",
+                    "He is wearing a face mask and a hat but is not wearing jeans.",
+                    "He has long hair, wearing a hat, and not wearing a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0112.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_playingbasketball_35_286.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            9.067296340023614,
+                            814.2432113341205,
+                            172.27863046044865,
+                            362.6918536009445
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best fits the person marked by the red box in the picture?",
+                "options": [
+                    "He is wearing long pants and is not wearing jeans or sunglasses.",
+                    "He is not wearing long pants and is wearing a hat and sunglasses.",
+                    "He is not wearing long pants, wearing clothes without stripes, and has sunglasses on.",
+                    "He is wearing a hat and clothes with a logo, but he is not wearing long pants."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0113.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/58--Hockey/58_Hockey_icehockey_puck_58_486.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            767.2947658402204,
+                            296.198347107438,
+                            227.55555555555554,
+                            362.9605142332415
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following most closely describes the person in the red box in the image?",
+                "options": [
+                    "She has long hair and is not wearing a hat or sunglasses.",
+                    "She is dressed informally in clothes with stripes and is not wearing a T-shirt.",
+                    "She has short hair and is dressed informally in clothes with a logo.",
+                    "She is wearing a T-shirt and long pants, with sunglasses on."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0114.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/0--Parade/0_Parade_marchingband_1_141.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            634.8731884057971,
+                            390.9673913043478,
+                            57.518115942028984,
+                            174.3659420289855
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best aligns with the person highlighted by the red box in the photo?",
+                "options": [
+                    "She is not wearing a face mask or a skirt but is dressed in clothes without a logo.",
+                    "She is dressed formally, wearing a face mask, and not wearing jeans.",
+                    "She is wearing short sleeves and sunglasses, and her clothes do not have any logos.",
+                    "She has long hair and is wearing clothes with stripes, but she is not wearing jeans."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0115.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_359.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            493.7366362451108,
+                            783.076923076923,
+                            201.74185136897,
+                            226.95958279009125
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best describes the person encased in the red box in the picture?",
+                "options": [
+                    "He is wearing a long sleeve shirt and is not wearing a hat or shorts.",
+                    "He is wearing sunglasses and a face mask but is not wearing a T-shirt.",
+                    "He is wearing a T-shirt and sunglasses, but his clothes do not have stripes.",
+                    "He has long hair and is not wearing a T-shirt, opting for shorts instead."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0116.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_722.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            189.1945945945946,
+                            402.6054054054054,
+                            142.85945945945946,
+                            366.1135135135135
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best fits the individual within the red box in the image?",
+                "options": [
+                    "He has short hair and is wearing a short-sleeved shirt that is not a T-shirt.",
+                    "He is wearing jeans and a face mask but is not wearing a T-shirt.",
+                    "He is dressed informally in a long-sleeve shirt and is wearing a face mask.",
+                    "He is not wearing a T-shirt but is dressed in clothes without a logo and with stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0117.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_461.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            1.8584392014519056,
+                            41.814882032667875,
+                            264.82758620689657,
+                            502.7078039927405
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best matches the individual in the red box in the photo?",
+                "options": [
+                    "She has long hair and is dressed informally without sunglasses.",
+                    "She has short hair and is wearing a face mask, but she is not wearing jeans.",
+                    "She is dressed informally in a T-shirt and shorts.",
+                    "She is wearing clothes with stripes and has long sleeves, but she is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0119.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/51--Dresses/51_Dresses_wearingdress_51_248.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            260.8478260869565,
+                            27.782608695652172,
+                            236.15217391304347,
+                            799.5217391304348
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these descriptions best fits the person in the red box in the picture?",
+                "options": [
+                    "She has short hair and is not wearing a skirt, with clothes without a logo.",
+                    "She is wearing a hat and shorts, and she's not wearing sunglasses.",
+                    "She has short hair and is wearing a T-shirt along with a face mask.",
+                    "She is wearing clothes with a logo and sunglasses but is not wearing a face mask."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0120.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_1045.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            63.54319180087848,
+                            27.232796486090777,
+                            804.2752562225476,
+                            1200.0585651537335
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice most accurately describes the person in the red box in the image?",
+                "options": [
+                    "He is wearing a hat and long pants but is not wearing sunglasses.",
+                    "He is dressed in clothes without stripes and is wearing a face mask and sunglasses.",
+                    "He has long hair and is dressed formally, not wearing shorts.",
+                    "He is wearing a face mask and a long-sleeve shirt, but he is not wearing a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0121.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/54--Rescue/54_Rescue_rescuepeople_54_1027.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1
+                        ],
+                        "bbox": [
+                            701.5783783783784,
+                            242.1621621621622,
+                            84.41081081081082,
+                            238.01081081081082
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of the following descriptions best aligns with the person in the red box in the picture?",
+                "options": [
+                    "She is not wearing a hat and is dressed in clothes without a logo, but she's not wearing a T-shirt.",
+                    "She is wearing a hat, and not wearing a skirt or sunglasses.",
+                    "She has short hair and is dressed in jeans and clothes without stripes.",
+                    "She has short hair and is dressed in shorts and wearing clothes with a logo."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0122.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_226.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            470.01223990208075,
+                            234.37943696450427,
+                            203.0452876376989,
+                            412.35740514075883
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which option best characterizes the person within the red box in the image?",
+                "options": [
+                    "She is wearing short sleeves and is not wearing sunglasses or a face mask.",
+                    "She is dressed in clothes with stripes, not wearing jeans and has short hair.",
+                    "She has short hair and is wearing jeans and a short-sleeve shirt.",
+                    "She is wearing a face mask and shorts, and she is not wearing sunglasses."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0123.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/35--Basketball/35_Basketball_basketballgame_ball_35_609.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            860.4573502722322,
+                            246.24319419237747,
+                            107.78947368421052,
+                            433.94555353901995
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which of these best fits the person shown in the red box in the image?",
+                "options": [
+                    "He is wearing a hat and a long sleeve shirt, but he is not wearing a face mask.",
+                    "He is wearing sunglasses, and not wearing long pants or a hat.",
+                    "He has long hair, is wearing a face mask and a hat.",
+                    "He has long hair, is wearing jeans, and is not wearing a hat."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0125.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_94.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            248.32166018158236,
+                            228.29571984435796,
+                            520.674448767834,
+                            1303.6887159533073
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which description best represents the person marked by the red box in the photo?",
+                "options": [
+                    "He has short hair and is not wearing a face mask, but he is wearing a T-shirt.",
+                    "He has long hair and is wearing a hat, but his clothes do not have stripes.",
+                    "He is dressed formally in clothes with stripes and is wearing jeans.",
+                    "He is dressed formally in a long-sleeve shirt and is not wearing a skirt."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0126.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/20--Family_Group/20_Family_Group_Family_Group_20_738.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            1
+                        ],
+                        "bbox": [
+                            303.64864864864865,
+                            48.695945945945944,
+                            119.99324324324323,
+                            325.377027027027
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_attribute_compound",
+            "QA": {
+                "question": "Which choice best describes the person in the red box in the image?",
+                "options": [
+                    "She is wearing clothes without logo, but she is not wearing a face mask or sunglasses.",
+                    "She is wearing a face mask and clothes with a logo, but she is not wearing a T-shirt.",
+                    "She is wearing a T-shirt with short sleeves and is not wearing a hat.",
+                    "She is wearing a T-shirt and sunglasses, and her clothes do not have stripes."
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/attribute/compound/boxed/sample_0127.jpg"
+                },
+                "source": {
+                    "dataset": "WIDER_Attribute",
+                    "paths": {
+                        "original": "raw_data/human/WIDERAttribute/Image/test/6--Funeral/6_Funeral_Funeral_6_121.jpg"
+                    },
+                    "labels": {
+                        "attribute": [
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1,
+                            -1,
+                            1,
+                            -1,
+                            -1,
+                            -1
+                        ],
+                        "bbox": [
+                            142.9122340425532,
+                            107.83377659574468,
+                            98.73936170212765,
+                            163.6994680851064
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

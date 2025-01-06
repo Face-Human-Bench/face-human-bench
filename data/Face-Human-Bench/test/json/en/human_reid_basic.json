@@ -1,0 +1,2604 @@
+{
+    "data": [
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the two photos the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0304_c4s1_068657_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0304_c5s1_068573_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0799_c4s4_030860_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0799_c6s2_085968_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is it the same individual depicted in both of the photographs?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0541_c6s2_123343_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0541_c2s1_154966_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1423_c6s3_085717_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1423_c3s3_062078_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the subjects depicted in both photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0680_c1s3_063376_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0680_c1s3_063451_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1362_c3s3_042428_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1362_c1s6_004466_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0695_c2s2_049112_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0695_c3s2_058287_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1468_c1s6_010291_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1468_c1s6_010416_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0334_c5s1_076673_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0334_c5s1_076673_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0373_c5s1_089273_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0373_c5s1_115645_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people captured in both pictures the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0777_c5s3_068087_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0777_c5s3_068187_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1215_c2s3_007407_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1215_c3s3_016253_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals shown in the two images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1329_c3s3_036753_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1329_c1s5_063266_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0590_c1s3_027726_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0590_c6s2_026568_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in both pictures, one on the left and one on the right, represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0054_c5s1_006776_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0054_c5s1_006801_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0364_c2s1_084546_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0364_c2s1_084571_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1438_c3s3_055978_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1438_c1s6_015721_05.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0768_c2s2_072932_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0768_c6s2_080518_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people appearing in both the left and right photos happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0072_c1s1_011251_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0072_c4s1_011626_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals showcased in the left and right images one in the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0395_c2s1_092996_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0395_c2s2_081482_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons depicted in both the left and right photographs one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0495_c6s2_013068_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0495_c3s1_131508_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in the photos on both sides depict the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0553_c3s1_160683_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0553_c1s3_015996_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0535_c2s1_152291_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0535_c1s3_005196_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1416_c1s6_046421_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1416_c1s6_046571_05.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person shown in both photos one and the selfsame?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0650_c5s2_034880_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0650_c6s2_028818_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two pictures exhibit the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0443_c2s1_110096_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0443_c1s2_047871_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the person in the first photo and the person in the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0578_c5s2_011980_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0578_c3s2_011512_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the first photo and the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0562_c5s2_003658_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0562_c3s2_003021_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals depicted in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1450_c4s6_009035_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1450_c1s6_009541_07.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person appearing in both images the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0452_c3s1_115158_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0452_c3s1_118033_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people shown in the left and right photos represent the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0058_c2s1_006976_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0058_c2s1_006976_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals depicted in the first and second images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1359_c6s3_065892_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1359_c1s5_068266_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals shown in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1196_c6s3_033092_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1196_c5s3_029090_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual seen in the first image synonymous with the one in the second?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0989_c6s2_120468_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0989_c5s2_139699_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person in the first picture the same as the person in the second picture?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1462_c5s3_058890_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1462_c3s3_058503_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0119_c2s1_019951_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0119_c2s1_019951_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0391_c1s2_018391_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0391_c2s1_090071_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the two photos the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0583_c3s2_012412_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0583_c3s2_041962_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1016_c6s2_124968_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1016_c6s3_003067_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1272_c1s5_051591_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1272_c4s5_050860_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people shown in both pictures happen to be one and the selfsame person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1459_c2s3_052107_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1459_c2s3_052182_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1457_c3s3_058303_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1457_c1s6_009441_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1082_c5s2_145249_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1082_c1s5_009361_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people featured in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0692_c5s2_051330_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0692_c3s2_050937_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0560_c5s2_002283_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0560_c3s2_001646_02.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in both images depict one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0935_c6s2_111193_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0935_c3s2_117144_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people portrayed in the two pictures identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1015_c1s4_070361_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1015_c5s2_131224_03.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0041_c1s6_015171_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0041_c2s3_069702_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two pictures feature the identical person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0156_c3s1_025176_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0156_c5s1_077898_04.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0790_c5s2_085777_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0790_c2s2_088357_01.jpg"
+                    },
+                    "labels": [
+                        "positive"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1214_c3s3_013553_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0183_c5s2_008130_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals featured in the two pictures, positioned on the left and right, identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0621_c4s3_037429_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1245_c3s3_020353_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0996_c2s2_129927_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0960_c6s2_114943_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people appearing in both the left and right photos happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0983_c6s2_118968_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0058_c2s1_006976_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals showcased in the left and right images one in the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0085_c2s1_012876_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1305_c4s5_058035_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is it the same person in both the left and right photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0075_c1s1_011276_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0817_c6s2_105043_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons depicted in both the left and right photographs one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1036_c2s2_131177_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0156_c5s1_077898_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in the photos on both sides depict the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0083.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0770_c3s2_077253_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1438_c1s6_015721_05.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people featured in both images the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1151_c2s3_003407_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1355_c2s3_049907_10.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person portrayed in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0085.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1267_c6s3_066292_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1493_c2s3_055657_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0086.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0304_c4s1_068657_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0045_c3s3_073444_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0087.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0977_c3s2_123419_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1194_c3s3_009203_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person shown in both photos one and the selfsame?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0088.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0784_c4s4_020410_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1485_c2s3_089952_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals depicted in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0092.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0391_c1s2_018391_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0087_c1s1_013951_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person appearing in both images the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0093.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0157_c3s1_026226_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0722_c5s2_080277_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals shown in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0096.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0531_c2s1_149316_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0538_c4s3_005748_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual seen in the first image synonymous with the one in the second?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0097.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0322_c3s1_072817_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0583_c3s2_041962_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0099.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1043_c3s2_134219_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1058_c6s3_002642_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0100.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1274_c5s3_026140_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0372_c5s1_088948_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals depicted in both images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0102.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0412_c3s1_097967_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0453_c5s1_115945_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals portrayed in each of the two pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0103.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0044_c3s1_003926_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1306_c2s3_026282_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons captured in the two photos one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0105.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0205_c2s1_040526_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0944_c3s2_118294_04.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals appearing in the two images happen to be identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0107.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1317_c1s5_060766_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0717_c2s2_057107_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people featured in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0109.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0800_c1s4_032631_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0693_c4s3_065679_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the individuals in both images happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0111.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0145_c3s1_023426_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0719_c2s3_061277_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual shown in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0114.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1108_c3s2_151419_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1485_c2s3_089952_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals in both images one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0116.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0825_c6s2_097943_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1441_c3s3_062203_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the subjects in the two photographs the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0117.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1306_c6s3_056342_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0119_c2s1_019951_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the persons depicted in the two photos represent the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0118.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0560_c5s2_002283_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0790_c2s2_088357_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people captured in both pictures the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0119.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1021_c1s4_071086_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0562_c3s2_003021_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is it the same person in both photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0120.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0286_c5s1_067598_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1226_c2s3_008182_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the two photos on the left and right the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0122.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1105_c5s2_149724_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0040_c4s1_003826_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons depicted in the photos on the left and right sides identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0124.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1499_c6s3_085942_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0004_c1s6_027096_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people shown in the left and right images happen to be one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0125.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1180_c5s3_006593_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1082_c1s5_009361_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the individual captured in both the left and right photographs one and the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0126.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0428_c4s2_032142_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1418_c3s3_051153_06.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals featured in the two pictures, positioned on the left and right, identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0127.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0493_c2s1_129741_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0080_c3s1_011751_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons portrayed in the photos on the left and right the very same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0128.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0165_c1s1_030151_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0960_c6s2_114943_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the people appearing in both the left and right photos happen to be the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0129.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1340_c6s3_062917_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0388_c2s1_090996_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals showcased in the left and right images one in the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0130.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0465_c1s2_047096_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1016_c6s3_003067_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is it the same person in both the left and right photos?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0131.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0750_c6s2_063718_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1352_c2s3_034882_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the persons depicted in both the left and right photographs one and the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0132.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0364_c2s1_084546_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0678_c3s2_048787_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people featured in both images the identical individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0134.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0980_c3s2_125794_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0753_c6s2_064268_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person portrayed in both pictures one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0135.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0927_c3s2_115769_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0405_c2s1_095896_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Do the two photographs showcase the same individual?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0136.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1249_c2s3_014407_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0983_c3s2_125044_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals captured in the left and right images identical?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0137.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1015_c1s4_070361_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1059_c3s2_140919_01.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person shown in both photos one and the selfsame?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0138.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1355_c6s3_064642_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0951_c5s2_120399_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the person in the first photo and the person in the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0140.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/1006_c1s4_069661_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/0130_c6s4_004277_10.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the people in the first photo and the second photo the same person?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0141.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0625_c3s2_025612_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1194_c3s3_009203_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Are the individuals depicted in both photographs one and the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0142.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0483_c4s6_031516_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1195_c3s3_008553_03.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "human_reid_basic",
+            "QA": {
+                "question": "Is the person appearing in both images the same?",
+                "options": [
+                    "yes",
+                    "no"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/human/reid/basic/cropped/sample_0143.jpg"
+                },
+                "source": {
+                    "dataset": "Market1501",
+                    "paths": {
+                        "cropped_1": "raw_data/human/Market1501/Market-1501-v15.09.15/query/0337_c4s2_004442_00.jpg",
+                        "cropped_2": "raw_data/human/Market1501/Market-1501-v15.09.15/bounding_box_test/1452_c1s6_012966_02.jpg"
+                    },
+                    "labels": [
+                        "negative"
+                    ]
+                }
+            }
+        }
+    ]
+}

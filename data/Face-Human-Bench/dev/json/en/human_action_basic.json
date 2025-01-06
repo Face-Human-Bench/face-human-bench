@@ -1,0 +1,4004 @@
+{
+    "data": [
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What the person inside the red box is doing in the picture?",
+                "options": [
+                    "holding the scissors",
+                    "cutting with scissors",
+                    "dropping the scissors",
+                    "sharpening the scissors"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0151.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007582.jpg"
+                    },
+                    "labels": {
+                        "object_name": "scissors",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            639,
+                            20,
+                            425
+                        ],
+                        "object_bbox": [
+                            98,
+                            359,
+                            164,
+                            353
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What actions is the person in the red box taking in the image?",
+                "options": [
+                    "reading the laptop",
+                    "typing on the laptop",
+                    "shutting the laptop",
+                    "charging the laptop"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0152.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002976.jpg"
+                    },
+                    "labels": {
+                        "object_name": "laptop",
+                        "action": "read",
+                        "human_bbox": [
+                            38,
+                            339,
+                            44,
+                            424
+                        ],
+                        "object_bbox": [
+                            299,
+                            520,
+                            234,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the individual in the red box up to in the picture?",
+                "options": [
+                    "eating at the dining table",
+                    "eating in the kitchen",
+                    "setting the table",
+                    "serving food at the dining table"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0153.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006623.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            114,
+                            165,
+                            141,
+                            280
+                        ],
+                        "object_bbox": [
+                            152,
+                            528,
+                            219,
+                            419
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person marked by the red box doing in the image?",
+                "options": [
+                    "riding the surfboard",
+                    "riding the skateboard",
+                    "surfing the waves",
+                    "standing on the surfboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0154.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002359.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            178,
+                            238,
+                            258,
+                            355
+                        ],
+                        "object_bbox": [
+                            113,
+                            306,
+                            331,
+                            365
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "sitting on the bench",
+                    "sleeping on the bench",
+                    "painting the bench",
+                    "standing on the bench"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0155.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002146.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            372,
+                            430,
+                            548,
+                            582
+                        ],
+                        "object_bbox": [
+                            248,
+                            457,
+                            585,
+                            610
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person framed by the red box doing in the picture?",
+                "options": [
+                    "brushing with a toothbrush",
+                    "scrubbing with a sponge",
+                    "flossing with dental floss",
+                    "rinsing with mouthwash"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0156.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004450.jpg"
+                    },
+                    "labels": {
+                        "object_name": "toothbrush",
+                        "action": "brush_with",
+                        "human_bbox": [
+                            6,
+                            633,
+                            3,
+                            420
+                        ],
+                        "object_bbox": [
+                            485,
+                            596,
+                            341,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person enclosed by the red box doing in the image?",
+                "options": [
+                    "riding a snowboard",
+                    "skiing down a slope",
+                    "falling off a snowboard",
+                    "jumping on a snowboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0157.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005099.jpg"
+                    },
+                    "labels": {
+                        "object_name": "snowboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            142,
+                            391,
+                            82,
+                            386
+                        ],
+                        "object_bbox": [
+                            206,
+                            411,
+                            309,
+                            403
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "jumping on the skateboard",
+                    "performing tricks on the skateboard",
+                    "falling off the skateboard",
+                    "riding the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0158.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007647.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "jump",
+                        "human_bbox": [
+                            174,
+                            304,
+                            110,
+                            519
+                        ],
+                        "object_bbox": [
+                            238,
+                            307,
+                            394,
+                            525
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box performing in the image?",
+                "options": [
+                    "filling the wine glass",
+                    "emptying the wine glass",
+                    "washing the wine glass",
+                    "breaking the wine glass"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0159.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005850.jpg"
+                    },
+                    "labels": {
+                        "object_name": "wine_glass",
+                        "action": "fill",
+                        "human_bbox": [
+                            401,
+                            638,
+                            2,
+                            421
+                        ],
+                        "object_bbox": [
+                            160,
+                            265,
+                            146,
+                            423
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is happening with the person in the red box in the picture?",
+                "options": [
+                    "carrying a kite",
+                    "flying a kite",
+                    "folding a kite",
+                    "designing a kite"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0160.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006536.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "carry",
+                        "human_bbox": [
+                            96,
+                            439,
+                            105,
+                            519
+                        ],
+                        "object_bbox": [
+                            5,
+                            398,
+                            255,
+                            475
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box accomplishing in the picture?",
+                "options": [
+                    "holding the fork",
+                    "dropping the fork",
+                    "stabbing with the fork",
+                    "twisting the fork"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0162.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003539.jpg"
+                    },
+                    "labels": {
+                        "object_name": "fork",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            189,
+                            2,
+                            252
+                        ],
+                        "object_bbox": [
+                            146,
+                            177,
+                            129,
+                            222
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box shown doing in the image?",
+                "options": [
+                    "jumping over the horse",
+                    "climbing over the horse",
+                    "leaping over the horse",
+                    "vaulting over the horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0163.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005393.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "jump",
+                        "human_bbox": [
+                            127,
+                            296,
+                            83,
+                            404
+                        ],
+                        "object_bbox": [
+                            56,
+                            336,
+                            203,
+                            547
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box depicted as doing in the picture?",
+                "options": [
+                    "riding skis",
+                    "skiing down a slope",
+                    "renting skis",
+                    "adjusting skis"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0164.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003494.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skis",
+                        "action": "ride",
+                        "human_bbox": [
+                            239,
+                            478,
+                            102,
+                            355
+                        ],
+                        "object_bbox": [
+                            278,
+                            479,
+                            306,
+                            381
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box captured doing in the image?",
+                "options": [
+                    "carrying a book",
+                    "reading a book",
+                    "dropping a book",
+                    "stacking books"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0165.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007380.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "carry",
+                        "human_bbox": [
+                            397,
+                            520,
+                            297,
+                            501
+                        ],
+                        "object_bbox": [
+                            397,
+                            455,
+                            374,
+                            405
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box seen doing in the picture?",
+                "options": [
+                    "riding a bicycle",
+                    "fixing a bicycle",
+                    "renting a bicycle",
+                    "stealing a bicycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0166.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007717.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "ride",
+                        "human_bbox": [
+                            127,
+                            160,
+                            253,
+                            289
+                        ],
+                        "object_bbox": [
+                            108,
+                            524,
+                            213,
+                            404
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box engaged in within the photo?",
+                "options": [
+                    "flying a kite",
+                    "flying a drone",
+                    "buying a kite",
+                    "untangling a kite"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0167.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001000.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "fly",
+                        "human_bbox": [
+                            388,
+                            588,
+                            142,
+                            417
+                        ],
+                        "object_bbox": [
+                            20,
+                            169,
+                            58,
+                            190
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box involved in within the image?",
+                "options": [
+                    "picking up the cake",
+                    "eating the cake",
+                    "cutting the cake",
+                    "baking the cake"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0168.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008932.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cake",
+                        "action": "pick_up",
+                        "human_bbox": [
+                            150,
+                            443,
+                            57,
+                            423
+                        ],
+                        "object_bbox": [
+                            206,
+                            325,
+                            255,
+                            299
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box doing in the picture?",
+                "options": [
+                    "sitting on the bench",
+                    "sitting on the floor",
+                    "sitting on a stool",
+                    "sitting on a chair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0169.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003001.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            282,
+                            329,
+                            206,
+                            337
+                        ],
+                        "object_bbox": [
+                            158,
+                            451,
+                            237,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What activity is the individual in the red box engaged in within the image?",
+                "options": [
+                    "eating at the dining table",
+                    "setting the table",
+                    "clearing the table",
+                    "decorating the table"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0170.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007298.jpg"
+                    },
+                    "labels": {
+                        "object_name": "dining_table",
+                        "action": "eat_at",
+                        "human_bbox": [
+                            91,
+                            269,
+                            156,
+                            375
+                        ],
+                        "object_bbox": [
+                            119,
+                            456,
+                            165,
+                            449
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person highlighted in the red box doing in the photo?",
+                "options": [
+                    "kissing the person",
+                    "hugging the person",
+                    "waving to the person",
+                    "talking to the person"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0171.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005896.jpg"
+                    },
+                    "labels": {
+                        "object_name": "person",
+                        "action": "kiss",
+                        "human_bbox": [
+                            258,
+                            414,
+                            92,
+                            426
+                        ],
+                        "object_bbox": [
+                            310,
+                            479,
+                            130,
+                            426
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What actions is the person in the red box taking in the image?",
+                "options": [
+                    "holding the stop sign",
+                    "raising the stop sign",
+                    "waving the stop sign",
+                    "dropping the stop sign"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0173.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002592.jpg"
+                    },
+                    "labels": {
+                        "object_name": "stop_sign",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            290,
+                            302,
+                            635
+                        ],
+                        "object_bbox": [
+                            147,
+                            298,
+                            84,
+                            639
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person marked by the red box doing in the image?",
+                "options": [
+                    "carrying a backpack",
+                    "wearing a backpack",
+                    "taking off a backpack",
+                    "packing a backpack"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0175.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007754.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            51,
+                            328,
+                            55,
+                            418
+                        ],
+                        "object_bbox": [
+                            237,
+                            351,
+                            112,
+                            273
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "eating a donut",
+                    "baking a donut",
+                    "sharing a donut",
+                    "craving a donut"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0176.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003695.jpg"
+                    },
+                    "labels": {
+                        "object_name": "donut",
+                        "action": "eat",
+                        "human_bbox": [
+                            66,
+                            299,
+                            109,
+                            637
+                        ],
+                        "object_bbox": [
+                            90,
+                            156,
+                            187,
+                            238
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person framed by the red box doing in the picture?",
+                "options": [
+                    "flipping the skateboard",
+                    "spinning the skateboard",
+                    "riding the skateboard",
+                    "flipping the snowboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0177.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008489.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            126,
+                            347,
+                            96,
+                            240
+                        ],
+                        "object_bbox": [
+                            236,
+                            278,
+                            195,
+                            301
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "driving the bus",
+                    "riding the bus",
+                    "fixing the bus",
+                    "cleaning the bus"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0179.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000364.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            144,
+                            198,
+                            343,
+                            414
+                        ],
+                        "object_bbox": [
+                            65,
+                            466,
+                            272,
+                            579
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box performing in the image?",
+                "options": [
+                    "drinking with a cup",
+                    "pouring from a cup",
+                    "filling a cup",
+                    "sipping from a cup"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0180.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005135.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cup",
+                        "action": "drink_with",
+                        "human_bbox": [
+                            11,
+                            377,
+                            50,
+                            355
+                        ],
+                        "object_bbox": [
+                            179,
+                            218,
+                            100,
+                            138
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is happening with the person in the red box in the picture?",
+                "options": [
+                    "sitting on the chair",
+                    "leaning on the chair",
+                    "standing on the chair",
+                    "sitting on a stool"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0181.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003451.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            216,
+                            359,
+                            281,
+                            498
+                        ],
+                        "object_bbox": [
+                            197,
+                            342,
+                            279,
+                            491
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What task is the person in the red box doing in the image?",
+                "options": [
+                    "riding the surfboard",
+                    "riding the skateboard",
+                    "waxing the surfboard",
+                    "balancing on the surfboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0182.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008128.jpg"
+                    },
+                    "labels": {
+                        "object_name": "surfboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            367,
+                            435,
+                            126,
+                            251
+                        ],
+                        "object_bbox": [
+                            440,
+                            510,
+                            231,
+                            259
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box accomplishing in the picture?",
+                "options": [
+                    "holding the motorcycle",
+                    "riding the motorcycle",
+                    "pushing the motorcycle",
+                    "dismantling the motorcycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0183.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005599.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            365,
+                            406,
+                            185,
+                            269
+                        ],
+                        "object_bbox": [
+                            285,
+                            426,
+                            231,
+                            291
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box shown doing in the image?",
+                "options": [
+                    "dribbling the sports ball",
+                    "kicking the sports ball",
+                    "throwing the sports ball",
+                    "catching the sports ball"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0184.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009569.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "dribble",
+                        "human_bbox": [
+                            16,
+                            345,
+                            9,
+                            411
+                        ],
+                        "object_bbox": [
+                            282,
+                            364,
+                            339,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box depicted as doing in the picture?",
+                "options": [
+                    "jumping over the bicycle",
+                    "riding the bicycle",
+                    "fixing the bicycle",
+                    "pushing the bicycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0185.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000926.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "jump",
+                        "human_bbox": [
+                            115,
+                            310,
+                            43,
+                            226
+                        ],
+                        "object_bbox": [
+                            142,
+                            293,
+                            243,
+                            565
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box captured doing in the image?",
+                "options": [
+                    "flipping the skateboard",
+                    "riding the skateboard",
+                    "jumping over the skateboard",
+                    "breaking the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0186.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000284.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            21,
+                            314,
+                            121,
+                            290
+                        ],
+                        "object_bbox": [
+                            266,
+                            354,
+                            266,
+                            288
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box seen doing in the picture?",
+                "options": [
+                    "riding a boat",
+                    "rowing a boat",
+                    "sinking a boat",
+                    "steering a boat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0187.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003627.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "ride",
+                        "human_bbox": [
+                            134,
+                            383,
+                            76,
+                            274
+                        ],
+                        "object_bbox": [
+                            155,
+                            586,
+                            114,
+                            332
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box engaged in within the photo?",
+                "options": [
+                    "squeezing the orange",
+                    "peeling the orange",
+                    "drinking orange juice",
+                    "cutting the orange"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0188.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002314.jpg"
+                    },
+                    "labels": {
+                        "object_name": "orange",
+                        "action": "squeeze",
+                        "human_bbox": [
+                            133,
+                            638,
+                            15,
+                            419
+                        ],
+                        "object_bbox": [
+                            181,
+                            432,
+                            41,
+                            376
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box involved in within the image?",
+                "options": [
+                    "holding the frisbee",
+                    "throwing the frisbee",
+                    "spinning the frisbee",
+                    "catching the frisbee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0189.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008526.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "hold",
+                        "human_bbox": [
+                            270,
+                            311,
+                            163,
+                            257
+                        ],
+                        "object_bbox": [
+                            298,
+                            321,
+                            175,
+                            194
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box doing in the picture?",
+                "options": [
+                    "racing a motorcycle",
+                    "repairing a motorcycle",
+                    "riding a bicycle",
+                    "racing a car"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0190.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006007.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "race",
+                        "human_bbox": [
+                            168,
+                            244,
+                            92,
+                            223
+                        ],
+                        "object_bbox": [
+                            188,
+                            259,
+                            129,
+                            231
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What activity is the individual in the red box engaged in within the image?",
+                "options": [
+                    "holding the chair",
+                    "moving the chair",
+                    "lifting the chair",
+                    "kicking the chair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0191.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006973.jpg"
+                    },
+                    "labels": {
+                        "object_name": "chair",
+                        "action": "hold",
+                        "human_bbox": [
+                            97,
+                            540,
+                            66,
+                            422
+                        ],
+                        "object_bbox": [
+                            168,
+                            456,
+                            275,
+                            419
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person highlighted in the red box doing in the photo?",
+                "options": [
+                    "sitting on the bench",
+                    "sitting on the floor",
+                    "sitting on a stool",
+                    "sitting on a chair"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0192.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004130.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bench",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            161,
+                            360,
+                            63,
+                            424
+                        ],
+                        "object_bbox": [
+                            1,
+                            637,
+                            340,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What the person inside the red box is doing in the picture?",
+                "options": [
+                    "holding the bicycle",
+                    "riding the bicycle",
+                    "pushing the bicycle",
+                    "fixing the bicycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0193.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001956.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            304,
+                            402,
+                            69,
+                            220
+                        ],
+                        "object_bbox": [
+                            191,
+                            542,
+                            182,
+                            395
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person marked by the red box doing in the image?",
+                "options": [
+                    "holding the baseball bat",
+                    "swinging the baseball bat",
+                    "dropping the baseball bat",
+                    "passing the baseball bat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0196.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001485.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "hold",
+                        "human_bbox": [
+                            255,
+                            407,
+                            163,
+                            358
+                        ],
+                        "object_bbox": [
+                            352,
+                            435,
+                            164,
+                            214
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "typing on the keyboard",
+                    "clicking on the keyboard",
+                    "cleaning the keyboard",
+                    "smashing the keyboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0197.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003375.jpg"
+                    },
+                    "labels": {
+                        "object_name": "keyboard",
+                        "action": "type_on",
+                        "human_bbox": [
+                            1,
+                            333,
+                            1,
+                            464
+                        ],
+                        "object_bbox": [
+                            1,
+                            636,
+                            81,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person framed by the red box doing in the picture?",
+                "options": [
+                    "feeding the giraffe",
+                    "petting the giraffe",
+                    "observing the giraffe",
+                    "riding the giraffe"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0198.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004751.jpg"
+                    },
+                    "labels": {
+                        "object_name": "giraffe",
+                        "action": "feed",
+                        "human_bbox": [
+                            224,
+                            633,
+                            170,
+                            635
+                        ],
+                        "object_bbox": [
+                            3,
+                            266,
+                            7,
+                            440
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person enclosed by the red box doing in the image?",
+                "options": [
+                    "riding the train",
+                    "boarding the train",
+                    "missing the train",
+                    "waiting for the train"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0199.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009035.jpg"
+                    },
+                    "labels": {
+                        "object_name": "train",
+                        "action": "ride",
+                        "human_bbox": [
+                            481,
+                            526,
+                            185,
+                            264
+                        ],
+                        "object_bbox": [
+                            2,
+                            638,
+                            2,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "carrying a bicycle",
+                    "riding a bicycle",
+                    "pushing a bicycle",
+                    "repairing a bicycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0200.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000037.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "carry",
+                        "human_bbox": [
+                            237,
+                            620,
+                            5,
+                            631
+                        ],
+                        "object_bbox": [
+                            3,
+                            633,
+                            117,
+                            589
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box performing in the image?",
+                "options": [
+                    "carrying a skateboard",
+                    "carrying a surfboard",
+                    "dropping a skateboard",
+                    "kicking a skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0201.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007401.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            192,
+                            232,
+                            295,
+                            431
+                        ],
+                        "object_bbox": [
+                            178,
+                            249,
+                            342,
+                            388
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What task is the person in the red box doing in the image?",
+                "options": [
+                    "brushing with a toothbrush",
+                    "painting with a brush",
+                    "scrubbing with a toothbrush",
+                    "brushing with a comb"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0203.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008294.jpg"
+                    },
+                    "labels": {
+                        "object_name": "toothbrush",
+                        "action": "brush_with",
+                        "human_bbox": [
+                            17,
+                            632,
+                            10,
+                            386
+                        ],
+                        "object_bbox": [
+                            288,
+                            402,
+                            210,
+                            387
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box accomplishing in the picture?",
+                "options": [
+                    "grinding the skateboard",
+                    "riding the skateboard",
+                    "assembling the skateboard",
+                    "decorating the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0204.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004291.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            227,
+                            396,
+                            68,
+                            390
+                        ],
+                        "object_bbox": [
+                            267,
+                            391,
+                            291,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box shown doing in the image?",
+                "options": [
+                    "riding a horse",
+                    "riding a bike",
+                    "grooming a horse",
+                    "feeding a horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0205.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002143.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            295,
+                            370,
+                            79,
+                            281
+                        ],
+                        "object_bbox": [
+                            118,
+                            469,
+                            145,
+                            393
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box captured doing in the image?",
+                "options": [
+                    "throwing the frisbee",
+                    "catching the frisbee",
+                    "spinning the frisbee",
+                    "kicking the frisbee"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0207.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002326.jpg"
+                    },
+                    "labels": {
+                        "object_name": "frisbee",
+                        "action": "throw",
+                        "human_bbox": [
+                            370,
+                            550,
+                            74,
+                            357
+                        ],
+                        "object_bbox": [
+                            295,
+                            338,
+                            61,
+                            82
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box seen doing in the picture?",
+                "options": [
+                    "riding a motorcycle",
+                    "riding a bicycle",
+                    "repairing a motorcycle",
+                    "selling a motorcycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0208.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003435.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "ride",
+                        "human_bbox": [
+                            242,
+                            327,
+                            174,
+                            262
+                        ],
+                        "object_bbox": [
+                            223,
+                            361,
+                            205,
+                            297
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box engaged in within the photo?",
+                "options": [
+                    "carrying a carrot",
+                    "eating a carrot",
+                    "planting a carrot",
+                    "peeling a carrot"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0209.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000298.jpg"
+                    },
+                    "labels": {
+                        "object_name": "carrot",
+                        "action": "carry",
+                        "human_bbox": [
+                            2,
+                            321,
+                            7,
+                            162
+                        ],
+                        "object_bbox": [
+                            256,
+                            319,
+                            12,
+                            88
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box involved in within the image?",
+                "options": [
+                    "repairing the sink",
+                    "installing a dishwasher",
+                    "fixing a leaky faucet",
+                    "caulking the bathtub"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0210.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005618.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sink",
+                        "action": "repair",
+                        "human_bbox": [
+                            4,
+                            352,
+                            62,
+                            637
+                        ],
+                        "object_bbox": [
+                            180,
+                            474,
+                            343,
+                            637
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box doing in the picture?",
+                "options": [
+                    "holding the sheep",
+                    "petting the sheep",
+                    "feeding the sheep",
+                    "shearing the sheep"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0211.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003443.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sheep",
+                        "action": "hold",
+                        "human_bbox": [
+                            138,
+                            345,
+                            1,
+                            377
+                        ],
+                        "object_bbox": [
+                            214,
+                            638,
+                            277,
+                            421
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What activity is the individual in the red box engaged in within the image?",
+                "options": [
+                    "carrying a skateboard",
+                    "riding a skateboard",
+                    "balancing a skateboard",
+                    "kicking a skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0212.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006037.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            223,
+                            239,
+                            221,
+                            271
+                        ],
+                        "object_bbox": [
+                            223,
+                            238,
+                            244,
+                            270
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What the person inside the red box is doing in the picture?",
+                "options": [
+                    "carrying a baseball bat",
+                    "carrying a golf club",
+                    "swinging a baseball bat",
+                    "dropping a baseball bat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0214.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009362.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "carry",
+                        "human_bbox": [
+                            104,
+                            244,
+                            110,
+                            538
+                        ],
+                        "object_bbox": [
+                            217,
+                            397,
+                            219,
+                            278
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What actions is the person in the red box taking in the image?",
+                "options": [
+                    "riding the skis",
+                    "riding a snowboard",
+                    "skiing down the slope",
+                    "renting skis"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0215.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008237.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skis",
+                        "action": "ride",
+                        "human_bbox": [
+                            309,
+                            355,
+                            290,
+                            384
+                        ],
+                        "object_bbox": [
+                            308,
+                            333,
+                            382,
+                            391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person marked by the red box doing in the image?",
+                "options": [
+                    "hunting a bear",
+                    "photographing a bear",
+                    "tracking a bear",
+                    "feeding a bear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0217.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005359.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bear",
+                        "action": "hunt",
+                        "human_bbox": [
+                            400,
+                            549,
+                            86,
+                            226
+                        ],
+                        "object_bbox": [
+                            182,
+                            637,
+                            199,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "holding a horse",
+                    "riding a horse",
+                    "grooming a horse",
+                    "feeding a horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0218.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001446.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            170,
+                            283,
+                            27,
+                            406
+                        ],
+                        "object_bbox": [
+                            26,
+                            480,
+                            194,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person enclosed by the red box doing in the image?",
+                "options": [
+                    "carrying the umbrella",
+                    "holding the umbrella",
+                    "opening the umbrella",
+                    "folding the umbrella"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0220.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005125.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            356,
+                            436,
+                            200,
+                            419
+                        ],
+                        "object_bbox": [
+                            343,
+                            494,
+                            173,
+                            250
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "grinding the skateboard",
+                    "riding the skateboard",
+                    "painting the skateboard",
+                    "repairing the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0221.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005615.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "grind",
+                        "human_bbox": [
+                            41,
+                            359,
+                            5,
+                            535
+                        ],
+                        "object_bbox": [
+                            114,
+                            242,
+                            514,
+                            577
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box performing in the image?",
+                "options": [
+                    "flying an airplane",
+                    "flying a helicopter",
+                    "boarding an airplane",
+                    "refueling an airplane"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0222.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006196.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "fly",
+                        "human_bbox": [
+                            269,
+                            357,
+                            134,
+                            227
+                        ],
+                        "object_bbox": [
+                            4,
+                            640,
+                            9,
+                            424
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is happening with the person in the red box in the picture?",
+                "options": [
+                    "holding the motorcycle",
+                    "riding the motorcycle",
+                    "pushing the motorcycle",
+                    "balancing the motorcycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0223.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000627.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            369,
+                            494,
+                            111,
+                            245
+                        ],
+                        "object_bbox": [
+                            362,
+                            502,
+                            188,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What task is the person in the red box doing in the image?",
+                "options": [
+                    "carrying an umbrella",
+                    "hiking with an umbrella",
+                    "holding a parasol",
+                    "twirling an umbrella"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0224.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002558.jpg"
+                    },
+                    "labels": {
+                        "object_name": "umbrella",
+                        "action": "carry",
+                        "human_bbox": [
+                            266,
+                            324,
+                            322,
+                            450
+                        ],
+                        "object_bbox": [
+                            263,
+                            352,
+                            293,
+                            331
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box accomplishing in the picture?",
+                "options": [
+                    "racing the motorcycle",
+                    "riding the bicycle",
+                    "repairing the motorcycle",
+                    "decorating the motorcycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0225.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000990.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "race",
+                        "human_bbox": [
+                            131,
+                            373,
+                            121,
+                            377
+                        ],
+                        "object_bbox": [
+                            2,
+                            517,
+                            141,
+                            387
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box shown doing in the image?",
+                "options": [
+                    "holding a book",
+                    "reading a book",
+                    "balancing a book",
+                    "dropping a book"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0226.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000514.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "hold",
+                        "human_bbox": [
+                            337,
+                            589,
+                            117,
+                            639
+                        ],
+                        "object_bbox": [
+                            334,
+                            459,
+                            238,
+                            322
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box depicted as doing in the picture?",
+                "options": [
+                    "carrying a sports ball",
+                    "bouncing a sports ball",
+                    "kicking a sports ball",
+                    "throwing a sports ball"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0227.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006563.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "carry",
+                        "human_bbox": [
+                            299,
+                            371,
+                            66,
+                            369
+                        ],
+                        "object_bbox": [
+                            286,
+                            333,
+                            40,
+                            74
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box captured doing in the image?",
+                "options": [
+                    "carrying the book",
+                    "reading the book",
+                    "taking the book",
+                    "dropping the book"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0228.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009382.jpg"
+                    },
+                    "labels": {
+                        "object_name": "book",
+                        "action": "carry",
+                        "human_bbox": [
+                            163,
+                            300,
+                            97,
+                            426
+                        ],
+                        "object_bbox": [
+                            202,
+                            285,
+                            230,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box seen doing in the picture?",
+                "options": [
+                    "jumping a horse",
+                    "riding a horse",
+                    "feeding a horse",
+                    "grooming a horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0229.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004699.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "jump",
+                        "human_bbox": [
+                            108,
+                            198,
+                            90,
+                            291
+                        ],
+                        "object_bbox": [
+                            87,
+                            242,
+                            164,
+                            401
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box engaged in within the photo?",
+                "options": [
+                    "carrying a handbag",
+                    "wearing a hat",
+                    "holding a purse",
+                    "dropping a handbag"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0230.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004207.jpg"
+                    },
+                    "labels": {
+                        "object_name": "handbag",
+                        "action": "carry",
+                        "human_bbox": [
+                            46,
+                            213,
+                            90,
+                            506
+                        ],
+                        "object_bbox": [
+                            134,
+                            235,
+                            260,
+                            425
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box involved in within the image?",
+                "options": [
+                    "cleaning the sink",
+                    "scrubbing the floor",
+                    "organizing the cabinet",
+                    "fixing the faucet"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0231.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008900.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sink",
+                        "action": "clean",
+                        "human_bbox": [
+                            218,
+                            444,
+                            198,
+                            628
+                        ],
+                        "object_bbox": [
+                            142,
+                            306,
+                            311,
+                            456
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box doing in the picture?",
+                "options": [
+                    "holding the skateboard",
+                    "riding the skateboard",
+                    "gripping the skateboard",
+                    "dropping the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0232.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000585.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "hold",
+                        "human_bbox": [
+                            136,
+                            418,
+                            92,
+                            312
+                        ],
+                        "object_bbox": [
+                            143,
+                            449,
+                            292,
+                            339
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What activity is the individual in the red box engaged in within the image?",
+                "options": [
+                    "carrying a teddy bear",
+                    "hugging a teddy bear",
+                    "gifting a teddy bear",
+                    "cuddling a teddy bear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0233.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007992.jpg"
+                    },
+                    "labels": {
+                        "object_name": "teddy_bear",
+                        "action": "carry",
+                        "human_bbox": [
+                            274,
+                            437,
+                            69,
+                            387
+                        ],
+                        "object_bbox": [
+                            276,
+                            345,
+                            123,
+                            245
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person highlighted in the red box doing in the photo?",
+                "options": [
+                    "serving the sports ball",
+                    "hitting the sports ball",
+                    "catching the sports ball",
+                    "throwing the sports ball"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0234.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002058.jpg"
+                    },
+                    "labels": {
+                        "object_name": "sports_ball",
+                        "action": "serve",
+                        "human_bbox": [
+                            142,
+                            175,
+                            177,
+                            242
+                        ],
+                        "object_bbox": [
+                            250,
+                            265,
+                            139,
+                            149
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What the person inside the red box is doing in the picture?",
+                "options": [
+                    "driving the bus",
+                    "decorating the bus",
+                    "cleaning the bus",
+                    "repairing the bus"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0235.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007297.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            184,
+                            241,
+                            183,
+                            230
+                        ],
+                        "object_bbox": [
+                            128,
+                            467,
+                            69,
+                            377
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What actions is the person in the red box taking in the image?",
+                "options": [
+                    "riding a horse",
+                    "riding a bike",
+                    "feeding a horse",
+                    "grooming a horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0236.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007915.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "ride",
+                        "human_bbox": [
+                            266,
+                            419,
+                            13,
+                            310
+                        ],
+                        "object_bbox": [
+                            66,
+                            565,
+                            101,
+                            350
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the individual in the red box up to in the picture?",
+                "options": [
+                    "holding the wine glass",
+                    "clinking the wine glass",
+                    "sipping from the wine glass",
+                    "swirling the wine glass"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0237.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007201.jpg"
+                    },
+                    "labels": {
+                        "object_name": "wine_glass",
+                        "action": "hold",
+                        "human_bbox": [
+                            1,
+                            637,
+                            1,
+                            424
+                        ],
+                        "object_bbox": [
+                            114,
+                            323,
+                            45,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "launching the boat",
+                    "sinking the boat",
+                    "repairing the boat",
+                    "boarding the boat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0239.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003237.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "launch",
+                        "human_bbox": [
+                            307,
+                            361,
+                            224,
+                            326
+                        ],
+                        "object_bbox": [
+                            226,
+                            368,
+                            18,
+                            369
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person framed by the red box doing in the picture?",
+                "options": [
+                    "holding a motorcycle",
+                    "riding a motorcycle",
+                    "pushing a motorcycle",
+                    "repairing a motorcycle"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0240.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006104.jpg"
+                    },
+                    "labels": {
+                        "object_name": "motorcycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            165,
+                            375,
+                            42,
+                            388
+                        ],
+                        "object_bbox": [
+                            37,
+                            448,
+                            112,
+                            379
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person enclosed by the red box doing in the image?",
+                "options": [
+                    "carrying a skateboard",
+                    "carrying a surfboard",
+                    "riding a skateboard",
+                    "dropping a skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0241.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002926.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "carry",
+                        "human_bbox": [
+                            12,
+                            247,
+                            57,
+                            629
+                        ],
+                        "object_bbox": [
+                            204,
+                            237,
+                            524,
+                            637
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "flipping the skateboard",
+                    "riding the skateboard",
+                    "capturing the skateboard",
+                    "flipping the surfboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0242.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006049.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            251,
+                            406,
+                            127,
+                            289
+                        ],
+                        "object_bbox": [
+                            275,
+                            336,
+                            288,
+                            329
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is happening with the person in the red box in the picture?",
+                "options": [
+                    "breaking the baseball bat",
+                    "repairing the baseball bat",
+                    "throwing the baseball bat",
+                    "signing the baseball bat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0244.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004068.jpg"
+                    },
+                    "labels": {
+                        "object_name": "baseball_bat",
+                        "action": "break",
+                        "human_bbox": [
+                            174,
+                            393,
+                            82,
+                            446
+                        ],
+                        "object_bbox": [
+                            305,
+                            431,
+                            48,
+                            170
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What task is the person in the red box doing in the image?",
+                "options": [
+                    "carrying the pizza",
+                    "delivering the pizza",
+                    "eating the pizza",
+                    "dropping the pizza"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0245.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00000779.jpg"
+                    },
+                    "labels": {
+                        "object_name": "pizza",
+                        "action": "carry",
+                        "human_bbox": [
+                            35,
+                            209,
+                            66,
+                            350
+                        ],
+                        "object_bbox": [
+                            106,
+                            217,
+                            262,
+                            315
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box accomplishing in the picture?",
+                "options": [
+                    "holding the cat",
+                    "petting the cat",
+                    "feeding the cat",
+                    "cuddling the cat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0246.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00008765.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cat",
+                        "action": "hold",
+                        "human_bbox": [
+                            59,
+                            491,
+                            8,
+                            474
+                        ],
+                        "object_bbox": [
+                            123,
+                            409,
+                            226,
+                            478
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box depicted as doing in the picture?",
+                "options": [
+                    "walking the horse",
+                    "riding the horse",
+                    "grooming the horse",
+                    "feeding the horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0248.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009261.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "walk",
+                        "human_bbox": [
+                            319,
+                            516,
+                            54,
+                            589
+                        ],
+                        "object_bbox": [
+                            139,
+                            314,
+                            106,
+                            592
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box captured doing in the image?",
+                "options": [
+                    "scratching the cat",
+                    "petting the cat",
+                    "feeding the cat",
+                    "grooming the cat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0249.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009168.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cat",
+                        "action": "scratch",
+                        "human_bbox": [
+                            97,
+                            636,
+                            2,
+                            576
+                        ],
+                        "object_bbox": [
+                            150,
+                            635,
+                            216,
+                            634
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box seen doing in the picture?",
+                "options": [
+                    "feeding the giraffe",
+                    "petting the giraffe",
+                    "watching the giraffe",
+                    "photographing the giraffe"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0250.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004954.jpg"
+                    },
+                    "labels": {
+                        "object_name": "giraffe",
+                        "action": "feed",
+                        "human_bbox": [
+                            291,
+                            375,
+                            206,
+                            363
+                        ],
+                        "object_bbox": [
+                            386,
+                            538,
+                            78,
+                            422
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box engaged in within the photo?",
+                "options": [
+                    "inspecting the airplane",
+                    "repairing the airplane",
+                    "boarding the airplane",
+                    "cleaning the airplane"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0251.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002423.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "inspect",
+                        "human_bbox": [
+                            214,
+                            311,
+                            110,
+                            215
+                        ],
+                        "object_bbox": [
+                            190,
+                            637,
+                            1,
+                            470
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box involved in within the image?",
+                "options": [
+                    "flipping the skateboard",
+                    "spinning the skateboard",
+                    "riding the skateboard",
+                    "kicking the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0252.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00001414.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "flip",
+                        "human_bbox": [
+                            222,
+                            418,
+                            1,
+                            195
+                        ],
+                        "object_bbox": [
+                            277,
+                            356,
+                            186,
+                            227
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box doing in the picture?",
+                "options": [
+                    "holding a bicycle",
+                    "riding a bicycle",
+                    "carrying a kayak",
+                    "pushing a stroller"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0253.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004067.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bicycle",
+                        "action": "hold",
+                        "human_bbox": [
+                            141,
+                            309,
+                            210,
+                            519
+                        ],
+                        "object_bbox": [
+                            62,
+                            337,
+                            352,
+                            619
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What activity is the individual in the red box engaged in within the image?",
+                "options": [
+                    "driving the bus",
+                    "repairing the bus",
+                    "boarding the bus",
+                    "navigating the bus"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0254.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005620.jpg"
+                    },
+                    "labels": {
+                        "object_name": "bus",
+                        "action": "drive",
+                        "human_bbox": [
+                            381,
+                            468,
+                            118,
+                            200
+                        ],
+                        "object_bbox": [
+                            105,
+                            506,
+                            36,
+                            406
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person highlighted in the red box doing in the photo?",
+                "options": [
+                    "carrying a kite",
+                    "flying a kite",
+                    "making a kite",
+                    "buying a kite"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0255.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003059.jpg"
+                    },
+                    "labels": {
+                        "object_name": "kite",
+                        "action": "carry",
+                        "human_bbox": [
+                            60,
+                            143,
+                            392,
+                            569
+                        ],
+                        "object_bbox": [
+                            104,
+                            238,
+                            459,
+                            560
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What the person inside the red box is doing in the picture?",
+                "options": [
+                    "riding a boat",
+                    "rowing a boat",
+                    "sinking a boat",
+                    "fishing from a boat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0256.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00006570.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "ride",
+                        "human_bbox": [
+                            341,
+                            381,
+                            299,
+                            405
+                        ],
+                        "object_bbox": [
+                            2,
+                            423,
+                            139,
+                            467
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What actions is the person in the red box taking in the image?",
+                "options": [
+                    "carrying a backpack",
+                    "wearing a backpack",
+                    "unpacking a backpack",
+                    "buying a backpack"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0257.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00002344.jpg"
+                    },
+                    "labels": {
+                        "object_name": "backpack",
+                        "action": "carry",
+                        "human_bbox": [
+                            219,
+                            266,
+                            406,
+                            565
+                        ],
+                        "object_bbox": [
+                            250,
+                            274,
+                            421,
+                            492
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the individual in the red box up to in the picture?",
+                "options": [
+                    "driving the car",
+                    "riding the bike",
+                    "fixing the car",
+                    "washing the car"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0258.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004922.jpg"
+                    },
+                    "labels": {
+                        "object_name": "car",
+                        "action": "drive",
+                        "human_bbox": [
+                            268,
+                            334,
+                            175,
+                            221
+                        ],
+                        "object_bbox": [
+                            68,
+                            548,
+                            146,
+                            341
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person marked by the red box doing in the image?",
+                "options": [
+                    "holding the horse",
+                    "feeding the horse",
+                    "riding the horse",
+                    "walking the horse"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0259.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004025.jpg"
+                    },
+                    "labels": {
+                        "object_name": "horse",
+                        "action": "hold",
+                        "human_bbox": [
+                            134,
+                            602,
+                            130,
+                            423
+                        ],
+                        "object_bbox": [
+                            4,
+                            444,
+                            6,
+                            418
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person inside the red box doing in the photo?",
+                "options": [
+                    "riding the skateboard",
+                    "riding the bike",
+                    "balancing on the skateboard",
+                    "jumping on the skateboard"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0260.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00005524.jpg"
+                    },
+                    "labels": {
+                        "object_name": "skateboard",
+                        "action": "ride",
+                        "human_bbox": [
+                            148,
+                            323,
+                            125,
+                            258
+                        ],
+                        "object_bbox": [
+                            138,
+                            191,
+                            239,
+                            292
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person framed by the red box doing in the picture?",
+                "options": [
+                    "sitting on the boat",
+                    "fishing on the boat",
+                    "standing on the boat",
+                    "sleeping on the boat"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0261.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00003563.jpg"
+                    },
+                    "labels": {
+                        "object_name": "boat",
+                        "action": "sit_on",
+                        "human_bbox": [
+                            264,
+                            542,
+                            93,
+                            390
+                        ],
+                        "object_bbox": [
+                            3,
+                            638,
+                            278,
+                            424
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person enclosed by the red box doing in the image?",
+                "options": [
+                    "carrying the teddy bear",
+                    "hugging the teddy bear",
+                    "dropping the teddy bear",
+                    "tossing the teddy bear"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0262.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00007984.jpg"
+                    },
+                    "labels": {
+                        "object_name": "teddy_bear",
+                        "action": "carry",
+                        "human_bbox": [
+                            98,
+                            371,
+                            1,
+                            634
+                        ],
+                        "object_bbox": [
+                            278,
+                            396,
+                            312,
+                            485
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box occupied with in the picture?",
+                "options": [
+                    "holding the cell phone",
+                    "dropping the cell phone",
+                    "texting on the cell phone",
+                    "watching the cell phone"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0263.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00004186.jpg"
+                    },
+                    "labels": {
+                        "object_name": "cell_phone",
+                        "action": "hold",
+                        "human_bbox": [
+                            121,
+                            378,
+                            90,
+                            625
+                        ],
+                        "object_bbox": [
+                            181,
+                            232,
+                            126,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_action_basic",
+            "QA": {
+                "question": "What is the person in the red box performing in the image?",
+                "options": [
+                    "directing the airplane",
+                    "flying the airplane",
+                    "landing the airplane",
+                    "repairing the airplane"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/action/basic/boxed/sample_0264.jpg"
+                },
+                "source": {
+                    "dataset": "HICO-DET",
+                    "paths": {
+                        "original": "raw_data/human/HICO-DET/HICO-DET/hico_20160224_det/images/test2015/HICO_test2015_00009065.jpg"
+                    },
+                    "labels": {
+                        "object_name": "airplane",
+                        "action": "direct",
+                        "human_bbox": [
+                            391,
+                            500,
+                            208,
+                            286
+                        ],
+                        "object_bbox": [
+                            105,
+                            481,
+                            90,
+                            235
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

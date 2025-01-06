@@ -1,0 +1,2054 @@
+{
+    "data": [
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable connection between the two people in the red box in the picture?",
+                "options": [
+                    "Couple",
+                    "Commercial Relation",
+                    "Family",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14559.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            15,
+                            53,
+                            207,
+                            417
+                        ],
+                        "second_human_bbox": [
+                            124,
+                            41,
+                            270,
+                            400
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely what to each other?",
+                "options": [
+                    "Couple",
+                    "Family",
+                    "No Relation",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23187.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            356,
+                            116,
+                            466,
+                            381
+                        ],
+                        "second_human_bbox": [
+                            255,
+                            109,
+                            354,
+                            384
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the likely connection between the two people in the red box in the photo?",
+                "options": [
+                    "Couple",
+                    "Commercial Relation",
+                    "No Relation",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/18392.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            75,
+                            155,
+                            186,
+                            473
+                        ],
+                        "second_human_bbox": [
+                            160,
+                            156,
+                            265,
+                            470
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of connection do the two people in the red box in the picture most likely have?",
+                "options": [
+                    "Couple",
+                    "No Relation",
+                    "Commercial Relation",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14008.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            333,
+                            64,
+                            539,
+                            527
+                        ],
+                        "second_human_bbox": [
+                            442,
+                            59,
+                            715,
+                            533
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of relationship is most likely shared by the two people in the red box in the picture",
+                "options": [
+                    "Couple",
+                    "Professional Relation",
+                    "Family",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/06471.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            205,
+                            95,
+                            361,
+                            534
+                        ],
+                        "second_human_bbox": [
+                            374,
+                            136,
+                            494,
+                            534
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely to have which of the following relationships?",
+                "options": [
+                    "Couple",
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01390.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            0,
+                            147,
+                            322,
+                            372
+                        ],
+                        "second_human_bbox": [
+                            271,
+                            89,
+                            499,
+                            372
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely relationship between the two people in the red box in the picture?",
+                "options": [
+                    "Couple",
+                    "Family",
+                    "Professional Relation",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23678.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            73,
+                            68,
+                            282,
+                            367
+                        ],
+                        "second_human_bbox": [
+                            217,
+                            80,
+                            372,
+                            351
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two individuals in the red box in the picture are most likely to have what kind of relationship?",
+                "options": [
+                    "Couple",
+                    "Friends",
+                    "No Relation",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10786.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            159,
+                            72,
+                            479,
+                            540
+                        ],
+                        "second_human_bbox": [
+                            0,
+                            66,
+                            283,
+                            638
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of relationship is most probable between the two people in the red box in the image?",
+                "options": [
+                    "Couple",
+                    "Family",
+                    "Professional Relation",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/16885.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            345,
+                            353,
+                            559,
+                            598
+                        ],
+                        "second_human_bbox": [
+                            165,
+                            308,
+                            364,
+                            596
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "Which relationship do the two people in the red box in the photo most likely have?",
+                "options": [
+                    "Couple",
+                    "No Relation",
+                    "Family",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/14082.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            151,
+                            186,
+                            431,
+                            532
+                        ],
+                        "second_human_bbox": [
+                            368,
+                            190,
+                            722,
+                            532
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What relationship is most likely between the two people in the red box in the picture?",
+                "options": [
+                    "Couple",
+                    "No Relation",
+                    "Friends",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00033.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Couple",
+                        "first_human_bbox": [
+                            445,
+                            170,
+                            551,
+                            342
+                        ],
+                        "second_human_bbox": [
+                            554,
+                            191,
+                            633,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the image are most likely to have what relationship?",
+                "options": [
+                    "Professional Relation",
+                    "Couple",
+                    "Friends",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04994.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 4,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            118,
+                            125,
+                            159,
+                            171
+                        ],
+                        "second_human_bbox": [
+                            325,
+                            97,
+                            373,
+                            202
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the probable relationship between the two people in the red box in the picture?",
+                "options": [
+                    "Professional Relation",
+                    "Couple",
+                    "Commercial Relation",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13107.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            227,
+                            57,
+                            343,
+                            411
+                        ],
+                        "second_human_bbox": [
+                            522,
+                            81,
+                            639,
+                            442
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable relationship between the two people in the red box in the image?",
+                "options": [
+                    "Professional Relation",
+                    "Friends",
+                    "Family",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19048.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            225,
+                            45,
+                            468,
+                            329
+                        ],
+                        "second_human_bbox": [
+                            154,
+                            179,
+                            353,
+                            330
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture most likely share what kind of relationship?",
+                "options": [
+                    "Professional Relation",
+                    "No Relation",
+                    "Family",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/20999.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 4,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            166,
+                            105,
+                            250,
+                            192
+                        ],
+                        "second_human_bbox": [
+                            9,
+                            231,
+                            67,
+                            370
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely connection between the two people in the red box in the image?",
+                "options": [
+                    "Professional Relation",
+                    "No Relation",
+                    "Family",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02357.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            168,
+                            63,
+                            255,
+                            173
+                        ],
+                        "second_human_bbox": [
+                            404,
+                            76,
+                            493,
+                            292
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What relationship do the two people in the red box in the picture most likely have?",
+                "options": [
+                    "Professional Relation",
+                    "Couple",
+                    "Friends",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19568.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            23,
+                            114,
+                            109,
+                            283
+                        ],
+                        "second_human_bbox": [
+                            261,
+                            120,
+                            299,
+                            228
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable connection between the two people in the red box in the picture?",
+                "options": [
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "Couple",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08064.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            153,
+                            84,
+                            346,
+                            427
+                        ],
+                        "second_human_bbox": [
+                            124,
+                            370,
+                            296,
+                            511
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely what to each other?",
+                "options": [
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "Couple",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/03671.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            96,
+                            38,
+                            187,
+                            326
+                        ],
+                        "second_human_bbox": [
+                            198,
+                            54,
+                            269,
+                            331
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the likely connection between the two people in the red box in the photo?",
+                "options": [
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "No Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0052.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00345.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            68,
+                            158,
+                            128,
+                            251
+                        ],
+                        "second_human_bbox": [
+                            326,
+                            161,
+                            370,
+                            234
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of connection do the two people in the red box in the picture most likely have?",
+                "options": [
+                    "Professional Relation",
+                    "No Relation",
+                    "Friends",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0053.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07331.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            62,
+                            95,
+                            118,
+                            243
+                        ],
+                        "second_human_bbox": [
+                            218,
+                            81,
+                            409,
+                            333
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of relationship is most likely shared by the two people in the red box in the picture",
+                "options": [
+                    "Professional Relation",
+                    "Friends",
+                    "Couple",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04053.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 5,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            353,
+                            124,
+                            421,
+                            290
+                        ],
+                        "second_human_bbox": [
+                            295,
+                            112,
+                            342,
+                            165
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely to have which of the following relationships?",
+                "options": [
+                    "Professional Relation",
+                    "Couple",
+                    "Family",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0055.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08918.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 3,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            98,
+                            111,
+                            387,
+                            531
+                        ],
+                        "second_human_bbox": [
+                            89,
+                            41,
+                            184,
+                            244
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely relationship between the two people in the red box in the picture?",
+                "options": [
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "Family",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/01190.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Professional Relation",
+                        "first_human_bbox": [
+                            237,
+                            86,
+                            390,
+                            225
+                        ],
+                        "second_human_bbox": [
+                            98,
+                            46,
+                            248,
+                            235
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two individuals in the red box in the picture are most likely to have what kind of relationship?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "Friends",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/16520.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            318,
+                            156,
+                            372,
+                            309
+                        ],
+                        "second_human_bbox": [
+                            258,
+                            175,
+                            318,
+                            332
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of relationship is most probable between the two people in the red box in the image?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "Friends",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0058.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00400.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            171,
+                            234,
+                            328,
+                            499
+                        ],
+                        "second_human_bbox": [
+                            60,
+                            225,
+                            158,
+                            322
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "Which relationship do the two people in the red box in the photo most likely have?",
+                "options": [
+                    "Commercial Relation",
+                    "No Relation",
+                    "Family",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/02746.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            155,
+                            153,
+                            227,
+                            356
+                        ],
+                        "second_human_bbox": [
+                            286,
+                            95,
+                            430,
+                            269
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What relationship is most likely between the two people in the red box in the picture?",
+                "options": [
+                    "Commercial Relation",
+                    "Friends",
+                    "No Relation",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0060.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/21376.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            526,
+                            12,
+                            639,
+                            126
+                        ],
+                        "second_human_bbox": [
+                            152,
+                            59,
+                            299,
+                            417
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the image are most likely to have what relationship?",
+                "options": [
+                    "Commercial Relation",
+                    "Friends",
+                    "No Relation",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/04418.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 3,
+                        "second_human_id": 5,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            162,
+                            61,
+                            223,
+                            173
+                        ],
+                        "second_human_bbox": [
+                            332,
+                            32,
+                            408,
+                            189
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the probable relationship between the two people in the red box in the picture?",
+                "options": [
+                    "Commercial Relation",
+                    "Professional Relation",
+                    "No Relation",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0062.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15229.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            163,
+                            57,
+                            382,
+                            467
+                        ],
+                        "second_human_bbox": [
+                            167,
+                            155,
+                            568,
+                            531
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What type of relationship is most likely for the two people in the red box in the picture?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "No Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05727.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            292,
+                            21,
+                            465,
+                            486
+                        ],
+                        "second_human_bbox": [
+                            114,
+                            131,
+                            371,
+                            472
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable relationship between the two people in the red box in the image?",
+                "options": [
+                    "Commercial Relation",
+                    "No Relation",
+                    "Family",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/08865.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 3,
+                        "second_human_id": 4,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            526,
+                            104,
+                            586,
+                            420
+                        ],
+                        "second_human_bbox": [
+                            548,
+                            36,
+                            639,
+                            479
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture most likely share what kind of relationship?",
+                "options": [
+                    "Commercial Relation",
+                    "Friends",
+                    "Professional Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0065.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05439.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            377,
+                            166,
+                            555,
+                            559
+                        ],
+                        "second_human_bbox": [
+                            65,
+                            205,
+                            182,
+                            609
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely connection between the two people in the red box in the image?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "Couple",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23412.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            50,
+                            196,
+                            341,
+                            639
+                        ],
+                        "second_human_bbox": [
+                            205,
+                            77,
+                            454,
+                            632
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What relationship do the two people in the red box in the picture most likely have?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "Couple",
+                    "No Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/05461.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 4,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            269,
+                            163,
+                            344,
+                            393
+                        ],
+                        "second_human_bbox": [
+                            543,
+                            165,
+                            604,
+                            233
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable connection between the two people in the red box in the picture?",
+                "options": [
+                    "Commercial Relation",
+                    "Family",
+                    "No Relation",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00085.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            0,
+                            64,
+                            190,
+                            240
+                        ],
+                        "second_human_bbox": [
+                            154,
+                            0,
+                            335,
+                            240
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely what to each other?",
+                "options": [
+                    "Commercial Relation",
+                    "Professional Relation",
+                    "No Relation",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19155.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 2,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            128,
+                            246,
+                            260,
+                            375
+                        ],
+                        "second_human_bbox": [
+                            133,
+                            177,
+                            185,
+                            260
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the likely connection between the two people in the red box in the photo?",
+                "options": [
+                    "Commercial Relation",
+                    "Professional Relation",
+                    "No Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0070.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/10621.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 1,
+                        "relation": "Commercial Relation",
+                        "first_human_bbox": [
+                            21,
+                            171,
+                            466,
+                            605
+                        ],
+                        "second_human_bbox": [
+                            144,
+                            130,
+                            444,
+                            396
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of connection do the two people in the red box in the picture most likely have?",
+                "options": [
+                    "No Relation",
+                    "Couple",
+                    "Professional Relation",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13448.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 5,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            555,
+                            271,
+                            608,
+                            344
+                        ],
+                        "second_human_bbox": [
+                            11,
+                            10,
+                            293,
+                            391
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the picture are most likely to have which of the following relationships?",
+                "options": [
+                    "No Relation",
+                    "Family",
+                    "Commercial Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0073.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/13820.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            161,
+                            75,
+                            408,
+                            407
+                        ],
+                        "second_human_bbox": [
+                            1,
+                            0,
+                            54,
+                            104
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely relationship between the two people in the red box in the picture?",
+                "options": [
+                    "No Relation",
+                    "Professional Relation",
+                    "Commercial Relation",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0074.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/21888.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            137,
+                            140,
+                            263,
+                            360
+                        ],
+                        "second_human_bbox": [
+                            4,
+                            168,
+                            45,
+                            307
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two individuals in the red box in the picture are most likely to have what kind of relationship?",
+                "options": [
+                    "No Relation",
+                    "Commercial Relation",
+                    "Friends",
+                    "Family"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/23574.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 2,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            23,
+                            78,
+                            159,
+                            233
+                        ],
+                        "second_human_bbox": [
+                            379,
+                            85,
+                            495,
+                            281
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What kind of relationship is most probable between the two people in the red box in the image?",
+                "options": [
+                    "No Relation",
+                    "Commercial Relation",
+                    "Friends",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/07210.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 3,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            332,
+                            89,
+                            539,
+                            315
+                        ],
+                        "second_human_bbox": [
+                            154,
+                            69,
+                            215,
+                            159
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "Which relationship do the two people in the red box in the photo most likely have?",
+                "options": [
+                    "No Relation",
+                    "Family",
+                    "Couple",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0077.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/17336.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 5,
+                        "second_human_id": 7,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            444,
+                            0,
+                            520,
+                            127
+                        ],
+                        "second_human_bbox": [
+                            0,
+                            2,
+                            58,
+                            78
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What relationship is most likely between the two people in the red box in the picture?",
+                "options": [
+                    "No Relation",
+                    "Family",
+                    "Commercial Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/22283.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 2,
+                        "second_human_id": 3,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            144,
+                            3,
+                            197,
+                            197
+                        ],
+                        "second_human_bbox": [
+                            75,
+                            0,
+                            163,
+                            312
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "The two people in the red box in the image are most likely to have what relationship?",
+                "options": [
+                    "No Relation",
+                    "Family",
+                    "Commercial Relation",
+                    "Friends"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0079.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15412.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 4,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            392,
+                            81,
+                            696,
+                            492
+                        ],
+                        "second_human_bbox": [
+                            741,
+                            291,
+                            798,
+                            374
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the probable relationship between the two people in the red box in the picture?",
+                "options": [
+                    "No Relation",
+                    "Couple",
+                    "Friends",
+                    "Professional Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/00331.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 3,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            394,
+                            184,
+                            421,
+                            226
+                        ],
+                        "second_human_bbox": [
+                            147,
+                            124,
+                            173,
+                            169
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What type of relationship is most likely for the two people in the red box in the picture?",
+                "options": [
+                    "No Relation",
+                    "Couple",
+                    "Family",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0081.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/19902.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 6,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            378,
+                            121,
+                            455,
+                            182
+                        ],
+                        "second_human_bbox": [
+                            3,
+                            85,
+                            49,
+                            296
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most probable relationship between the two people in the red box in the image?",
+                "options": [
+                    "No Relation",
+                    "Friends",
+                    "Professional Relation",
+                    "Commercial Relation"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0082.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/15303.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 1,
+                        "second_human_id": 7,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            159,
+                            59,
+                            222,
+                            296
+                        ],
+                        "second_human_bbox": [
+                            307,
+                            111,
+                            368,
+                            214
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "type": "human_social_relation_relationship",
+            "QA": {
+                "question": "What is the most likely connection between the two people in the red box in the image?",
+                "options": [
+                    "No Relation",
+                    "Commercial Relation",
+                    "Professional Relation",
+                    "Couple"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "boxed": "eval_data/human/social_relation/relationship/boxed/sample_0084.jpg"
+                },
+                "source": {
+                    "dataset": "PISC",
+                    "paths": {
+                        "original": "raw_data/human/PISC/image/24041.jpg"
+                    },
+                    "labels": {
+                        "first_human_id": 0,
+                        "second_human_id": 7,
+                        "relation": "No Relation",
+                        "first_human_bbox": [
+                            336,
+                            69,
+                            553,
+                            485
+                        ],
+                        "second_human_bbox": [
+                            454,
+                            36,
+                            513,
+                            262
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

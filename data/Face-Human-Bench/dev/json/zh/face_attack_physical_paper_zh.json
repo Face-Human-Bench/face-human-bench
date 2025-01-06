@@ -1,0 +1,1254 @@
+{
+    "data": [
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸部是进行了实体恶搞吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_231/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的面部含有演示攻击吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_346/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中显示的脸部是物理恶作剧吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_463/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "脸部图像中是否有仿冒企图可见?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_873/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的脸部代表展示出展示攻击的迹象吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_9/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "这张图片显示出潜在的脸部仿冒迹象吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_420/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否被展示攻击欺骗了?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_482/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的脸部是一个恶作剧吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_62/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的脸部是否受到某种形式的欺骗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_353/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部图像是否被展示式攻击破坏了?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_755/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别被演示攻击欺骗了吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_388/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中展示的脸部展现出了仿冒特征吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_125/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸是实体欺骗吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_876/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的人脸是否包含了演示攻击?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_498/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中显示的脸部是实体仿冒的吗?",
+                "options": [
+                    "是的",
+                    "不要"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_446/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "在面部图像中可见有仿冒企图吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_779/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的面部表征展示出展示攻击的迹象吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_709/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "这张图片是否显示出潜在的脸部仿冒迹象?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0018.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_358/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否受到了展示攻击的欺骗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_672/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的脸部是伪造的吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_839/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的脸部受到某种形式的欺骗吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_679/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部图像是否受到了展示攻击的影响?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_169/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否被展示攻击欺骗了?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_739/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中展示的脸部是否展示出仿冒特征?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_726/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸部是实体的恶搞吗?",
+                "options": [
+                    "是的",
+                    "不要"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Live/Live_381/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸是物理伪造的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_80/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的脸部是否包含表现攻击?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0027.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_28/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中显示的脸部是木偶嫁接吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0028.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_39/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "脸部图像中是否有仿冒尝试可见?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0029.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_48/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的面部呈现是否展示出展示攻击的迹象?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0030.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_7/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "这张图片是否显示出潜在的面部欺骗迹象?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0031.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_90/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否受到展示型攻击的欺骗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0032.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_27/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的人脸是假冒的吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0033.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_73/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的面孔是否受到某种形式的欺骗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0034.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_72/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "脸部图像是否受到了展示攻击的影响?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0035.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_22/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别被演示性攻击欺骗了吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0036.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_127/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中展示的脸部展示出了仿冒的特征吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0037.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_78/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸部是否经过物理伪装?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0038.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_1/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的脸部是否包含了展示性攻击?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0039.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_84/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中显示的脸部是实体仿冒的吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0040.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_40/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "在面部图像中是否可见有仿冒的企图?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_45/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的面部表现是否表现出了展示式攻击的迹象?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0042.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_77/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "这张图片显示出潜在的人脸欺骗迹象吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0043.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_49/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否被展示攻击欺骗了?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_75/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中的面孔是假的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_15/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图像中的脸部是否受到某种形式的欺骗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0046.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_30/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部图像是否受到了演示攻击的影响?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_70/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "面部识别是否被演示攻击所欺骗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_13/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "图片中展示的脸部展示了欺骗特征吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_71/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_physical_paper",
+            "QA": {
+                "question": "照片中的脸部是真实的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/physical_paper/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "SiW-Mv2",
+                    "paths": {
+                        "cropped": "raw_data/face/SiW-Mv2/cropped/Paper/Paper_53/frame_0001.jpg"
+                    },
+                    "labels": [
+                        "Physical Spoofs"
+                    ]
+                }
+            }
+        }
+    ]
+}

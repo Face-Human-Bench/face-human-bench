@@ -1,0 +1,1254 @@
+{
+    "data": [
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是不是经过数字处理了?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0001.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/879/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有没有被数字修改过?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0002.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/110/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "有人对这张脸进行了数字修改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0003.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/428/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸的图像是否经过数字处理?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0004.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/803/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸的外貌有没有被数字改变过?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0005.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/419/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸不是因为数字编辑而失去原本的形态吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0006.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/692/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字软件被用来修改这张脸了吗?",
+                "options": [
+                    "是的",
+                    "不。"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0007.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/183/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "有人对这张脸进行了数字调整吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0008.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/923/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有没有被数字转换过?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0009.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/057/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像有没有被数字修改过?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0010.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/016/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "有人使用数字工具改变了这张脸吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0011.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/004/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸不自然是因为数字处理吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0012.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/452/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸的外观是否经过了数字调整?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0013.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/150/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张面部图像经过数字篡改了吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0014.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/802/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字技术改变了这张脸吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0015.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/547/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字处理改变了这张脸吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0016.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/251/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张面部图像经过了数字修改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0017.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/697/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸经历了数字化的改变吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0019.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/708/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字工具改变了这张脸的外观吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0020.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/298/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这是一个伪造的脸吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0021.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/173/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是伪造的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0022.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/245/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸被篡改过吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0023.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/972/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有可能被数字处理过吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0024.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/197/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸看起来是否被编辑或伪造过?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0025.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/521/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是不是经过某种形式的伪造或篡改?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 1
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0026.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/youtube/845/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Bona Fides"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像经过了数字篡改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0041.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/849_771/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像经过了数字修改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0044.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/943_942/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字软件改变了这张脸的外观吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0045.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/519_515/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字工具改变了这张脸的外观吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0047.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/220_219/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这是一个伪造的脸吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0048.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/824_419/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是伪造的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0049.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/853_863/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸被篡改过吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0050.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/250_461/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有可能被数字处理过吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0051.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/973_970/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字技术改变了这张脸吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0054.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/993_989/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有没有被数字修改过?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0056.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/734_699/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "有人对这张脸进行了数字修改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0057.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/275_887/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸的外貌有没有被数字改变过?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0059.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/348_202/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是否使用数字软件进行了修改?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0061.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/172_582/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸被数字转换了吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0063.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/632_548/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像有没有被数字修改过?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0064.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/414_385/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸不是因为数字处理而不自然吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0066.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/277_335/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸的外观是否经过了数字调整?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0067.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/707_705/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像经过了数字篡改吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0068.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/123_119/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字技术改变了这张脸吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0069.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/054_071/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸部图像经过了数字修改吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0071.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/621_546/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "数字软件改变了这张脸的外观吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0072.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/493_538/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这是一个伪造的脸吗?",
+                "options": [
+                    "是的",
+                    "不"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0075.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/316_369/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是伪造的吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0076.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/903_792/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸有可能被数字处理过吗?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0078.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/010_005/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "face_attack_digital_identity_swap",
+            "QA": {
+                "question": "这张脸是不是经过某种伪造或篡改的结果?",
+                "options": [
+                    "是的",
+                    "不是"
+                ],
+                "answer": 0
+            },
+            "image": {
+                "image_paths": {
+                    "cropped": "eval_data/face/attack/digital_identity_swap/cropped/sample_0080.jpg"
+                },
+                "source": {
+                    "dataset": "FF+",
+                    "paths": {
+                        "cropped": "raw_data/face/FF+/cropped/Deepfakes/786_819/frame_0000.jpg"
+                    },
+                    "labels": [
+                        "Digital Manipulation"
+                    ]
+                }
+            }
+        }
+    ]
+}

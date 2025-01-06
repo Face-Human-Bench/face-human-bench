@@ -27,6 +27,98 @@ Comparison of different MLLMs on English and Chinese versions of the Face-Human-
 
 For more results, please refer to our website or paper.
 
+
+## Data Acquisition
+We comply with all agreements of the original public datasets used and do not involve further copying, publishing, or distributing any portion of the images from these datasets. We will only open-source the [JSON files](https://github.com/Face-Human-Bench/face-human-bench/tree/main/data/Face-Human-Bench) containing our test and development sets.
+
+To help you reproduce the Face-Human-Bench Benchmark, we provide the following guidelines:
+
+1. Download all original images from the relevant public datasets and organize them according to the file tree below.
+
+```
+<your_path>/raw_data
+├── face
+│   ├── CALFW
+│   │   ├── calfw
+│   │   └── calfw.zip
+│   ├── CelebA
+│   │   ├── img_align_celeba
+│   │   ├── img_celeba
+│   │   └── list_attr_celeba.txt
+│   ├── CPLFW
+│   │   ├── cplfw
+│   │   └── cplfw.zip
+│   ├── FF+
+│   │   └── cropped
+│   ├── LFW
+│   │   ├── data
+│   │   └── pairs.txt
+│   ├── MLFW
+│   │   ├── aligned
+│   │   ├── mask_list.txt
+│   │   ├── MLFW.zip
+│   │   ├── origin
+│   │   └── pairs.txt
+│   ├── RAF-DB
+│   │   ├── basic
+│   │   └── compound
+│   ├── SiW-Mv2
+│   │   └── cropped
+│   ├── SLLFW
+│   │   └── pair_SLLFW.txt
+│   └── UTKFace
+│       ├── cropped
+│       ├── part1
+│       ├── part2
+│       └── part3
+└── human
+    ├── HICO-DET
+    │   ├── anno
+    │   ├── HICO-DET
+    │   ├── HICO-DET.tar.gz
+    │   ├── metafile.yaml
+    │   └── README.md
+    ├── Market1501
+    │   ├── distractors_500k.zip
+    │   ├── Market-1501-v15.09.15
+    │   └── Market-1501-v15.09.15.zip
+    ├── PISC
+    │   ├── annotation_image_info.json
+    │   ├── domain.json
+    │   ├── domain_split
+    │   ├── domain_split.zip
+    │   ├── image
+    │   ├── images-00
+    │   ├── images-01
+    │   ├── images-02
+    │   ├── images-03
+    │   ├── occupation.json
+    │   ├── relationship.json
+    │   ├── relationship_split
+    │   ├── relationship_split.zip
+    │   └── test
+    ├── ShTech
+    │   ├── final_partA
+    │   ├── final_partA.zip
+    │   ├── ShanghaiTech_Crowd_Counting_Dataset
+    │   └── ShanghaiTech_Crowd_Counting_Dataset.zip
+    ├── SpatialSense
+    │   ├── annotations.json
+    │   ├── images
+    │   ├── images.tar.gz
+    │   └── SHA-256.txt
+    └── WIDERAttribute
+        ├── Image
+        ├── Readme.txt
+        ├── wider_attribute_annotation.zip
+        ├── wider_attribute_image.tgz
+        ├── wider_attribute_test.json
+        └── wider_attribute_trainval.json
+```
+   
+2. Use the [`prepare_data.py`](https://github.com/Face-Human-Bench/face-human-bench/blob/main/data/prepare_data.py) script to extract test samples from the original images based on the JSON files we provide. Note: You will need to modify the paths in the script to match your local environment. 
+
+
 ## Citation
 
 If you find **Face-Human-Bench** useful for your research and applications, please kindly cite using this BibTeX:
